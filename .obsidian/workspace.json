@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "05cf8b63fe65ab97",
+        "id": "ada34f82be9a8280",
         "type": "tabs",
         "children": [
           {
-            "id": "d6c505c0ef21934f",
+            "id": "49279ffb68c8c010",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Main/Images/courses.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "courses"
             }
           }
         ]
@@ -182,11 +179,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d6c505c0ef21934f",
+  "active": "49279ffb68c8c010",
   "lastOpenFiles": [
-    "Main/Study/First Sem/_index.md",
+    "Main/Study/Overview of Master.md",
     "README.md",
-    "Main/Study/Overview.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
+    "Main/Study/First Sem/_index.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
     "Main/Images/thesis Msc CSIT Format.pdf",
     "Main/Images/seminar Msc CSIT.pdf",
@@ -194,7 +192,6 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
     "Main/Study/First Sem/Subjects",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)",
