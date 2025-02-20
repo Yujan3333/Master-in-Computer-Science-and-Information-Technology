@@ -53,5 +53,21 @@
   "workspace:goto-tab-3": [],
   "workspace:goto-tab-6": [],
   "workspace:goto-tab-5": [],
-  "workspace:goto-tab-4": []
+  "workspace:goto-tab-4": [],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ]
 }

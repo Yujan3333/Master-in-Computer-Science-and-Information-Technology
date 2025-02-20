@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/Overview.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "README"
             }
           }
         ]
@@ -182,11 +182,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f1c263cc3aeee4c4",
+  "active": "d6c505c0ef21934f",
   "lastOpenFiles": [
     "Main/Study/First Sem/_index.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
+    "README.md",
     "Main/Study/Overview.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
     "Main/Images/thesis Msc CSIT Format.pdf",
     "Main/Images/seminar Msc CSIT.pdf",
     "Main/Images/courses.pdf",

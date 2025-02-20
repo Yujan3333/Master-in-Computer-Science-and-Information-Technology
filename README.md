@@ -1,1 +1,7 @@
 Notes and Study Material Collected by Me for my Masters.
+
+[Overview of the Master's Program](Main/Study/Overview.md)
+
+## Semester
+- 4 Semester 2 year Program
+[First Semester](Main/Study/First%20Sem/_index.md)
