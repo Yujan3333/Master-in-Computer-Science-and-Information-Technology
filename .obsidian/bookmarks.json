@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1740060425677,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1740060425677,
+          "items": [
+            {
+              "type": "group",
+              "ctime": 1740060425677,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1740061186908,
+                  "path": "Main/Study/Overview.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1740060425677,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1740060440676,
+                      "path": "Main/Study/First Sem/_index.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1740060425677,
+                      "items": [],
+                      "title": "Notes Collection"
+                    }
+                  ],
+                  "title": "\\\\First Sem"
+                }
+              ],
+              "title": "\\\\Study"
+            }
+          ],
+          "title": "\\\\Main"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

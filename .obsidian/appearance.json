@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#737373",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Arial Rounded MT,Bahnschrift",
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true
+}

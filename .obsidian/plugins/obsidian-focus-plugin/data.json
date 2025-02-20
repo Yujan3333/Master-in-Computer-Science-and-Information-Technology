@@ -1,0 +1,9 @@
+{
+  "clearMethod": "click-again",
+  "contentBehavior": "content",
+  "focusScope": "content",
+  "enableList": true,
+  "focusSensitivity": 4100,
+  "indicator": true,
+  "isEnabled": true
+}

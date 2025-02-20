@@ -1,0 +1,17 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "kIWD3h_EN2PNtOaZ1CzVv",
+      "name": "",
+      "value": "#179b45"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Main/Study/First Sem",
+      "color": "kIWD3h_EN2PNtOaZ1CzVv"
+    }
+  ]
+}
