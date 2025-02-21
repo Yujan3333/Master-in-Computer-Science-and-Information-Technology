@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ada34f82be9a8280",
+        "id": "7e45b14714e58085",
         "type": "tabs",
         "children": [
           {
-            "id": "49279ffb68c8c010",
+            "id": "32003369277044df",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Main/Images/courses.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "courses"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -179,8 +177,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "49279ffb68c8c010",
+  "active": "32003369277044df",
   "lastOpenFiles": [
+    "Main/Images/courses.pdf",
     "Main/Study/Overview of Master.md",
     "README.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
@@ -188,7 +187,6 @@
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
     "Main/Images/thesis Msc CSIT Format.pdf",
     "Main/Images/seminar Msc CSIT.pdf",
-    "Main/Images/courses.pdf",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
