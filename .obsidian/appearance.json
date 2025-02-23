@@ -3,8 +3,8 @@
   "accentColor": "#737373",
   "theme": "obsidian",
   "interfaceFontFamily": "",
-  "textFontFamily": "Arial Rounded MT,Bahnschrift",
+  "textFontFamily": "Bodoni 72 Smallcaps,Bahnschrift",
   "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 20,
+  "baseFontSize": 18,
   "baseFontSizeAction": true
 }

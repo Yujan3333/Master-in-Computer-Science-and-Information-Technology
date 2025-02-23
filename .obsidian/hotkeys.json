@@ -69,5 +69,13 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "="
+    }
   ]
 }
