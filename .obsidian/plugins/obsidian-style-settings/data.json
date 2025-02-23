@@ -66,5 +66,7 @@
   "minimal-style@@tag-border-width": "1px",
   "minimal-style@@tag-color@@dark": "#4F948B",
   "minimal-style@@tag-background@@dark": "#555454",
-  "minimal-style@@tag-background-hover@@dark": "#323232"
+  "minimal-style@@tag-background-hover@@dark": "#323232",
+  "minimal-style@@image-muted": 0.9,
+  "minimal-style@@hl2@@dark": "#A49516"
 }
