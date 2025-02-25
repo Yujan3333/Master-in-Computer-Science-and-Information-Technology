@@ -6,6 +6,8 @@ A *single layer* of perceptron's alone is unable to solve non-linear classificat
 
 **To solve the problem** artificial neurons would instead utilize continuous (floating point) values with continuous activation functions (more on these functions later).
 ![](../../../../../Images/Biological%20neural%20networks%20-%20Activation%20Function%20Step%20Function%20and%20Sigmoid%20Function.png)
+
+
 ==More on== [^1]
 
 ## Reference
