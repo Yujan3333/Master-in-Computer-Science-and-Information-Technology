@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Message\n{{date}}",
+  "commitMessage": "1st Sem : \n{{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 120,
   "autoPushInterval": 0,
