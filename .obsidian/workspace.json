@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cd56240ea706bc48",
+        "id": "59edccdffded2d8c",
         "type": "tabs",
         "children": [
           {
-            "id": "bb17fd296f1b367d",
+            "id": "fc575bd03ed48714",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method)"
-            }
-          },
-          {
-            "id": "a080845a4babcd62",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +177,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a080845a4babcd62",
+  "active": "586f952964ba09f8",
   "lastOpenFiles": [
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
