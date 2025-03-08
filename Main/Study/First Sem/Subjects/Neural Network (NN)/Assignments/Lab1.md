@@ -3,7 +3,8 @@
 1. [Question 1 - WAP to create a neuron](Question%201%20-%20WAP%20to%20create%20a%20neuron.md)      
 	Write a python program to create a *neuron* and predict its output using the threshold activation function.
 
-2.      Write a python program to train AND Gate Using Perceptron Learning Algorithm.
+2. [[Question2 - WAP to train AND Gate Using Perceptron Algo]]      
+	Write a python program to train AND Gate Using Perceptron Learning Algorithm.
 
 3.      Write a python program to implement Min-Max Scalar.
 
@@ -12,3 +13,7 @@
 5.      Write a python program to train perceptron using given training set and predict class for the input (6,82) and (5.3,52)
 
 ![](../../../../../Images/Lab1%20-%20Table.png)
+
+
+## Tag
+#NN

@@ -73,3 +73,6 @@ $v_k$ is the `weighted_sum` of input
 ##### Mistakes
 - `inputs` list cannot be in the initialize of the class Neuron because if I do so then for *1 input 1 neuron mechanism* will occur.
 - Neuron should be *flexible* A.K.A multiple inputs should be handled by the neuron
+
+## Tag
+#NN
