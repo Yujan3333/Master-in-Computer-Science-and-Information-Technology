@@ -75,5 +75,9 @@ $v_k$ is the `weighted_sum` of input
 - `inputs` list cannot be in the initialize of the class Neuron because if I do so then for *1 input 1 neuron mechanism* will occur.
 - Neuron should be *flexible* A.K.A multiple inputs should be handled by the neuron
 
+---
+##### Output
+![](../../../../../Images/Question%201%20-%20WAP%20to%20create%20a%20neuron%20OUTPUT.png)
+
 ## Tag
 #NN

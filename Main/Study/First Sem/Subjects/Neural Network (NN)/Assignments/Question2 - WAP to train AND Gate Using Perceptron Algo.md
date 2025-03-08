@@ -86,7 +86,13 @@ for inputs in training_inputs:
 
 ```
 
+##### Output
+![](../../../../../Images/Question2%20-%20WAP%20to%20train%20AND%20Gate%20Using%20Perceptron%20Algo%20OUTPUT.png)
+
 #### Things Different from Numerical
 - Making the weight and bias equals to 0. *Makes the neuron learn the same thing*
 - `np.random.rand(input_size)`  -> Makes NumPy Array of <input_size>. Value if from 0 to 1.
 - `self.weights = np.zeros(input_size)` -> Makes NumPy Array of 0's of <input_size>. All Value = 0. **BAD PRACTICE**
+
+## Tag
+#NN 
