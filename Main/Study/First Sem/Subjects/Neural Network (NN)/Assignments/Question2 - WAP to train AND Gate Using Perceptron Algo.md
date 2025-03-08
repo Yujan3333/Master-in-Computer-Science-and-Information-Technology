@@ -6,7 +6,11 @@
 | 0            | 1            | 0          |
 | 1            | 0            | 0          |
 | 1            | 1            | 1          |
+
+---
 ![](../../../../../Images/AND%20Gate%20Neural%20Network.png)
+
+---
 **Step Activation Function**
 ![](../../../../../Images/AND%20Activation%20Function.png)
 

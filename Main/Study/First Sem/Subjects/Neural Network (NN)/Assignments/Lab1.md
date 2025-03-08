@@ -6,7 +6,8 @@
 2. [Question2 - WAP to train AND Gate Using Perceptron Algo](Question2%20-%20WAP%20to%20train%20AND%20Gate%20Using%20Perceptron%20Algo.md)      
 	Write a python program to train AND Gate Using Perceptron Learning Algorithm.
 
-3.      Write a python program to implement Min-Max Scalar.
+3. [Question3 -  WAP to Min-Max Scalar](Question3%20-%20%20WAP%20to%20Min-Max%20Scalar.md)
+	Write a python program to implement Min-Max Scalar.
 
 4.      Write a python program to implement Standard Scalar.
 
