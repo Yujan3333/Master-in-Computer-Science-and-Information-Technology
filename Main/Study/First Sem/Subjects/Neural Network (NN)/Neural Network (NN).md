@@ -1,4 +1,7 @@
 %% Begin Waypoint %%
+- **Assignments**
+	- [Lab1](./Assignments/Lab1.md)
+	- [Question 1 - WAP to create a neuron](./Assignments/Question%201%20-%20WAP%20to%20create%20a%20neuron.md)
 - **Sir Slides**
 
 - [Unit 1 Intro to artificial neural network](./Unit%201%20Intro%20to%20artificial%20neural%20network.md)
