@@ -16,6 +16,7 @@ $w_{kj}$ -> Weight of $k^{th}$ neuron
 
 ---
 #### Code
+-`np.array(weights)` -> Makes it easier to do calculation like *dot product*
 ```python
 import numpy as np
 
