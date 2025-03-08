@@ -12,7 +12,7 @@ $y_k$ -> Output,
 $x_j$ -> Input,
 $w_{kj}$ -> Weight of $k^{th}$ neuron
 
-\\( u_k = \sum_{j=1}^{n} x_j * w_{kj} \\) \\( v_k = u_k + b_k \\) \\( y_k = \varphi(u_k + b_k) = \varphi(v_k) \\)
+$$\\( u_k = \sum_{j=1}^{n} x_j * w_{kj} \\) \\( v_k = u_k + b_k \\) \\( y_k = \varphi(u_k + b_k) = \varphi(v_k) \\)$$
 
 $u_k = \sum_{j=1}^{n} x_j * w_{kj}$ $v_k = u_k + b_k$ $y_k = \varphi(u_k + b_k) = \varphi(v_k)$
 
