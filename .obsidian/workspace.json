@@ -21,8 +21,33 @@
               "icon": "lucide-file",
               "title": "Lab1"
             }
+          },
+          {
+            "id": "938329c26eb55faa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lab1"
+              "title": "Outgoing links from Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo"
             }
           },
           {
@@ -149,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +184,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lab1"
+              "title": "Backlinks for Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo"
             }
           }
         ],
@@ -182,10 +207,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "978754cbc88e197d",
+  "active": "938329c26eb55faa",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question3 -  WAP to Min-Max Scalar.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question3 -  WAP to Min-Max Scalar.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question4 - WAP Standard Scalar.md",
     "Main/Images/Question4 - WAP Standard Scalar OUTPUT.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question 1 - WAP to create a neuron.md",

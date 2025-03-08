@@ -12,7 +12,8 @@
 4. [Question4 - WAP Standard Scalar](Question4%20-%20WAP%20Standard%20Scalar.md)    
 	Write a python program to implement Standard Scalar.
 
-5.      Write a python program to train perceptron using given training set and predict class for the input (6,82) and (5.3,52)
+5. [[Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo]] 
+	Write a python program to train perceptron using given training set and predict class for the input (6,82) and (5.3,52) 
 
 ![](../../../../../Images/Lab1%20-%20Table.png)
 
