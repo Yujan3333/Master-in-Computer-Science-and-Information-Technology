@@ -1,9 +1,11 @@
 ANN is inspired by the biological neural networks
 
-Brain is a highly complex, non-linear, and parallel computation system that can perform computations like perception, pattern recognition, motor control etc. Neuron or nerve cell is the basic structural unit of brain.
+Brain is a **highly complex, non-linear, and parallel computation system** that can perform computations **like perception, pattern recognition, motor control** etc. Neuron or nerve cell is the basic structural unit of brain.
 
+#### Nerve Cell
 ![](../../../../../Images/Biological%20neural%20networks%20Fig.png)
-
+#### Block diagram representation of nervous system 
+![](../../../../../Images/Block%20diagram%20representation%20of%20nervous%20system.png)
 
 #### 
 ![](../../../../../Images/Biological%20neural%20networks-%20Fig%20and%20ANN.png)
