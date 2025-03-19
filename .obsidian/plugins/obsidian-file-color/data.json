@@ -4,14 +4,23 @@
   "palette": [
     {
       "id": "kIWD3h_EN2PNtOaZ1CzVv",
-      "name": "",
+      "name": "Green",
       "value": "#179b45"
+    },
+    {
+      "id": "oPEKFxIcBkjlCXUQtYX1Y",
+      "name": "Orange",
+      "value": "#f2740d"
     }
   ],
   "fileColors": [
     {
       "path": "Main/Study/First Sem",
       "color": "kIWD3h_EN2PNtOaZ1CzVv"
+    },
+    {
+      "path": "Main/Study/Research",
+      "color": "oPEKFxIcBkjlCXUQtYX1Y"
     }
   ]
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1e435df045ed55b",
+        "id": "d821f92286db6a36",
         "type": "tabs",
         "children": [
           {
-            "id": "978754cbc88e197d",
+            "id": "2717a1a737cd22f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "b01e7a4ffc356c8c",
@@ -164,15 +163,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "978754cbc88e197d",
+  "active": "2717a1a737cd22f6",
   "lastOpenFiles": [
-    "Main/Images/Block diagram representation of nervous system.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Unit1/Unit 1 Intro to artificial neural network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Unit1/Biological neural networks.md",
+    "Main/Study/Overview of Master.md",
+    "Main/Images/seminar Msc CSIT.pdf",
+    "Main/Study/Research",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab Assignment 1.pdf",
+    "Main/Images/Block diagram representation of nervous system.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
     "Main/Study/First Sem/_index.md",
     "README.md",
-    "Main/Study/Overview of Master.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question 1 - WAP to create a neuron.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question3 -  WAP to Min-Max Scalar.md",
@@ -191,18 +194,13 @@
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Already In Class Till Now.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Unit1/Biological neural networks.md",
     "Main/Images/Biological neural networks Fig.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -1 Introduction to ANN.pdf",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/msoD54B.tmp",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/msoC4EF.tmp",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/~$Unit -1 Introduction to ANN.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -3 FFNN.pdf",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/mso5F22.tmp",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/mso3301.tmp",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/pptDE96.tmp",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
-    "Main/Images/Biological neural networks- Fig and ANN.png",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
     "Readme.md"

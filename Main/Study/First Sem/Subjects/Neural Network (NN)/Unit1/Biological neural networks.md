@@ -16,8 +16,22 @@ A *single layer* of perceptron's alone is unable to solve non-linear classificat
 ![](../../../../../Images/Biological%20neural%20networks%20-%20Activation%20Function%20Step%20Function%20and%20Sigmoid%20Function.png)
 
 ## ANN VS BNN
+Source: [^2]
 
+|                       |                                                             |                                                           |
+| --------------------- | ----------------------------------------------------------- | --------------------------------------------------------- |
+| Parameters            | **ANN**                                                     | **BNN**                                                   |
+| Structure             | input,<br>weight,<br>output,<br>hidden layer                | dendrites, synapse, axon, cell body                       |
+| Learning              | very precise structures and formatted data                  | they can tolerate ambiguity                               |
+| Processor             | complex high speed one or a few                             | simple low speed large number                             |
+| Memory                | separate from a processor localized non-content addressable | integrated into processor distributed content-addressable |
+| Computing             | centralized sequential stored programs                      | distributed parallel self-learning                        |
+| Reliability           | very vulnerable                                             | robust                                                    |
+| Expertise             | numerical and symbolic manipulations                        | perceptual problems                                       |
+| Operating Environment | well-defined, well-constrained                              | poorly defined un-constrained                             |
+| Fault Tolerance       | the potential of fault tolerance                            | performance degraded even on partial damage               |
 
 
 ## Reference
 [^1]: [Biological Vs ANN - Medium](https://medium.com/towards-data-science/the-differences-between-artificial-and-biological-neural-networks-a8b46db828b7)
+[^2]: [ANN VS BNN Geeks](https://www.geeksforgeeks.org/difference-between-ann-and-bnn/)
