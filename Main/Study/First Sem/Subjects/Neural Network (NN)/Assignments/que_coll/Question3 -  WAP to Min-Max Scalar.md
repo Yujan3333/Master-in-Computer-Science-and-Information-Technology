@@ -44,7 +44,7 @@ print("\nScaled Data:\n", scaled_data)
 
 ```
 ##### Output
-![](../../../../../Images/Question3%20-%20%20WAP%20to%20Min-Max%20Scalar%20Output.png)
+![](../../../../../../Images/Question3%20-%20%20WAP%20to%20Min-Max%20Scalar%20Output.png)
 
 ## Tag
 #NN
