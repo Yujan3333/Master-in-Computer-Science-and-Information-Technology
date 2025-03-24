@@ -13,16 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
+                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Randomized Method Using Las Vegas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lab2"
+              "title": "Randomized Method Using Las Vegas"
+            }
+          },
+          {
+            "id": "784e54c2c1fa4a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Class Till Now.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Class Till Now"
+            }
+          },
+          {
+            "id": "c1a6bc0e85c84aa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Which Algorithm is better Shannon Feno or Huffman.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Which Algorithm is better Shannon Feno or Huffman"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,10 +194,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ef5bbf2f10a4d2e6",
+  "active": "c1a6bc0e85c84aa2",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Shannon Fano Coding.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Which Algorithm is better Shannon Feno or Huffman.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Huffman Coding.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Class Till Now.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Randomized Quicksort.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Randomized Method Using Las Vegas.md",
+    "Main/Images/Randomized Quicksort-Exp.png",
+    "Main/Images/Randomized Quicksort Explained.png",
+    "Main/Images/Randomized Quicksort.png",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Unit1/Biological neural networks.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Unit1/Unit 1 Intro to artificial neural network.md",
@@ -189,18 +231,12 @@
     "Main/Images/Question3 -  WAP to Min-Max Scalar Output.png",
     "Main/Images/AND Activation Function.png",
     "Main/Images/AND Gate Neural Network.png",
-    "Main/Images/Fig of Basic Neuron.png",
-    "Main/Images/Lab1 - Table.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Already In Class Till Now.md",
-    "Main/Images/Biological neural networks Fig.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -1 Introduction to ANN.pdf",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/msoD54B.tmp",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/msoC4EF.tmp",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/~$Unit -1 Introduction to ANN.pptx",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
