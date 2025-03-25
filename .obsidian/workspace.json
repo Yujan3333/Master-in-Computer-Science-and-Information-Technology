@@ -11,10 +11,15 @@
             "id": "3472755ea87899f2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Assignment-1"
             }
           }
         ]
@@ -158,21 +163,29 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f1c263cc3aeee4c4",
+  "active": "3472755ea87899f2",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Shannon Fano Coding.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Which Algorithm is better Shannon Feno or Huffman.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Huffman Coding.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/_index.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-1.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
+    "Main/Study/First Sem/_index.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/_index.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Class Till Now.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Randomized Quicksort.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW/Randomized Method Using Las Vegas.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/Shannon Fano Coding.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/Which Algorithm is better Shannon Feno or Huffman.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/Huffman Coding.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/Randomized Quicksort.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/Randomized Method Using Las Vegas.md",
     "Main/Images/Randomized Quicksort-Exp.png",
     "Main/Images/Randomized Quicksort Explained.png",
     "Main/Images/Randomized Quicksort.png",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/HW",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Unit1/Biological neural networks.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Unit1/Unit 1 Intro to artificial neural network.md",
@@ -181,8 +194,6 @@
     "Main/Study/Research",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab Assignment 1.pdf",
     "Main/Images/Block diagram representation of nervous system.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
-    "Main/Study/First Sem/_index.md",
     "README.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Question 1 - WAP to create a neuron.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo.md",
@@ -196,14 +207,9 @@
     "Main/Images/AND Activation Function.png",
     "Main/Images/AND Gate Neural Network.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -1 Introduction to ANN.pdf",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/msoD54B.tmp",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/msoC4EF.tmp",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
-    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
-    "Readme.md"
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md"
   ]
 }
