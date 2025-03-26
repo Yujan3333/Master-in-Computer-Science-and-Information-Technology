@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Discuss intercrosses communication in details.md",
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Discuss intercrosses communication in details"
+              "title": "Assignment-1"
             }
           }
         ]
@@ -166,11 +166,14 @@
   },
   "active": "b18c78e5546b0a4f",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/monitors.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-1.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/semaphores.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/What is critical section and critical section problem.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Discuss intercrosses communication in details.md",
     "Main/Images/courses.pdf",
     "Main/Study/Overview of Master.md",
     "README.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Discuss intercrosses communication in details.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-1.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-2.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/_index.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
@@ -200,8 +203,6 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab Assignment 1.pdf",
     "Main/Images/Block diagram representation of nervous system.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Question 1 - WAP to create a neuron.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Question3 -  WAP to Min-Max Scalar.md",
     "Main/Images/Question4 - WAP Standard Scalar OUTPUT.png",
     "Main/Images/Question2 - WAP to train AND Gate Using Perceptron Algo OUTPUT.png",
     "Main/Images/Question 1 - WAP to create a neuron OUTPUT.png",
@@ -210,7 +211,6 @@
     "Main/Images/AND Gate Neural Network.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -1 Introduction to ANN.pdf",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/msoD54B.tmp"
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -1 Introduction to ANN.pdf"
   ]
 }
