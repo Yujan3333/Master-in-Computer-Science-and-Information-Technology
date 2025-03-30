@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Obsidian gruvbox",
+  "accentColor": "#737373",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Bodoni 72 Smallcaps,Bahnschrift",
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true
+}
