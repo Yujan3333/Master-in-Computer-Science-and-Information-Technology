@@ -13,7 +13,7 @@
 		- [Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo](./Assignments/que_coll/Question5%20-%20WAP%20to%20predict%20the%20output%20of%20given%20Input%20using%20MaxMin%20Scalar%20and%20Perceptron%20Algo.md)
 		- [seed](./Assignments/que_coll/seed.md)
 - **Sir Slides**
-
+	- [Contains Slides and Labs pdf](./Sir%20Slides/Contains%20Slides%20and%20Labs%20pdf.md)
 - **Unit1**
 	- [Biological neural networks](./Unit1/Biological%20neural%20networks.md)
 	- [Unit 1 Intro to artificial neural network](./Unit1/Unit%201%20Intro%20to%20artificial%20neural%20network.md)

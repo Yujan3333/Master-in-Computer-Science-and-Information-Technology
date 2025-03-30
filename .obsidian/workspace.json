@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Contains Slides and Labs pdf.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online"
+              "title": "Contains Slides and Labs pdf"
             }
           },
           {
@@ -209,10 +209,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f1c263cc3aeee4c4",
+  "active": "fd3dfca69168b0b8",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Contains Slides and Labs pdf.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1-Final Code with all the comments.md",
     "Main/Images/Backpropagation Sigmoid.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/seed.md",
