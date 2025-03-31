@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "fd3dfca69168b0b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Contains Slides and Labs pdf.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Contains Slides and Labs pdf"
-            }
-          },
-          {
             "id": "5c19bc21e45d7fdd",
             "type": "leaf",
             "state": {
@@ -50,21 +35,6 @@
               },
               "icon": "lucide-file",
               "title": "A2-L1-Final Code with all the comments"
-            }
-          },
-          {
-            "id": "68aca4c0185412ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/seed.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "seed"
             }
           }
         ],
@@ -125,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "b01e7a4ffc356c8c",
@@ -194,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,21 +181,30 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fd3dfca69168b0b8",
+  "active": "5c19bc21e45d7fdd",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Contains Slides and Labs pdf.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/seed.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Contains Slides and Labs pdf.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 1/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 1.pdf",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -4 RBFNN.pptx",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -3.1 FFNN.pptx",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -3.0 FFNN.pptx",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 2/Lab Assignment 2.docx",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 2",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/New folder",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/~$b Assignment 1.docx",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 1/Lab Assignment 1.pdf",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 1/Q5_Min_Max_Perceptron.py",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1-Final Code with all the comments.md",
     "Main/Images/Backpropagation Sigmoid.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/seed.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Online Vs Batch.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-1.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/monitors.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/semaphores.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/What is critical section and critical section problem.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Discuss intercrosses communication in details.md",
-    "Main/Images/courses.pdf",
     "Main/Study/Overview of Master.md",
     "README.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-2.md",
@@ -235,27 +216,17 @@
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/_index.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Class Till Now.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/Shannon Fano Coding.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/Which Algorithm is better Shannon Feno or Huffman.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/Huffman Coding.md",
     "Main/Images/Randomized Quicksort-Exp.png",
     "Main/Images/Randomized Quicksort Explained.png",
     "Main/Images/Randomized Quicksort.png",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll",
-    "Main/Images/seminar Msc CSIT.pdf",
-    "Main/Study/Research",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab Assignment 1.pdf",
     "Main/Images/Block diagram representation of nervous system.png",
     "Main/Images/Question4 - WAP Standard Scalar OUTPUT.png",
     "Main/Images/Question2 - WAP to train AND Gate Using Perceptron Algo OUTPUT.png",
     "Main/Images/Question 1 - WAP to create a neuron OUTPUT.png",
     "Main/Images/Question3 -  WAP to Min-Max Scalar Output.png",
-    "Main/Images/AND Activation Function.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -1 Introduction to ANN.pdf"
+    "Main/Images/AND Activation Function.png"
   ]
 }

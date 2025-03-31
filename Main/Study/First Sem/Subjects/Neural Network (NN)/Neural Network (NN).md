@@ -14,6 +14,10 @@
 		- [seed](./Assignments/que_coll/seed.md)
 - **Sir Slides**
 	- [Contains Slides and Labs pdf](./Sir%20Slides/Contains%20Slides%20and%20Labs%20pdf.md)
+	- **Lab 1**
+
+	- **Lab 2**
+
 - **Unit1**
 	- [Biological neural networks](./Unit1/Biological%20neural%20networks.md)
 	- [Unit 1 Intro to artificial neural network](./Unit1/Unit%201%20Intro%20to%20artificial%20neural%20network.md)
