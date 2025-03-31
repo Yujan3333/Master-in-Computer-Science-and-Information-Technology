@@ -1,6 +1,14 @@
 %% Begin Waypoint %%
 - **Assignments**
+	- [A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and batch](./Assignments/A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20sigmoid%20and%20batch.md)
+	- [A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and online](./Assignments/A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20sigmoid%20and%20online.md)
+	- [A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch](./Assignments/A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20tanh%20and%20batch.md)
+	- [A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online](./Assignments/A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20tanh%20and%20online.md)
+	- [A2 - Backpropagation algo- 2x2x1 to achieve XOR function. Using sigmoid and batch](./Assignments/A2%20-%20Backpropagation%20algo-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20sigmoid%20and%20batch.md)
+	- [A2 - Backpropagation algo- 2x2x1 to achieve XOR function. Using tanh and batch](./Assignments/A2%20-%20Backpropagation%20algo-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20tanh%20and%20batch.md)
 	- [A2 - Backpropagtion algo - 2x2x1 to achieve XOR function. Using tanh and online](./Assignments/A2%20-%20Backpropagtion%20algo%20-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20tanh%20and%20online.md)
+	- [A2- Backpropagation algo- 2x2x1 to achieve XOR function. Using tanh and batch](./Assignments/A2-%20Backpropagation%20algo-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20tanh%20and%20batch.md)
+	- [Backpropagation -- 3bit input Sigmoid and batch](./Assignments/Backpropagation%20--%203bit%20input%20Sigmoid%20and%20batch.md)
 	- [Lab1](./Assignments/Lab1.md)
 	- [Lab2](./Assignments/Lab2.md)
 	- **que_coll**

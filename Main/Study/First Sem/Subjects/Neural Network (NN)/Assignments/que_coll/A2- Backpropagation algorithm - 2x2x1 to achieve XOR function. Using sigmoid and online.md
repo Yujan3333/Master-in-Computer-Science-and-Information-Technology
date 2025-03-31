@@ -1,6 +1,3 @@
-
-- [Online Vs Batch](Online%20Vs%20Batch.md)
-	
 - `np.random.seed(1)` - [seed](seed.md)
 	
 - Weight_inputlayer_hiddenlayer = np.random.uniform(-1, 1, (hiddenlayer_size, inputlayer_size)) - [seed](seed.md)
@@ -219,3 +216,5 @@ output_gradient = (target_vector - predicted_output) * activation_factor * predi
 hidden_gradient = np.dot(weights_hidden_output.T, output_gradient) * activation_factor * hidden_activation * (1 - hidden_activation)
 ```
 
+## Tag
+#assignment #NN 

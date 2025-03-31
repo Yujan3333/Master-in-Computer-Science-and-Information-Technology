@@ -13,46 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "A2-L1- OOP Code with all the comments"
+              "title": "Lab2"
             }
           },
           {
-            "id": "ec977a6a6998216d",
+            "id": "f471d0a523b79770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "A2-L1- OOP Code with all the comments"
-            }
-          },
-          {
-            "id": "2f35b4704df5cdb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagtion algo - 2x2x1 to achieve XOR function. Using tanh and online.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "A2 - Backpropagtion algo - 2x2x1 to achieve XOR function. Using tanh and online"
+              "title": "A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A2-L1- OOP Code with all the comments"
+              "title": "Outgoing links from A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch"
             }
           },
           {
@@ -164,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A2-L1- OOP Code with all the comments"
+              "title": "Outline of A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch"
             }
           }
         ],
@@ -193,15 +179,30 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c43685bc6df57c17",
+  "active": "f471d0a523b79770",
   "lastOpenFiles": [
-    "Main/Images/XOR-online-sigmoid.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2- Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1-Final Code with all the comments.md",
+    "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online.md",
+    "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online-1.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Backpropagation -- 3bit input Sigmoid and batch.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and batch.md",
+    "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and online.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2- Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagtion algo - 2x2x1 to achieve XOR function. Using tanh and online.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagation algo- 2x2x1 to achieve XOR function. Using sigmoid and batch.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2- Backpropagation algo- 2x2x1 to achieve XOR function. Using tanh and batch.md",
+    "Main/Images/backpropagation 3bit sigmoid and online.png",
+    "Main/Images/XOR Tanh batch.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2- Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and batch.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagation algo- 2x2x1 to achieve XOR function. Using tanh and batch.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
+    "Main/Images/Backpropagation Tanh and online.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
+    "Main/Images/XOR-online-sigmoid.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1-Final Code with all the comments.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/OOSE Assignment1.pdf",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/oose .png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Contains Slides and Labs pdf.md",
@@ -224,22 +225,7 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 1/Lab Assignment 1.pdf",
     "Main/Images/Backpropagation Sigmoid.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-1.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/monitors.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/semaphores.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/What is critical section and critical section problem.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Discuss intercrosses communication in details.md",
-    "Main/Study/Overview of Master.md",
-    "README.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-2.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/_index.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
     "Main/Images/Randomized Quicksort-Exp.png",
-    "Main/Images/Randomized Quicksort Explained.png",
-    "Main/Images/Randomized Quicksort.png",
-    "Main/Images/Block diagram representation of nervous system.png",
-    "Main/Images/Question4 - WAP Standard Scalar OUTPUT.png",
-    "Main/Images/Question2 - WAP to train AND Gate Using Perceptron Algo OUTPUT.png",
-    "Main/Images/Question 1 - WAP to create a neuron OUTPUT.png",
-    "Main/Images/Question3 -  WAP to Min-Max Scalar Output.png"
+    "Main/Images/Randomized Quicksort Explained.png"
   ]
 }

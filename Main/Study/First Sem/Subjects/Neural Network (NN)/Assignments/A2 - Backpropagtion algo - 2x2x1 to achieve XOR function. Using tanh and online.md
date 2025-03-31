@@ -153,3 +153,10 @@ for i in range(len(XOR_inputs)):
     print(f"Input: {XOR_inputs[i]}, Predicted: {prediction}, Target: {XOR_targets[i]}")
 
 ```
+###### Output
+![](../../../../../Images/Backpropagation%20Tanh%20and%20online.png)
+
+
+
+## Tag
+#assignment #NN 
