@@ -6,6 +6,7 @@
 - Weight_inputlayer_hiddenlayer = np.random.uniform(-1, 1, (hiddenlayer_size, inputlayer_size)) - [seed](seed.md)
 
 [A2-L1-Final Code with all the comments](A2-L1-Final%20Code%20with%20all%20the%20comments.md)
+[A2-L1- OOP Code with all the comments](A2-L1-%20OOP%20Code%20with%20all%20the%20comments.md)
 
 ---
 #### Code Sigmoid

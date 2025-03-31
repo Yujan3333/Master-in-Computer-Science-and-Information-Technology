@@ -1,3 +1,4 @@
+### Default
 ```python
 # Implement Backpropagation to train an ANN with configuration 2x2x1 for XOR function
 # Using the sigmoid activation function to keep outputs in range (0,1)
@@ -126,3 +127,5 @@ for sample in range(len(input_data)):
 
 Output
 ![](../../../../../../Images/Backpropagation%20Sigmoid.png)
+
+---

@@ -1,3 +1,3 @@
 This folder contains:
-- Powerpoint slides of Sir
+- PowerPoint slides of Sir (Is not being read by obsidian)
 - Lab Assignments Given By Sir

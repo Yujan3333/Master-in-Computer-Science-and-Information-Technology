@@ -4,41 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "65dcefb8f33012e8",
+        "id": "83428d100a481576",
         "type": "tabs",
         "children": [
           {
-            "id": "2ee77dfb6efa34ae",
+            "id": "c43685bc6df57c17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lab2"
+              "title": "A2-L1- OOP Code with all the comments"
             }
           },
           {
-            "id": "5c19bc21e45d7fdd",
+            "id": "ec977a6a6998216d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1-Final Code with all the comments.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "A2-L1-Final Code with all the comments"
+              "title": "A2-L1- OOP Code with all the comments"
+            }
+          },
+          {
+            "id": "2f35b4704df5cdb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagtion algo - 2x2x1 to achieve XOR function. Using tanh and online.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "A2 - Backpropagtion algo - 2x2x1 to achieve XOR function. Using tanh and online"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tag",
+                "query": "tag:#NN",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "b01e7a4ffc356c8c",
@@ -137,12 +150,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo"
+              "title": "Outgoing links from A2-L1- OOP Code with all the comments"
             }
           },
           {
@@ -151,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/Overview.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Overview"
+              "title": "Outline of A2-L1- OOP Code with all the comments"
             }
           }
         ],
@@ -165,8 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +193,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5c19bc21e45d7fdd",
+  "active": "c43685bc6df57c17",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/seed.md",
+    "Main/Images/XOR-online-sigmoid.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2- Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1-Final Code with all the comments.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 - Backpropagtion algo - 2x2x1 to achieve XOR function. Using tanh and online.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/OOSE Assignment1.pdf",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/oose .png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Contains Slides and Labs pdf.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Online Vs Batch.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A1- Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A1- Question4 - WAP Standard Scalar.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A1- Question3 -  WAP to Min-Max Scalar.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A1- Question2 - WAP to train AND Gate Using Perceptron Algo.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A1- Question 1 - WAP to create a neuron.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/seed.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 1/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 1.pdf",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -4 RBFNN.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -3.1 FFNN.pptx",
@@ -195,11 +222,7 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/New folder",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/~$b Assignment 1.docx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 1/Lab Assignment 1.pdf",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 1/Q5_Min_Max_Perceptron.py",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1-Final Code with all the comments.md",
     "Main/Images/Backpropagation Sigmoid.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Online Vs Batch.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-1.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/monitors.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/semaphores.md",
@@ -210,15 +233,6 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-2.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/_index.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
-    "Main/Study/First Sem/_index.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/_index.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Class Till Now.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/Shannon Fano Coding.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/AC-Assignment/Which Algorithm is better Shannon Feno or Huffman.md",
     "Main/Images/Randomized Quicksort-Exp.png",
     "Main/Images/Randomized Quicksort Explained.png",
     "Main/Images/Randomized Quicksort.png",
@@ -226,7 +240,6 @@
     "Main/Images/Question4 - WAP Standard Scalar OUTPUT.png",
     "Main/Images/Question2 - WAP to train AND Gate Using Perceptron Algo OUTPUT.png",
     "Main/Images/Question 1 - WAP to create a neuron OUTPUT.png",
-    "Main/Images/Question3 -  WAP to Min-Max Scalar Output.png",
-    "Main/Images/AND Activation Function.png"
+    "Main/Images/Question3 -  WAP to Min-Max Scalar Output.png"
   ]
 }
