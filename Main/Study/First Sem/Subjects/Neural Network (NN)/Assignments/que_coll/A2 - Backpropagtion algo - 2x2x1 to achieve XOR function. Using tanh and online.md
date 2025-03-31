@@ -154,7 +154,7 @@ for i in range(len(XOR_inputs)):
 
 ```
 ###### Output
-![](../../../../../Images/Backpropagation%20Tanh%20and%20online.png)
+![](../../../../../../Images/Backpropagation%20Tanh%20and%20online.png)
 
 
 

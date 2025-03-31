@@ -48,4 +48,4 @@ print("\nStandardized Data:\n", scaled_data)
 ![](../../../../../../Images/Question4%20-%20WAP%20Standard%20Scalar%20OUTPUT.png)
 
 ## Tag
-#NN
+#assignment #NN 

@@ -67,6 +67,26 @@
                               "ctime": 1742913536416,
                               "path": "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
                               "subpath": "#^-"
+                            },
+                            {
+                              "type": "group",
+                              "ctime": 1743439665081,
+                              "items": [
+                                {
+                                  "type": "group",
+                                  "ctime": 1743439665081,
+                                  "items": [
+                                    {
+                                      "type": "file",
+                                      "ctime": 1743439665081,
+                                      "path": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Unit 1 Intro to artificial neural network.md",
+                                      "subpath": "#^-"
+                                    }
+                                  ],
+                                  "title": "\\\\Unit1"
+                                }
+                              ],
+                              "title": "Units"
                             }
                           ],
                           "title": "Neural Network (NN)"

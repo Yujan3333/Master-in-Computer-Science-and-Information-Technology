@@ -80,4 +80,4 @@ $v_k$ is the `weighted_sum` of input
 ![](../../../../../../Images/Question%201%20-%20WAP%20to%20create%20a%20neuron%20OUTPUT.png)
 
 ## Tag
-#NN
+#assignment #NN 

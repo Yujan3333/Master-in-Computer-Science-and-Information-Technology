@@ -106,6 +106,6 @@ nn.predict(input_values)
 
 ```
 ###### Output
-![](../../../../../Images/backpropagation%203bit%20sigmoid%20and%20online.png)
+![](../../../../../../Images/backpropagation%203bit%20sigmoid%20and%20online.png)
 ## Tag
 #assignment #NN 

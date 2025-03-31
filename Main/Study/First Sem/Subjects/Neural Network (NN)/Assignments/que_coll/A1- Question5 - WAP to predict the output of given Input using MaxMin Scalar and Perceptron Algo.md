@@ -129,3 +129,6 @@ Epoch 5:
 Test case 1: [ 6. 82.] → Predicted class: Male
 Test case 2: [ 5.3 52. ] → Predicted class: Female
 ```
+
+## Tag
+#assignment #NN 

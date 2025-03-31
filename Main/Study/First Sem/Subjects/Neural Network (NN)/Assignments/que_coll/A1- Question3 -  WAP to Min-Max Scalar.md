@@ -47,4 +47,4 @@ print("\nScaled Data:\n", scaled_data)
 ![](../../../../../../Images/Question3%20-%20%20WAP%20to%20Min-Max%20Scalar%20Output.png)
 
 ## Tag
-#NN
+#assignment #NN 

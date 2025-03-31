@@ -95,4 +95,4 @@ for inputs in training_inputs:
 - `self.weights = np.zeros(input_size)` -> Makes NumPy Array of 0's of <input_size>. All Value = 0. **BAD PRACTICE**
 
 ## Tag
-#NN 
+#assignment #NN 

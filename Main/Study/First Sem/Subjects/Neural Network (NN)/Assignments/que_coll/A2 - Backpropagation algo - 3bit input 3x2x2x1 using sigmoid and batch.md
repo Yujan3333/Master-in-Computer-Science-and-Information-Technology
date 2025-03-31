@@ -1,4 +1,4 @@
-[Backpropagation -- 3bit input Sigmoid and batch](Backpropagation%20--%203bit%20input%20Sigmoid%20and%20batch.md)
+[A2 Backpropagation -- 3bit input Sigmoid and batch](../A2%20Backpropagation%20--%203bit%20input%20Sigmoid%20and%20batch.md)
 ### OOP Based
 ```python
 #Q6

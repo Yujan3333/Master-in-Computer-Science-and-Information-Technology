@@ -92,7 +92,7 @@ for i in range(len(XOR_inputs)):
 ```
 
 ###### Output
-![](../../../../../Images/XOR%20Tanh%20batch.png)
+![](../../../../../../Images/XOR%20Tanh%20batch.png)
 
 ## Tag
 #assignment #NN 
