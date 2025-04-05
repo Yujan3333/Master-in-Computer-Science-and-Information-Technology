@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "562fe1e8202d817f",
+        "id": "8053e5d9b4301f71",
         "type": "tabs",
         "children": [
           {
-            "id": "9497675d7b6e8bcd",
+            "id": "544631b1102d7ea2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS as a Extended Machine.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "OS as a Extended Machine"
+            }
+          },
+          {
+            "id": "305d34d0a438e2fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/What is OS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "What is OS"
             }
           }
         ]
@@ -156,8 +176,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f1c263cc3aeee4c4",
+  "active": "544631b1102d7ea2",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process management.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/What is OS.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS as a Extended Machine.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS as a Resource Manager.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/Unit1.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process Management.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-1.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/_index.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-2.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Unit 1 Intro to artificial neural network.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Units.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
@@ -178,30 +210,18 @@
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch.png",
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online-1.png",
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2- Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2 - Backpropagtion algo - 2x2x1 to achieve XOR function. Using tanh and online.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2 - Backpropagation algo- 2x2x1 to achieve XOR function. Using sigmoid and batch.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2- Backpropagation algo- 2x2x1 to achieve XOR function. Using tanh and batch.md",
     "Main/Images/backpropagation 3bit sigmoid and online.png",
     "Main/Images/XOR Tanh batch.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2- Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and batch.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2 - Backpropagation algo- 2x2x1 to achieve XOR function. Using tanh and batch.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1- OOP Code with all the comments.md",
     "Main/Images/Backpropagation Tanh and online.png",
     "Main/Images/XOR-online-sigmoid.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2-L1-Final Code with all the comments.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/OOSE Assignment1.pdf",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/oose .png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Contains Slides and Labs pdf.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Online Vs Batch.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 1/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 1.pdf",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -4 RBFNN.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -3.1 FFNN.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -3.0 FFNN.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 2/Lab Assignment 2.docx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 2",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/New folder",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/~$b Assignment 1.docx",
     "Main/Images/Backpropagation Sigmoid.png",
     "Main/Images/Randomized Quicksort-Exp.png"
   ]
