@@ -11,6 +11,23 @@
             "id": "544631b1102d7ea2",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
+                "viewState": {
+                  "x": 136.18060544778507,
+                  "y": -904.4061890035246,
+                  "zoom": -1.3333332824707032
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Visual Connection"
+            }
+          },
+          {
+            "id": "3fc021547d6f4e37",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process management.md",
@@ -22,7 +39,8 @@
               "title": "1.1 Process management"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,37 +180,43 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "544631b1102d7ea2",
+  "active": "3fc021547d6f4e37",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/Unit1.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Pre.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/What is OS.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process management.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/Batch Operation System.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS as a Extended Machine.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS as a Resource Manager.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process Management.md",
+    "Main/Template/Emoji/_Emoji.md",
+    "Main/Template/Emoji/Hourglass Not Done.md",
+    "Main/Template/Emoji/Alarm Clock.md",
+    "Main/Template/Emoji/Abacus (Calculation).md",
+    "Main/Template/Emoji/Zzz (Sleep).md",
+    "Main/Template/Emoji/Writing Hand.md",
+    "Main/Template/Emoji/Wrench (Fixing - Debugging).md",
+    "Main/Template/Emoji/Warning Sign.md",
+    "Main/Template/Emoji/Trophy (Achievement).md",
+    "Main/Template/Emoji/Thread (Concurrency).md",
+    "Main/Template/Emoji/Test Tube (Experiment - Test).md",
+    "Main/Template/Emoji/Sun with Face (Morning).md",
+    "Main/Template/Emoji/Sun Behind Cloud.md",
+    "Main/Template/Emoji/Spiral Calendar.md",
+    "Main/Template/Emoji/Speech Balloon (Chat).md",
+    "Main/Template/Emoji/Sparkles (Special - Highlight).md",
+    "Main/Template/Emoji/Smiling Face.md",
+    "Main/Template/Emoji/Smiling Face with Sunglasses.md",
+    "Main/Template/Emoji/Sleeping Face.md",
+    "Main/Template/Emoji/Seedling (Growth - Well-being).md",
+    "Main/Template/Emoji/Satellite Antenna.md",
+    "Main/Template/Emoji/Round Pushpin.md",
+    "Main/Template/Emoji/Rocket (Start - Launch).md",
+    "Main/Template/Emoji/Right Arrow (Next).md",
+    "Main/Template/Emoji/Receipt (Details).md",
+    "Main/Template/Emoji/Rainbow.md",
+    "Main/Template/Emoji",
+    "Seedling (Growth",
+    "Gear (Settings",
+    "Sparkles (Special",
+    "Brain (Concept",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-1.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/_index.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Assignment-2.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Unit 1 Intro to artificial neural network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Units.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Biological neural networks.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A1- Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A1- Question4 - WAP Standard Scalar.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A1- Question3 -  WAP to Min-Max Scalar.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A1- Question2 - WAP to train AND Gate Using Perceptron Algo.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A1- Question 1 - WAP to create a neuron.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and online.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and batch.md",
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch.png",
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online-1.png",
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online.png",
@@ -203,11 +227,6 @@
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/OOSE Assignment1.pdf",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/oose .png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 1/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 1.pdf",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -4 RBFNN.pptx",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -3.1 FFNN.pptx",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -3.0 FFNN.pptx",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 2/Lab Assignment 2.docx",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 2",
     "Main/Images/Backpropagation Sigmoid.png",
     "Main/Images/Randomized Quicksort-Exp.png"
   ]
