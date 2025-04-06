@@ -162,14 +162,16 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "f1c263cc3aeee4c4",
+  "active": "544631b1102d7ea2",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS as a Extended Machine.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/Unit1.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Pre.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/What is OS.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process management.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/Batch Operation System.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS as a Extended Machine.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS as a Resource Manager.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/Unit1.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process Management.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1",
@@ -191,8 +193,6 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and online.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and batch.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/A2 Backpropagation -- 3bit input Sigmoid and batch.md",
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch.png",
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online-1.png",
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online.png",
