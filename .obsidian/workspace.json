@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.3 Deadlocks/1.3 Deadlocks.md",
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process management.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.3 Deadlocks"
+              "title": "1.1 Process management"
             }
           }
         ]
@@ -165,25 +165,27 @@
   },
   "active": "6cb945b9f377cfdd",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/Process Synchronization.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/Batch Operation System.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/OS as a Extended Machine.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/1.0 Pre.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/What is OS.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.3 Deadlocks/1.3 Deadlocks.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/Unit1.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.3 Deadlocks/1.3 Deadlocks.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.3 Deadlocks",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.2 Process Scheduling/1.2 Process Scheduling.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process management.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.2 Process Scheduling",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/1.0 Pre.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/monitors.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/1.0 Prerequiste.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/What is OS.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Drawing 2025-04-07 09.46.49.excalidraw.md",
     "README.md",
     "Main/Drawing 2025-04-07 09.42.16.excalidraw.md",
     "Main/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Discuss Inter Processes communication in details.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/Process Synchronization.md",
     "Main/Template/Emoji/_Emoji.md",
     "Main/Template/Emoji/Hourglass Not Done.md",
     "Main/Template/Emoji/Alarm Clock.md",
@@ -194,7 +196,6 @@
     "Main/Template/Emoji/Warning Sign.md",
     "Main/Template/Emoji/Trophy (Achievement).md",
     "Main/Template/Emoji/Thread (Concurrency).md",
-    "Main/Template/Emoji/Test Tube (Experiment - Test).md",
     "Main/Template/Emoji",
     "Seedling (Growth",
     "Gear (Settings",

@@ -72,7 +72,7 @@
   "catppuccin-interface-styles@@ctp-bold-folder-title": true,
   "catppuccin-icon-styles@@ctp-icon-hide": false,
   "catppuccin-tag-styles@@ctp-tag-pill": true,
-  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-frappe",
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
   "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-lavender",
   "catppuccin-font-styles@@ctp-bold": "var(--ctp-flamingo)",
   "catppuccin-heading-settings@@ctp-h3": "var(--ctp-green)",
