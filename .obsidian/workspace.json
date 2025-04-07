@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "544631b1102d7ea2",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
-                "viewState": {
-                  "x": 136.18060544778507,
-                  "y": -904.4061890035246,
-                  "zoom": -1.3333332824707032
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Visual Connection"
-            }
-          },
-          {
             "id": "3fc021547d6f4e37",
             "type": "leaf",
             "state": {
@@ -39,8 +22,7 @@
               "title": "1.1 Process management"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,6 +164,8 @@
   },
   "active": "3fc021547d6f4e37",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process management.md",
     "Main/Template/Emoji/_Emoji.md",
     "Main/Template/Emoji/Hourglass Not Done.md",
     "Main/Template/Emoji/Alarm Clock.md",
@@ -206,14 +190,11 @@
     "Main/Template/Emoji/Round Pushpin.md",
     "Main/Template/Emoji/Rocket (Start - Launch).md",
     "Main/Template/Emoji/Right Arrow (Next).md",
-    "Main/Template/Emoji/Receipt (Details).md",
-    "Main/Template/Emoji/Rainbow.md",
     "Main/Template/Emoji",
     "Seedling (Growth",
     "Gear (Settings",
     "Sparkles (Special",
     "Brain (Concept",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units",

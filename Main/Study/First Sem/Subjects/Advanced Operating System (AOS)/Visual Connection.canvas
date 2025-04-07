@@ -3,7 +3,7 @@
 		{"id":"70535c8112297fd1","x":-520,"y":-840,"width":600,"height":600,"type":"file","file":"Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Pre.md"},
 		{"id":"9576c3e17463bd88","type":"file","file":"Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process management.md","x":-440,"y":120,"width":440,"height":440},
 		{"id":"163f47226ab867b0","type":"file","file":"Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/OS as a Extended Machine.md","x":80,"y":-1520,"width":400,"height":400},
-		{"id":"414853df9aa43574","type":"file","file":"Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/Batch Operation System.md","x":800,"y":-640,"width":400,"height":400}
+		{"id":"414853df9aa43574","type":"file","file":"Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/Batch Operation System.md","x":640,"y":-840,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"1e106b1d26ccc0d7","fromNode":"70535c8112297fd1","fromSide":"bottom","toNode":"9576c3e17463bd88","toSide":"top"}
