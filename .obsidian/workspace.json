@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8053e5d9b4301f71",
+        "id": "81e9ea1fcdd98dda",
         "type": "tabs",
         "children": [
           {
-            "id": "3fc021547d6f4e37",
+            "id": "6cb945b9f377cfdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process management.md",
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.2 Process Scheduling/1.2 Process Scheduling.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Process management"
+              "title": "1.2 Process Scheduling"
             }
           }
         ]
@@ -159,13 +159,29 @@
       "obsidian-git:Open Git source control": false,
       "custom-sort:Toggle custom sorting": false,
       "audio-recorder:Start/stop recording": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3fc021547d6f4e37",
+  "active": "6cb945b9f377cfdd",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.2 Process Scheduling/1.2 Process Scheduling.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.2 Process Scheduling",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/1.0 Pre.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process management.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/monitors.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/1.0 Prerequiste.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/What is OS.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/Unit1.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Drawing 2025-04-07 09.46.49.excalidraw.md",
+    "README.md",
+    "Main/Drawing 2025-04-07 09.42.16.excalidraw.md",
+    "Main/Untitled.canvas",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Discuss Inter Processes communication in details.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/Process Synchronization.md",
     "Main/Template/Emoji/_Emoji.md",
     "Main/Template/Emoji/Hourglass Not Done.md",
     "Main/Template/Emoji/Alarm Clock.md",
@@ -179,17 +195,6 @@
     "Main/Template/Emoji/Test Tube (Experiment - Test).md",
     "Main/Template/Emoji/Sun with Face (Morning).md",
     "Main/Template/Emoji/Sun Behind Cloud.md",
-    "Main/Template/Emoji/Spiral Calendar.md",
-    "Main/Template/Emoji/Speech Balloon (Chat).md",
-    "Main/Template/Emoji/Sparkles (Special - Highlight).md",
-    "Main/Template/Emoji/Smiling Face.md",
-    "Main/Template/Emoji/Smiling Face with Sunglasses.md",
-    "Main/Template/Emoji/Sleeping Face.md",
-    "Main/Template/Emoji/Seedling (Growth - Well-being).md",
-    "Main/Template/Emoji/Satellite Antenna.md",
-    "Main/Template/Emoji/Round Pushpin.md",
-    "Main/Template/Emoji/Rocket (Start - Launch).md",
-    "Main/Template/Emoji/Right Arrow (Next).md",
     "Main/Template/Emoji",
     "Seedling (Growth",
     "Gear (Settings",
@@ -205,9 +210,7 @@
     "Main/Images/XOR Tanh batch.png",
     "Main/Images/Backpropagation Tanh and online.png",
     "Main/Images/XOR-online-sigmoid.png",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/OOSE Assignment1.pdf",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/oose .png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 1/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 1.pdf",
     "Main/Images/Backpropagation Sigmoid.png",
     "Main/Images/Randomized Quicksort-Exp.png"
   ]
