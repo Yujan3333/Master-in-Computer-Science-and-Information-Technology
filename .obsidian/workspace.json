@@ -11,17 +11,15 @@
             "id": "6cb945b9f377cfdd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
-                "viewState": {
-                  "x": 139.6861538461543,
-                  "y": -1061.8584615384616,
-                  "zoom": -2.2648828302261625
-                }
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/Batch Operation System.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Visual Connection"
+              "icon": "lucide-file",
+              "title": "Batch Operation System"
             }
           }
         ]
@@ -167,15 +165,15 @@
   },
   "active": "6cb945b9f377cfdd",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/1.0 Pre.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/Unit1.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/1.1 Process management.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.1 Process management/Process Synchronization.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/Batch Operation System.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/OS as a Extended Machine.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/1.0 Pre.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.0 Prerequiste/What is OS.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.3 Deadlocks/1.3 Deadlocks.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/Unit1.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.3 Deadlocks",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.2 Process Scheduling/1.2 Process Scheduling.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Unit1/1.2 Process Scheduling",
