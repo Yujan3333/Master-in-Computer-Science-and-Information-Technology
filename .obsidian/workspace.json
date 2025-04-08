@@ -159,8 +159,7 @@
       "obsidian-git:Open Git source control": false,
       "custom-sort:Toggle custom sorting": false,
       "audio-recorder:Start/stop recording": false,
-      "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
   "active": "6cb945b9f377cfdd",
