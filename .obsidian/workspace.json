@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "657e490f0164f713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/Time Complexity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Time Complexity"
-            }
-          },
-          {
             "id": "0558f0b0e8b15d5c",
             "type": "leaf",
             "state": {
@@ -52,8 +37,7 @@
               "title": "Amortized Algorithm"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,14 +177,14 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "657e490f0164f713",
+  "active": "de083661f7950dbe",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/Amortized Algorithm.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/Time Complexity.md",
     "Main/Images/time complexity 1.jpg",
     "Main/Images/time complexity.jpg",
     "Main/Images/maxresdefault.jpg",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/Amortized Algorithm.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/Time Complexity.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/Algorithm Fine Tuning.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/Hay Problem.md",
     "Main/Template/Emoji/_Emoji.md",
@@ -241,7 +225,6 @@
     "Sparkles (Special",
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch.png",
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online-1.png",
-    "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online.png",
-    "Main/Images/backpropagation 3bit sigmoid and online.png"
+    "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online.png"
   ]
 }
