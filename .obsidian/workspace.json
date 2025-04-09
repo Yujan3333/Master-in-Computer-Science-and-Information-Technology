@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e896b2168fb4c3ed",
+        "id": "ca7bb2ead96f8677",
         "type": "tabs",
         "children": [
           {
-            "id": "292aebe9348a1758",
+            "id": "de083661f7950dbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Unit1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Unit1"
-            }
-          },
-          {
-            "id": "1746bc625d467c33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Unit1 - Exam Quesiton Collection.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit1 - Exam Quesiton Collection"
+              "title": "New tab"
             }
           }
         ]
@@ -177,12 +157,18 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "292aebe9348a1758",
+  "active": "de083661f7950dbe",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Software Development Life cycle models.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Unit1 - Exam Question Collection.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Unit1.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Activity Diagram.md",
+    "Main/Images/Activity Diagram.png",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Use Case Diagram.md",
+    "Main/Images/Use Case Diagram.png",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Class Diagram.md",
+    "Main/Images/Class Diagram.png",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Software Development Life cycle models.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Requirement Analysis.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Unit1 - Exam Quesiton Collection.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit2",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1",
@@ -209,10 +195,6 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/AOS-Assignment/Discuss Inter Processes communication in details.md",
     "Main/Template/Emoji/_Emoji.md",
-    "Main/Template/Emoji/Hourglass Not Done.md",
-    "Main/Template/Emoji/Alarm Clock.md",
-    "Main/Template/Emoji/Abacus (Calculation).md",
-    "Main/Template/Emoji/Zzz (Sleep).md",
     "Main/Template/Emoji",
     "Seedling (Growth",
     "Gear (Settings",
@@ -223,9 +205,6 @@
     "Main/Images/A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online.png",
     "Main/Images/backpropagation 3bit sigmoid and online.png",
     "Main/Images/XOR Tanh batch.png",
-    "Main/Images/Backpropagation Tanh and online.png",
-    "Main/Images/XOR-online-sigmoid.png",
-    "Main/Images/Backpropagation Sigmoid.png",
-    "Main/Images/Randomized Quicksort-Exp.png"
+    "Main/Images/Backpropagation Tanh and online.png"
   ]
 }
