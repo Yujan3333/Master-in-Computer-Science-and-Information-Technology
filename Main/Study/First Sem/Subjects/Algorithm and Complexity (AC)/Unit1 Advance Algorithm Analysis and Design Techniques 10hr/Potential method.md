@@ -1,0 +1,1 @@
+Uses a potential function (like stored energy) to track how the state of the data structure changes over time. Helps predict future costs.

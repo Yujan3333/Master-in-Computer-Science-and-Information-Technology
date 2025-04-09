@@ -1,0 +1,1 @@
+Assign an artificial cost (like a "credit") to each operation. Cheap operations store extra credit to pay for future expensive ones.

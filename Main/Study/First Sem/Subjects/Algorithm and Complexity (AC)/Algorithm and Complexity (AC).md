@@ -9,5 +9,14 @@
 - [Class Till Now](./Class%20Till%20Now.md)
 - **Unit1 Advance Algorithm Analysis and Design Techniques 10hr**
 	- [1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method)](./Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/1.1%20Amortized%20Analysis%20(Aggregate%20Analysis,%20Accounting%20Method,%20Potential%20Method).md)
+	- [Accounting Method](./Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/Accounting%20Method.md)
+	- [Aggregate Method](./Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/Aggregate%20Method.md)
+	- [Algorithm Fine Tuning](./Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/Algorithm%20Fine%20Tuning.md)
+	- [Amortized Algorithm](./Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/Amortized%20Algorithm.md)
+	- [Hay Problem](./Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/Hay%20Problem.md)
+	- [Potential method](./Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/Potential%20method.md)
+	- [Time Complexity](./Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/Time%20Complexity.md)
+	- [What is an Algorithm](./Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/What%20is%20an%20Algorithm.md)
+- **Unit2 Computational Complexity Theory**
 
 %% End Waypoint %%
