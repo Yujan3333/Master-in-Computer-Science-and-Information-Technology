@@ -82,5 +82,6 @@
   "catppuccin-heading-settings@@ctp-h2": "var(--ctp-yellow)",
   "catppuccin-heading-settings@@ctp-h1": "var(--ctp-mauve)",
   "catppuccin-heading-settings@@ctp-page-title": "var(--ctp-yellow)",
-  "catppuccin-font-styles@@ctp-strikethrough": "var(--ctp-yellow)"
+  "catppuccin-font-styles@@ctp-strikethrough": "var(--ctp-yellow)",
+  "catppuccin-font-styles@@ctp-italic": "var(--ctp-yellow)"
 }
