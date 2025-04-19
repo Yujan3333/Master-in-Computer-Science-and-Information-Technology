@@ -6,5 +6,6 @@
 	- [Gaussian Kernel](./Unit4/Gaussian%20Kernel.md)
 	- [Kernel Methods](./Unit4/Kernel%20Methods.md)
 	- [Unit4 - Radial Basis Function Networks(RBFNN)](./Unit4/Unit4%20-%20Radial%20Basis%20Function%20Networks(RBFNN).md)
+	- [XOR Problem with Radial Basis Function](./Unit4/XOR%20Problem%20with%20Radial%20Basis%20Function.md)
 
 %% End Waypoint %%

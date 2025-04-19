@@ -12,7 +12,9 @@ The main idea to use kernel is: A linear classifier or regression curve in highe
 - Polynomial Kernel
 - Exponential Kernel [Example of Radial Basis Function Kernel]
 - [Gaussian Kernel](Gaussian%20Kernel.md) [Example of Radial Basis Function Kernel]
-
+---
+#### [XOR Problem with Radial Basis Function](XOR%20Problem%20with%20Radial%20Basis%20Function.md)
+- XOR problem cannot be solved by *Single Layer Perceptron* because it is *not linearly separable*
 
 
 ---

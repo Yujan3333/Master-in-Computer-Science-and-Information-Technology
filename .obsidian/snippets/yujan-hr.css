@@ -1,0 +1,20 @@
+/* ============================================================================================================================== */
+/* =================HR Horizontal Rule LIVE PREVIEW ================================== */
+
+/* HR Horizontal Rule LIVE PREVIEW */
+.markdown-source-view.mod-cm6 hr {
+    /* margin: 1.2em 0; */
+    margin: 1.2em 0 0.5em 0;
+  
+    /* border-top: 1.5px solid; */
+      border-color: #499dce;
+    }
+  
+    /* ===========================HR Horizontal Rule READING VIEW  =========================== */
+    
+    /* HR Horizontal Rule READING VIEW */
+    .markdown-preview-view hr {
+      /* border-top: 1.5px solid; */
+      
+      border-color: #499dce;
+    }
