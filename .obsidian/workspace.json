@@ -11,10 +11,15 @@
             "id": "bcb2de5f65886bcf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR Problem with Radial Basis Function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "XOR Problem with Radial Basis Function"
             }
           }
         ]
@@ -90,11 +95,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR Problem with Radial Basis Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from XOR Problem with Radial Basis Function"
             }
           },
           {
@@ -118,12 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR Problem with Radial Basis Function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of XOR Problem with Radial Basis Function"
             }
           }
         ]
@@ -148,5 +155,9 @@
     }
   },
   "active": "bcb2de5f65886bcf",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Main/Images/XOR Problem with Radial Basis Function.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Kernel Methods.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md"
+  ]
 }
