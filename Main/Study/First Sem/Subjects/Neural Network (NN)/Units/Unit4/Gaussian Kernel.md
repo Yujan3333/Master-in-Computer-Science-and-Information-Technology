@@ -1,6 +1,11 @@
 ### Radial Basis Function Kernel (RBF)
 - Also Known as **Gaussian kernel**
 - Most widely used Kernel function
+- Uses the L2 norm (Euclidean distance)
+- Squared distance in the exponent
+- Creates smoother, bell-shaped curves
+- More commonly used in practice
+- Decays faster as you move away from center
 
 It operates by measuring the **similarity** between *data points* based on their *Euclidean distance* in the input space.
 ##### Gaussian kernel function - formula

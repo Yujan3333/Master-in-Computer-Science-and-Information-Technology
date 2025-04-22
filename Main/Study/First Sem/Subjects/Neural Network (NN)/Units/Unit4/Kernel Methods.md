@@ -10,13 +10,17 @@ The main idea to use kernel is: A linear classifier or regression curve in highe
 #### Different Types of Kernel
 - linear kernel
 - Polynomial Kernel
-- Exponential Kernel [Example of Radial Basis Function Kernel]
+- [Exponential Kernel](Exponential%20Kernel.md) [Example of Radial Basis Function Kernel]
 - [Gaussian Kernel](Gaussian%20Kernel.md) [Example of Radial Basis Function Kernel]
+
+##### [[Difference between Exponential Kernel and Gaussian Kernel]]
+
 ---
 #### [XOR Problem with Radial Basis Function](XOR%20Problem%20with%20Radial%20Basis%20Function.md)
 - XOR problem cannot be solved by *Single Layer Perceptron* because it is *not linearly separable*
+- 2 Questions from sir.
 
-
+---
 ---
 ### Example from ChatGPT
 - **Centers** = teachers in different classrooms.

@@ -5,7 +5,7 @@
 ---
 ### Slide Topic
 [Kernel Methods](Kernel%20Methods.md)
-
+[[RBF Basis Function Network]]
 
 
 
