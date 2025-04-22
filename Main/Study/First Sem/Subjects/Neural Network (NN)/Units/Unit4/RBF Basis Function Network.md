@@ -20,8 +20,9 @@ This is where the real “magic” happens. Each hidden neuron computes how _clo
 $$
 K(x, y) = \exp\left(-\frac{\|x - y\|^2}{2\sigma^2}\right)
 $$
+
 Where,
-$\sigma$ is a free parameter}
+$\sigma$ is a free parameter
 
  ==[Gaussian Kernel-More Info](Gaussian%20Kernel.md)==
 
