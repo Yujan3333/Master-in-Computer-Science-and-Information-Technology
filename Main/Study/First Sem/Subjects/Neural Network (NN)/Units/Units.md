@@ -11,6 +11,7 @@
 	- [Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers](./Unit4/Solve%20the%20XOR%20problem%20using%20RBF%20by%20taking%20(1,0)%20and%20(0,1)%20as%20centers.md)
 	- [Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. ](./Unit4/Solve%20the%20XOR%20problem%20using%20RBF%20such%20that%20transform%202D%20data%20points%20into%204D%20data%20points%20by%20taking%20each%20of%20the%20data%20point%20as%20center.%20.md)
 	- [Unit4 - Radial Basis Function Networks(RBFNN)](./Unit4/Unit4%20-%20Radial%20Basis%20Function%20Networks(RBFNN).md)
+	- [Why K less then or equal to N](./Unit4/Why%20K%20less%20then%20or%20equal%20to%20N.md)
 	- [XOR Problem with Radial Basis Function](./Unit4/XOR%20Problem%20with%20Radial%20Basis%20Function.md)
 
 %% End Waypoint %%

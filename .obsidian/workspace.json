@@ -21,6 +21,61 @@
               "icon": "lucide-file",
               "title": "RBF Basis Function Network"
             }
+          },
+          {
+            "id": "37205b949921d5d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Why K less then or equal to N.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Why K less then or equal to N"
+            }
+          },
+          {
+            "id": "b88896d5372e370d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "461111be085546ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Machine Learning Vs Deep Learning Vs Artificial Intelligence.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning Vs Deep Learning Vs Artificial Intelligence"
+            }
+          },
+          {
+            "id": "85c1283e1a5cf17b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Gaussian Kernel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Gaussian Kernel"
+            }
           }
         ]
       }
@@ -167,12 +222,22 @@
   },
   "active": "bcb2de5f65886bcf",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab3.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/RBF Basis Function Network.md",
+    "Main/Images/RBF Basis Function Network.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Why K less then or equal to N.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Machine Learning Vs Deep Learning Vs Artificial Intelligence.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Gaussian Kernel.md",
+    "Main/Images/Machine Learning Vs Deep Learning Vs Artificial Intelligence.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/que_coll.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Units.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Kernel Methods.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Difference between Exponential Kernel and Gaussian Kernel.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Exponential Kernel.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Gaussian Kernel.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. .md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR Problem with Radial Basis Function.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers.md",

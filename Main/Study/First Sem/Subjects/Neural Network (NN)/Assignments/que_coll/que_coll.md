@@ -1,0 +1,21 @@
+%% Begin Waypoint %%
+- [A1- Question 1 - WAP to create a neuron](./A1-%20Question%201%20-%20WAP%20to%20create%20a%20neuron.md)
+- [A1- Question2 - WAP to train AND Gate Using Perceptron Algo](./A1-%20Question2%20-%20WAP%20to%20train%20AND%20Gate%20Using%20Perceptron%20Algo.md)
+- [A1- Question3 -  WAP to Min-Max Scalar](./A1-%20Question3%20-%20%20WAP%20to%20Min-Max%20Scalar.md)
+- [A1- Question4 - WAP Standard Scalar](./A1-%20Question4%20-%20WAP%20Standard%20Scalar.md)
+- [A1- Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo](./A1-%20Question5%20-%20WAP%20to%20predict%20the%20output%20of%20given%20Input%20using%20MaxMin%20Scalar%20and%20Perceptron%20Algo.md)
+- [A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and batch](./A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20sigmoid%20and%20batch.md)
+- [A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and online](./A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20sigmoid%20and%20online.md)
+- [A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch](./A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20tanh%20and%20batch.md)
+- [A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and online](./A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20tanh%20and%20online.md)
+- [A2 - Backpropagation algo- 2x2x1 to achieve XOR function. Using sigmoid and batch](./A2%20-%20Backpropagation%20algo-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20sigmoid%20and%20batch.md)
+- [A2 - Backpropagation algo- 2x2x1 to achieve XOR function. Using tanh and batch](./A2%20-%20Backpropagation%20algo-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20tanh%20and%20batch.md)
+- [A2 - Backpropagtion algo - 2x2x1 to achieve XOR function. Using tanh and online](./A2%20-%20Backpropagtion%20algo%20-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20tanh%20and%20online.md)
+- [A2- Backpropagation algo- 2x2x1 to achieve XOR function. Using tanh and batch](./A2-%20Backpropagation%20algo-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20tanh%20and%20batch.md)
+- [A2- Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online](./A2-%20Backpropagation%20algorithm%20-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20sigmoid%20and%20online.md)
+- [A2-L1- OOP Code with all the comments](./A2-L1-%20OOP%20Code%20with%20all%20the%20comments.md)
+- [A2-L1-Final Code with all the comments](./A2-L1-Final%20Code%20with%20all%20the%20comments.md)
+- [Online Vs Batch](./Online%20Vs%20Batch.md)
+- [seed](./seed.md)
+
+%% End Waypoint %%
