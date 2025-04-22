@@ -18,9 +18,12 @@ This layer simply passes the input features (like height, weight, pixel values, 
 This is where the real “magic” happens. Each hidden neuron computes how _close_ the input is to a specific center point (called a "prototype" or "centroid") using a **radial basis function**, usually a Gaussian function:
 
 $$
-K(x, y) = \exp\left(-\frac{\|x - y\|^2}{2\sigma^2}\right), \text{ where } \sigma \text{ is a free parameter}
+K(x, y) = \exp\left(-\frac{\|x - y\|^2}{2\sigma^2}\right)
 $$
-==[Gaussian Kernel-Click](Gaussian%20Kernel.md)==
+Where,
+$\sigma$ is a free parameter}
+
+ ==[Gaussian Kernel-More Info](Gaussian%20Kernel.md)==
 
 So instead of learning a complex weight like in normal neural networks, each neuron responds **strongly when the input is close to its center**.
 
