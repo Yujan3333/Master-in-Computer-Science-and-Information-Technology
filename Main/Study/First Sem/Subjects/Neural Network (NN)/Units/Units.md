@@ -7,6 +7,7 @@
 	- [Exponential Kernel](./Unit4/Exponential%20Kernel.md)
 	- [Gaussian Kernel](./Unit4/Gaussian%20Kernel.md)
 	- [Kernel Methods](./Unit4/Kernel%20Methods.md)
+	- [RBF Basis Function Network](./Unit4/RBF%20Basis%20Function%20Network.md)
 	- [Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers](./Unit4/Solve%20the%20XOR%20problem%20using%20RBF%20by%20taking%20(1,0)%20and%20(0,1)%20as%20centers.md)
 	- [Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. ](./Unit4/Solve%20the%20XOR%20problem%20using%20RBF%20such%20that%20transform%202D%20data%20points%20into%204D%20data%20points%20by%20taking%20each%20of%20the%20data%20point%20as%20center.%20.md)
 	- [Unit4 - Radial Basis Function Networks(RBFNN)](./Unit4/Unit4%20-%20Radial%20Basis%20Function%20Networks(RBFNN).md)

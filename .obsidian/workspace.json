@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/RBF Basis Function Network.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit4 - Radial Basis Function Networks(RBFNN)"
+              "title": "RBF Basis Function Network"
             }
           }
         ]
@@ -90,17 +90,29 @@
         "type": "tabs",
         "children": [
           {
+            "id": "09b920776c3dde42",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "18b26e390508f20d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR Problem with Radial Basis Function.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/RBF Basis Function Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from XOR Problem with Radial Basis Function"
+              "title": "Outgoing links from RBF Basis Function Network"
             }
           },
           {
@@ -124,21 +136,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR Problem with Radial Basis Function.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/RBF Basis Function Network.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of XOR Problem with Radial Basis Function"
+              "title": "Outline of RBF Basis Function Network"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +167,8 @@
   },
   "active": "bcb2de5f65886bcf",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/RBF Basis Function Network.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Kernel Methods.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Difference between Exponential Kernel and Gaussian Kernel.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Exponential Kernel.md",
@@ -163,7 +176,6 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. .md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR Problem with Radial Basis Function.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
     "Main/Images/XOR Problem with Radial Basis Function.png"
   ]
 }

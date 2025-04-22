@@ -1,0 +1,1 @@
+Radial basis function (RBF) networks are artificial neural networks that typically have three layers: an input layer, a hidden layer with a non-linear RBF activation function and a linear output layer.
