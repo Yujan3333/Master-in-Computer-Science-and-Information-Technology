@@ -18,7 +18,7 @@ This layer simply passes the input features (like height, weight, pixel values, 
 This is where the real “magic” happens. Each hidden neuron computes how _close_ the input is to a specific center point (called a "prototype" or "centroid") using a **radial basis function**, usually a Gaussian function:
 
 $$
-k(x, y) = \exp\left( -\frac{\lVert x - y \rVert^2}{2\sigma^2} \right), \text{ where } \sigma \text{ is free parameter}
+K(x, y) = \exp\left(-\frac{\|x - y\|^2}{2\sigma^2}\right), \text{ where } \sigma \text{ is a free parameter}
 $$
 ==[Gaussian Kernel-Click](Gaussian%20Kernel.md)==
 

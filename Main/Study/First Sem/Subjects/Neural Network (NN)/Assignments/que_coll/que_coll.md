@@ -11,6 +11,7 @@
 - [A2 - Backpropagation algo- 2x2x1 to achieve XOR function. Using sigmoid and batch](./A2%20-%20Backpropagation%20algo-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20sigmoid%20and%20batch.md)
 - [A2 - Backpropagation algo- 2x2x1 to achieve XOR function. Using tanh and batch](./A2%20-%20Backpropagation%20algo-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20tanh%20and%20batch.md)
 - [A2 - Backpropagtion algo - 2x2x1 to achieve XOR function. Using tanh and online](./A2%20-%20Backpropagtion%20algo%20-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20tanh%20and%20online.md)
+- [A2 Backpropagation -- 3bit input Sigmoid and batch](./A2%20Backpropagation%20--%203bit%20input%20Sigmoid%20and%20batch.md)
 - [A2- Backpropagation algo- 2x2x1 to achieve XOR function. Using tanh and batch](./A2-%20Backpropagation%20algo-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20tanh%20and%20batch.md)
 - [A2- Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online](./A2-%20Backpropagation%20algorithm%20-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20sigmoid%20and%20online.md)
 - [A2-L1- OOP Code with all the comments](./A2-L1-%20OOP%20Code%20with%20all%20the%20comments.md)

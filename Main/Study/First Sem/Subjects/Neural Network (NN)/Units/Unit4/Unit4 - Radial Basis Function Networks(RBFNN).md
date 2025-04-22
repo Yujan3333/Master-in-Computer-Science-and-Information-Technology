@@ -4,8 +4,8 @@
 - RBF network for pattern classification
 ---
 ### Slide Topic
-[Kernel Methods](Kernel%20Methods.md)
-[RBF Basis Function Network](RBF%20Basis%20Function%20Network.md)
+- [Kernel Methods](Kernel%20Methods.md)
+- [RBF Basis Function Network](RBF%20Basis%20Function%20Network.md)
 
 
 

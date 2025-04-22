@@ -1,5 +1,5 @@
 #### Visual Representation
-![](../../../../Images/Machine%20Learning%20Vs%20Deep%20Learning%20Vs%20Artificial%20Intelligence.png)
+![](../../../../../Images/Machine%20Learning%20Vs%20Deep%20Learning%20Vs%20Artificial%20Intelligence.png)
 
 ---
 
