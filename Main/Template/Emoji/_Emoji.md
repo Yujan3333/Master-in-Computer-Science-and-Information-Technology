@@ -8,7 +8,7 @@
 🗂️ [Card Index Dividers (Task Group)](Card%20Index%20Dividers%20(Task%20Group).md)
 
 ===
-📌[ Pushpin (Highlight)](%20Pushpin%20(Highlight).md) 
+📌[Pin (Highlight)](Pin%20(Highlight).md) 
 ⚠️ [Warning Sign](Warning%20Sign.md)
 🚨 [Police Light (Urgent)](Police%20Light%20(Urgent).md)
 📍 [Round Pushpin](Round%20Pushpin.md)
@@ -17,6 +17,7 @@
 🧠 [Brain (Concept - Idea)](Brain%20(Concept%20-%20Idea).md)  
 💡 [Light Bulb (Insight)](Light%20Bulb%20(Insight).md)  
 ✨ [Sparkles (Special - Highlight)](Sparkles%20(Special%20-%20Highlight).md)
+❓ [Question mark](Question%20mark.md)
 
 ===
 📝 [Memo (Note - Write)](Memo%20(Note%20-%20Write).md)  
@@ -53,7 +54,7 @@
 🎯 [Direct Hit (Goal) ](Direct%20Hit%20(Goal)%20.md) 
 🚀 [Rocket (Start - Launch)](Rocket%20(Start%20-%20Launch).md)  
 📈 [Chart Increasing (Growth)](Chart%20Increasing%20(Growth).md)  
-💪 [Flexed Biceps (Strength) ](Flexed%20Biceps%20(Strength)%20.md) 
+💪 [Flexed Biceps (Strength) ](Flexed%20Biceps%20(Strength%20-%20hand).md) 
 🔥 [Fire (Hot Topic - Focus)](Fire%20(Hot%20Topic%20-%20Focus).md)  
 🎉 [Party Popper (Success)](Party%20Popper%20(Success).md)  
 🏆 [Trophy (Achievement)](Trophy%20(Achievement).md)
@@ -107,3 +108,13 @@
 🎥 [Movie Camera ](Movie%20Camera%20.md) 
 🎧 [Headphone](Headphone.md)  
 🎵 [Musical Note](Musical%20Note.md)
+
+===
+✋ [Raised Hand](Raised%20Hand.md)
+👆 [Index Pointing Up](Index%20Pointing%20Up.md)
+👇 [Index Pointing Down](Index%20Pointing%20Down.md)
+👈 [Index Pointing Left](Index%20Pointing%20Left.md)
+👉 [Index Pointing Right](Index%20Pointing%20Right.md)
+☝️ [Up Pointing Index-hand](Up%20Pointing%20Index-hand.md)
+👍 [Thumbs Up-hand](Thumbs%20Up-hand.md)
+ 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be0c93dfbb1a8c4a",
+        "id": "86b6ed5e3f846976",
         "type": "tabs",
         "children": [
           {
-            "id": "a33e0c354294b73a",
+            "id": "be1f426407e1b081",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,15 +23,33 @@
             }
           },
           {
-            "id": "e47a796fad1ce592",
+            "id": "8bd4040551a22257",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Training RBF Hidden Layer Using K-means.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "Training RBF Hidden Layer Using K-means"
+            }
+          },
+          {
+            "id": "b2dbd5e9bc1f597c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/More on Similarity matching.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "More on Similarity matching"
             }
           }
         ],
@@ -178,30 +196,41 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e47a796fad1ce592",
+  "active": "8bd4040551a22257",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/RBF Basis Function Network.md",
+    "Main/Images/Training RBF Hidden Layer Using K-means-2.png",
+    "Main/Images/Training RBF Hidden Layer Using K-means-1.png",
+    "Main/Template/Emoji/_Emoji.md",
+    "Main/Template/Emoji/Thumbs Up-hand.md",
+    "Main/Template/Emoji/Up Pointing Index-hand.md",
+    "Main/Template/Emoji/Index Pointing Right.md",
+    "Main/Template/Emoji/Index Pointing Left.md",
+    "Main/Template/Emoji/Index Pointing Down.md",
+    "Main/Template/Emoji/Index Pointing Up.md",
+    "Main/Template/Emoji/Raised Hand.md",
+    "Main/Template/Emoji/Flexed Biceps (Strength - hand).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Training RBF Hidden Layer Using K-means.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/More on Similarity matching.md",
+    "Main/Images/More-eg.png",
+    "Main/Template/Emoji/Question mark.md",
+    "Main/Template/Emoji/Pin (Highlight).md",
+    "Main/Images/Training RBF Hidden Layer Using K-means.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Kernel Methods.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR Problem with Radial Basis Function.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. .md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR problem using RBF -Numerical Done By Sir.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/RBF Basis Function Network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/K-means Clustering Algorithm.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Numerical of K-means.md",
+    "Main/Images/k_means_clustering.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Gaussian Kernel.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/Machine Learning Vs Deep Learning Vs Artificial Intelligence.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Why K less then or equal to N.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/General Knowledge.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A2 Backpropagation -- 3bit input Sigmoid and batch.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab3.md",
     "Main/Images/RBF Basis Function Network.png",
     "Main/Images/Machine Learning Vs Deep Learning Vs Artificial Intelligence.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/que_coll.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Units.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Kernel Methods.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Difference between Exponential Kernel and Gaussian Kernel.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Exponential Kernel.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. .md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR Problem with Radial Basis Function.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers.md",
     "Main/Images/XOR Problem with Radial Basis Function.png"
   ]
 }

@@ -6,7 +6,8 @@
 ### Slide Topic
 - [Kernel Methods](Kernel%20Methods.md)
 - [RBF Basis Function Network](RBF%20Basis%20Function%20Network.md)
-- [[K-means Clustering Algorithm]]
+- [K-means Clustering Algorithm](K-means%20Clustering%20Algorithm.md)
+- [[Training RBF Hidden Layer Using K-means]]
 
 
 
