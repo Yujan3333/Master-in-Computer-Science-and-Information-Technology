@@ -10,6 +10,11 @@
 	- **Lab 1**
 
 	- **Lab 2**
+		- **manjul**
+
+		- **prashant**
+
+	- **Lab3**
 
 - **[Units](./Units/Units.md)**
 

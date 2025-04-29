@@ -21,10 +21,10 @@ This [matrix](#matrix) equation can be written as:
 $\varphi_{ji} w_{kj} = d_{ki}, \quad i=1,\dots,N, j=1,\dots,M, k=1,\dots,C$
 ![](../../../../../../../Images/LMS%20Estimation%20of%20weight%20vector3.png)
  
- *This is the perfect condition* 
+ ***This is the perfect condition*** 
  
  The equation,
-  $φ_{ji}·w_{kj} = d_{ki}$ represents the ideal case where the network perfectly maps inputs to desired outputs
+  $φ_{ji}·w_{kj} = d_{ki}$ represents the ideal case where the network *perfectly maps* inputs to desired outputs
  
 ---
 #### Error
@@ -36,6 +36,6 @@ $e = \varphi \; w_k - d_k$
 Here, 
 	$φ \; w_{k}$ represents the actual output from the network for class k
 	$d_k$ represents the desired output for class k
-	Hence this error will be *minimized* during training using the LMS approach
+	This error will be *minimized* during training using the LMS approach
 
 ---

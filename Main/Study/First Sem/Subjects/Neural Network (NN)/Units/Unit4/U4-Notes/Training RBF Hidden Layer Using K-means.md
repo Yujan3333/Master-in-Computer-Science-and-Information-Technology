@@ -8,6 +8,7 @@ $μ_1,μ_2,...,μ_K​$
 Draw a sample vector `x` from the training set.
 ##### ==🧠More Info==
 Pick one of the data points from the training set
+
 👉`Training data={(1,1),(2,1),(4,3),(5,4)}`
 ✍️ `x=(2,1)` *is chosen to find which cluster it belongs to?*
 
@@ -21,6 +22,7 @@ This gives you the **closest cluster center** (winning cluster).
 
 ##### ==🧠More Info==
 👉 “Find the **closest cluster center** $μ_k$​ to the point x.”
+
 ❗ [More on Similarity matching](U4-Notes/More%20on%20Similarity%20matching.md)
 
 ---
