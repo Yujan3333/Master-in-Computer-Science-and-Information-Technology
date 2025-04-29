@@ -16,4 +16,4 @@
 > Compare your sample x to **each cluster center**, calculate how far it is from each one, and **choose the closest**.
 
 #### Example
-![](../../../../../../Images/More-eg.png)
+![](../../../../../../../Images/More-eg.png)

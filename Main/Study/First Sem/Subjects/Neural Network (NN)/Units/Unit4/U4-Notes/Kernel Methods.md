@@ -4,16 +4,16 @@ Kernel Function is used to transform *n-dimensional input to m-dimensional input
 
 The main idea to use kernel is: A linear classifier or regression curve in higher dimensions becomes a Non-linear classifier or regression curve in lower dimensions.
 
-![](../../../../../../Images/Kernel%20Methods.png)
+![](../../../../../../../Images/Kernel%20Methods.png)
 
 ---
 #### Different Types of Kernel
 - linear kernel
 - Polynomial Kernel
-- [Exponential Kernel](Exponential%20Kernel.md) [Example of Radial Basis Function Kernel]
-- [Gaussian Kernel](Gaussian%20Kernel.md) [Example of Radial Basis Function Kernel]
+- [Exponential Kernel](U4-Notes/Exponential%20Kernel.md) [Example of Radial Basis Function Kernel]
+- [Gaussian Kernel](U4-Notes/Gaussian%20Kernel.md) [Example of Radial Basis Function Kernel]
 
-##### [Difference between Exponential Kernel and Gaussian Kernel](Difference%20between%20Exponential%20Kernel%20and%20Gaussian%20Kernel.md)
+##### [Difference between Exponential Kernel and Gaussian Kernel](U4-Notes/Difference%20between%20Exponential%20Kernel%20and%20Gaussian%20Kernel.md)
 ---
 #### [XOR Problem with Radial Basis Function](XOR%20Problem%20with%20Radial%20Basis%20Function.md)
 - XOR problem cannot be solved by *Single Layer Perceptron* because it is *not linearly separable*

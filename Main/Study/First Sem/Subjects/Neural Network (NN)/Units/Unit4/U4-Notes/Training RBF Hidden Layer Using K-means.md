@@ -15,17 +15,17 @@ Pick one of the data points from the training set
 #### 3. Similarity Matching
 Compute the Euclidean distance between x and each cluster center $μ_k$​:
 
-![](../../../../../../Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means.png)
+![](../../../../../../../Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means.png)
 
 This gives you the **closest cluster center** (winning cluster).
 
 ##### ==🧠More Info==
 👉 “Find the **closest cluster center** $μ_k$​ to the point x.”
-❗ [More on Similarity matching](More%20on%20Similarity%20matching.md)
+❗ [More on Similarity matching](U4-Notes/More%20on%20Similarity%20matching.md)
 
 ---
 #### 4. Update Cluster Center
-Update the winning cluster center using a learning rate α\alphaα:
+Update the winning cluster center using a learning rate α\alpha:
 
 $\mu_k=μ_k+\alpha(x−\mu_k)$
 
@@ -43,7 +43,7 @@ Sigma controls the **spread** of the radial basis function (e.g., Gaussian). The
 
 $\sigma = \frac{d_{max}}{\sqrt{2K}}$
 
-![](../../../../../../Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means-1.png)
+![](../../../../../../../Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means-1.png)
 
 This spreads the RBFs just enough to overlap.
 
@@ -53,7 +53,7 @@ This spreads the RBFs just enough to overlap.
 
 $\sigma = \sqrt{\frac{1}{P} \sum_{k=1}^{P} (x - x_k)^2}$
 
-![](../../../../../../Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means-2.png)
+![](../../../../../../../Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means-2.png)
 
 Where:
 - $P$ = number of centers
@@ -66,7 +66,7 @@ This gives a more **data-driven estimate** of the spread.
 
 ### 🧩 Why is **σ** important?
 
-In a [Gaussian RBF](Gaussian%20Kernel.md):
+In a [Gaussian RBF](U4-Notes/Gaussian%20Kernel.md):
 
 $\phi(x) = \exp\left( -\frac{\|x - \mu\|^2}{2\sigma^2} \right)$
 
@@ -76,5 +76,5 @@ $\phi(x) = \exp\left( -\frac{\|x - \mu\|^2}{2\sigma^2} \right)$
 
 ---
 ---
-### [Numerical On RBF Hidden Layer Using K-means](Numerical%20On%20RBF%20Hidden%20Layer%20Using%20K-means.md)
+### [Numerical On RBF Hidden Layer Using K-means](U4-Notes/Numerical%20On%20RBF%20Hidden%20Layer%20Using%20K-means.md)
 - Consider the XOR problem. Define two RBF centers and calculate the value of sigma for the RBF.

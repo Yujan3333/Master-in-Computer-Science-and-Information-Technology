@@ -10,7 +10,7 @@ Key characteristics:
 - Less smooth than Gaussian kernel
 - Has sharper peaks at the center points
 
-## [[Gaussian Kernel]]
+## [Gaussian Kernel](Gaussian%20Kernel.md)
 
 The Gaussian kernel is defined as: K(x, y) = exp(-||x - y||² / (2σ²))
 

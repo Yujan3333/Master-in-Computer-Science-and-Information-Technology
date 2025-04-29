@@ -24,7 +24,7 @@ $$
 Where,
 $\sigma$ is a free parameter
 
- ==[Gaussian Kernel-More Info](Gaussian%20Kernel.md)==
+ ==[Gaussian Kernel-More Info](U4-Notes/Gaussian%20Kernel.md)==
 
 So instead of learning a complex weight like in normal neural networks, each neuron responds **strongly when the input is close to its center**.
 
@@ -43,7 +43,7 @@ This layer consists of the **K computation units (K≤N)**, where *N is number t
 #### Output Layer
 This layer of neural network contains *one or more nodes* depending upon the need.
 ###### Visually
-![](../../../../../../Images/RBF%20Basis%20Function%20Network.png)
+![](../../../../../../../Images/RBF%20Basis%20Function%20Network.png)
 
 ---
 ### RBF Continued

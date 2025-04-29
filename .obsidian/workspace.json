@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0be9cfa08fc90f67",
+        "id": "62ca43b938a26f2f",
         "type": "tabs",
         "children": [
           {
-            "id": "1a90b8a5b72e0d25",
+            "id": "e2e3515689305530",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/U4-Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "U4-Notes"
             }
           }
         ]
@@ -144,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,11 +165,30 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1a90b8a5b72e0d25",
+  "active": "e2e3515689305530",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Numerical On RBF Hidden Layer Using K-means.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Training RBF Hidden Layer Using K-means.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Difference between Exponential Kernel and Gaussian Kernel.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/U4-Notes.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/LMS Estimation of weight vector.md",
+    "Main/Images/LMS Estimation of weight vector-1.png",
+    "Main/Images/LMS Estimation of weight vector.png",
+    "Main/Images/LMS Estimation of weight vector3.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Numerical On RBF Hidden Layer Using K-means.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Units.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Biological neural networks.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Unit 1 Intro to artificial neural network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Kernel Methods.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/XOR Problem with Radial Basis Function.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. .md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/K-means Clustering Algorithm.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Training RBF Hidden Layer Using K-means.md",
+    "Main/Images/LMS Estimation of weight vector2.png",
+    "Main/Images/LMS Estimation of weight vector1.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Numerical of K-means.md",
     "Main/Template/Emoji/_Emoji.md",
     "Main/Template/Emoji/Raised hand.md",
     "Main/Template/Emoji/Writing hand.md",
@@ -175,29 +198,12 @@
     "Main/Template/Emoji/Index Pointing Left-hand.md",
     "Main/Template/Emoji/Index Pointing Right-hand.md",
     "Main/Images/Numerical On RBF Hidden Layer Using K-means.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Kernel Methods.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR Problem with Radial Basis Function.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. .md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/RBF Basis Function Network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/K-means Clustering Algorithm.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Numerical of K-means.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/More on Similarity matching.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/RBF Basis Function Network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/More on Similarity matching.md",
     "Main/Images/Training RBF Hidden Layer Using K-means-2.png",
     "Main/Images/Training RBF Hidden Layer Using K-means-1.png",
-    "Main/Template/Emoji/Thumbs Up-hand.md",
-    "Main/Template/Emoji/Up Pointing Index-hand.md",
     "Main/Images/More-eg.png",
-    "Main/Template/Emoji/Question mark.md",
-    "Main/Template/Emoji/Pin (Highlight).md",
     "Main/Images/Training RBF Hidden Layer Using K-means.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR problem using RBF -Numerical Done By Sir.md",
-    "Main/Images/k_means_clustering.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Gaussian Kernel.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/Machine Learning Vs Deep Learning Vs Artificial Intelligence.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge",
-    "Main/Images/RBF Basis Function Network.png",
-    "Main/Images/Machine Learning Vs Deep Learning Vs Artificial Intelligence.png",
-    "Main/Images/XOR Problem with Radial Basis Function.png"
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge"
   ]
 }
