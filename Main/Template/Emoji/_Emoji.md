@@ -21,7 +21,7 @@
 
 ===
 📝 [Memo (Note - Write)](Memo%20(Note%20-%20Write).md)  
-✍️ [Writing Hand](Writing%20Hand.md) 
+✍️ [Writing hand](Writing%20hand.md) 
 📒 [Ledger (Personal Notes)](Ledger%20(Personal%20Notes).md)  
 📓 [Notebook](Notebook.md) 
 📖 [Open Book (Reading)](Open%20Book%20(Reading).md)  
@@ -54,7 +54,7 @@
 🎯 [Direct Hit (Goal) ](Direct%20Hit%20(Goal)%20.md) 
 🚀 [Rocket (Start - Launch)](Rocket%20(Start%20-%20Launch).md)  
 📈 [Chart Increasing (Growth)](Chart%20Increasing%20(Growth).md)  
-💪 [Flexed Biceps (Strength) ](Flexed%20Biceps%20(Strength%20-%20hand).md) 
+💪 [Flexed Biceps (Strength-hand) ](Flexed%20Biceps%20(Strength%20-%20hand).md) 
 🔥 [Fire (Hot Topic - Focus)](Fire%20(Hot%20Topic%20-%20Focus).md)  
 🎉 [Party Popper (Success)](Party%20Popper%20(Success).md)  
 🏆 [Trophy (Achievement)](Trophy%20(Achievement).md)
@@ -110,11 +110,11 @@
 🎵 [Musical Note](Musical%20Note.md)
 
 ===
-✋ [Raised Hand](Raised%20Hand.md)
-👆 [Index Pointing Up](Index%20Pointing%20Up.md)
-👇 [Index Pointing Down](Index%20Pointing%20Down.md)
-👈 [Index Pointing Left](Index%20Pointing%20Left.md)
-👉 [Index Pointing Right](Index%20Pointing%20Right.md)
+✋ [Raised hand](Raised%20hand.md)
+👆 [Index Pointing Up-hand](Index%20Pointing%20Up-hand.md)
+👇 [Index Pointing Down-hand](Index%20Pointing%20Down-hand.md)
+👈 [Index Pointing Left-hand](Index%20Pointing%20Left-hand.md)
+👉 [Index Pointing Right-hand](Index%20Pointing%20Right-hand.md)
 ☝️ [Up Pointing Index-hand](Up%20Pointing%20Index-hand.md)
 👍 [Thumbs Up-hand](Thumbs%20Up-hand.md)
  

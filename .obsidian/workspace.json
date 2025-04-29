@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f31b7d9f1462ed8",
+        "id": "0be9cfa08fc90f67",
         "type": "tabs",
         "children": [
           {
-            "id": "08de0aaff8123d4f",
+            "id": "1a90b8a5b72e0d25",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -144,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,38 +161,40 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "08de0aaff8123d4f",
+  "active": "1a90b8a5b72e0d25",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Numerical On RBF Hidden Layer Using K-means.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Training RBF Hidden Layer Using K-means.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/More on Similarity matching.md",
-    "Main/Images/Training RBF Hidden Layer Using K-means-2.png",
-    "Main/Images/Training RBF Hidden Layer Using K-means-1.png",
     "Main/Template/Emoji/_Emoji.md",
-    "Main/Template/Emoji/Thumbs Up-hand.md",
-    "Main/Template/Emoji/Up Pointing Index-hand.md",
-    "Main/Template/Emoji/Index Pointing Right.md",
-    "Main/Template/Emoji/Index Pointing Left.md",
-    "Main/Template/Emoji/Index Pointing Down.md",
-    "Main/Template/Emoji/Index Pointing Up.md",
-    "Main/Template/Emoji/Raised Hand.md",
+    "Main/Template/Emoji/Raised hand.md",
+    "Main/Template/Emoji/Writing hand.md",
     "Main/Template/Emoji/Flexed Biceps (Strength - hand).md",
-    "Main/Images/More-eg.png",
-    "Main/Template/Emoji/Question mark.md",
-    "Main/Template/Emoji/Pin (Highlight).md",
-    "Main/Images/Training RBF Hidden Layer Using K-means.png",
+    "Main/Template/Emoji/Index Pointing Down-hand.md",
+    "Main/Template/Emoji/Index Pointing Up-hand.md",
+    "Main/Template/Emoji/Index Pointing Left-hand.md",
+    "Main/Template/Emoji/Index Pointing Right-hand.md",
+    "Main/Images/Numerical On RBF Hidden Layer Using K-means.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Kernel Methods.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR Problem with Radial Basis Function.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. .md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR problem using RBF -Numerical Done By Sir.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/RBF Basis Function Network.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/K-means Clustering Algorithm.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Numerical of K-means.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/More on Similarity matching.md",
+    "Main/Images/Training RBF Hidden Layer Using K-means-2.png",
+    "Main/Images/Training RBF Hidden Layer Using K-means-1.png",
+    "Main/Template/Emoji/Thumbs Up-hand.md",
+    "Main/Template/Emoji/Up Pointing Index-hand.md",
+    "Main/Images/More-eg.png",
+    "Main/Template/Emoji/Question mark.md",
+    "Main/Template/Emoji/Pin (Highlight).md",
+    "Main/Images/Training RBF Hidden Layer Using K-means.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/XOR problem using RBF -Numerical Done By Sir.md",
     "Main/Images/k_means_clustering.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Gaussian Kernel.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/Machine Learning Vs Deep Learning Vs Artificial Intelligence.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Why K less then or equal to N.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge",
     "Main/Images/RBF Basis Function Network.png",
     "Main/Images/Machine Learning Vs Deep Learning Vs Artificial Intelligence.png",
