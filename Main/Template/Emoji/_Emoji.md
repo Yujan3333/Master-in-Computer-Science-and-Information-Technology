@@ -1,10 +1,10 @@
 
 ✅ [Check Mark (Done)](Check%20Mark%20(Done).md)
 ❌ [Cross Mark (Not Done)  ](Cross%20Mark%20(Not%20Done)%20%20.md)
-🔄 [Clockwise Arrows (In Progress)  ](Clockwise%20Arrows%20(In%20Progress)%20%20.md)
+🔄 [Clockwise Arrows (In Progress)](Clockwise%20Arrows%20(In%20Progress).md)
 ⏳ [Hourglass Not Done](Hourglass%20Not%20Done.md)  
-🕐 [Clock (Scheduled Time)  ](Clock%20(Scheduled%20Time)%20%20.md)
-🛠️ [Hammer and Wrench (Fixing)  ](Hammer%20and%20Wrench%20(Fixing)%20%20.md)
+🕐 [Clock (Scheduled Time)](Clock%20(Scheduled%20Time).md)
+🛠️ [Hammer and Wrench (Fixing)](Hammer%20and%20Wrench%20(Fixing).md)
 🗂️ [Card Index Dividers (Task Group)](Card%20Index%20Dividers%20(Task%20Group).md)
 
 ===
@@ -29,14 +29,14 @@
 
 
 ===
-💻 [Laptop (Programming) ](Laptop%20(Programming)%20.md) 
+💻 [Laptop (Programming)](Laptop%20(Programming).md)
 👨‍💻 [Man Technologist](Man%20Technologist.md)   
 ⚙️ [Gear (Settings - Config)](Gear%20(Settings%20-%20Config).md)  
 🔧 [Wrench (Fixing - Debugging)](Wrench%20(Fixing%20-%20Debugging).md)  
 🐞 [Lady Beetle (Bug)](Lady%20Beetle%20(Bug).md)  
 🧵 [Thread (Concurrency)](Thread%20(Concurrency).md)  
 🖥️ [Desktop Computer ](Desktop%20Computer%20.md) 
-💾 [Floppy Disk (Save)  ](Floppy%20Disk%20(Save)%20%20.md)
+💾[Floppy Disk (Save)](Floppy%20Disk%20(Save).md)
 🧪 [Test Tube (Experiment - Test)](Test%20Tube%20(Experiment%20-%20Test).md)
 
 ===
@@ -47,22 +47,22 @@
 🌞 [Sun with Face (Morning)](Sun%20with%20Face%20(Morning).md)  
 🌙 [Crescent Moon (Night)](Crescent%20Moon%20(Night).md)  
 🌤️ [Sun Behind Cloud](Sun%20Behind%20Cloud.md)  
-🌧️ [Cloud with Rain ](Cloud%20with%20Rain%20.md) 
+🌧️ [Cloud with Rain](Cloud%20with%20Rain.md) 
 🌈 [Rainbow](Rainbow.md)
 
 ===
-🎯 [Direct Hit (Goal) ](Direct%20Hit%20(Goal)%20.md) 
+🎯 [Direct Hit (Goal)](Direct%20Hit%20(Goal).md) 
 🚀 [Rocket (Start - Launch)](Rocket%20(Start%20-%20Launch).md)  
 📈 [Chart Increasing (Growth)](Chart%20Increasing%20(Growth).md)  
-💪 [Flexed Biceps (Strength-hand) ](Flexed%20Biceps%20(Strength%20-%20hand).md) 
+💪 [Flexed Biceps (Strength)](Flexed%20Biceps%20(Strength).md)
 🔥 [Fire (Hot Topic - Focus)](Fire%20(Hot%20Topic%20-%20Focus).md)  
 🎉 [Party Popper (Success)](Party%20Popper%20(Success).md)  
 🏆 [Trophy (Achievement)](Trophy%20(Achievement).md)
 
 ===
-📂 [Open File Folder](Open%20File%20Folder.md)  
+📂 [File Folder](File%20Folder.md)
 🧩 [Puzzle Piece (Component)](Puzzle%20Piece%20(Component).md)  
-📎 [Paperclip (Attachment - Link](Paperclip%20(Attachment%20-%20Link.md))  
+📎 [Paperclip (Attachment - Link)](Paperclip%20(Attachment%20-%20Link).md)
 🔗 [Link (Connection)](Link%20(Connection).md)  
 🧱 [Brick (Foundation  - Block)](Brick%20(Foundation%20%20-%20Block).md)  
 ➕ [Plus (Add)](Plus%20(Add).md)  
@@ -75,12 +75,12 @@
 ===
 🧘 [Meditation - Person in Lotus Position](Meditation%20-%20Person%20in%20Lotus%20Position.md)  
 😄 [Smiling Face](Smiling%20Face.md)  
-😐 [Neutral Face ](Neutral%20Face%20.md) 
+😐 [Neutral Face](Neutral%20Face.md)
 😞 [Disappointed Face](Disappointed%20Face.md)  
 😴 [Sleeping Face](Sleeping%20Face.md)  
-💤[ Zzz (Sleep) ](%20Zzz%20(Sleep)%20.md) 
-😎 [Smiling Face with Sunglasses ](Smiling%20Face%20with%20Sunglasses%20.md) 
-🌱 [Seedling (Growth - Well-being)  ](Seedling%20(Growth%20-%20Well-being)%20%20.md)
+💤[Zzz (Sleep)](Zzz%20(Sleep).md)
+😎 [Smiling Face with Sunglasses](Smiling%20Face%20with%20Sunglasses.md)
+🌱 [Seedling (Growth - Well-being)](Seedling%20(Growth%20-%20Well-being).md)
 🧡 [Orange Heart](Orange%20Heart.md)  
 💚 [Green Heart](Green%20Heart.md)
 
@@ -91,21 +91,21 @@
 
 ===
 🧾 [Receipt (Details)](Receipt%20(Details).md)  
-🔍 [Magnifying Glass (Research)  ](Magnifying%20Glass%20(Research)%20%20.md)
+🔍 [Magnifying Glass (Research)](Magnifying%20Glass%20(Research).md)
 🧮 [Abacus (Calculation)](Abacus%20(Calculation).md)
 
 ===
 🌐 [Globe with Meridians](Globe%20with%20Meridians.md)  
 🧭 [Compass (Direction)](Compass%20(Direction).md)  
 📡 [Satellite Antenna](Satellite%20Antenna.md)  
-💬 [Speech Balloon (Chat) ](Speech%20Balloon%20(Chat)%20.md) 
-🌍 [Globe Showing Europe - Africa  ](Globe%20Showing%20Europe%20-%20Africa%20%20.md)
+💬 [Speech Balloon (Chat)](Speech%20Balloon%20(Chat).md)
+🌍 [Globe Showing Europe - Africa](Globe%20Showing%20Europe%20-%20Africa.md)
 📧 [Email Symbol](Email%20Symbol.md)
 
 ===
 📁 [File Folder ](File%20Folder%20.md) 
 📄 [Document File](Document%20File.md)   
-🎥 [Movie Camera ](Movie%20Camera%20.md) 
+🎥 [Movie Camera ](Movie%20Camera%20.md)
 🎧 [Headphone](Headphone.md)  
 🎵 [Musical Note](Musical%20Note.md)
 

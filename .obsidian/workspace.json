@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0dd9bccf28a202e3",
+        "id": "e8ae8313d3495c6c",
         "type": "tabs",
         "children": [
           {
-            "id": "3769099940c6dcc3",
+            "id": "7b6c3457a9db6bde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2/Difference Between HOOD, OMT and RDD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Difference Between HOOD, OMT and RDD"
+              "title": "New tab"
             }
           }
         ]
@@ -165,14 +160,38 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3769099940c6dcc3",
+  "active": "71c075a01e4cfe4e",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2/OOSE A2.pdf",
+    "Main/Template/Date/Date Full Detail.md",
+    "Main/Study/Untitled.md",
+    "Main/Template/Date/time AM-PM.md",
+    "Main/Template/Date/day.md",
+    "Main/Template/Date",
+    "Main/Template/hour.md",
+    "README.md",
+    "Main/Template/Emoji/_Emoji.md",
+    "Main/Template/callout/warning - callout.md",
+    "Main/Template/callout/tip - callout.md",
+    "Main/Template/callout/success- callout.md",
+    "Main/Template/callout/quote - callout.md",
+    "Main/Template/callout/question - callout.md",
+    "Main/Template/callout/note - callout.md",
+    "Main/Template/callout/info - callout.md",
+    "Main/Template/callout/fail - callout.md",
+    "Main/Template/callout/bug - callout.md",
+    "Main/Template/callout/example - callout.md",
+    "Main/Template/callout/abstract - callout.md",
+    "Main/Template/callout",
+    "Main/Template/Emoji/Open File Folder.md",
+    "Main/Template/Emoji/Magnifying Glass (Research).md",
+    "Main/Template/Emoji/File Folder.md",
+    "Main/Template/Emoji/Paperclip (Attachment - Link).md",
+    "Main/Template/Emoji/Seedling (Growth - Well-being).md",
+    "Main/Template/Emoji/Flexed Biceps (Strength - hand).md",
+    "Main/Template/Emoji/Globe Showing Europe - Africa.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/OOSE Assignment1.pdf",
     "Main/Images/Difference Between HOOD, OMT and RDD.png",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2/Responsibility-driven design (RDD).md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2/Difference Between HOOD, OMT and RDD.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2/Object Modeling Technique (OMT).md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2/Looking.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2/Hierarchical object-oriented design (HOOD).md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab3/Lab Assignment 3.docx.pdf",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab3/iris.csv",
@@ -180,38 +199,14 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab3/heart.csv",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab3",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -3 FFNN.pptx",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Unit -6 Self Organizing Maps.pptx",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 2/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 2.pdf",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab 2/NN_Lab2.ipynb",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/Machine Learning Vs Deep Learning Vs Artificial Intelligence.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/General Knowledge.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/GK-notes/GK-notes.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab3.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Training RBF Hidden Layer Using K-means.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/More on Similarity matching.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/LMS Estimation of weight vector.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Difference between Exponential Kernel and Gaussian Kernel.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/U4-Notes.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
     "Main/Images/LMS Estimation of weight vector-1.png",
     "Main/Images/LMS Estimation of weight vector.png",
     "Main/Images/LMS Estimation of weight vector3.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Numerical On RBF Hidden Layer Using K-means.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Units.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Biological neural networks.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Unit 1 Intro to artificial neural network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Kernel Methods.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/XOR Problem with Radial Basis Function.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. .md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/K-means Clustering Algorithm.md",
     "Main/Images/LMS Estimation of weight vector2.png",
     "Main/Images/LMS Estimation of weight vector1.png",
     "Main/Images/Numerical On RBF Hidden Layer Using K-means.png",
     "Main/Images/Training RBF Hidden Layer Using K-means-2.png",
     "Main/Images/Training RBF Hidden Layer Using K-means-1.png",
-    "Main/Images/More-eg.png",
-    "Main/Images/Training RBF Hidden Layer Using K-means.png"
+    "Main/Images/More-eg.png"
   ]
 }
