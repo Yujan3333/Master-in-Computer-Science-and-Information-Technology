@@ -6,6 +6,7 @@
 	- [Hierarchical object-oriented design (HOOD)](./OOSE%20A2/Hierarchical%20object-oriented%20design%20(HOOD).md)
 	- [Object Modeling Technique (OMT)](./OOSE%20A2/Object%20Modeling%20Technique%20(OMT).md)
 	- [Responsibility-driven design (RDD)](./OOSE%20A2/Responsibility-driven%20design%20(RDD).md)
+- **OOSE A3-Case Study**
 - **[Unit1](./Unit1/Unit1.md)**
 	- [Activity Diagram](./Unit1/Activity%20Diagram.md)
 	- [Class Diagram](./Unit1/Class%20Diagram.md)
