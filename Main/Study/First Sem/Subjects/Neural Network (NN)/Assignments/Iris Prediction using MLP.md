@@ -1,8 +1,8 @@
-- Check the dataset for missing values and handle, if any.
+- [Check the dataset for missing values and handle, if any](Check%20the%20dataset%20for%20missing%20values%20and%20handle,%20if%20any.md)
 
-- Display input and output features of the dataset.
+- [Display input and output features of the dataset](Display%20input%20and%20output%20features%20of%20the%20dataset.md)
 
-- Encode output attribute using one hot encoder.
+- [Encode output attribute using one hot encoder](Encode%20output%20attribute%20using%20one%20hot%20encoder.md)
 
 - Shuffle the dataset and then count and display number of tuples in each class.
 

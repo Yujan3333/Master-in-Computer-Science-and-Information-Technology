@@ -4,71 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ae8313d3495c6c",
+        "id": "5664a280f96f2ad7",
         "type": "tabs",
         "children": [
           {
-            "id": "7b6c3457a9db6bde",
+            "id": "8747f614ee7a3318",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lab3"
-            }
-          },
-          {
-            "id": "60054ec93aa6fb90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A3- Heart Disease Prediction Using MLP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "A3- Heart Disease Prediction Using MLP"
-            }
-          },
-          {
-            "id": "1f4fa78f78ac54dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lab3"
-            }
-          },
-          {
-            "id": "1bc19d17be7b288a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Iris Prediction using MLP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Iris Prediction using MLP"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,25 +160,39 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "1bc19d17be7b288a",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Iris Prediction using MLP.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/Machine Learning Vs Deep Learning Vs Artificial Intelligence.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Unit 1 Intro to artificial neural network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Units.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Class Till Now.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab3.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Contains Slides and Labs pdf.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/NN_Lab3_3_Hosuing.ipynb",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/NN_Lab3_2_Iris.ipynb",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/NN_Lab3_1_Heart(Binary_Class_Classification).ipynb",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Iris Prediction using MLP.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Encode output attribute using one hot encoder.md",
+    "Main/Images/iris output.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Display input and output features of the dataset.md",
+    "Main/Images/iris input output features.png",
+    "Main/Images/iris input output.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Check the dataset for missing values and handle, if any.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A3- Heart Disease Prediction Using MLP.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Construct an MLP with configuration 11x128x64x32x1. Use Adam optimizer and appropriate activation functions and train the model..md",
     "Main/Images/mlp.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A3- Heart Disease Prediction Using MLP.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Predict heart disease for test data and display confusion matrix, accuracy, recall, precision and F1-score.md",
     "Main/Images/confusion-matrix.webp",
     "Main/Images/Predict heart disease for test data and display confusion matrix, accuracy, recall, precision and F1-score.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Encode non-numeric input attributes using Label Encoder.md",
     "Main/Images/encoding non numeric.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Display input and output features of the dataset.md",
     "Main/Images/Display input and output features of the dataset.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Check the dataset for missing values and handle, if any.md",
     "Main/Images/1.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2/OOSE A2.pdf",
     "Main/Template/Date/Date Full Detail.md",
@@ -241,23 +204,10 @@
     "README.md",
     "Main/Template/Emoji/_Emoji.md",
     "Main/Template/callout/warning - callout.md",
-    "Main/Template/callout/tip - callout.md",
-    "Main/Template/callout/success- callout.md",
-    "Main/Template/callout/quote - callout.md",
-    "Main/Template/callout/question - callout.md",
-    "Main/Template/callout/note - callout.md",
-    "Main/Template/callout/info - callout.md",
-    "Main/Template/callout/fail - callout.md",
     "Main/Template/callout",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/OOSE Assignment1.pdf",
     "Main/Images/Difference Between HOOD, OMT and RDD.png",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab3/Lab Assignment 3.docx.pdf",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab3/iris.csv",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab3/Housing.csv",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Sir Slides/Lab3/heart.csv",
-    "Main/Images/LMS Estimation of weight vector-1.png",
-    "Main/Images/LMS Estimation of weight vector.png",
-    "Main/Images/LMS Estimation of weight vector3.png"
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/Lab Assignment 3.docx.pdf"
   ]
 }

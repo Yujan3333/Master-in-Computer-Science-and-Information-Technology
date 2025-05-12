@@ -1,3 +1,4 @@
+ - Similar for both iris and housing
 ### Firstly Mounting the CSV from the drive
 ```python
 # a) Check the dataset for missing values and handle, if any.
@@ -42,5 +43,9 @@ df = df.dropna()
 # print(df.isnull().sum())
 ```
 
+##### Slight Explanation
+ - `df.isnull()` creates a table with `True` where the value is missing and `False` where it’s not.
+    
+- `.sum()` counts how many missing values there are in each column.
 ###### Output
 ![](../../../../../../Images/1.png)
