@@ -1,7 +1,5 @@
 %% Begin Waypoint %%
 - **Assignments**
-	- [Encode output attribute using one hot encoder](./Assignments/Encode%20output%20attribute%20using%20one%20hot%20encoder.md)
-	- [Iris Prediction using MLP](./Assignments/Iris%20Prediction%20using%20MLP.md)
 	- [Lab1](./Assignments/Lab1.md)
 	- [Lab2](./Assignments/Lab2.md)
 	- [Lab3](./Assignments/Lab3.md)

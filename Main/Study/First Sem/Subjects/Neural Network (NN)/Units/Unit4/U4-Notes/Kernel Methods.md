@@ -2,6 +2,8 @@
 
 Kernel Function is used to transform *n-dimensional input to m-dimensional input*, where m is much higher than n then find the dot product in higher dimensional efficiently. 
 
+They are used to solve a [non-linear problem](non-linear%20problem.md) by using a [linear classifier](linear%20classifier.md)
+
 The main idea to use kernel is: A linear classifier or regression curve in higher dimensions becomes a Non-linear classifier or regression curve in lower dimensions.
 
 ![](../../../../../../../Images/Kernel%20Methods.png)

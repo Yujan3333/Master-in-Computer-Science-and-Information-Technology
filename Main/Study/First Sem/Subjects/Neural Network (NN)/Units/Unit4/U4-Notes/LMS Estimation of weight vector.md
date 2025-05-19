@@ -28,7 +28,7 @@ $\varphi_{ji} w_{kj} = d_{ki}, \quad i=1,\dots,N, j=1,\dots,M, k=1,\dots,C$
  
 ---
 #### Error
-"*if the network isn't properly trained, this equation won't be satisfied*" it means that in practice, there will be some error between what the network produces and what's desired
+"*if the network isn't properly trained, this equation won't be satisfied* " it means that in practice, there will be some error between what the network produces and what's desired
 
 $e = \varphi \; w_k - d_k$
 

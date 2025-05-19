@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "5664a280f96f2ad7",
+        "id": "c6f2572bf6d420ba",
         "type": "tabs",
         "children": [
           {
-            "id": "8747f614ee7a3318",
+            "id": "9819d46ed47d7c9b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/XOR Problem with Radial Basis Function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "XOR Problem with Radial Basis Function"
             }
           }
         ]
@@ -160,54 +165,54 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "71c075a01e4cfe4e",
   "lastOpenFiles": [
+    "Main/Study/Research/Seminar I",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/XOR problem using RBF -Numerical Done By Sir.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/XOR Problem with Radial Basis Function.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/non-linear problem.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/linear classifier.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Kernel Methods.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Difference between Exponential Kernel and Gaussian Kernel.md",
+    "Main/Images/unnamed.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Exponential Kernel.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/Gaussian Kernel.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes/LMS Estimation of weight vector.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab3.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A-3 Iris Prediction using MLP.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Encode output attribute using one hot encoder.md",
+    "Main/Study/First Sem/_index.md",
+    "Main/Study/LATEX/Introduction.md",
+    "Main/Images/Simplest_working_example_LaTeX_document.pdf",
+    "Main/Study/LATEX/To insert Images.md",
+    "Main/Study/LATEX/LATEX.md",
+    "Main/Study/LATEX",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/Machine Learning Vs Deep Learning Vs Artificial Intelligence.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Unit 1 Intro to artificial neural network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Units.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Class Till Now.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab1.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab2.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab3.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Contains Slides and Labs pdf.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/NN_Lab3_3_Hosuing.ipynb",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/NN_Lab3_2_Iris.ipynb",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/NN_Lab3_1_Heart(Binary_Class_Classification).ipynb",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Iris Prediction using MLP.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Encode output attribute using one hot encoder.md",
     "Main/Images/iris output.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Display input and output features of the dataset.md",
     "Main/Images/iris input output features.png",
     "Main/Images/iris input output.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Check the dataset for missing values and handle, if any.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A3- Heart Disease Prediction Using MLP.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Construct an MLP with configuration 11x128x64x32x1. Use Adam optimizer and appropriate activation functions and train the model..md",
     "Main/Images/mlp.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Predict heart disease for test data and display confusion matrix, accuracy, recall, precision and F1-score.md",
     "Main/Images/confusion-matrix.webp",
     "Main/Images/Predict heart disease for test data and display confusion matrix, accuracy, recall, precision and F1-score.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Encode non-numeric input attributes using Label Encoder.md",
     "Main/Images/encoding non numeric.png",
     "Main/Images/Display input and output features of the dataset.png",
     "Main/Images/1.png",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2/OOSE A2.pdf",
-    "Main/Template/Date/Date Full Detail.md",
-    "Main/Study/Untitled.md",
-    "Main/Template/Date/time AM-PM.md",
-    "Main/Template/Date/day.md",
     "Main/Template/Date",
-    "Main/Template/hour.md",
-    "README.md",
-    "Main/Template/Emoji/_Emoji.md",
-    "Main/Template/callout/warning - callout.md",
     "Main/Template/callout",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/OOSE Assignment1.pdf",
-    "Main/Images/Difference Between HOOD, OMT and RDD.png",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/Lab Assignment 3.docx.pdf"
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A1/OOSE Assignment1.pdf"
   ]
 }

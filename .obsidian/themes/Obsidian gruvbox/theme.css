@@ -577,3 +577,32 @@ body {
 .callout {
     background-color: rgba(var(--callout-color), 0.2);
 }
+
+
+
+
+
+
+
+
+
+
+
+/* ============================================================================================================================== */
+/* ================================================Change The font for Heading and common font ============================================== */
+
+
+/* font for everything outside of editor/preview panes */
+.app-container {
+    font-family: var(--font-family-preview);
+  }
+  
+  /* normal text outside of headings and code of editor */
+  .cm-s-obsidian, .mod-single-child .cm-s-obsidian {
+    font-family: var(--font-family-editor);
+  }
+  
+  /* normal text outside of headings and code of preview */
+  .markdown-preview-view, .mod-single-child .markdown-preview-view {
+    font-family: var(--font-family-editor);
+  }

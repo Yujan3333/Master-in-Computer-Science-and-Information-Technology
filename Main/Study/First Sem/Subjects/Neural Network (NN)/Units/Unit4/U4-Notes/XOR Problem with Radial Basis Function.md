@@ -1,4 +1,4 @@
-- XOR problem cannot be solved by *Single Layer Perceptron* because it is *not linearly separable*
+- XOR problem cannot be solved by *Single Layer Perceptron* because it is [not linearly separable](non-linear%20problem.md)
 - ==TO SOLVE:== Multi Layer Perceptron (**MLP**) - hidden layer
 - ==Alternative== : XOR problem using Radial Basis Function (RBF)
 ---
@@ -10,8 +10,9 @@
 $\varphi_1(x) = \exp(-\|x - c_1\|^2)$
 $\varphi_2(x) = \exp(-\|x - c_2\|^2)$
 
-#### To Update
-[[U4-Notes/XOR problem using RBF -Numerical Done By Sir]]
+
+#### To Update ⚠️
+[XOR problem using RBF -Numerical Done By Sir](U4-Notes/XOR%20problem%20using%20RBF%20-Numerical%20Done%20By%20Sir.md)
 
 ---
 After this we get the transformed input for the XOR inputs and they can be linearly separable as well.

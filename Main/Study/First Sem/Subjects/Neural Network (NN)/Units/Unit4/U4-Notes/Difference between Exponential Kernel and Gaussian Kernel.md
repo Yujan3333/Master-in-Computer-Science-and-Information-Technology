@@ -30,3 +30,10 @@ The main difference is in how they decay with distance:
 ==This means:==
 - The Gaussian kernel falls off more quickly as you move away from the center
 - The Exponential kernel has "fatter tails" and maintains influence over a greater distance
+
+==More Simpler==
+- **Gaussian:** Cares _mostly_ about things that are _very_ close.
+- **Exponential:** Cares about things that are close, but _also_ still pays _some_ attention to things that are a bit further away.
+
+###### Visual Graph
+![](../../../../../../../Images/unnamed.png)

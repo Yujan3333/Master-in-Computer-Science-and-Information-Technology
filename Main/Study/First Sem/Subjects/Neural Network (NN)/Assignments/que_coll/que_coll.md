@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- [A-3 Iris Prediction using MLP](./A-3%20Iris%20Prediction%20using%20MLP.md)
 - [A1- Question 1 - WAP to create a neuron](./A1-%20Question%201%20-%20WAP%20to%20create%20a%20neuron.md)
 - [A1- Question2 - WAP to train AND Gate Using Perceptron Algo](./A1-%20Question2%20-%20WAP%20to%20train%20AND%20Gate%20Using%20Perceptron%20Algo.md)
 - [A1- Question3 -  WAP to Min-Max Scalar](./A1-%20Question3%20-%20%20WAP%20to%20Min-Max%20Scalar.md)
@@ -21,6 +22,7 @@
 - [Construct an MLP with configuration 11x128x64x32x1. Use Adam optimizer and appropriate activation functions and train the model.](./Construct%20an%20MLP%20with%20configuration%2011x128x64x32x1.%20Use%20Adam%20optimizer%20and%20appropriate%20activation%20functions%20and%20train%20the%20model..md)
 - [Display input and output features of the dataset](./Display%20input%20and%20output%20features%20of%20the%20dataset.md)
 - [Encode non-numeric input attributes using Label Encoder](./Encode%20non-numeric%20input%20attributes%20using%20Label%20Encoder.md)
+- [Encode output attribute using one hot encoder](./Encode%20output%20attribute%20using%20one%20hot%20encoder.md)
 - [Online Vs Batch](./Online%20Vs%20Batch.md)
 - [Predict heart disease for test data and display confusion matrix, accuracy, recall, precision and F1-score](./Predict%20heart%20disease%20for%20test%20data%20and%20display%20confusion%20matrix,%20accuracy,%20recall,%20precision%20and%20F1-score.md)
 - [seed](./seed.md)
