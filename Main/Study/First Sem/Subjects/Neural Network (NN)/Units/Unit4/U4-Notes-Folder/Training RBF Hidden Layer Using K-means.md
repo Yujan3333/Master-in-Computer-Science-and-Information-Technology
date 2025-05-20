@@ -23,7 +23,7 @@ This gives you the **closest cluster center** (winning cluster).
 ##### ==🧠More Info==
 👉 “Find the **closest cluster center** $μ_k$​ to the point x.”
 
-❗ [More on Similarity matching](U4-Notes/More%20on%20Similarity%20matching.md)
+❗ [More on Similarity matching](More%20on%20Similarity%20matching.md)
 
 ---
 #### 4. Update Cluster Center
@@ -68,7 +68,7 @@ This gives a more **data-driven estimate** of the spread.
 
 ### 🧩 Why is **σ** important?
 
-In a [Gaussian RBF](U4-Notes/Gaussian%20Kernel.md):
+In a [Gaussian RBF](Gaussian%20Kernel.md):
 
 $\phi(x) = \exp\left( -\frac{\|x - \mu\|^2}{2\sigma^2} \right)$
 
@@ -78,5 +78,5 @@ $\phi(x) = \exp\left( -\frac{\|x - \mu\|^2}{2\sigma^2} \right)$
 
 ---
 ---
-### [Numerical On RBF Hidden Layer Using K-means](U4-Notes/Numerical%20On%20RBF%20Hidden%20Layer%20Using%20K-means.md)
+### [Numerical On RBF Hidden Layer Using K-means](Numerical%20On%20RBF%20Hidden%20Layer%20Using%20K-means.md)
 - Consider the XOR problem. Define two RBF centers and calculate the value of sigma for the RBF.

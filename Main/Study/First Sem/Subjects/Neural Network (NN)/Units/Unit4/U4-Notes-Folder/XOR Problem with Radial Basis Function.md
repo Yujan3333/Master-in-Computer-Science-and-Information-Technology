@@ -12,15 +12,15 @@ $\varphi_2(x) = \exp(-\|x - c_2\|^2)$
 
 
 #### To Update ⚠️
-[XOR problem using RBF -Numerical Done By Sir](U4-Notes/XOR%20problem%20using%20RBF%20-Numerical%20Done%20By%20Sir.md)
+[XOR problem using RBF -Numerical Done By Sir](XOR%20problem%20using%20RBF%20-Numerical%20Done%20By%20Sir.md)
 
 ---
 After this we get the transformed input for the XOR inputs and they can be linearly separable as well.
 ![](../../../../../../../Images/XOR%20Problem%20with%20Radial%20Basis%20Function.png)
 
 ### Exercise
-- [Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers](U4-Notes/Solve%20the%20XOR%20problem%20using%20RBF%20by%20taking%20(1,0)%20and%20(0,1)%20as%20centers.md).
-- [Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. ](U4-Notes/Solve%20the%20XOR%20problem%20using%20RBF%20such%20that%20transform%202D%20data%20points%20into%204D%20data%20points%20by%20taking%20each%20of%20the%20data%20point%20as%20center.%20.md)
+- [Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers](Solve%20the%20XOR%20problem%20using%20RBF%20by%20taking%20(1,0)%20and%20(0,1)%20as%20centers.md).
+- [Solve the XOR problem using RBF such that transform 2D data points into 4D data points by taking each of the data point as center. ](Solve%20the%20XOR%20problem%20using%20RBF%20such%20that%20transform%202D%20data%20points%20into%204D%20data%20points%20by%20taking%20each%20of%20the%20data%20point%20as%20center.%20.md)
 
 (Hint use the RBF below) 
 
