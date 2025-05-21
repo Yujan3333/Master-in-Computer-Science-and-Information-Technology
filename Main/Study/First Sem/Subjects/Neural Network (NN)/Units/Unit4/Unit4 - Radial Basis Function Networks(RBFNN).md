@@ -1,3 +1,4 @@
+**8hrs**
 ### Main Topic
 - Regularization theory
 - RBF networks for function approximation

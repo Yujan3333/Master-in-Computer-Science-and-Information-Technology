@@ -2,8 +2,14 @@
 - **Unit1**
 	- [Biological neural networks](./Unit1/Biological%20neural%20networks.md)
 	- [Unit 1 Intro to artificial neural network](./Unit1/Unit%201%20Intro%20to%20artificial%20neural%20network.md)
+- **Unit3**
+	- [Unit3 - Feedforward neural networks](./Unit3/Unit3%20-%20Feedforward%20neural%20networks.md)
+	- **Unit3-Notes-Folder**
+		- [linearly separable](./Unit3/Unit3-Notes-Folder/linearly%20separable.md)
+		- [Perceptron](./Unit3/Unit3-Notes-Folder/Perceptron.md)
 - **Unit4**
-	- **[U4-Notes](Unit4/U4-Notes-Folder/U4-Notes.md)n Exponential Kernel and Gaussian Kernel](./Unit4/U4-Notes-Folder/Difference%20between%20Exponential%20Kernel%20and%20Gaussian%20Kernel.md)
+	- **U4-Notes-Folder**
+		- [Difference between Exponential Kernel and Gaussian Kernel](./Unit4/U4-Notes-Folder/Difference%20between%20Exponential%20Kernel%20and%20Gaussian%20Kernel.md)
 		- [Exponential Kernel](./Unit4/U4-Notes-Folder/Exponential%20Kernel.md)
 		- [Gaussian Kernel](./Unit4/U4-Notes-Folder/Gaussian%20Kernel.md)
 		- [K-means Clustering Algorithm](./Unit4/U4-Notes-Folder/K-means%20Clustering%20Algorithm.md)
