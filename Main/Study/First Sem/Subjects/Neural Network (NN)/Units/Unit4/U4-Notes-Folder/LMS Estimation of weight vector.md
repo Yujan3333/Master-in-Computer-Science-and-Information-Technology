@@ -6,7 +6,7 @@
 
 The output from the hidden layer for input $x_i$ is denoted by  $\phi_j(x_i)$ 
 
-$\phi_j(\mathbf{x}_i) = \phi_{ji}$
+$$\phi_j(\mathbf{x}_i) = \phi_{ji}$$
 
 ![](../../../../../../../Images/LMS%20Estimation%20of%20weight%20vector2.png)
 #### matrix
