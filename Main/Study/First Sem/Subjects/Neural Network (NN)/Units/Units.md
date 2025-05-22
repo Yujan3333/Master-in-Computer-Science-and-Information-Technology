@@ -7,7 +7,10 @@
 	- **Unit3-Notes-Folder**
 		- [linearly separable](./Unit3/Unit3-Notes-Folder/linearly%20separable.md)
 		- [Perceptron Convergence Theorem](./Unit3/Unit3-Notes-Folder/Perceptron%20Convergence%20Theorem.md)
+		- [Perceptron Learning Algorithm](./Unit3/Unit3-Notes-Folder/Perceptron%20Learning%20Algorithm.md)
 		- [Perceptron](./Unit3/Unit3-Notes-Folder/Perceptron.md)
+		- [Question2 - Height and Weight of Male And Female](./Unit3/Unit3-Notes-Folder/Question2%20-%20Height%20and%20Weight%20of%20Male%20And%20Female.md)
+		- [Why is the transpose of W needed](./Unit3/Unit3-Notes-Folder/Why%20is%20the%20transpose%20of%20W%20needed.md)
 - **Unit4**
 	- **U4-Notes-Folder**
 		- [Difference between Exponential Kernel and Gaussian Kernel](./Unit4/U4-Notes-Folder/Difference%20between%20Exponential%20Kernel%20and%20Gaussian%20Kernel.md)

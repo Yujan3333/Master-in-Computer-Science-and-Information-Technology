@@ -103,6 +103,6 @@ $$
 
 ---
 ### Perceptron can show behavior of AND function and OR function but not XOR funciton
-- Because XOR is not linearly seperable
+- Because XOR is not linearly separable
 ###### Figure AND, OR , XOR
 ![](../../../../../../../Images/Perceptron-%20AND%20OR%20XOR.png)

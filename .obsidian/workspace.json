@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4a46c939db8ab8bb",
+        "id": "667fa0299dd34e3d",
         "type": "tabs",
         "children": [
           {
-            "id": "18325a18495e2e2f",
+            "id": "4bb738e19574d617",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit3/Unit3 - Feedforward neural networks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Unit3 - Feedforward neural networks"
+              "title": "New tab"
             }
           }
         ]
@@ -165,11 +160,21 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "18325a18495e2e2f",
+  "active": "4bb738e19574d617",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit3/Unit3-Notes-Folder/Perceptron Convergence Theorem.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit3/Unit3 - Feedforward neural networks.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit3/Unit3-Notes-Folder/Perceptron Learning Algorithm.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit3/Unit3-Notes-Folder/Perceptron Convergence Theorem.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit3/Unit3-Notes-Folder/Perceptron.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit3/Unit3-Notes-Folder/Question2 - Height and Weight of Male And Female.md",
+    "Main/Images/Question2- Male Female.png",
+    "Main/Images/Perceptron Learning Algorithm.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit3/Unit3-Notes-Folder/Why is the transpose of W needed.md",
+    "Main/Images/Pasted image 20250522193412.png",
+    "Main/Images/Pasted image 20250522193355.png",
+    "Main/Images/Pasted image 20250522193143.png",
+    "Main/Template/Emoji/_Emoji.md",
+    "Main/Template/Emoji/Simple Arrow.md",
     "Main/Images/Perceptron Convergence Theorem- weight update rule.png",
     "Main/Images/Perceptron Convergence Theorem - another equivalent perceptron.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/What is the meaning of Converge.md",
@@ -181,7 +186,6 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
     "README.md",
     "Main/Images/Pasted image 20250521190717.png",
-    "Main/Images/Perceptron.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit3/Unit3-Notes-Folder/linearly separable.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit3/Unit3-Notes-Folder",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Unit 1 Intro to artificial neural network.md",
@@ -194,23 +198,14 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes-Folder/non-linear problem.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes-Folder/linear classifier.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/U4-Notes-Folder/Difference between Exponential Kernel and Gaussian Kernel.md",
-    "Main/Images/unnamed.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/Lab3.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/A-3 Iris Prediction using MLP.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Assignments/que_coll/Encode output attribute using one hot encoder.md",
-    "Main/Study/First Sem/_index.md",
-    "Main/Study/LATEX/Introduction.md",
     "Main/Images/Simplest_working_example_LaTeX_document.pdf",
-    "Main/Study/LATEX/To insert Images.md",
     "Main/Study/LATEX",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/NN_Lab3_3_Hosuing.ipynb",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/NN_Lab3_2_Iris.ipynb",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/NN_Lab3_1_Heart(Binary_Class_Classification).ipynb",
-    "Main/Images/iris output.png",
-    "Main/Images/iris input output features.png",
-    "Main/Images/iris input output.png",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A2/OOSE A2.pdf"
   ]

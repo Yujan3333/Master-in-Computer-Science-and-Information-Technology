@@ -33,6 +33,7 @@ Weight vector: $w = [w_0, w_1, \dots, w_m]$
         - This just means:  
 	        → Multiply each input value by its corresponding weight  
 	        → Then **add them all up**
+	        → [Why is the transpose of W needed?](Why%20is%20the%20transpose%20of%20W%20needed.md)
         
 - **Input and Weight Vectors at Step n:**
     - At a specific training step $n$, the input and weight vectors are:

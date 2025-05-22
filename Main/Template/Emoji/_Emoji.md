@@ -69,6 +69,7 @@
 ➖ [Minus (Remove)](Minus%20(Remove).md)  
 🢂 [Right Arrow](Right%20Arrow.md)  
 🡸 [Left Arrow](Left%20Arrow.md)
+→ [Simple Arrow](Simple%20Arrow.md)
 🔄 [Arrows in Circle (Repeat)](Arrows%20in%20Circle%20(Repeat).md)  
 🔢 [Input Numbers (Steps - Sequence)](Input%20Numbers%20(Steps%20-%20Sequence).md)
 
