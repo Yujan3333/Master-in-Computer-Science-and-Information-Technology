@@ -17,6 +17,8 @@
 ---
 ### Slide Topics
 - [Perceptron](Unit3-Notes-Folder/Perceptron.md)
+- [Perceptron Convergence Theorem](Unit3-Notes-Folder/Perceptron%20Convergence%20Theorem.md)
+-  [[Perceptron Learning Algorithm]]
 
 
 

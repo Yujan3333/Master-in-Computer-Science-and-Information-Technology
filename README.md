@@ -1,5 +1,6 @@
 Notes and Study Material Collected by Me for my Masters.
- Its made from obsidian note taking app.
+
+Its made from obsidian note taking app.
  
 [Overview of the Master's Program](Main/Study/Overview%20of%20Master.md)
 

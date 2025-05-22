@@ -1,0 +1,1 @@
+- Basically means the weight of the neural network stops updating

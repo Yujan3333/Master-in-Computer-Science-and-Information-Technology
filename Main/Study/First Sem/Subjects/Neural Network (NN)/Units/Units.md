@@ -6,6 +6,7 @@
 	- [Unit3 - Feedforward neural networks](./Unit3/Unit3%20-%20Feedforward%20neural%20networks.md)
 	- **Unit3-Notes-Folder**
 		- [linearly separable](./Unit3/Unit3-Notes-Folder/linearly%20separable.md)
+		- [Perceptron Convergence Theorem](./Unit3/Unit3-Notes-Folder/Perceptron%20Convergence%20Theorem.md)
 		- [Perceptron](./Unit3/Unit3-Notes-Folder/Perceptron.md)
 - **Unit4**
 	- **U4-Notes-Folder**

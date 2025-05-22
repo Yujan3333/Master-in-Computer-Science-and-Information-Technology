@@ -19,7 +19,7 @@ Where:
 - $\sigma$ is a parameter known as the bandwidth or width of the kernel, controlling the smoothness of the decision boundary.
 
 ---
-##### Exponential Kernel Function - formula
+#####  [Exponential Kernel Function - formula](Exponential%20Kernel.md)
 $$
 k(x, y) = \exp\left( -\frac{\lVert x - y \rVert}{2\sigma^2} \right)
 $$

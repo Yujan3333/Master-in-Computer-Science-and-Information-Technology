@@ -45,13 +45,13 @@ A perceptron can only classify  [linearly separable data](linearly%20separable.m
         
 3. **Multi-Class Classification**:
     
-    - To classify **more than two classes**, the output layer must have **multiple neurons**.
+    - To classify *more than two classes*, the output layer must have *multiple neurons*.
         
-    - However, the classes must still be **linearly separable** for correct operation.
+    - However, the classes must still be linearly separable* for correct operation.
         
 4. **Neural Model Basis**:
     
-    - Rosenblatt’s perceptron is based on the **McCulloch–Pitts model** of a neuron.
+    - Rosenblatt’s perceptron is based on the *McCulloch–Pitts model* of a neuron.
         
 5. **Function of the Neuron**:
     
@@ -68,7 +68,7 @@ A perceptron can only classify  [linearly separable data](linearly%20separable.m
 
 ---
 
-### Figure
+### Perceptron Figure
 ![](../../../../../../../Images/Perceptron.png)
 
 #### Hard Limiter function
@@ -79,6 +79,7 @@ $$
 
 ![](../../../../../../../Images/Pasted%20image%2020250521190717.png)
 
+#### Description 
 
 1. **Goal**:
     
@@ -95,4 +96,13 @@ $$
     - The input space is divided into **two regions**.
         
     - These regions are separated by a **hyperplane**, which defines the decision surface of the perceptron.
-        
+
+---
+#### Hyperplane
+![](../../../../../../../Images/Perceptron-hyperplane.png)
+
+---
+### Perceptron can show behavior of AND function and OR function but not XOR funciton
+- Because XOR is not linearly seperable
+###### Figure AND, OR , XOR
+![](../../../../../../../Images/Perceptron-%20AND%20OR%20XOR.png)
