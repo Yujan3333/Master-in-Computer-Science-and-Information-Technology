@@ -1,4 +1,4 @@
-### ChatGPT
+
 **Batch Operating System** — which is associated with the **2nd Generation (1955–1965)** of computers.
 
 ---

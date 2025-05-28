@@ -1,4 +1,4 @@
-### Claude
+
 Operating Systems as **Extended Machines** act as intermediaries between users/applications and the raw hardware. This abstraction serves two key purposes:
 
 1. Simplification: The OS provides a cleaner, more intuitive interface than the complex underlying hardware. Instead of dealing with registers, memory addresses, and I/O ports directly, users and applications work with files, processes, and communication channels.

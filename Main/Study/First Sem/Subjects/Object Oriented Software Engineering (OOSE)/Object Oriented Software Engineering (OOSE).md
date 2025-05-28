@@ -7,11 +7,13 @@
 	- [Object Modeling Technique (OMT)](./OOSE%20A2/Object%20Modeling%20Technique%20(OMT).md)
 	- [Responsibility-driven design (RDD)](./OOSE%20A2/Responsibility-driven%20design%20(RDD).md)
 - **OOSE A3-Case Study**
+
 - **[Unit1](./Unit1/Unit1.md)**
-	- [Activity Diagram](./Unit1/Activity%20Diagram.md)
-	- [Class Diagram](./Unit1/Class%20Diagram.md)
 	- [Unit1 - Exam Question Collection](./Unit1/Unit1%20-%20Exam%20Question%20Collection.md)
-	- [Use Case Diagram](./Unit1/Use%20Case%20Diagram.md)
+	- **Unit1-Notes-Folder**
+		- [Activity Diagram](./Unit1/Unit1-Notes-Folder/Activity%20Diagram.md)
+		- [Class Diagram](./Unit1/Unit1-Notes-Folder/Class%20Diagram.md)
+		- [Use Case Diagram](./Unit1/Unit1-Notes-Folder/Use%20Case%20Diagram.md)
 - **Unit2**
 
 %% End Waypoint %%

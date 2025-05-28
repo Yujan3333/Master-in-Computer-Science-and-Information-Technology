@@ -79,7 +79,7 @@
                                     {
                                       "type": "file",
                                       "ctime": 1743439665081,
-                                      "path": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit1/Unit 1 Intro to artificial neural network.md",
+                                      "path": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit1/Unit 1 Intro to artificial neural network.md",
                                       "subpath": "#^-"
                                     }
                                   ],
@@ -92,14 +92,14 @@
                                     {
                                       "type": "file",
                                       "ctime": 1745063166978,
-                                      "path": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
+                                      "path": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
                                       "subpath": "#^-"
                                     }
                                   ],
                                   "title": "Unit4"
                                 }
                               ],
-                              "title": "Units"
+                              "title": "1-Units"
                             }
                           ],
                           "title": "Neural Network (NN)"

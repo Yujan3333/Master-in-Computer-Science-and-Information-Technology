@@ -1,5 +1,5 @@
 **Lab Assignment 2**
-- [Online Vs Batch](Online%20Vs%20Batch.md)
+- [Online Vs Batch](que_coll/Online%20Vs%20Batch.md)
 ---
 - [A2- Backpropagation algorithm - 2x2x1 to achieve XOR function. Using sigmoid and online](que_coll/A2-%20Backpropagation%20algorithm%20-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20sigmoid%20and%20online.md) 
 - [A2 - Backpropagtion algo - 2x2x1 to achieve XOR function. Using tanh and online](que_coll/A2%20-%20Backpropagtion%20algo%20-%202x2x1%20to%20achieve%20XOR%20function.%20Using%20tanh%20and%20online.md)

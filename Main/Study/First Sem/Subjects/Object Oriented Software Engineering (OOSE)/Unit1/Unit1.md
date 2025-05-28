@@ -18,9 +18,9 @@
 	[[Object Orientation Implementation]]
 
 [[UML Diagram]]
-	[Class Diagram](Class%20Diagram.md)
-	[Use Case Diagram](Use%20Case%20Diagram.md)
-	[Activity Diagram](Activity%20Diagram.md)
+	[Class Diagram](Unit1-Notes-Folder/Class%20Diagram.md)
+	[Use Case Diagram](Unit1-Notes-Folder/Use%20Case%20Diagram.md)
+	[Activity Diagram](Unit1-Notes-Folder/Activity%20Diagram.md)
 
 
 
