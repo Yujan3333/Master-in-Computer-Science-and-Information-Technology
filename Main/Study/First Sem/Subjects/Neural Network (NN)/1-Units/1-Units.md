@@ -3,9 +3,9 @@
 	- [Biological neural networks](./Unit1/Biological%20neural%20networks.md)
 	- [Unit 1 Intro to artificial neural network](./Unit1/Unit%201%20Intro%20to%20artificial%20neural%20network.md)
 - **Unit3**
-	- [Batch Perceptron Algorithm](./Unit3/Batch%20Perceptron%20Algorithm.md)
 	- [Unit3 - Feedforward neural networks](./Unit3/Unit3%20-%20Feedforward%20neural%20networks.md)
 	- **Unit3-Notes-Folder**
+		- [Batch Perceptron Algorithm](./Unit3/Unit3-Notes-Folder/Batch%20Perceptron%20Algorithm.md)
 		- [Gradient Descent](./Unit3/Unit3-Notes-Folder/Gradient%20Descent.md)
 		- [linearly separable](./Unit3/Unit3-Notes-Folder/linearly%20separable.md)
 		- [MORE on Gradient Descent](./Unit3/Unit3-Notes-Folder/MORE%20on%20Gradient%20Descent.md)
