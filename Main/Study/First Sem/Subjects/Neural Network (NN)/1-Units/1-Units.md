@@ -5,11 +5,14 @@
 - **Unit3**
 	- [Unit3 - Feedforward neural networks](./Unit3/Unit3%20-%20Feedforward%20neural%20networks.md)
 	- **Unit3-Notes-Folder**
+		- [Gradient Descent](./Unit3/Unit3-Notes-Folder/Gradient%20Descent.md)
 		- [linearly separable](./Unit3/Unit3-Notes-Folder/linearly%20separable.md)
+		- [MORE on Gradient Descent](./Unit3/Unit3-Notes-Folder/MORE%20on%20Gradient%20Descent.md)
 		- [Perceptron Convergence Theorem](./Unit3/Unit3-Notes-Folder/Perceptron%20Convergence%20Theorem.md)
 		- [Perceptron Learning Algorithm](./Unit3/Unit3-Notes-Folder/Perceptron%20Learning%20Algorithm.md)
 		- [Perceptron](./Unit3/Unit3-Notes-Folder/Perceptron.md)
 		- [Question2 - Height and Weight of Male And Female](./Unit3/Unit3-Notes-Folder/Question2%20-%20Height%20and%20Weight%20of%20Male%20And%20Female.md)
+		- [What is a Slope and Gradient](./Unit3/Unit3-Notes-Folder/What%20is%20a%20Slope%20and%20Gradient.md)
 		- [Why is the transpose of W needed](./Unit3/Unit3-Notes-Folder/Why%20is%20the%20transpose%20of%20W%20needed.md)
 - **Unit4**
 	- **U4-Notes-Folder**

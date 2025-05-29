@@ -19,6 +19,8 @@
 - [Perceptron](Unit3-Notes-Folder/Perceptron.md)
 - [Perceptron Convergence Theorem](Unit3-Notes-Folder/Perceptron%20Convergence%20Theorem.md)
 -  [Perceptron Learning Algorithm](Unit3-Notes-Folder/Perceptron%20Learning%20Algorithm.md)
+- [Gradient Descent](Unit3-Notes-Folder/Gradient%20Descent.md)
+- 
 
 
 
