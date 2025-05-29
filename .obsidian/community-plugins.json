@@ -11,5 +11,6 @@
   "oz-clear-unused-images",
   "obsidian-git",
   "custom-sort",
-  "wikilinks-to-mdlinks-obsidian"
+  "wikilinks-to-mdlinks-obsidian",
+  "obsidian-paste-to-current-indentation"
 ]

@@ -23,37 +23,22 @@
             }
           },
           {
-            "id": "ad765da2c953337b",
+            "id": "62aaaa88d12a7e9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Gradient Descent.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Batch Perceptron Algorithm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Gradient Descent"
-            }
-          },
-          {
-            "id": "68d9cb38f62dc8e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/MORE on Gradient Descent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "MORE on Gradient Descent"
+              "title": "Batch Perceptron Algorithm"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -196,13 +181,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "68d9cb38f62dc8e3",
+  "active": "62aaaa88d12a7e9a",
   "lastOpenFiles": [
+    "Attachments/Batch Perceptron Algorithm.png",
+    "Attachments",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Batch Perceptron Algorithm.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Gradient Descent.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/MORE on Gradient Descent.md",
+    "Main/Images/Learning rate.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/What is a Slope and Gradient.md",
     "Main/Images/What is a Slope and Gradient.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/MORE on Gradient Descent.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Gradient Descent.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
     "Main/Images/Gradient Descent- formula.png",
     "Main/Images/Gradient Descent a.png",
     "Main/Images/Gradient Descent.png",
@@ -229,7 +218,6 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Contains Slides and Labs pdf.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/Lab3.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/Lab2.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/Unit1-Notes-Folder",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Unit1-Notes-Folder",
@@ -239,10 +227,8 @@
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/OOSE Case Study - Online Food Delivery-Class Diagram-PlantUML.png",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/OOSE Case Study - Online Food Delivery.drawio.png",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/OOSE Case Study - Online Food Delivery - Sequence Diagram.png",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/objective.jfif",
     "Main/Images/Question2- Male Female.png",
     "Main/Images/Perceptron Learning Algorithm.png",
-    "Main/Images/Pasted image 20250522193412.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }
