@@ -22,6 +22,7 @@
 - [Gradient Descent](Unit3-Notes-Folder/Gradient%20Descent.md)
 - [Batch Perceptron Algorithm](Unit3-Notes-Folder/Batch%20Perceptron%20Algorithm.md)
 - [[Multilayer Feedforward Network]]
+- [[Back Propagation Network]]
 
 
 
