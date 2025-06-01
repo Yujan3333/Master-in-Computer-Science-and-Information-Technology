@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "894edbac95e574da",
+        "id": "e24282255f479ada",
         "type": "tabs",
         "children": [
           {
-            "id": "0525e589af2003ad",
+            "id": "69be93d39b8bb86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Batch and Online Learning.md",
+                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit4/Unit4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Batch and Online Learning"
+              "title": "Unit4"
             }
           }
         ]
@@ -165,10 +165,22 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "0525e589af2003ad",
+  "active": "69be93d39b8bb86b",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit4/U4-Notes/Project selection and preparation.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit4/Unit4.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit4/U4-Notes",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-Notes-Folder/Unit1 - Exam Question Collection.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A1/OOSE Assignment1.pdf",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A2/Difference Between HOOD, OMT and RDD.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A3-Case Study/Yujan_Case Study on Online Food Delivery System.pdf",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Batch and Online Learning.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
     "Attachments/Pasted image 20250531173758.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Multilayer Feedforward Network.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/1-Units.md",
@@ -198,20 +210,9 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit1-Notes-Folder/1.3 Deadlocks/1.3 Deadlocks.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit1-Notes-Folder/1.2 Process Scheduling/1.2 Process Scheduling.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit1-Notes-Folder/1.1 Process management/Process Synchronization.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit1-Notes-Folder/1.1 Process management/1.1 Process management.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit1-Notes-Folder/1.0 Prerequiste/What is OS.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit1-Notes-Folder/1.0 Prerequiste/Batch Operation System.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit1-Notes-Folder/1.0 Prerequiste/OS as a Extended Machine.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/_index.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit1-Notes-Folder",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/Unit1-Notes-Folder",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Unit1-Notes-Folder",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/Yujan_Case Study on Online Food Delivery System.pdf",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/Yujan_Case Study on Online Food Delivery System.docx",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/Prashant_Case_study__OOSE_.pdf",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }
