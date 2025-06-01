@@ -73,6 +73,12 @@
                               "ctime": 1743439665081,
                               "items": [
                                 {
+                                  "type": "file",
+                                  "ctime": 1748691066096,
+                                  "path": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/1-Units.md",
+                                  "subpath": "#^-"
+                                },
+                                {
                                   "type": "group",
                                   "ctime": 1743439665081,
                                   "items": [
@@ -96,7 +102,7 @@
                                       "subpath": "#^-"
                                     }
                                   ],
-                                  "title": "Unit4"
+                                  "title": "\\\\Unit4"
                                 }
                               ],
                               "title": "1-Units"

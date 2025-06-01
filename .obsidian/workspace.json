@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Batch and Online Learning.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit3 - Feedforward neural networks"
+              "title": "Batch and Online Learning"
             }
           }
         ]
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit3/Unit3 - Feedforward neural networks.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Batch and Online Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit3 - Feedforward neural networks"
+              "title": "Outline of Batch and Online Learning"
             }
           }
         ]
@@ -167,9 +167,16 @@
   },
   "active": "0525e589af2003ad",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Batch and Online Learning.md",
+    "Attachments/Pasted image 20250531173758.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Multilayer Feedforward Network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/1-Units.md",
+    "Attachments/Multilayer Feedforward Network-signals.png",
+    "Attachments/Multilayer Feedforward Network Fully Connected.png",
+    "Attachments/Multilayer Feedforward Network-1.png",
     "Attachments/Pasted image 20250529204857.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Batch Perceptron Algorithm.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
     "Attachments/Batch Perceptron Algorithm-1.png",
     "Attachments/Batch Perceptron Algorithm.png",
     "Attachments",
@@ -179,9 +186,6 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/What is a Slope and Gradient.md",
     "Main/Images/What is a Slope and Gradient.png",
     "Main/Images/Gradient Descent- formula.png",
-    "Main/Images/Gradient Descent a.png",
-    "Main/Images/Gradient Descent.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/1-Units.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
     "Main/Study/Overview of Master.md",
     "Main/Images/seminar Msc CSIT.pdf",
@@ -202,17 +206,12 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/_index.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit1-Notes-Folder",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Contains Slides and Labs pdf.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/Lab3.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/Unit1-Notes-Folder",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Unit1/Unit1-Notes-Folder",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/Yujan_Case Study on Online Food Delivery System.pdf",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/Yujan_Case Study on Online Food Delivery System.docx",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/Prashant_Case_study__OOSE_.pdf",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/OOSE Case Study - Online Food Delivery-Class Diagram-PlantUML.png",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/OOSE Case Study - Online Food Delivery.drawio.png",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/OOSE A3-Case Study/OOSE Case Study - Online Food Delivery - Sequence Diagram.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }
