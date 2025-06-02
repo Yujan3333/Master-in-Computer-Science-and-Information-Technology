@@ -7,7 +7,6 @@
 			- [Unit1 - Exam Question Collection](./1-Units/Unit1/Unit1-Notes-Folder/Unit1%20-%20Exam%20Question%20Collection.md)
 			- [Use Case Diagram](./1-Units/Unit1/Unit1-Notes-Folder/Use%20Case%20Diagram.md)
 	- **[Unit4](./1-Units/Unit4/Unit4.md)**
-		- **U4-Notes**
 - **2-Assignments**
 	- **OOSE A1**
 

@@ -11,7 +11,6 @@
 			- [Potential method](./1-Units/Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/Unit1-Notes-Folder/Potential%20method.md)
 			- [Time Complexity](./1-Units/Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/Unit1-Notes-Folder/Time%20Complexity.md)
 			- [What is an Algorithm](./1-Units/Unit1%20Advance%20Algorithm%20Analysis%20and%20Design%20Techniques%2010hr/Unit1-Notes-Folder/What%20is%20an%20Algorithm.md)
-	- **Unit2 Computational Complexity Theory**
 - **2-Assignment-AC**
 	- [_index](./2-Assignment-AC/_index.md)
 	- [Huffman Coding](./2-Assignment-AC/Huffman%20Coding.md)
@@ -19,6 +18,5 @@
 	- [Randomized Quicksort](./2-Assignment-AC/Randomized%20Quicksort.md)
 	- [Shannon Fano Coding](./2-Assignment-AC/Shannon%20Fano%20Coding.md)
 	- [Which Algorithm is better Shannon Feno or Huffman](./2-Assignment-AC/Which%20Algorithm%20is%20better%20Shannon%20Feno%20or%20Huffman.md)
-- [Class Till Now](./Class%20Till%20Now.md)
 
 %% End Waypoint %%

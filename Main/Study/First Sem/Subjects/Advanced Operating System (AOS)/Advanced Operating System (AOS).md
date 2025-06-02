@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **1-Units**
-	- **[Unit1](./1-Units/Unit1/Unit1.md)**
+	- **Unit1**
 - **2-Assignment**
 	- [_index](./2-Assignment/_index.md)
 	- [Assignment-1](./2-Assignment/Assignment-1.md)
