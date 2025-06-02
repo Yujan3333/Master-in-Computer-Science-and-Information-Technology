@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "6de87c66e37e7a8d",
+        "id": "aa3e8a968bb7e3fe",
         "type": "tabs",
         "children": [
           {
-            "id": "24d6ab5edfe4a420",
+            "id": "a2270bd8cc4b7f56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit4/Unit4.md",
+                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4/U4 Mesh and Hypercube Algorithms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit4"
+              "title": "U4 Mesh and Hypercube Algorithms"
+            }
+          },
+          {
+            "id": "f96d1eb98769d513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4/Missed Class.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Missed Class"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,8 +181,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "24d6ab5edfe4a420",
+  "active": "f96d1eb98769d513",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4/Missed Class.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4/U4 Mesh and Hypercube Algorithms.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Unit1-Notes-Folder.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/2-Assignment/_index.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/U1 Advance Algorithm Analysis and Design techniques.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit4/Unit4.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/1-Units.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
     "Main/Study/First Sem/_index.md",
@@ -178,10 +203,7 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/semaphores.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/monitors.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/Assignment-2.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Class Till Now.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/2-Assignment-AC/_index.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit4/Unit4.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit4/U4-Notes/Project selection and preparation.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit4/U4-Notes",
@@ -193,26 +215,20 @@
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Batch and Online Learning.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
     "Attachments/Pasted image 20250531173758.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Multilayer Feedforward Network.md",
     "Attachments/Multilayer Feedforward Network-signals.png",
     "Attachments/Multilayer Feedforward Network Fully Connected.png",
     "Attachments/Multilayer Feedforward Network-1.png",
     "Attachments/Pasted image 20250529204857.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Batch Perceptron Algorithm.md",
     "Attachments/Batch Perceptron Algorithm-1.png",
     "Attachments/Batch Perceptron Algorithm.png",
     "Attachments",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Gradient Descent.md",
     "Main/Images/Learning rate.png",
     "Main/Images/What is a Slope and Gradient.png",
     "Main/Images/Gradient Descent- formula.png",
     "Main/Images/seminar Msc CSIT.pdf",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit1-Notes-Folder",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1 Advance Algorithm Analysis and Design Techniques 10hr/Unit1-Notes-Folder",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }
