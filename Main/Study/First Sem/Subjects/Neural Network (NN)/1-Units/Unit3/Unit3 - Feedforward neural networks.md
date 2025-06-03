@@ -23,7 +23,7 @@
 - [Batch Perceptron Algorithm](Unit3-Notes-Folder/Batch%20Perceptron%20Algorithm.md)
 - [Multilayer Feedforward Network](Unit3-Notes-Folder/Multilayer%20Feedforward%20Network.md)
 - [[Back Propagation Network]]
-- [Batch and Online Learning](Batch%20and%20Online%20Learning.md)
+- [Batch and Online Learning](Unit3-Notes-Folder/Batch%20and%20Online%20Learning.md)
 
 
 

@@ -14,3 +14,4 @@ Constant- O(1)
 ```
 ##### Here,
 `n` is the *input size*
+![](../../../../../../../Images/time%20complexity%201.jpg)
