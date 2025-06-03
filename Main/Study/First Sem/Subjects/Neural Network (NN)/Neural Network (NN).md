@@ -15,8 +15,7 @@
 	- [Lab3](./2-Assignments/Lab3.md)
 	- **[que_coll](./2-Assignments/que_coll/que_coll.md)**
 - **3-Past Que**
-	- **_Notes**
-		- [Solution](./3-Past%20Que/_Notes/Solution.md)
+	- **[_Notes](./3-Past%20Que/_Notes/_Notes.md)**
 	- [Past Questions](./3-Past%20Que/Past%20Questions.md)
 - **[General Knowledge](./General%20Knowledge/General%20Knowledge.md)**
 - **Slides-Lab Files**
