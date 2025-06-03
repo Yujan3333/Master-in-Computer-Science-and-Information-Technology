@@ -13,32 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4/U4 Mesh and Hypercube Algorithms.md",
+                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4/Missed Class-U4 mesh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "U4 Mesh and Hypercube Algorithms"
-            }
-          },
-          {
-            "id": "f96d1eb98769d513",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4/Missed Class.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Missed Class"
+              "title": "Missed Class-U4 mesh"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,10 +165,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "f96d1eb98769d513",
+  "active": "a2270bd8cc4b7f56",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4/Missed Class.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4/U4 Mesh and Hypercube Algorithms.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4/Missed Class-U4 mesh.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/Lab2.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/Lab3.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Unit1-Notes-Folder.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/2-Assignment/_index.md",
@@ -210,11 +196,9 @@
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-Notes-Folder/Unit1 - Exam Question Collection.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A1/OOSE Assignment1.pdf",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A2/Difference Between HOOD, OMT and RDD.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A3-Case Study/Yujan_Case Study on Online Food Delivery System.pdf",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units.md",
     "Attachments/Pasted image 20250531173758.png",
     "Attachments/Multilayer Feedforward Network-signals.png",
     "Attachments/Multilayer Feedforward Network Fully Connected.png",

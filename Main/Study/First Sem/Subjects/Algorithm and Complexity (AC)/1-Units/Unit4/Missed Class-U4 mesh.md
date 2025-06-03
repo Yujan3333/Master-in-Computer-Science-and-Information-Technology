@@ -1,3 +1,4 @@
+## Prefix Computation In Mesh
 The image describes a parallel algorithm for computing prefix sums (also known as scan operations) on a 2D mesh architecture using a row-major indexing scheme. Here's a step-by-step explanation of the process:
 
 **PE**-> Processing Element
@@ -63,5 +64,7 @@ Row 4: [4, 21, 22]
 The algorithm runs in $O(\sqrt{P})$ time, where *P*  is the number of PEs, because:
 - Each step (row/column prefix, shift, broadcast) takes \( $O(\sqrt{P})$  time on a mesh.
 
+==Why $\sqrt{P}\text{ }$  is used here though? ==
+- Row and column doesnot always needs to be equal But here P=9 means 3x3 mesh.
 ### Summary:
 The algorithm efficiently computes prefix sums by breaking the problem into parallel row/column operations and combining results through shifting and broadcasting. This approach leverages the mesh's 2D structure to achieve logarithmic-time performance.
