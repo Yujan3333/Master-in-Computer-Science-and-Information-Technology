@@ -20,7 +20,7 @@
 - Consider the following **ANN** with **logistic activation function**. Calculate **weight updates** for the training sample (0.7, 0.3, 0.6) using **Momentum**.  Assume: Learning rate α=0.1 , Momentum constant β=0.8
 	   ![](../../../../../../Attachments/Past%20Questions-%20ANN%20momentum.png)
 
-- Why is **BPTT** (Backpropagation Through Time) employed in **RNNs** rather than Backpropagation?  **Derive weight update rule for BPTT algorithm.**
+
 
 
 ### Unit 4
@@ -33,3 +33,5 @@
 - Consider the following **1-D SOM** (Self-Organizing Map) and initial weight matrix. **Show the working of SOM** for the input vector **(0.2, 0.1, 0.3).**
 	 ![](../../../../../../Attachments/Past%20Questions-self%20org%20map.png)
 
+### Unit 7
+- Why is **BPTT** (Backpropagation Through Time) employed in **RNNs** rather than Backpropagation?  **Derive weight update rule for BPTT algorithm.**
