@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/Past Questions.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Past Questions"
+              "title": "Unit7 - Feedback Neural Network"
             }
           }
         ]
@@ -167,12 +167,25 @@
   },
   "active": "18f9d0d1563bdeac",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/_Notes/_Notes.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/One Hot Encoding.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/RNN.md",
+    "Attachments/Pasted image 20250614113130.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Understanding the RNN Figure and formula.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/From Sir Slide.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Understanding 2.md",
+    "Attachments/Pasted image 20250614110841.png",
+    "Attachments/Fig RNN.png",
+    "Attachments/Pasted image 20250614103737.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Understanding This.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/_Notes/_Notes.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/_Notes/Solution.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/Past Questions.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Batch and Online Learning.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/Past Questions.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/_Notes/Solution.md",
     "Attachments/Past Questions-self org map.png",
     "Attachments/Past Questions- ANN momentum.png",
     "Attachments/Past Questions- gradient descent cubic.png",
@@ -181,10 +194,6 @@
     "Attachments/Solution9.png",
     "Attachments/Solution7.png",
     "Attachments/Solution6.png",
-    "Attachments/Solution5.png",
-    "Attachments/Solution4.png",
-    "Attachments/Solution3.png",
-    "Attachments/Solution2.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Untitled.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/2-Assignment/Shannon Fano Coding.md",
@@ -198,21 +207,12 @@
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Aggregate Method.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Algorithm Fine Tuning.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Time Complexity.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/U1 Advance Algorithm Analysis and Design techniques.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Contains Slides and Labs pdf.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Sir Note/Unit -3 FFNN.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Sir Note/Unit -1 Introduction to ANN.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Sir Note/Unit -6 Self Organizing Maps.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Sir Note/Unit -4 RBFNN.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Sir Note",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab 2/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 2.pdf",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab3/Lab Assignment 3.docx.pdf",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/que_coll/que_coll.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/Lab3.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/Lab2.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/Lab1.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit4/Unit4-Notes-Folder/Unit4-Notes-Folder.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }

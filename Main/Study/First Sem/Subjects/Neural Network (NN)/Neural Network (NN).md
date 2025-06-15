@@ -9,6 +9,14 @@
 	- **Unit4**
 		- [Unit4 - Radial Basis Function Networks(RBFNN)](./1-Units/Unit4/Unit4%20-%20Radial%20Basis%20Function%20Networks(RBFNN).md)
 		- **[Unit4-Notes-Folder](./1-Units/Unit4/Unit4-Notes-Folder/Unit4-Notes-Folder.md)**
+	- **Unit7**
+		- [Unit7 - Feedback Neural Network](./1-Units/Unit7/Unit7%20-%20Feedback%20Neural%20Network.md)
+		- **Unit7-Notes**
+			- [From Sir Slide](./1-Units/Unit7/Unit7-Notes/From%20Sir%20Slide.md)
+			- [RNN](./1-Units/Unit7/Unit7-Notes/RNN.md)
+			- [Understanding 2](./1-Units/Unit7/Unit7-Notes/Understanding%202.md)
+			- [Understanding the RNN Figure and formula](./1-Units/Unit7/Unit7-Notes/Understanding%20the%20RNN%20Figure%20and%20formula.md)
+			- [Understanding This](./1-Units/Unit7/Unit7-Notes/Understanding%20This.md)
 - **2-Assignments**
 	- [Lab1](./2-Assignments/Lab1.md)
 	- [Lab2](./2-Assignments/Lab2.md)
