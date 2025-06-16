@@ -1,6 +1,8 @@
 %% Begin Waypoint %%
 - **1-Units**
 	- **Unit1**
+	- **Unit4**
+		- [Unit 4 - Distributed Special Purpose Systems](./1-Units/Unit4/Unit%204%20-%20Distributed%20Special%20Purpose%20Systems.md)
 - **2-Assignment**
 	- [_index](./2-Assignment/_index.md)
 	- [Assignment-1](./2-Assignment/Assignment-1.md)
