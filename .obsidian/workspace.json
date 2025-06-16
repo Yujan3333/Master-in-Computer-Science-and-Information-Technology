@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
+                "file": "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Unit 1.2 Semantics of Concurrent Programming/_index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit7 - Feedback Neural Network"
+              "title": "_index"
             }
           }
         ]
@@ -167,12 +167,21 @@
   },
   "active": "18f9d0d1563bdeac",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Unit 1.2 Semantics of Concurrent Programming/Numerical of Sir Slide.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Unit 1.2 Semantics of Concurrent Programming/Last Numerical.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Unit 1.2 Semantics of Concurrent Programming/_index.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Unit 1.2 Semantics of Concurrent Programming/Axiomatic Semantic Definition.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Unit 1.2 Semantics of Concurrent Programming/Concurrent Programming.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Unit 1.2 Semantics of Concurrent Programming/Models of Concurrent Programming.md",
+    "Attachments/Pasted image 20250615173513.png",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Unit 1.2 Semantics of Concurrent Programming",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/One Hot Encoding.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/RNN.md",
     "Attachments/Pasted image 20250614113130.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Understanding the RNN Figure and formula.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/From Sir Slide.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Understanding 2.md",
     "Attachments/Pasted image 20250614110841.png",
     "Attachments/Fig RNN.png",
@@ -193,26 +202,17 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/Discuss about ReLU, Leaky ReLU and Softmax activation functions used in neural network.md",
     "Attachments/Solution9.png",
     "Attachments/Solution7.png",
-    "Attachments/Solution6.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Untitled.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/2-Assignment/Shannon Fano Coding.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/2-Assignment/Huffman Coding.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Hay Problem.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Amortized Algorithm.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Potential method.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Accounting Method.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Aggregate Method.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Algorithm Fine Tuning.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Time Complexity.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Sir Note/Unit -3 FFNN.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Sir Note/Unit -1 Introduction to ANN.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Sir Note/Unit -6 Self Organizing Maps.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Sir Note/Unit -4 RBFNN.pptx",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Sir Note",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Slides-Lab Files/Lab 2/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 2.pdf",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }
