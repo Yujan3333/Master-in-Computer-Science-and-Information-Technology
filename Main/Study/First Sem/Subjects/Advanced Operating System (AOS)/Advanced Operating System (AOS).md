@@ -16,7 +16,5 @@
 	- [monitors](./2-Assignment/monitors.md)
 	- [semaphores](./2-Assignment/semaphores.md)
 	- [What is critical section and critical section problem](./2-Assignment/What%20is%20critical%20section%20and%20critical%20section%20problem.md)
-- **Resources by Sir**
-
 
 %% End Waypoint %%

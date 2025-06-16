@@ -35,8 +35,6 @@
 
 	- **Lab 3**
 
-	- **Resources By Sir**
-
 
 %% End Waypoint %%
 

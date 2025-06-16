@@ -13,7 +13,5 @@
 	- [Randomized Quicksort](./2-Assignment/Randomized%20Quicksort.md)
 	- [Shannon Fano Coding](./2-Assignment/Shannon%20Fano%20Coding.md)
 	- [Which Algorithm is better Shannon Feno or Huffman](./2-Assignment/Which%20Algorithm%20is%20better%20Shannon%20Feno%20or%20Huffman.md)
-- **Resources By Sir**
-
 
 %% End Waypoint %%
