@@ -17,5 +17,7 @@
 		- [Responsibility-driven design (RDD)](./2-Assignments/OOSE%20A2/Responsibility-driven%20design%20(RDD).md)
 	- **OOSE A3-Case Study**
 
+- **Resources for OOSE**
+
 
 %% End Waypoint %%

@@ -1,4 +1,6 @@
 %% Begin Waypoint %%
+- **Resources By Sir**
+
 - **Units**
 	- **Unit 1.2 Semantics of Concurrent Programming**
 		- [_index](./Units/Unit%201.2%20Semantics%20of%20Concurrent%20Programming/_index.md)

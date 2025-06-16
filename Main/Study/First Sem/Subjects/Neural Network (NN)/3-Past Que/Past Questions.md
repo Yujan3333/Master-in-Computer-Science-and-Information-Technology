@@ -1,6 +1,6 @@
 ### Unit1
 - Discuss about ReLU, Leaky ReLU and Softmax activation functions used in neural network.
-- 
+
 
 
 ### Unit2

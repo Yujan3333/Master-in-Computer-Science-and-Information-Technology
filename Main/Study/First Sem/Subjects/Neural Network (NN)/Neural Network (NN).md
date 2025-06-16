@@ -33,9 +33,9 @@
 	- **Lab 2**
 		- **Program**
 
-	- **Lab3**
+	- **Lab 3**
 
-	- **Sir Note**
+	- **Resources By Sir**
 
 
 %% End Waypoint %%

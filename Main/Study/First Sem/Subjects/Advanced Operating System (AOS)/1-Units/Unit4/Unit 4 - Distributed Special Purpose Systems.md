@@ -1,8 +1,8 @@
 12hrs
 
 - **4.1.** Distributed Operating Systems: Types of Network based Operating Systems, Network structure and topology, Communication structure and protocols, Robustness, Design Issues, Distributed File Systems: Naming and Transparency, Remote File Access, Stateful versus Stateless Service, File Replication.
-	- Distributed Operating Systems
-	- Types of Network based Operating Systems
+	- [Distributed  Systems](Notes/Distributed%20%20Systems.md)
+	- [Types of Network based Operating Systems](Notes/Types%20of%20Network%20based%20Operating%20Systems.md)
 	- Network structure and topology
 
 ---
