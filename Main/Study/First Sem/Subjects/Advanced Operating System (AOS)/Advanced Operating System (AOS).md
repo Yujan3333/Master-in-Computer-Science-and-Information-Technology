@@ -2,12 +2,8 @@
 - **1-Units**
 	- **Unit1**
 	- **Unit4**
-		- **Notes**
-			- [Distributed  Systems](./1-Units/Unit4/Notes/Distributed%20%20Systems.md)
-			- [Distributed Operating Systems](./1-Units/Unit4/Notes/Distributed%20Operating%20Systems.md)
-			- [Network Operating Systems](./1-Units/Unit4/Notes/Network%20Operating%20Systems.md)
-			- [Types of Network based Operating Systems](./1-Units/Unit4/Notes/Types%20of%20Network%20based%20Operating%20Systems.md)
 		- [Unit 4 - Distributed Special Purpose Systems](./1-Units/Unit4/Unit%204%20-%20Distributed%20Special%20Purpose%20Systems.md)
+		- **[Unit 4 - Notes](./1-Units/Unit4/Unit%204%20-%20Notes/Unit%204%20-%20Notes.md)**
 - **2-Assignment**
 	- [_index](./2-Assignment/_index.md)
 	- [Assignment-1](./2-Assignment/Assignment-1.md)
