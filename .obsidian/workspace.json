@@ -11,10 +11,15 @@
             "id": "226a01078f0c242f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Unit 4 - Distributed Special Purpose Systems"
             }
           }
         ]
@@ -160,7 +165,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "71c075a01e4cfe4e",
+  "active": "226a01078f0c242f",
   "lastOpenFiles": [
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/What is critical section and critical section problem.md",
