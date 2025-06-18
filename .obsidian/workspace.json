@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4b70a6777b8d0a0b",
+        "id": "76284c858b8c07d9",
         "type": "tabs",
         "children": [
           {
-            "id": "226a01078f0c242f",
+            "id": "279ac068a59f8ebf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Memory Management.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 4 - Distributed Special Purpose Systems"
+              "title": "Unit 2 - Memory Management"
             }
           }
         ]
@@ -165,13 +165,26 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "226a01078f0c242f",
+  "active": "279ac068a59f8ebf",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Overlays.md",
+    "Attachments/Overlays.png",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Memory Management.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Swapping.md",
+    "Attachments/Swapping - schematic view.png",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Address Translation.md",
+    "Attachments/Address Translation.png",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Memory Address.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Memory Management System.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Memory manager.md",
+    "Attachments/Pasted image 20250618191908.png",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Numerical on EDF.md",
     "Attachments/Numerical on EDF - Example 2 again.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Earliest Deadline First (EDF).md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Numerical on RMS.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
     "Attachments/Numerical on RMS Num2.png",
     "Attachments/Numerical on RMS Que1.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Rate Monotonic Scheduling (RMS).md",
@@ -190,13 +203,6 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Unit 4 - Notes.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/RNN.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit4/Unit4 - Radial Basis Function Networks(RBFNN).md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit4/Unit4-Notes-Folder/U4-Notes.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit4/Unit4-Notes-Folder/Unit4-Notes-Folder.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Types of Network based Operating Systems.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Distributed Operating Systems.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Network Operating Systems.md",
     "Attachments/Distributed  Systems.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes",
     "Main/Study/First Sem/All Notes and Resources Combined/PDC Notes/pdcprakriti-compressed.pdf",
@@ -206,12 +212,6 @@
     "Main/Study/First Sem/All Notes and Resources Combined/PDC Notes/ParallelAndDistributedComputing.pptx.pdf",
     "Main/Study/First Sem/All Notes and Resources Combined/PDC Notes",
     "Main/Study/First Sem/All Notes and Resources Combined/New folder",
-    "Main/Study/First Sem/All Notes and Resources Combined/OOSE Notes/OOSE_Notes-1.pdf",
-    "Main/Study/First Sem/All Notes and Resources Combined/OOSE Notes/OOSE full handwritten.pdf",
-    "Attachments/Pasted image 20250615173513.png",
-    "Attachments/Pasted image 20250614113130.png",
-    "Attachments/Pasted image 20250614110841.png",
-    "Attachments/Fig RNN.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }
