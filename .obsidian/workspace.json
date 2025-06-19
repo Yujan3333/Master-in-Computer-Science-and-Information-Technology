@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Process Management and Synchronization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 4 - Distributed Special Purpose Systems"
+              "title": "Unit 1 - Process Management and Synchronization"
             }
           }
         ]
@@ -167,8 +167,13 @@
   },
   "active": "533e1d229f032275",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/File organization – Frame vs. Block.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Process Management and Synchronization.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Znotes/Difference between Critical Section Problem and Race Condition.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Znotes/Multiprogramming VS Multiprocessing.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Znotes/Process Model.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Znotes",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/File organization – Frame vs. Block.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Problems on QoS.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Parameter Defining QoS.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Requirement of Multimedia Operating  Systems - Three Levels of QoS.md",
@@ -191,11 +196,7 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Program Threat.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Level of Protection.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Types of Attack.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Ans.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Types of Security Violations.md",
     "Attachments/Pasted image 20250619173614.png",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Role-Based Access Control (RBAC).md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Implementation of Access Matrix.md",
     "Attachments/Access Control Matrix.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Untitled",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes",
@@ -212,7 +213,6 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes",
     "Main/Study/First Sem/All Notes and Resources Combined/PDC Notes/pdcprakriti-compressed.pdf",
     "Main/Study/First Sem/All Notes and Resources Combined/PDC Notes/PDC Prakariti Enhanced.pdf",
-    "Main/Study/First Sem/All Notes and Resources Combined/PDC Notes/PDC note.pdf",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }

@@ -48,5 +48,6 @@
 - [SSTF](./SSTF.md)
 - [Swapping](./Swapping.md)
 - [TLB - Translation Lookaside Buffer](./TLB%20-%20Translation%20Lookaside%20Buffer.md)
+- [wear leveling](./wear%20leveling.md)
 
 %% End Waypoint %%
