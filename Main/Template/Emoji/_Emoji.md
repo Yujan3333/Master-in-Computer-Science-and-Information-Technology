@@ -1,6 +1,6 @@
 
-✅ [Check Mark (Done)](Check%20Mark%20(Done).md)
-❌ [Cross Mark (Not Done)  ](Cross%20Mark%20(Not%20Done)%20%20.md)
+✅ [Check Mark (Done)- tick](Check%20Mark%20(Done)-%20tick.md)
+❌ [Cross Mark (Not Done)  ](Cross%20Mark%20(Not%20Done)%20-%20wrong.md)
 🔄 [Clockwise Arrows (In Progress)](Clockwise%20Arrows%20(In%20Progress).md)
 ⏳ [Hourglass Not Done](Hourglass%20Not%20Done.md)  
 🕐 [Clock (Scheduled Time)](Clock%20(Scheduled%20Time).md)

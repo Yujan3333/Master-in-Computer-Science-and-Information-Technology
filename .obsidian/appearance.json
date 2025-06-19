@@ -8,6 +8,7 @@
   "baseFontSize": 18,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
-    "yujan-hr"
+    "yujan-hr",
+    "yujan-heading-BI-HR"
   ]
 }

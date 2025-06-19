@@ -1,0 +1,5 @@
+- [FCFS](Unit%202%20-%20Notes/FCFS.md)
+- [SSTF](Unit%202%20-%20Notes/SSTF.md)
+- [SCAN](Unit%202%20-%20Notes/SCAN.md)
+- [C-SCAN](Unit%202%20-%20Notes/C-SCAN.md)
+- [C-LOOK](Unit%202%20-%20Notes/C-LOOK.md)

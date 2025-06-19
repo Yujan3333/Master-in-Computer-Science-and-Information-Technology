@@ -63,7 +63,7 @@ So we ask: **How to handle both size and speed?**
 
 ---
 
-#### 3. [TLB (Translation Lookaside Buffer](TLB%20(Translation%20Lookaside%20Buffer.md)
+#### 3. [TLB - Translation Lookaside Buffer](TLB%20-%20Translation%20Lookaside%20Buffer.md)]
 
 - **Small hardware cache** inside MMU
     
