@@ -3,7 +3,7 @@ which is a **simple memory protection and relocation mechanism**
 in operating systems.
 
 ### 🔍Figure
-![](../../../../../../../Attachments/Address%20Translation.png)
+![](../../../../../../../../Attachments/Address%20Translation.png)
 ### 🔁 **What’s Happening? (Step-by-step)**
 
 1. **The CPU generates a logical address** (e.g., `300`).

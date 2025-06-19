@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Unit 2 - Memory Management"
             }
+          },
+          {
+            "id": "11b26cf59dfa5bd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Segmentation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Segmentation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Batch and Online Learning.md",
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Segmentation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Batch and Online Learning"
+              "title": "Outline of Segmentation"
             }
           }
         ]
@@ -165,14 +181,29 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "279ac068a59f8ebf",
+  "active": "11b26cf59dfa5bd9",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Overlays.md",
-    "Attachments/Overlays.png",
+    "Attachments/Segmentation - Address Translation.png",
+    "Attachments/Segmentation.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Memory Management.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Swapping.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Segmentation.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Exercise Related to Paging.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Page Table Challenges.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Inverted Page Tables.md",
+    "Attachments/Inverted Page Tables.png",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/TLB (Translation Lookaside Buffer.md",
+    "Attachments/TLB (Translation Lookaside Buffer - Process.png",
+    "Attachments/TLB (Translation Lookaside Buffer.png",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Multi-Level Page Tables.md",
+    "Attachments/Multi-Level Page Tables.png",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Paging.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Page Table.md",
+    "Attachments/Page Table.png",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Overlays.md",
+    "Attachments/Overlays.png",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Swapping.md",
     "Attachments/Swapping - schematic view.png",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Address Translation.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Address Translation.md",
     "Attachments/Address Translation.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Memory Address.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Memory Management System.md",
@@ -182,28 +213,14 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Numerical on EDF.md",
-    "Attachments/Numerical on EDF - Example 2 again.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Earliest Deadline First (EDF).md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Numerical on RMS.md",
-    "Attachments/Numerical on RMS Num2.png",
-    "Attachments/Numerical on RMS Que1.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Rate Monotonic Scheduling (RMS).md",
-    "Attachments/Pasted image 20250618161252.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Comparison Between EDF and LSTF.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Least Slack Time First.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/EDF Numerical.md",
-    "Attachments/EDF Numerical Fig.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/What is critical section and critical section problem.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/monitors.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/semaphores.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/Discuss Inter Processes communication in details.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/Assignment-2.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/Assignment-1.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Unit 4 - Notes.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/RNN.md",
-    "Attachments/Distributed  Systems.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes",
     "Main/Study/First Sem/All Notes and Resources Combined/PDC Notes/pdcprakriti-compressed.pdf",
     "Main/Study/First Sem/All Notes and Resources Combined/PDC Notes/PDC Prakariti Enhanced.pdf",

@@ -18,3 +18,43 @@
       
       border-color: #499dce;
     }
+
+
+
+    /* ============================================================================================================================== */
+/* ===============================================TEXT BOLD AND ITALICS=========================*/
+
+/* Different color for bold*/
+.cm-line .cm-strong {
+    
+  /* Green Color - #65ff05 */
+  color:  #ff9e20       !important;;
+  
+  /* color:  #FFFFFF !important; */
+  font-weight: 780;
+}
+
+.markdown-preview-section strong {
+  
+  /* Green Color - #65ff05 */
+  color:  #ff9e20  !important;;
+
+  font-weight: 780;
+  /* font-style: normal !important;  */
+  /* font-weight: normal !important; */
+}
+
+/* ===================================ITALICS COLOR ======================================================== */
+
+/* Different color for italic */
+.cm-em,
+.markdown-preview-section em {
+  /* color: rgb(255, 74, 149); */
+  
+  /* Orange Color */
+  /* color: #ff7b00 */
+
+  color: #65ff0586 ;
+  /* font-style: normal !important;  */
+}
+
