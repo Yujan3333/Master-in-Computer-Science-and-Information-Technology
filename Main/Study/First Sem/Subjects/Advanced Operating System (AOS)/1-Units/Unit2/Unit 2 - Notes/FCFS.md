@@ -1,4 +1,5 @@
 ![](../../../../../../../../Attachments/FCFS.png)
+
 To calculate the **Total Head Movement** in FCFS (First-Come First-Served) disk scheduling, you sum up the **absolute distances** between consecutive requests.
 
 ## Formula:

@@ -1,6 +1,7 @@
 - Shortest Seek Time First
 - From current head shortest seek time choosen
 - Used in batch system.
+
 ![](../../../../../../../../Attachments/SSTF-fig.png)
 
 ### Advantages

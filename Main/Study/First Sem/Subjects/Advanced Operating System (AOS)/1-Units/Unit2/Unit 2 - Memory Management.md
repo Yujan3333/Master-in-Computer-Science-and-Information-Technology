@@ -44,4 +44,4 @@
 - [RAM Disk](Unit%202%20-%20Notes/RAM%20Disk.md)
 - [Exercises](Unit%202%20-%20Notes/Exercises.md)
 
-- [Actual Syllabus](Actual%20Syllabus.md)
+- [Actual Syllabus](Unit%202%20-%20Notes/Actual%20Syllabus.md)
