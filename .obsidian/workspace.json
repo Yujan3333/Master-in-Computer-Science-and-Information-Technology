@@ -23,18 +23,18 @@
             }
           },
           {
-            "id": "927ee180efcd97a1",
+            "id": "d6809ad55140e3e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Goals of Protection.md",
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Role-Based Access Control (RBAC).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Goals of Protection"
+              "title": "Role-Based Access Control (RBAC)"
             }
           }
         ],
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Goals of Protection.md",
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Role-Based Access Control (RBAC).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Goals of Protection"
+              "title": "Outline of Role-Based Access Control (RBAC)"
             }
           }
         ]
@@ -181,11 +181,21 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "927ee180efcd97a1",
+  "active": "71c075a01e4cfe4e",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Goals of Protection.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Role-Based Access Control (RBAC).md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - Protection and Security.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Implementation of Access Matrix.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Lock-Key Mechanism.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Multics Ring Structure.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Access Control Matrix.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Untitled.md",
+    "Attachments/Access Control Matrix.png",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Cross Domain.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Domain of Protection.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Examples of Protection.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Principle of Protection.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Goals of Protection.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Unit 3 - ZNotes.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Comparison Between EDF and LSTF.md",
@@ -203,25 +213,15 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Memory Management.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Actual Syllabus.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/wear leveling.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Exercises.md",
     "Attachments/Exercises2.png",
     "Attachments/Pasted image 20250619142650.png",
     "Attachments/Exercises-1.png",
     "Attachments/Pasted image 20250619141930.png",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/RAM Disk.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/RAID.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Disk Formatting.md",
     "Attachments/Disk Formatting-2.png",
     "Attachments/Disk Formatting-1.png",
     "Attachments/Disk Formatting.png",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Disk Operation.md",
     "Attachments/Disk Operation-disk access time.png",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Bit Level Striping.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Byte Level Striping.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Hamming codes .md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Parity.md",
     "Attachments/C-LOOK-fig.png",
-    "Attachments/C-SCAN-fig.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes",

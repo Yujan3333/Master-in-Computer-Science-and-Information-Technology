@@ -6,7 +6,6 @@
 		- **[Unit 2 - Notes](./1-Units/Unit2/Unit%202%20-%20Notes/Unit%202%20-%20Notes.md)**
 		- [wear leveling](./1-Units/Unit2/wear%20leveling.md)
 	- **Unit3**
-		- [Goals of Protection](./1-Units/Unit3/Goals%20of%20Protection.md)
 		- [Unit 3 - Protection and Security](./1-Units/Unit3/Unit%203%20-%20Protection%20and%20Security.md)
 		- **[Unit 3 - ZNotes](./1-Units/Unit3/Unit%203%20-%20ZNotes/Unit%203%20-%20ZNotes.md)**
 	- **Unit4**
