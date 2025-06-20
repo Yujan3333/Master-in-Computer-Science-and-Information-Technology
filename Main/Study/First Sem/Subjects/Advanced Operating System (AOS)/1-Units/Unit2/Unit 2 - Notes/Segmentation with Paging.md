@@ -1,4 +1,7 @@
-![](../../../../../../../../Attachments/Segmentation%20with%20Paging.png)### 📌 **What happens when segments are larger than main memory?**
+![](../../../../../../../../Attachments/Segmentation%20with%20Paging.png)
+
+
+### 📌 **What happens when segments are larger than main memory?**
    
    - In **pure segmentation**, each segment must be **entirely loaded** into main memory.
        

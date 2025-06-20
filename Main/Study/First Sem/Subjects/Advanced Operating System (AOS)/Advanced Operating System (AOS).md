@@ -2,10 +2,7 @@
 - **1-Units**
 	- **Unit1**
 		- [Unit 1 - Process Management and Synchronization](./1-Units/Unit1/Unit%201%20-%20Process%20Management%20and%20Synchronization.md)
-		- **Unit 1 - Znotes**
-			- [Difference between Critical Section Problem and Race Condition](./1-Units/Unit1/Unit%201%20-%20Znotes/Difference%20between%20Critical%20Section%20Problem%20and%20Race%20Condition.md)
-			- [Multiprogramming VS Multiprocessing](./1-Units/Unit1/Unit%201%20-%20Znotes/Multiprogramming%20VS%20Multiprocessing.md)
-			- [Process Model](./1-Units/Unit1/Unit%201%20-%20Znotes/Process%20Model.md)
+		- **[Unit 1 - Znotes](./1-Units/Unit1/Unit%201%20-%20Znotes/Unit%201%20-%20Znotes.md)**
 	- **Unit2**
 		- [Unit 2 - Memory Management](./1-Units/Unit2/Unit%202%20-%20Memory%20Management.md)
 		- **[Unit 2 - Notes](./1-Units/Unit2/Unit%202%20-%20Notes/Unit%202%20-%20Notes.md)**

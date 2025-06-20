@@ -245,5 +245,5 @@ Sectors are arranged with two gaps between consecutive logical sectors: 0, 3, 6,
 ## Summary of Results:
 
 - **a) No interleaving: 712.5ms**
-- **b) Single interleaving: 180ms**
+- **b) Single interleaving: 300 to 400ms**
 - **c) Double interleaving: 100-120ms**

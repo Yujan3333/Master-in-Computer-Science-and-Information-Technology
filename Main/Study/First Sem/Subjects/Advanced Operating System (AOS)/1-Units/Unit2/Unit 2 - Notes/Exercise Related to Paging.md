@@ -14,18 +14,18 @@
 
 Given:
 
-- Physical memory size = 2242^{24}224 bytes (though this is physical, but we’ll focus on logical address size here)
+- Physical memory size = 2^{24} bytes (though this is physical, but we’ll focus on logical address size here)
     
 - Logical address space pages = 256 pages
     
-- Page size = 2102^{10}210 bytes
+- Page size = 2^{10} bytes
     
 
 
-**Step 1:** Number of pages = 256 = 282^828 pages  
+**Step 1:** Number of pages = 256 = 2^8 pages  
 This means the **page number** part of the logical address requires 8 bits.
 
-**Step 2:** Page size = 2102^{10}210 bytes  
+**Step 2:** Page size = 2^{10} bytes  
 This means the **offset** within a page requires 10 bits.
 
 #### 📌Summary

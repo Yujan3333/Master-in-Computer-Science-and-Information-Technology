@@ -7,24 +7,29 @@
 - [Address Translation](Unit%202%20-%20Notes/Address%20Translation.md)
 - [Swapping](Unit%202%20-%20Notes/Swapping.md)
 - [Overlays](Unit%202%20-%20Notes/Overlays.md)
+	
 - [Paging](Unit%202%20-%20Notes/Paging.md)
 - [Page Table](Unit%202%20-%20Notes/Page%20Table.md)
 - [Page Table Challenges](Unit%202%20-%20Notes/Page%20Table%20Challenges.md)
 - [Multi-Level Page Tables](Unit%202%20-%20Notes/Multi-Level%20Page%20Tables.md)
 - [Exercise Related to Paging](Unit%202%20-%20Notes/Exercise%20Related%20to%20Paging.md)
+- 
 - [Segmentation](Unit%202%20-%20Notes/Segmentation.md)
 - [Internal Fragmentation Vs External Fragmentation](Unit%202%20-%20Notes/Internal%20Fragmentation%20Vs%20External%20Fragmentation.md)
 - [Segmentation Numerical](Unit%202%20-%20Notes/Segmentation%20Numericals.md)
 - [Shared Segment](Unit%202%20-%20Notes/Shared%20Segment.md)
+- 
 - [Paging Vs Segmentation](Unit%202%20-%20Notes/Paging%20Vs%20Segmentation.md)
+- 
 - [Segmentation with Paging](Unit%202%20-%20Notes/Segmentation%20with%20Paging.md)
 - [More Question on Paging and Segmentation](Unit%202%20-%20Notes/More%20Question%20on%20Paging%20and%20Segmentation.md)
 - [Pros and Cons of Increasing Page Size](Unit%202%20-%20Notes/Pros%20and%20Cons%20of%20Increasing%20Page%20Size.md)
 - [Paging - Segmentation Policies](Unit%202%20-%20Notes/Paging%20-%20Segmentation%20Policies.md)
+- 
 - [Handling Page Fault](Unit%202%20-%20Notes/Handling%20Page%20Fault.md)
-
+- 
 - [Page Replacement Algorithm](Unit%202%20-%20Notes/Page%20Replacement%20Algorithm.md)
-
+- 
 - [Implementation of LRU](Unit%202%20-%20Notes/Implementation%20of%20LRU.md)
 - [Belady Anamoly](Unit%202%20-%20Notes/Belady%20Anamoly.md)
 
