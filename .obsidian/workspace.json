@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a506131de95ef93d",
+        "id": "8e361aa733bc4224",
         "type": "tabs",
         "children": [
           {
-            "id": "21d61f85d6e89aec",
+            "id": "49747b4fb444fd04",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Numerical -2 Forward Propagation in RNN.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Numerical -2 Forward Propagation in RNN"
             }
           }
         ]
@@ -160,11 +165,17 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "21d61f85d6e89aec",
+  "active": "49747b4fb444fd04",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Paper Based Review -Guarded Models for Intrusion Detection.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - Protection and Security.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Numerical - 1 - RNN Forward Propagation - dogs.md",
+    "Attachments/Numerical - 1- feed forward DOGS.pdf",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Numerical -2 Forward Propagation in RNN.md",
+    "Attachments/Numerical -2 - feed forward  propagation in RNN.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Implementation of Access Matrix.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - Protection and Security.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Paper Based Review -Guarded Models for Intrusion Detection.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Role-Based Access Control (RBAC).md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Multics Ring Structure.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Cross Domain.md",
@@ -183,11 +194,6 @@
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/More Question on Paging and Segmentation.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Segmentation with Paging.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Exercise Related to Paging.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Multi-Level Page Tables.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Page Table Challenges.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Page Table.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Paging.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Overlays.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Znotes",
     "MPEG Problem – Fast Forward",
     "Attachments/Pasted image 20250619192807.png",
@@ -202,12 +208,10 @@
     "Attachments/Pasted image 20250619141930.png",
     "Attachments/Disk Formatting-2.png",
     "Attachments/Disk Formatting-1.png",
-    "Attachments/Disk Formatting.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes",
     "Main/Study/First Sem/All Notes and Resources Combined/PDC Notes/pdcprakriti-compressed.pdf",
-    "Main/Study/First Sem/All Notes and Resources Combined/PDC Notes/PDC Prakariti Enhanced.pdf",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }

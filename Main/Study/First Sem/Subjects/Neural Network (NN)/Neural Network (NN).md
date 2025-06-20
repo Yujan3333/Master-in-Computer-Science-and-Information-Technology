@@ -10,6 +10,8 @@
 		- [Unit4 - Radial Basis Function Networks(RBFNN)](./1-Units/Unit4/Unit4%20-%20Radial%20Basis%20Function%20Networks(RBFNN).md)
 		- **[Unit4-Notes-Folder](./1-Units/Unit4/Unit4-Notes-Folder/Unit4-Notes-Folder.md)**
 	- **Unit7**
+		- [Numerical - 1 - RNN Forward Propagation - dogs](./1-Units/Unit7/Numerical%20-%201%20-%20RNN%20Forward%20Propagation%20-%20dogs.md)
+		- [Numerical -2 Forward Propagation in RNN](./1-Units/Unit7/Numerical%20-2%20Forward%20Propagation%20in%20RNN.md)
 		- [Unit7 - Feedback Neural Network](./1-Units/Unit7/Unit7%20-%20Feedback%20Neural%20Network.md)
 		- **Unit7-Notes**
 			- [From Sir Slide](./1-Units/Unit7/Unit7-Notes/From%20Sir%20Slide.md)
