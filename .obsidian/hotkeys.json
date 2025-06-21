@@ -112,5 +112,19 @@
       "key": "S"
     }
   ],
-  "obsidian-editor-shortcuts:selectAllOccurrences": []
+  "obsidian-editor-shortcuts:selectAllOccurrences": [],
+  "editor:toggle-italics": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ]
 }

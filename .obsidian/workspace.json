@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "8e361aa733bc4224",
+        "id": "8bab2f13ea78a5e2",
         "type": "tabs",
         "children": [
           {
-            "id": "49747b4fb444fd04",
+            "id": "d564c217c3f1569e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Numerical -2 Forward Propagation in RNN.md",
+                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Numerical -2 Forward Propagation in RNN"
+              "title": "Unit 2"
+            }
+          },
+          {
+            "id": "8ead3a85f41cb45c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/OO Software Engineering Vs OO Software Development Vs OO System Development.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "OO Software Engineering Vs OO Software Development Vs OO System Development"
             }
           }
         ]
@@ -136,16 +151,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
+                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 4 - Distributed Special Purpose Systems"
+              "title": "Outline of Unit 2"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,53 +181,53 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "49747b4fb444fd04",
+  "active": "d564c217c3f1569e",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Numerical - 1 - RNN Forward Propagation - dogs.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/OO Software Engineering Vs OO Software Development Vs OO System Development.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/object oriented software development vs object oriented system development.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Object Oriented Software Engineering Vs OO Software Development.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2 - Znotes/System Development Methods.md",
+    "Attachments/System Development Methods-software paradigm.png",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/OOOSE and Subjectory.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2 - Znotes/Function - data method VS Object Oriented Method.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Untitled",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2 - Znotes",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Software Development Life Cycle Vs System Dev Life Cycle.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Object Oriented Software Development.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Project Scope.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/CASE.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Unit 1 - Brief Summary from syllabus.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Software Development Life cycle models.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Questions and Answer of Notes.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Rapid Application Development (RAD).md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Agile Model.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Spiral Model.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Iterative Model.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Prototyping Model.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Software development Life Cycle (SDLC).md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/SRS - Software Requirement Specification.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Big Bang Model.md",
+    "Attachments/Big Bang Model-fig.png",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/DevOps Model.md",
+    "Attachments/DevOps Model-fig.png",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Prototype VS RAD.md",
+    "Attachments/Rapid Application Development (RAD)-fig.png",
+    "Attachments/Agile Model-fig.png",
+    "Attachments/V-Model-fig.png",
+    "Attachments/Spiral Model-fig.png",
+    "Attachments/Pasted image 20250621115619.png",
+    "Attachments/Prototyping Model-fig-1.png",
+    "Attachments/Prototyping Model-fig.png",
     "Attachments/Numerical - 1- feed forward DOGS.pdf",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Numerical -2 Forward Propagation in RNN.md",
-    "Attachments/Numerical -2 - feed forward  propagation in RNN.png",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Implementation of Access Matrix.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - Protection and Security.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Paper Based Review -Guarded Models for Intrusion Detection.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Role-Based Access Control (RBAC).md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Multics Ring Structure.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Cross Domain.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Domain of Protection.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Principle of Protection.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Goals of Protection.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Memory Management.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Actual Syllabus.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/wear leveling.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Znotes/Unit 1 - Znotes.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Exercises.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/RAID.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Bit Level Striping.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Page Replacement Algorithm.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Implementation of LRU.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/More Question on Paging and Segmentation.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Segmentation with Paging.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Exercise Related to Paging.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Znotes",
     "MPEG Problem – Fast Forward",
-    "Attachments/Pasted image 20250619192807.png",
-    "Attachments/Pasted image 20250619173614.png",
-    "Attachments/Access Control Matrix.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Untitled",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3",
-    "Attachments/Exercises2.png",
-    "Attachments/Pasted image 20250619142650.png",
-    "Attachments/Exercises-1.png",
-    "Attachments/Pasted image 20250619141930.png",
-    "Attachments/Disk Formatting-2.png",
-    "Attachments/Disk Formatting-1.png",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes",
-    "Main/Study/First Sem/All Notes and Resources Combined/PDC Notes/pdcprakriti-compressed.pdf",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }

@@ -24,6 +24,22 @@
 /* ============================================================================================================================== */
               /* ===============================================TEXT BOLD AND ITALICS=========================*/
 
+
+/* Different color for italic */
+.cm-em,
+.markdown-preview-section em {
+  /* color: rgb(255, 74, 149); */
+  
+  /* Orange Color */
+  /* color: #ff7b00 */
+
+  color: #9dff00    !important;
+  /* font-style: normal !important;  */
+}
+
+/* ===================================BOLD COLOR ======================================================== */
+
+
 /* Different color for bold*/
 .cm-line .cm-strong {
     
@@ -44,19 +60,8 @@
   /* font-weight: normal !important; */
 }
 
-/* ===================================ITALICS COLOR ======================================================== */
 
-/* Different color for italic */
-.cm-em,
-.markdown-preview-section em {
-  /* color: rgb(255, 74, 149); */
-  
-  /* Orange Color */
-  /* color: #ff7b00 */
 
-  color: #65ff0586 !important;
-  /* font-style: normal !important;  */
-}
 
  /* ============================================================================================================================== */
 
