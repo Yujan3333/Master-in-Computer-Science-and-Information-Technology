@@ -1,14 +1,26 @@
 
 
-| Criteria                 | **Coad & Yourdon OOA**                                                                                                                                 | **Traditional OOA Methods**                                                         |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| **Origin**               | Developed by **Peter Coad and Edward Yourdon**                                                                                                         | Based on methods by **Grady Booch**, **James Rumbaugh (OMT)**, and others           |
-| **Goal**                 | Model the **problem domain** using object-oriented concepts                                                                                            | Same goal: model the system using objects, but approach differs                     |
-| **Process Structure**    | **Five-layered approach**: 1. Subjects (high-level grouping) 2. Classes & Objects 3. Structures (relationships) 4. Attributes 5. Services (operations) | Often start with **use-case modeling**, then move to class and interaction diagrams |
-| **Use Case Integration** | Use cases are called "**threads**", and come **after** class modeling                                                                                  | Most traditional methods start with **use cases first** (like in Jacobson’s OOSE)   |
-| **Modeling Order**       | Focus on **class structure first**, then behavior                                                                                                      | Focus on **user behavior first**, then define supporting classes                    |
-| **Viewpoint**            | More **data-oriented** (object structures come first)                                                                                                  | More **functionality-oriented** (behavior/use cases come first)                     |
-| **Diagrams**             | Object Interaction Graphs, Class-Attribute-Service tables                                                                                              | UML-style diagrams: Use Case, Class, Sequence, Activity, etc.                       |
-| **Tool Support**         | Originally minimal; now can be adapted into UML tools                                                                                                  | Widely supported by UML and modeling tools                                          |
-| **Formality**            | Semi-formal, with descriptive tables and diagrams                                                                                                      | More formalized in recent methods (like UML, RUP)                                   |
-| **Reusability**          | Strong emphasis on **class-level reusability**                                                                                                         | Also promotes reuse, but often at **framework/component** level                     |
+|**Feature**|**OOA – Coad/Yourdon**|**Traditional OOA Methods**|
+|---|---|---|
+|**Specificity**|A well-defined methodology with clear steps and unique terminology.|A broad collection of general object-oriented analysis ideas and techniques.|
+|**Core Emphasis**|Focuses on five modeling layers: Subject, Class & Object, Structure, Attribute, Service.|Focuses on identifying entities, behaviors, and relationships in the problem domain.|
+|**Notation/Diagrams**|Uses specific symbols for gen-spec, whole-part, subjects, and message connections.|Uses generic or varied notations, often informal before UML standardization.|
+|**Identification Process**|Structured steps like finding classes, structures, attributes, and services.|General activities like identifying key objects and defining responsibilities.|
+|**Separation from Design**|Clear boundary between analysis and design phases.|Often loosely separates analysis and design; may overlap in hybrid methods.|
+|**Historical Role**|Influential early method that contributed to UML.|Represents foundational ideas from early OO thinking across multiple approaches.|
+
+
+
+
+|**Aspect**|**OOA – Coad/Yourdon**|**Traditional Object-Oriented Analysis Methods**|
+|---|---|---|
+|**Model Layers**|Explicitly defines 5 modeling layers: Subject, Class & Object, Structure, Attribute, Service.|May not clearly separate layers; modeling is often mixed or informal.|
+|**Use Case Integration**|Use cases ("threads") are handled **after** class modeling.|Use cases often drive the whole analysis (e.g., in Jacobson's OOSE).|
+|**System Viewpoint**|Begins with **object structure** (static) and adds behavior later.|Often starts from **user interaction/behavior** and derives objects from that.|
+|**Clarity and Simplicity**|Aimed for **simple, structured analysis** for medium-sized systems.|Some methods can be **complex**, especially those designed for real-time or large systems.|
+|**Object Discovery**|Uses checklist and guidelines to **systematically discover classes and objects**.|Often relies on analyst's experience or domain knowledge without strict process.|
+|**Relationships**|Focuses on **gen-spec (inheritance)** and **whole-part (composition)** as main structure types.|Other methods might emphasize **association**, **aggregation**, or **state behavior** more.|
+|**Behavior Modeling**|Behavior added as "services" after structure is defined.|Behavior is sometimes modeled earlier or in parallel (e.g., through state machines).|
+|**Notational Standard**|Coad/Yourdon had its **own diagramming language**.|Many used custom notations before UML (OMT, HOOD, etc.), which varied widely.|
+|**Reuse Focus**|Encouraged reuse through **shared classes** and **subjects**.|Some methods emphasize reuse via **frameworks or libraries** rather than analysis-time reuse.|
+|**Transition to Design**|Provides a **smooth path to Coad/Yourdon OOD** methodology.|Transition from analysis to design may vary or be handled by a different method altogether.|
