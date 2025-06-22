@@ -48,9 +48,12 @@
 - UML Diagram
 	- Structural
 		- [Class Diagram](Unit1-ZNotes/Class%20Diagram.md)
+		- [Object Diagram](Unit1-ZNotes/Object%20Diagram.md)
 	- Behavioral
 		- [Use Case Diagram](Unit1-ZNotes/Use%20Case%20Diagram.md)
 		- [Activity Diagram](Unit1-ZNotes/Activity%20Diagram.md)
+		- [Sequence Diagram](Unit1-ZNotes/Sequence%20Diagram.md)
+		- [State Diagram](Unit1-ZNotes/State%20Diagram.md)
 
 ---
 ### Extra From Sir Slides

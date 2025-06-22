@@ -10,6 +10,7 @@
 			- [Class Diagram](./1-Units/Unit1/Unit1-ZNotes/Class%20Diagram.md)
 			- [DevOps Model](./1-Units/Unit1/Unit1-ZNotes/DevOps%20Model.md)
 			- [Iterative Model](./1-Units/Unit1/Unit1-ZNotes/Iterative%20Model.md)
+			- [Object Diagram](./1-Units/Unit1/Unit1-ZNotes/Object%20Diagram.md)
 			- [object oriented software development vs object oriented system development](./1-Units/Unit1/Unit1-ZNotes/object%20oriented%20software%20development%20vs%20object%20oriented%20system%20development.md)
 			- [Object Oriented Software Development](./1-Units/Unit1/Unit1-ZNotes/Object%20Oriented%20Software%20Development.md)
 			- [Object Oriented Software Engineering Vs OO Software Development](./1-Units/Unit1/Unit1-ZNotes/Object%20Oriented%20Software%20Engineering%20Vs%20OO%20Software%20Development.md)
@@ -20,21 +21,32 @@
 			- [Prototyping Model](./1-Units/Unit1/Unit1-ZNotes/Prototyping%20Model.md)
 			- [Questions and Answer of Notes](./1-Units/Unit1/Unit1-ZNotes/Questions%20and%20Answer%20of%20Notes.md)
 			- [Rapid Application Development (RAD)](./1-Units/Unit1/Unit1-ZNotes/Rapid%20Application%20Development%20(RAD).md)
+			- [Sequence Diagram](./1-Units/Unit1/Unit1-ZNotes/Sequence%20Diagram.md)
 			- [Software development Life Cycle (SDLC)](./1-Units/Unit1/Unit1-ZNotes/Software%20development%20Life%20Cycle%20(SDLC).md)
 			- [Software Development Life cycle models](./1-Units/Unit1/Unit1-ZNotes/Software%20Development%20Life%20cycle%20models.md)
 			- [Software Development Life Cycle Vs System Dev Life Cycle](./1-Units/Unit1/Unit1-ZNotes/Software%20Development%20Life%20Cycle%20Vs%20System%20Dev%20Life%20Cycle.md)
 			- [Spiral Model](./1-Units/Unit1/Unit1-ZNotes/Spiral%20Model.md)
 			- [SRS - Software Requirement Specification](./1-Units/Unit1/Unit1-ZNotes/SRS%20-%20Software%20Requirement%20Specification.md)
+			- [State Diagram](./1-Units/Unit1/Unit1-ZNotes/State%20Diagram.md)
 			- [Unit 1 - Brief Summary from syllabus](./1-Units/Unit1/Unit1-ZNotes/Unit%201%20-%20Brief%20Summary%20from%20syllabus.md)
 			- [Unit1 - Exam Question Collection](./1-Units/Unit1/Unit1-ZNotes/Unit1%20-%20Exam%20Question%20Collection.md)
 			- [Use Case Diagram](./1-Units/Unit1/Unit1-ZNotes/Use%20Case%20Diagram.md)
 			- [V-Model](./1-Units/Unit1/Unit1-ZNotes/V-Model.md)
 			- [Waterfall Model](./1-Units/Unit1/Unit1-ZNotes/Waterfall%20Model.md)
 	- **Unit2**
-		- **Unit 2 - Znotes**
-			- [Function - data method VS Object Oriented Method](./1-Units/Unit2/Unit%202%20-%20Znotes/Function%20-%20data%20method%20VS%20Object%20Oriented%20Method.md)
-			- [System Development Methods](./1-Units/Unit2/Unit%202%20-%20Znotes/System%20Development%20Methods.md)
 		- [Unit 2](./1-Units/Unit2/Unit%202.md)
+		- **Unit2 - Znotes**
+			- [Function - data method VS Object Oriented Method](./1-Units/Unit2/Unit2%20-%20Znotes/Function%20-%20data%20method%20VS%20Object%20Oriented%20Method.md)
+			- [OOA with examples](./1-Units/Unit2/Unit2%20-%20Znotes/OOA%20with%20examples.md)
+			- [OOA-Coad Vs OOD-Booch](./1-Units/Unit2/Unit2%20-%20Znotes/OOA-Coad%20Vs%20OOD-Booch.md)
+			- [OOA-Coad](./1-Units/Unit2/Unit2%20-%20Znotes/OOA-Coad.md)
+			- [OOAD](./1-Units/Unit2/Unit2%20-%20Znotes/OOAD.md)
+			- [OOD-Booch](./1-Units/Unit2/Unit2%20-%20Znotes/OOD-Booch.md)
+			- [System Development Methods](./1-Units/Unit2/Unit2%20-%20Znotes/System%20Development%20Methods.md)
+	- **Unit3**
+		- [Unit 3 Syllabus Overview](./1-Units/Unit3/Unit%203%20Syllabus%20Overview.md)
+		- [Unit 3](./1-Units/Unit3/Unit%203.md)
+		- **Unit3 - Notes**
 	- **[Unit4](./1-Units/Unit4/Unit4.md)**
 - **2-Assignments**
 	- **OOSE A1**

@@ -4,40 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "8bab2f13ea78a5e2",
+        "id": "d2d8f8253d724e47",
         "type": "tabs",
         "children": [
           {
-            "id": "d564c217c3f1569e",
+            "id": "66b3fc6f8c38defa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2.md",
+                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 2"
+              "title": "Unit 3"
             }
           },
           {
-            "id": "8ead3a85f41cb45c",
+            "id": "6724501b87b8210f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/OO Software Engineering Vs OO Software Development Vs OO System Development.md",
+                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit 3 Syllabus Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "OO Software Engineering Vs OO Software Development Vs OO System Development"
+              "title": "Unit 3 Syllabus Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2.md",
+                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit 3 Syllabus Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 2"
+              "title": "Outline of Unit 3 Syllabus Overview"
             }
           }
         ],
@@ -181,53 +182,54 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "d564c217c3f1569e",
+  "active": "6724501b87b8210f",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/OO Software Engineering Vs OO Software Development Vs OO System Development.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/object oriented software development vs object oriented system development.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Object Oriented Software Engineering Vs OO Software Development.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2 - Znotes/System Development Methods.md",
-    "Attachments/System Development Methods-software paradigm.png",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit 3 Syllabus Overview.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit 3.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit3 - Notes",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOA with examples.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOAD.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOA-Coad Vs OOD-Booch.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOA-Coad.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOD-Booch.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Sequence Diagram.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/State Diagram.md",
+    "Attachments/State Diagram6.png",
+    "Attachments/State Diagram5.png",
+    "Attachments/State Diagram4.png",
+    "Attachments/State Diagram3.png",
+    "Attachments/State Diagram2.png",
+    "Attachments/State Diagram1.png",
+    "Attachments/State Diagram.png",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Object Diagram.md",
+    "Attachments/Object Diagram-ex.png",
+    "Attachments/Object Diagram-state.png",
+    "Attachments/Sequence Diagram.png",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Use Case Diagram.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Class Diagram.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/System Development Methods.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Object Oriented Software Engineering Vs OO Software Development.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/OO Software Engineering Vs OO Software Development Vs OO System Development.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/object oriented software development vs object oriented system development.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/OOOSE and Subjectory.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2 - Znotes/Function - data method VS Object Oriented Method.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Untitled",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2 - Znotes",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/Function - data method VS Object Oriented Method.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Software Development Life Cycle Vs System Dev Life Cycle.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Object Oriented Software Development.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Project Scope.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/CASE.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Unit 1 - Brief Summary from syllabus.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Software Development Life cycle models.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Questions and Answer of Notes.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Rapid Application Development (RAD).md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Agile Model.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Spiral Model.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Iterative Model.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Prototyping Model.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Software development Life Cycle (SDLC).md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/SRS - Software Requirement Specification.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Big Bang Model.md",
-    "Attachments/Big Bang Model-fig.png",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/DevOps Model.md",
-    "Attachments/DevOps Model-fig.png",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Prototype VS RAD.md",
-    "Attachments/Rapid Application Development (RAD)-fig.png",
-    "Attachments/Agile Model-fig.png",
-    "Attachments/V-Model-fig.png",
-    "Attachments/Spiral Model-fig.png",
-    "Attachments/Pasted image 20250621115619.png",
-    "Attachments/Prototyping Model-fig-1.png",
-    "Attachments/Prototyping Model-fig.png",
     "Attachments/Numerical - 1- feed forward DOGS.pdf",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Znotes",
     "MPEG Problem – Fast Forward",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Untitled",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }
