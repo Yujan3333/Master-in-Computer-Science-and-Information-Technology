@@ -21,10 +21,12 @@
 			- [Prototyping Model](./1-Units/Unit1/Unit1-ZNotes/Prototyping%20Model.md)
 			- [Questions and Answer of Notes](./1-Units/Unit1/Unit1-ZNotes/Questions%20and%20Answer%20of%20Notes.md)
 			- [Rapid Application Development (RAD)](./1-Units/Unit1/Unit1-ZNotes/Rapid%20Application%20Development%20(RAD).md)
+			- [RUP- Rational Unified Process](./1-Units/Unit1/Unit1-ZNotes/RUP-%20Rational%20Unified%20Process.md)
 			- [Sequence Diagram](./1-Units/Unit1/Unit1-ZNotes/Sequence%20Diagram.md)
 			- [Software development Life Cycle (SDLC)](./1-Units/Unit1/Unit1-ZNotes/Software%20development%20Life%20Cycle%20(SDLC).md)
 			- [Software Development Life cycle models](./1-Units/Unit1/Unit1-ZNotes/Software%20Development%20Life%20cycle%20models.md)
 			- [Software Development Life Cycle Vs System Dev Life Cycle](./1-Units/Unit1/Unit1-ZNotes/Software%20Development%20Life%20Cycle%20Vs%20System%20Dev%20Life%20Cycle.md)
+			- [Software model that support OO](./1-Units/Unit1/Unit1-ZNotes/Software%20model%20that%20support%20OO.md)
 			- [Spiral Model](./1-Units/Unit1/Unit1-ZNotes/Spiral%20Model.md)
 			- [SRS - Software Requirement Specification](./1-Units/Unit1/Unit1-ZNotes/SRS%20-%20Software%20Requirement%20Specification.md)
 			- [State Diagram](./1-Units/Unit1/Unit1-ZNotes/State%20Diagram.md)
@@ -43,10 +45,21 @@
 			- [OOAD](./1-Units/Unit2/Unit2%20-%20Znotes/OOAD.md)
 			- [OOD-Booch](./1-Units/Unit2/Unit2%20-%20Znotes/OOD-Booch.md)
 			- [System Development Methods](./1-Units/Unit2/Unit2%20-%20Znotes/System%20Development%20Methods.md)
+			- [Unit 2 Brief Summary](./1-Units/Unit2/Unit2%20-%20Znotes/Unit%202%20Brief%20Summary.md)
 	- **Unit3**
-		- [Unit 3 Syllabus Overview](./1-Units/Unit3/Unit%203%20Syllabus%20Overview.md)
 		- [Unit 3](./1-Units/Unit3/Unit%203.md)
 		- **Unit3 - Notes**
+			- [Brief](./1-Units/Unit3/Unit3%20-%20Notes/Brief.md)
+			- [Component Based Software Engineering](./1-Units/Unit3/Unit3%20-%20Notes/Component%20Based%20Software%20Engineering.md)
+			- [Component Management](./1-Units/Unit3/Unit3%20-%20Notes/Component%20Management.md)
+			- [Component Vs Component management](./1-Units/Unit3/Unit3%20-%20Notes/Component%20Vs%20Component%20management.md)
+			- [Different Views on Component Based Software Engineering](./1-Units/Unit3/Unit3%20-%20Notes/Different%20Views%20on%20Component%20Based%20Software%20Engineering.md)
+			- [Hard RTS Vs Soft RTS](./1-Units/Unit3/Unit3%20-%20Notes/Hard%20RTS%20Vs%20Soft%20RTS.md)
+			- [Model Architecture VS Requirement Model](./1-Units/Unit3/Unit3%20-%20Notes/Model%20Architecture%20VS%20Requirement%20Model.md)
+			- [Model Architecture](./1-Units/Unit3/Unit3%20-%20Notes/Model%20Architecture.md)
+			- [Object Oriented Data Model](./1-Units/Unit3/Unit3%20-%20Notes/Object%20Oriented%20Data%20Model.md)
+			- [Unit 3 Notes Que and Answer](./1-Units/Unit3/Unit3%20-%20Notes/Unit%203%20Notes%20Que%20and%20Answer.md)
+			- [Unit 3 Syllabus Overview](./1-Units/Unit3/Unit3%20-%20Notes/Unit%203%20Syllabus%20Overview.md)
 	- **[Unit4](./1-Units/Unit4/Unit4.md)**
 - **2-Assignments**
 	- **OOSE A1**

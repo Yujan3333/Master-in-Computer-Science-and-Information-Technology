@@ -1,6 +1,4 @@
-Thanks Yujan! Here's a clear and exam-friendly answer set for each of those past questions from Object-Oriented Software Engineering (OOSE). You can revise and even write directly in your exam from these.
 
----
 
 ### i. **Explain Object-Oriented Software Development with Example.**
 
@@ -151,7 +149,3 @@ In a **Hospital System**, the team may use **Spiral Model** to first build a ris
 |**Includes**|Use-case diagrams, class diagrams, sequence diagrams|Method definitions, control flows, class structure|
 |**Goal**|Build a complete, scalable system design|Write detailed code-level logic|
 |**Example**|Designing how `Customer`, `Cart`, `Order` interact|Writing the `addToCart()` method for the `Cart` class|
-
----
-
-Let me know if you'd like these turned into a printable PDF or Obsidian format.

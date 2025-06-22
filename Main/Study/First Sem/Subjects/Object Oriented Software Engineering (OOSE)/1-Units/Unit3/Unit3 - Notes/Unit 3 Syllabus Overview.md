@@ -1,3 +1,4 @@
+- [Brief](Brief.md)
 ### Unit 3: Architecture, Real-Time Systems, Databases, Components, and Testing (Based on Ivar Jacobson's Textbook)
 #### 1. Architecture - Model Architecture, Requirements, Analysis, Design, Implementation, and Test Model
 

@@ -10,5 +10,6 @@
   "enabledCssSnippets": [
     "yujan-hr",
     "yujan-heading-BI-HR"
-  ]
+  ],
+  "showRibbon": true
 }

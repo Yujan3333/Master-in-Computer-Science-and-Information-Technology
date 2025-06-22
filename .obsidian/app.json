@@ -4,6 +4,6 @@
   "attachmentFolderPath": "Main/Images",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "readableLineLength": true,
-  "strictLineBreaks": true
+  "readableLineLength": false,
+  "strictLineBreaks": false
 }
