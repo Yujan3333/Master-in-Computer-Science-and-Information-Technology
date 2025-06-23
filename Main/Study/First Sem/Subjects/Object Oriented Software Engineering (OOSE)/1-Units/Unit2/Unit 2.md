@@ -12,5 +12,5 @@
 - [OOA-Coad Vs OOD-Booch](Unit2%20-%20Znotes/OOA-Coad%20Vs%20OOD-Booch.md)
 
 
-- [OOD-Booch Vs Traditional OOD method](OOD-Booch%20Vs%20Traditional%20OOD%20method.md) 
-- [OOA-Coad and Yourdon Vs Traditional OOA method](OOA-Coad%20and%20Yourdon%20Vs%20Traditional%20OOA%20method.md) 
+- [OOD-Booch Vs Traditional OOD method](Unit2%20-%20Znotes/OOD-Booch%20Vs%20Traditional%20OOD%20method.md) 
+- [OOA-Coad and Yourdon Vs Traditional OOA method](Unit2%20-%20Znotes/OOA-Coad%20and%20Yourdon%20Vs%20Traditional%20OOA%20method.md) 

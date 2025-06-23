@@ -24,10 +24,10 @@
  - Construction Phase
 
 - [Testing](Unit3%20-%20Notes/Testing.md)
-- [Black Box Testing Vs White Box Testing](Black%20Box%20Testing%20Vs%20White%20Box%20Testing.md)
+- [Black Box Testing Vs White Box Testing](Unit3%20-%20Notes/Black%20Box%20Testing%20Vs%20White%20Box%20Testing.md)
 
 ---
 
 ### Answer of Question of Notes
 - [Unit 3 Notes Que and Answer](Unit3%20-%20Notes/Unit%203%20Notes%20Que%20and%20Answer.md)
-- [What are the main reasons in construction phase ? What is done in construction phase ? Explain](Answer%20of%20construction%20phase.md)
+- [What are the main reasons in construction phase ? What is done in construction phase ? Explain](Unit3%20-%20Notes/Answer%20of%20construction%20phase.md)

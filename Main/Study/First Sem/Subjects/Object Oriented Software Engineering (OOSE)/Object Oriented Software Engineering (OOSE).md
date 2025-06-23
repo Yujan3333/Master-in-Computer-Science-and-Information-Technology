@@ -36,23 +36,23 @@
 			- [V-Model](./1-Units/Unit1/Unit1-ZNotes/V-Model.md)
 			- [Waterfall Model](./1-Units/Unit1/Unit1-ZNotes/Waterfall%20Model.md)
 	- **Unit2**
-		- [OOA-Coad and Yourdon Vs Traditional OOA method](./1-Units/Unit2/OOA-Coad%20and%20Yourdon%20Vs%20Traditional%20OOA%20method.md)
-		- [OOD-Booch Vs Traditional OOD method](./1-Units/Unit2/OOD-Booch%20Vs%20Traditional%20OOD%20method.md)
 		- [Unit 2](./1-Units/Unit2/Unit%202.md)
 		- **Unit2 - Znotes**
 			- [Function - data method VS Object Oriented Method](./1-Units/Unit2/Unit2%20-%20Znotes/Function%20-%20data%20method%20VS%20Object%20Oriented%20Method.md)
 			- [OOA with examples](./1-Units/Unit2/Unit2%20-%20Znotes/OOA%20with%20examples.md)
+			- [OOA-Coad and Yourdon Vs Traditional OOA method](./1-Units/Unit2/Unit2%20-%20Znotes/OOA-Coad%20and%20Yourdon%20Vs%20Traditional%20OOA%20method.md)
 			- [OOA-Coad Vs OOD-Booch](./1-Units/Unit2/Unit2%20-%20Znotes/OOA-Coad%20Vs%20OOD-Booch.md)
 			- [OOA-Coad](./1-Units/Unit2/Unit2%20-%20Znotes/OOA-Coad.md)
 			- [OOAD](./1-Units/Unit2/Unit2%20-%20Znotes/OOAD.md)
+			- [OOD-Booch Vs Traditional OOD method](./1-Units/Unit2/Unit2%20-%20Znotes/OOD-Booch%20Vs%20Traditional%20OOD%20method.md)
 			- [OOD-Booch](./1-Units/Unit2/Unit2%20-%20Znotes/OOD-Booch.md)
 			- [System Development Methods](./1-Units/Unit2/Unit2%20-%20Znotes/System%20Development%20Methods.md)
 			- [Unit 2 Brief Summary](./1-Units/Unit2/Unit2%20-%20Znotes/Unit%202%20Brief%20Summary.md)
 	- **Unit3**
-		- [Answer of construction phase](./1-Units/Unit3/Answer%20of%20construction%20phase.md)
-		- [Black Box Testing Vs White Box Testing](./1-Units/Unit3/Black%20Box%20Testing%20Vs%20White%20Box%20Testing.md)
 		- [Unit 3](./1-Units/Unit3/Unit%203.md)
 		- **Unit3 - Notes**
+			- [Answer of construction phase](./1-Units/Unit3/Unit3%20-%20Notes/Answer%20of%20construction%20phase.md)
+			- [Black Box Testing Vs White Box Testing](./1-Units/Unit3/Unit3%20-%20Notes/Black%20Box%20Testing%20Vs%20White%20Box%20Testing.md)
 			- [Brief](./1-Units/Unit3/Unit3%20-%20Notes/Brief.md)
 			- [Component Based Software Engineering](./1-Units/Unit3/Unit3%20-%20Notes/Component%20Based%20Software%20Engineering.md)
 			- [Component Management](./1-Units/Unit3/Unit3%20-%20Notes/Component%20Management.md)
