@@ -5,7 +5,7 @@
   "interfaceFontFamily": "",
   "textFontFamily": "Bodoni 72 Smallcaps,Bahnschrift",
   "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 18,
+  "baseFontSize": 19,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "yujan-hr",
