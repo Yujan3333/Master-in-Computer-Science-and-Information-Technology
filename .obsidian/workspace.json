@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "abfbd39ea94c60c1",
+        "id": "1899cd504529cebe",
         "type": "tabs",
         "children": [
           {
-            "id": "d02147ae160d5bb4",
+            "id": "10fabc9ec8f2fc05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOA-Coad Vs OOD-Booch.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "OOA-Coad Vs OOD-Booch"
-            }
-          },
-          {
-            "id": "bd015248b9a13bad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A2/Difference Between HOOD, OMT and RDD.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Difference Between HOOD, OMT and RDD"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,17 +131,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A2/Difference Between HOOD, OMT and RDD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Difference Between HOOD, OMT and RDD"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,54 +159,53 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "bd015248b9a13bad",
+  "active": "10fabc9ec8f2fc05",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2070.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2075.md",
+    "Attachments/2075-2.png",
+    "Attachments/2075-1.png",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2071.md",
+    "Attachments/2071-2.png",
+    "Attachments/2071-1.png",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Frequently Asked Questions.md",
+    "Attachments/2070.png",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2072.md",
+    "Attachments/2072-2.png",
+    "Attachments/2072-1.png",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2074.md",
+    "Attachments/2074-2.png",
+    "Attachments/2074-1.png",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2077.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2078.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2073.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2076.md",
+    "Attachments/2076-2.png",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2081.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions",
+    "Main/Study/First Sem/All Notes and Resources Combined/OOSE Notes/Boooks/Ivar Jacobson - Object-oriented software engineering_ a use case driven approach-ACM Press_ Addison-Wesley Pub (1992).pdf",
+    "Main/Study/First Sem/All Notes and Resources Combined/OOSE Notes/Boooks",
+    "Main/Study/First Sem/All Notes and Resources Combined/OOSE Notes/New folder",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOA-Coad Vs OOD-Booch.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A2/Difference Between HOOD, OMT and RDD.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit5/Unit 5.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOA-Coad Vs OOD-Booch.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit 2.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOA Vs OOD.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOAD.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A2/Difference Between HOOD, OMT and RDD.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit4/Unit4.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit 3.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit3 - Notes/Hard RTS Vs Soft RTS.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A2/Responsibility-driven design (RDD).md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A2/Object Modeling Technique (OMT).md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit3 - Notes/Different Views on Component Based Software Engineering.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit3 - Notes/Component Based Software Engineering.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/System Development Methods.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Project Scope.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/CASE.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Questions and Answer of Notes.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit1-ZNotes/Software model that support OO.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOD-Booch Vs Traditional OOD method.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes/OOA-Coad and Yourdon Vs Traditional OOA method.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit5/Unit5 - Notes/Object Modeling Technique.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit5/Unit5 - Notes",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit5",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit3 - Notes/Answer of construction phase.md",
-    "Attachments/Answer of construction phase.png",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit3 - Notes/Black Box Testing Vs White Box Testing.md",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit3 - Notes/Testing.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit3 - Notes",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3",
-    "Attachments/State Diagram6.png",
-    "Attachments/State Diagram5.png",
-    "Attachments/State Diagram4.png",
-    "Attachments/State Diagram3.png",
-    "Attachments/State Diagram2.png",
-    "Attachments/State Diagram1.png",
-    "Attachments/State Diagram.png",
-    "Attachments/Object Diagram-ex.png",
-    "Attachments/Object Diagram-state.png",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2",
-    "Attachments/Numerical - 1- feed forward DOGS.pdf",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Znotes",
-    "MPEG Problem – Fast Forward",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Untitled",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }

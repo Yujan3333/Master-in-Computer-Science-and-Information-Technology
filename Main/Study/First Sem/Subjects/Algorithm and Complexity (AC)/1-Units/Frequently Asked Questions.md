@@ -1,0 +1,2 @@
+- [[Expain an algorithm for data concentration problem on linear array with example]]
+- 
