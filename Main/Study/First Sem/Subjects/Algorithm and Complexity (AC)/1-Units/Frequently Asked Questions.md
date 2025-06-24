@@ -1,2 +1,2 @@
 - [[Explain an algorithm for data concentration problem on linear array with example]]
-- 
+- [[Explain how dynamic programming can be used to solve optimal BST]]
