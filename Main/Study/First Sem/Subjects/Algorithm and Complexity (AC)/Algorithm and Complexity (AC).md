@@ -2,11 +2,12 @@
 - **1-Units**
 	- [Frequently Asked Questions](./1-Units/Frequently%20Asked%20Questions.md)
 	- **Unit1**
-		- [U1 Advance Algorithm Analysis and Design techniques](./1-Units/Unit1/U1%20Advance%20Algorithm%20Analysis%20and%20Design%20techniques.md)
+		- [Unit 1](./1-Units/Unit1/Unit%201.md)
 		- **[Unit1-Notes-Folder](./1-Units/Unit1/Unit1-Notes-Folder/Unit1-Notes-Folder.md)**
 	- **Unit4**
-		- [Missed Class-U4 mesh](./1-Units/Unit4/Missed%20Class-U4%20mesh.md)
-		- [U4 Mesh and Hypercube Algorithms](./1-Units/Unit4/U4%20Mesh%20and%20Hypercube%20Algorithms.md)
+		- [Unit 4](./1-Units/Unit4/Unit%204.md)
+		- **Unit4 Notes**
+			- [Missed Class-U4 mesh](./1-Units/Unit4/Unit4%20Notes/Missed%20Class-U4%20mesh.md)
 - **2-Assignment**
 	- [_index](./2-Assignment/_index.md)
 	- [Huffman Coding](./2-Assignment/Huffman%20Coding.md)

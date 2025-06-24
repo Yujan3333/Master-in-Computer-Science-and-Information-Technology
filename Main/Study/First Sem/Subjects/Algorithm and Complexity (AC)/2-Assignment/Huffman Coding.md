@@ -1,7 +1,6 @@
  - compression techniques that handles the data compression of ASCII characters.
 - Developed by David Huffman in 1952
 
-- Based on top-down approach. In this algorithm, a **binary tree** is created in a top−down manner to produce a minimal sequence.
 
 - It translates the characters contained in a *data file into a binary code*.
 
