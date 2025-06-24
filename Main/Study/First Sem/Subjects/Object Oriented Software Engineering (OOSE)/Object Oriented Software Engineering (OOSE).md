@@ -39,6 +39,7 @@
 		- [Unit 2](./1-Units/Unit2/Unit%202.md)
 		- **Unit2 - Znotes**
 			- [Function - data method VS Object Oriented Method](./1-Units/Unit2/Unit2%20-%20Znotes/Function%20-%20data%20method%20VS%20Object%20Oriented%20Method.md)
+			- [OOA Vs OOD](./1-Units/Unit2/Unit2%20-%20Znotes/OOA%20Vs%20OOD.md)
 			- [OOA with examples](./1-Units/Unit2/Unit2%20-%20Znotes/OOA%20with%20examples.md)
 			- [OOA-Coad and Yourdon Vs Traditional OOA method](./1-Units/Unit2/Unit2%20-%20Znotes/OOA-Coad%20and%20Yourdon%20Vs%20Traditional%20OOA%20method.md)
 			- [OOA-Coad Vs OOD-Booch](./1-Units/Unit2/Unit2%20-%20Znotes/OOA-Coad%20Vs%20OOD-Booch.md)

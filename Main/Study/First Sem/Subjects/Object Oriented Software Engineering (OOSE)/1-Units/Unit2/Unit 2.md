@@ -6,6 +6,7 @@
 - [System Development Methods](Unit2%20-%20Znotes/System%20Development%20Methods.md)
 - [Function - data method VS Object Oriented Method](Unit2%20-%20Znotes/Function%20-%20data%20method%20VS%20Object%20Oriented%20Method.md)
 - [OOAD](Unit2%20-%20Znotes/OOAD.md)
+- [OOA Vs OOD](Unit2%20-%20Znotes/OOA%20Vs%20OOD.md)
 
 ---
 
