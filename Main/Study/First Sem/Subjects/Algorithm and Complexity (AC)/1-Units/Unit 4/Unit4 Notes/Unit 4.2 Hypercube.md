@@ -26,5 +26,5 @@
 
 ---
 - Sorting
-	- Odd Even Merge Sort 
+	- [Odd Even Merge Sort ](Odd%20Even%20Merge%20Sort%20.md)
 	- [Bitonic Sort](Bitonic%20Sort.md)

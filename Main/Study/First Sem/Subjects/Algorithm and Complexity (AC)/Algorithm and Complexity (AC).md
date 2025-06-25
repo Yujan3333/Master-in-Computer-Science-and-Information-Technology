@@ -37,6 +37,7 @@
 			- [Where can the concept of binary tree can be implemented  What is prefix computation  Explain 10 marks](./1-Units/Unit%203/Unit3%20-%20Notes/Where%20can%20the%20concept%20of%20binary%20tree%20can%20be%20implemented%20%20What%20is%20prefix%20computation%20%20Explain%2010%20marks.md)
 	- **[Unit 4](./1-Units/Unit%204/Unit%204.md)**
 		- **Unit4 Notes**
+			- [Answer - 🐸 Frog Jump Problem](./1-Units/Unit%204/Unit4%20Notes/Answer%20-%20%F0%9F%90%B8%20Frog%20Jump%20Problem.md)
 			- [Bitonic Sort](./1-Units/Unit%204/Unit4%20Notes/Bitonic%20Sort.md)
 			- [Broadcasting in Hypercube](./1-Units/Unit%204/Unit4%20Notes/Broadcasting%20in%20Hypercube.md)
 			- [Broadcasting in Mesh](./1-Units/Unit%204/Unit4%20Notes/Broadcasting%20in%20Mesh.md)
@@ -46,6 +47,7 @@
 			- [Embedding of Binary tree and Ring on Hypercube](./1-Units/Unit%204/Unit4%20Notes/Embedding%20of%20Binary%20tree%20and%20Ring%20on%20Hypercube.md)
 			- [Embedding of Other Network](./1-Units/Unit%204/Unit4%20Notes/Embedding%20of%20Other%20Network.md)
 			- [Hypercube](./1-Units/Unit%204/Unit4%20Notes/Hypercube.md)
+			- [Odd Even Merge Sort ](./1-Units/Unit%204/Unit4%20Notes/Odd%20Even%20Merge%20Sort%20.md)
 			- [Prefix Computation in Hypercube](./1-Units/Unit%204/Unit4%20Notes/Prefix%20Computation%20in%20Hypercube.md)
 			- [Prefix Computation In Mesh](./1-Units/Unit%204/Unit4%20Notes/Prefix%20Computation%20In%20Mesh.md)
 			- [Sorting on a Mesh - Sparse Sort](./1-Units/Unit%204/Unit4%20Notes/Sorting%20on%20a%20Mesh%20-%20Sparse%20Sort.md)
