@@ -2,7 +2,7 @@
 
 ---
 
-### ✅ **3.1 Online Algorithms – Introduction**
+## ✅ **3.1 Online Algorithms – Introduction**
 
 - An **Online Algorithm** is an algorithm that makes decisions **step-by-step** as input arrives **without knowing the future**.
     
@@ -93,7 +93,7 @@ Used in memory management (like how OS manages RAM and cache).
 
 ---
 
-### ✅ **2. LFD (Longest Forward Distance)**
+### ✅ **2. LFD (Longest Forward Distance)** / Optimal Page Replacement
 
 - Evict the page that **will not be used for the longest time in future**.
     
@@ -123,3 +123,158 @@ Used in memory management (like how OS manages RAM and cache).
 |**LRU**|Remove **least recently used** page (online + practical)|
 
 ---
+## 🔷 **3.2 PRAM Algorithms**
+
+---
+
+### ✅ **PRAM: Introduction**
+
+**PRAM = Parallel Random Access Machine**
+
+- A **theoretical model** for designing **parallel algorithms**.
+    
+- Multiple **processors** working **in parallel** and **sharing a common memory**.
+    
+- Time is divided into **synchronous steps**.
+    
+
+---
+
+### ✅ **PRAM Computational Model**
+
+- **Each processor can:**
+    
+    1. **Read** from shared memory
+        
+    2. **Write** to shared memory
+        
+    3. **Perform computation**
+        
+- All processors run in **lock-step (synchronous)**.
+    
+
+---
+
+### ✅ **Types of PRAM Models (Based on Memory Access):**
+
+|Model|Description|
+|---|---|
+|**EREW**|Exclusive Read Exclusive Write – No simultaneous read or write to the same memory|
+|**CREW**|Concurrent Read Exclusive Write – Many can read same memory, but only one can write|
+|**ERCW**|Exclusive Read Concurrent Write – Rare model|
+|**CRCW**|Concurrent Read Concurrent Write – All processors can read and write at the same time|
+
+---
+
+## ✅ **Fundamental Techniques & Algorithms**
+
+### 🔹 **1. Prefix Computation**
+
+> Given array A[1..n], compute prefix sums:
+
+$P[i] = A[1] + A[2] + \dots + A[i]$ 
+
+
+**Example**:  
+Input: [3,1,4,2]  
+Output: [3,4,8,10]
+
+- Can be solved using **log n time** with **n processors** in PRAM.
+
+
+### 🔹 **2. List Ranking**
+
+- Given a **linked list**, assign **rank (position)** to each node.
+    
+- Hard to parallelize because list is sequential.
+    
+- PRAM uses **pointer jumping** to skip nodes and compute ranks in **O(log n)** time with **n processors**.
+    
+
+---
+
+## ✅ **Selection Problems**
+
+### 🔹 **1. Maximal Selection (with n² processors)**
+
+- Try all pairs $A[i],A[j]$ compare in parallel.
+    
+- Mark those not maximum.
+    
+- Remaining unmarked element is the **maximum**.
+    
+
+**Time:** O(1) with **$n^2$ processors**
+
+### **2. Finding Maximum (with n processors)**
+
+- **Pairwise compare** and eliminate smaller one.
+    
+- Repeat for survivors → like a tournament tree.
+    
+
+**Time:** O(log n) with **n processors**
+
+## ✅ **Merging Algorithms**
+
+---
+
+### 🔹 **1. Logarithmic Time Merge (using binary search):**
+
+- For every element in array A, find its correct position in array B (and vice versa) using **binary search**.
+    
+- Merge in **O(log n)** time with **n processors**
+    
+
+---
+
+### 🔹 **2. Odd-Even Merge**
+
+- Divide and conquer strategy.
+    
+- Merge odd and even indexed elements recursively.
+    
+- Used in **parallel sorting**.
+    
+
+---
+
+## ✅ **Sorting Algorithms**
+
+---
+
+### 🔹 **1. Odd-Even Merge Sort**
+
+- Based on divide-and-conquer.
+    
+- Sort odd and even parts separately.
+    
+- Use **odd-even merging**.
+    
+- Runs in **O(log² n)** time using **n processors**
+    
+
+---
+
+### 🔹 **2. Preparata’s Sorting Algorithm**
+
+- Another parallel sort algorithm.
+    
+- Based on **merging and splitting** in parallel steps.
+    
+- More complex, but better optimized.
+    
+
+---
+
+### 🟩 **Summary Table for Exam:**
+
+|Topic|Time|Processors|Notes|
+|---|---|---|---|
+|Prefix Sum|O(log n)|n|Use binary tree computation|
+|List Ranking|O(log n)|n|Pointer jumping|
+|Max Selection (n²)|O(1)|n²|All-pairs comparison|
+|Max Selection (n)|O(log n)|n|Tournament style|
+|Merge|O(log n)|n|Binary search merge|
+|Odd-Even Merge Sort|O(log² n)|n|Efficient parallel sort|
+|Preparata's Sort|O(log² n)|n|Optimized merge sort|

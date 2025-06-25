@@ -1,3 +1,4 @@
+- Missed Class
 ## Prefix Computation In Mesh
 The image describes a parallel algorithm for computing prefix sums (also known as scan operations) on a 2D mesh architecture using a row-major indexing scheme. Here's a step-by-step explanation of the process:
 
