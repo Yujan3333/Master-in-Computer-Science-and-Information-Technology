@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "1899cd504529cebe",
+        "id": "9232c9c5730dd128",
         "type": "tabs",
         "children": [
           {
-            "id": "4b2925194ab5872a",
+            "id": "32f0f338fd90a6e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/1.2 Advance Algorithm Design Techniques.md",
+                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit 3 - Online and PRAM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.2 Advance Algorithm Design Techniques"
+              "title": "Unit 3 - Online and PRAM"
+            }
+          },
+          {
+            "id": "51bc613339d93f4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Summary of Unit 3 Online and PRAM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Summary of Unit 3 Online and PRAM"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +138,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
+                "useHierarchy": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -136,16 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/1.2 Advance Algorithm Design Techniques.md",
+                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Summary of Unit 3 Online and PRAM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.2 Advance Algorithm Design Techniques"
+              "title": "Outline of Summary of Unit 3 Online and PRAM"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -165,36 +182,42 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "51bc613339d93f4c",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Primality Testing.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/1.2 Advance Algorithm Design Techniques.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Fractional Knapsack - Numerical.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Knapsack Problem.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Numerical.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit 1.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Unit 1 - Summary.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/String Editing.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2077.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Summary of Unit 3 Online and PRAM.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit 3 - Online and PRAM.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Frequently Asked Questions.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit 2.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/Hamiltonian Cycle (Hamilton Cycle).md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/Travelling Salesman.md",
+    "Attachments/Travelling Salesman.png",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/CLIQUE problem.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/Vertex Cover.md",
+    "Attachments/Vertex Cover.png",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/3-SAT.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/SAT is in NP.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/Further Explanation.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2076.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/Cooks Theorem.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/Unit 2 - Summary Computational Complexity Theory.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2077.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2078.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2081.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2070.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2071.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2072.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/compare divide and conquer and dynamic programming with examples.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2073.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2074.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2075.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2076.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2078.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2081.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Binary Tree Vs BST.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/Difference P -  NP - NP hard problems.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/1.2 Advance Algorithm Design Techniques.md",
     "Attachments/String Editing-que.png",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Greedy Algorithms.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/2-Assignment/Huffman Coding.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Huffman Vs Shannon Fano.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/2-Assignment/Shannon Fano Coding.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit1/Unit1-Notes-Folder/Randomized Algorithm - Monte Carlo and Las Vegas.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit4/Unit4 Notes",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes",
     "Attachments/2075-2.png",
     "Attachments/2075-1.png",
     "Attachments/2071-2.png",
@@ -202,17 +225,11 @@
     "Attachments/2070.png",
     "Attachments/2072-2.png",
     "Attachments/2072-1.png",
-    "Attachments/2074-2.png",
-    "Attachments/2074-1.png",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions",
     "Main/Study/First Sem/All Notes and Resources Combined/OOSE Notes/Boooks/Ivar Jacobson - Object-oriented software engineering_ a use case driven approach-ACM Press_ Addison-Wesley Pub (1992).pdf",
     "Main/Study/First Sem/All Notes and Resources Combined/OOSE Notes/Boooks",
     "Main/Study/First Sem/All Notes and Resources Combined/OOSE Notes/New folder",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit5/Unit5 - Notes",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit5",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3/Unit3 - Notes",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit3",
-    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit2/Unit2 - Znotes",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }

@@ -1,13 +1,27 @@
 %% Begin Waypoint %%
 - **1-Units**
 	- [Frequently Asked Questions](./1-Units/Frequently%20Asked%20Questions.md)
-	- **Unit1**
-		- [Unit 1](./1-Units/Unit1/Unit%201.md)
-		- **[Unit1-Notes-Folder](./1-Units/Unit1/Unit1-Notes-Folder/Unit1-Notes-Folder.md)**
-	- **Unit4**
-		- [Unit 4](./1-Units/Unit4/Unit%204.md)
+	- **[Unit 1](./1-Units/Unit%201/Unit%201.md)**
+		- **[Unit1-Notes-Folder](./1-Units/Unit%201/Unit1-Notes-Folder/Unit1-Notes-Folder.md)**
+	- **[Unit 2](./1-Units/Unit%202/Unit%202.md)**
+		- **Unit2 - Notes**
+			- [3-SAT](./1-Units/Unit%202/Unit2%20-%20Notes/3-SAT.md)
+			- [CLIQUE problem](./1-Units/Unit%202/Unit2%20-%20Notes/CLIQUE%20problem.md)
+			- [Cooks Theorem](./1-Units/Unit%202/Unit2%20-%20Notes/Cooks%20Theorem.md)
+			- [Difference P -  NP - NP hard problems](./1-Units/Unit%202/Unit2%20-%20Notes/Difference%20P%20-%20%20NP%20-%20NP%20hard%20problems.md)
+			- [Further Explanation](./1-Units/Unit%202/Unit2%20-%20Notes/Further%20Explanation.md)
+			- [Hamiltonian Cycle (Hamilton Cycle)](./1-Units/Unit%202/Unit2%20-%20Notes/Hamiltonian%20Cycle%20(Hamilton%20Cycle).md)
+			- [SAT is in NP](./1-Units/Unit%202/Unit2%20-%20Notes/SAT%20is%20in%20NP.md)
+			- [Travelling Salesman](./1-Units/Unit%202/Unit2%20-%20Notes/Travelling%20Salesman.md)
+			- [Unit 2 - Summary Computational Complexity Theory](./1-Units/Unit%202/Unit2%20-%20Notes/Unit%202%20-%20Summary%20Computational%20Complexity%20Theory.md)
+			- [Vertex Cover](./1-Units/Unit%202/Unit2%20-%20Notes/Vertex%20Cover.md)
+	- **Unit 3**
+		- [Unit 3 - Online and PRAM](./1-Units/Unit%203/Unit%203%20-%20Online%20and%20PRAM.md)
+		- **Unit3 - Notes**
+			- [Summary of Unit 3 Online and PRAM](./1-Units/Unit%203/Unit3%20-%20Notes/Summary%20of%20Unit%203%20Online%20and%20PRAM.md)
+	- **[Unit 4](./1-Units/Unit%204/Unit%204.md)**
 		- **Unit4 Notes**
-			- [Missed Class-U4 mesh](./1-Units/Unit4/Unit4%20Notes/Missed%20Class-U4%20mesh.md)
+			- [Missed Class-U4 mesh](./1-Units/Unit%204/Unit4%20Notes/Missed%20Class-U4%20mesh.md)
 - **2-Assignment**
 	- [_index](./2-Assignment/_index.md)
 	- [Huffman Coding](./2-Assignment/Huffman%20Coding.md)

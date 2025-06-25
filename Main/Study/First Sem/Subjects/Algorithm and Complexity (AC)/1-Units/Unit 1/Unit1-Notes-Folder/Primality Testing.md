@@ -10,7 +10,7 @@ This is a core step in the **Miller–Rabin Primality Test**.
 
 ### ✅ 1. **a** – Base
 
-- A **random number** chosen between 2 and n−2
+- A **random number** chosen between 2 and $n−2$
     
 - It is used to test whether nnn might be prime
     
