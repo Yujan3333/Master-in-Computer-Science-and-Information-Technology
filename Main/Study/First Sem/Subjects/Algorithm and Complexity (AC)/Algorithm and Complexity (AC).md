@@ -38,8 +38,15 @@
 	- **[Unit 4](./1-Units/Unit%204/Unit%204.md)**
 		- **Unit4 Notes**
 			- [Bitonic Sort](./1-Units/Unit%204/Unit4%20Notes/Bitonic%20Sort.md)
+			- [Broadcasting in Hypercube](./1-Units/Unit%204/Unit4%20Notes/Broadcasting%20in%20Hypercube.md)
 			- [Broadcasting in Mesh](./1-Units/Unit%204/Unit4%20Notes/Broadcasting%20in%20Mesh.md)
+			- [Butterfly Network](./1-Units/Unit%204/Unit4%20Notes/Butterfly%20Network.md)
+			- [Data Concentration in Hypercube](./1-Units/Unit%204/Unit4%20Notes/Data%20Concentration%20in%20Hypercube.md)
 			- [Data Concentration in Mesh](./1-Units/Unit%204/Unit4%20Notes/Data%20Concentration%20in%20Mesh.md)
+			- [Embedding of Binary tree and Ring on Hypercube](./1-Units/Unit%204/Unit4%20Notes/Embedding%20of%20Binary%20tree%20and%20Ring%20on%20Hypercube.md)
+			- [Embedding of Other Network](./1-Units/Unit%204/Unit4%20Notes/Embedding%20of%20Other%20Network.md)
+			- [Hypercube](./1-Units/Unit%204/Unit4%20Notes/Hypercube.md)
+			- [Prefix Computation in Hypercube](./1-Units/Unit%204/Unit4%20Notes/Prefix%20Computation%20in%20Hypercube.md)
 			- [Prefix Computation In Mesh](./1-Units/Unit%204/Unit4%20Notes/Prefix%20Computation%20In%20Mesh.md)
 			- [Sorting on a Mesh - Sparse Sort](./1-Units/Unit%204/Unit4%20Notes/Sorting%20on%20a%20Mesh%20-%20Sparse%20Sort.md)
 			- [Sorting on Linear Array](./1-Units/Unit%204/Unit4%20Notes/Sorting%20on%20Linear%20Array.md)

@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Odd-Even Merge Sort vs Bitonic Sort</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            color: #333;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        }
+        
+        h1 {
+            text-align: center;
+            color: #4a5568;
+            margin-bottom: 30px;
+            font-size: 2.5em;
+        }
+        
+        .comparison-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        .algorithm-section {
+            background: #f8fafc;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 5px solid #4299e1;
+        }
+        
+        .bitonic-section {
+            border-left-color: #48bb78;
+        }
+        
+        .section-title {
+            font-size: 1.5em;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #2d3748;
+        }
+        
+        .stage {
+            margin: 20px 0;
+            padding: 15px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        
+        .stage-title {
+            font-weight: bold;
+            color: #4299e1;
+            margin-bottom: 10px;
+        }
+        
+        .sequence-display {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin: 10px 0;
+            flex-wrap: wrap;
+        }
+        
+        .element {
+            background: #4299e1;
+            color: white;
+            padding: 6px 10px;
+            border-radius: 4px;
+            font-weight: bold;
+            min-width: 25px;
+            text-align: center;
+        }
+        
+        .element.sorted {
+            background: #48bb78;
+        }
+        
+        .element.bitonic {
+            background: #ed8936;
+        }
+        
+        .arrow {
+            font-size: 1.2em;
+            color: #666;
+            margin: 0 5px;
+        }
+        
+        .network-diagram {
+            background: #f7fafc;
+            padding: 20px;
+            border-radius: 10px;
+            margin: 15px 0;
+            font-family: monospace;
+            font-size: 0.9em;
+            overflow-x: auto;
+        }
+        
+        .key-differences {
+            background: #fef5e7;
+            padding: 20px;
+            border-radius: 10px;
+            border-left: 5px solid #ed8936;
+            margin: 30px 0;
+        }
+        
+        .highlight {
+            background: #fed7d7;
+            padding: 2px 4px;
+            border-radius: 3px;
+            font-weight: bold;
+        }
+        
+        .comparison-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        
+        .comparison-table th,
+        .comparison-table td {
+            padding: 12px;
+            text-align: left;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        
+        .comparison-table th {
+            background: #4299e1;
+            color: white;
+            font-weight: bold;
+        }
+        
+        .comparison-table tr:hover {
+            background: #f7fafc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔄 Odd-Even Merge Sort vs 🦋 Bitonic Sort</h1>
+        
+        <div class="key-differences">
+            <h3>🔍 Key Differences You've Discovered</h3>
+            <p><strong>Your handwritten example shows Odd-Even Merge Sort, not Bitonic Sort!</strong></p>
+            <ul>
+                <li><strong>Odd-Even Merge Sort:</strong> Works with already sorted subsequences and merges them</li>
+                <li><strong>Bitonic Sort:</strong> Works with bitonic sequences (monotonic up then down, or vice versa)</li>
+                <li><strong>Both:</strong> Use butterfly networks but with different comparison patterns</li>
+            </ul>
+        </div>
+
+        <table class="comparison-table">
+            <thead>
+                <tr>
+                    <th>Aspect</th>
+                    <th>Odd-Even Merge Sort (Your Example)</th>
+                    <th>Bitonic Sort</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Input Requirement</strong></td>
+                    <td>Two sorted sequences</td>
+                    <td>One bitonic sequence (or any sequence)</td>
+                </tr>
+                <tr>
+                    <td><strong>Your Example Input</strong></td>
+                    <td>X₁ = [8,12,21,25], X₂ = [3,5,24,26]</td>
+                    <td>Same data arranged as bitonic sequence</td>
+                </tr>
+                <tr>
+                    <td><strong>Network Pattern</strong></td>
+                    <td>Separate odd/even positions, then merge</td>
+                    <td>Distance-based comparisons (n/2, n/4, n/8...)</td>
+                </tr>
+                <tr>
+                    <td><strong>Phases</strong></td>
+                    <td>I-phase (separate), II-phase (merge)</td>
+                    <td>Multiple stages with decreasing distances</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div class="comparison-container">
+            <div class="algorithm-section">
+                <div class="section-title">📝 Your Example: Odd-Even Merge Sort</div>
+                
+                <div class="stage">
+                    <div class="stage-title">Input (Two Sorted Sequences)</div>
+                    <div class="sequence-display">
+                        <strong>X₁:</strong>
+                        <div class="element sorted">8</div>
+                        <div class="element sorted">12</div>
+                        <div class="element sorted">21</div>
+                        <div class="element sorted">25</div>
+                    </div>
+                    <div class="sequence-display">
+                        <strong>X₂:</strong>
+                        <div class="element sorted">3</div>
+                        <div class="element sorted">5</div>
+                        <div class="element sorted">24</div>
+                        <div class="element sorted">26</div>
+                    </div>
+                </div>
+
+                <div class="stage">
+                    <div class="stage-title">I-Phase: Separate Odd/Even</div>
+                    <div class="sequence-display">
+                        <strong>Odd positions:</strong>
+                        <div class="element">8</div>
+                        <div class="element">21</div>
+                        <div class="element">3</div>
+                        <div class="element">24</div>
+                    </div>
+                    <div class="sequence-display">
+                        <strong>Even positions:</strong>
+                        <div class="element">12</div>
+                        <div class="element">25</div>
+                        <div class="element">5</div>
+                        <div class="element">26</div>
+                    </div>
+                </div>
+
+                <div class="stage">
+                    <div class="stage-title">II-Phase: Merge with Comparisons</div>
+                    <div class="network-diagram">
+Stage 1: Direct & Cross Links
+8  12  21  25   3   5  24  26
+│   │   │   │   │   │   │   │
+└─x─┴─x─┴─x─┴─x─┴─x─┴─x─┴─x─┘
+
+Stage 2: Cross Links  
+3   8  21  24   5  12  25  26
+│   │   │   │   │   │   │   │
+└─x─┴───┴─x─┴───┴─x─┴───┴─x─┘
+
+Final: 3  5  8  12  21  24  25  26
+                    </div>
+                </div>
+            </div>
+
+            <div class="algorithm-section bitonic-section">
+                <div class="section-title">🦋 Same Data: Bitonic Sort</div>
+                
+                <div class="stage">
+                    <div class="stage-title">Step 1: Create Bitonic Sequence</div>
+                    <div class="sequence-display">
+                        <strong>X₁ (ascending):</strong>
+                        <div class="element">8</div>
+                        <div class="element">12</div>
+                        <div class="element">21</div>
+                        <div class="element">25</div>
+                    </div>
+                    <div class="sequence-display">
+                        <strong>X₂ (reverse to descending):</strong>
+                        <div class="element">26</div>
+                        <div class="element">24</div>
+                        <div class="element">5</div>
+                        <div class="element">3</div>
+                    </div>
+                    <div class="sequence-display">
+                        <strong>Combined bitonic:</strong>
+                        <div class="element bitonic">8</div>
+                        <div class="element bitonic">12</div>
+                        <div class="element bitonic">21</div>
+                        <div class="element bitonic">25</div>
+                        <div class="element bitonic">26</div>
+                        <div class="element bitonic">24</div>
+                        <div class="element bitonic">5</div>
+                        <div class="element bitonic">3</div>
+                    </div>
+                </div>
+
+                <div class="stage">
+                    <div class="stage-title">Step 2: Bitonic Sort Stages</div>
+                    <div class="sequence-display">
+                        <strong>Stage 1 (distance 4):</strong>
+                        <div class="element">8</div>
+                        <div class="element">12</div>
+                        <div class="element">5</div>
+                        <div class="element">3</div>
+                        <div class="element">26</div>
+                        <div class="element">24</div>
+                        <div class="element">21</div>
+                        <div class="element">25</div>
+                    </div>
+                    <div class="sequence-display">
+                        <strong>Stage 2 (distance 2):</strong>
+                        <div class="element">5</div>
+                        <div class="element">3</div>
+                        <div class="element">8</div>
+                        <div class="element">12</div>
+                        <div class="element">21</div>
+                        <div class="element">24</div>
+                        <div class="element">25</div>
+                        <div class="element">26</div>
+                    </div>
+                    <div class="sequence-display">
+                        <strong>Stage 3 (distance 1):</strong>
+                        <div class="element sorted">3</div>
+                        <div class="element sorted">5</div>
+                        <div class="element sorted">8</div>
+                        <div class="element sorted">12</div>
+                        <div class="element sorted">21</div>
+                        <div class="element sorted">24</div>
+                        <div class="element sorted">25</div>
+                        <div class="element sorted">26</div>
+                    </div>
+                </div>
+
+                <div class="network-diagram">
+Distance-based Comparisons:
+Stage 1 (d=4): 8↔26, 12↔24, 21↔5, 25↔3
+Stage 2 (d=2): 8↔5, 12↔3, 26↔21, 24↔25  
+Stage 3 (d=1): 5↔3, 8↔12, 21↔24, 25↔26
+                </div>
+            </div>
+        </div>
+
+        <div class="key-differences">
+            <h3>📊 Summary: Why Your Example is Odd-Even Merge Sort</h3>
+            <p><strong>Evidence from your handwritten notes:</strong></p>
+            <ul>
+                <li>✅ You start with two <em>already sorted</em> sequences</li>
+                <li>✅ You separate into odd and even positions (I-phase)</li>
+                <li>✅ You use "direct & cross" connections (II-phase)</li>
+                <li>✅ Your network pattern matches odd-even merge, not bitonic distance-based comparisons</li>
+            </ul>
+            
+            <p><strong>To convert the same data to Bitonic Sort:</strong></p>
+            <ol>
+                <li>Reverse one sequence to create a bitonic input</li>
+                <li>Apply distance-based comparisons (4, 2, 1)</li>
+                <li>Each stage compares elements at fixed distances</li>
+            </ol>
+        </div>
+    </div>
+</body>
+</html>
