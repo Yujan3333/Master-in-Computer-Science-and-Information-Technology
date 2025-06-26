@@ -12,7 +12,7 @@ This is a core step in the **Miller–Rabin Primality Test**.
 
 - A **random number** chosen between 2 and $n−2$
     
-- It is used to test whether nnn might be prime
+- It is used to test whether n might be prime
     
 
 ---

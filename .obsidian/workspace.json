@@ -8,48 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21985e6e586f2734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit 3 - Online and PRAM.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit 3 - Online and PRAM"
-            }
-          },
-          {
             "id": "b78eb82aa1fe5559",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Summary of Unit 4 Mesh and Hypercube.md",
+                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Preparata Algorithm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Summary of Unit 4 Mesh and Hypercube"
-            }
-          },
-          {
-            "id": "7717b20019f888ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Frequently Asked Questions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Frequently Asked Questions"
+              "title": "Preparata Algorithm"
             }
           }
         ]
@@ -166,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit 3 - Online and PRAM.md",
+                "file": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Preparata Algorithm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 3 - Online and PRAM"
+              "title": "Outline of Preparata Algorithm"
             }
           }
         ],
@@ -196,34 +166,38 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "21985e6e586f2734",
+  "active": "b78eb82aa1fe5559",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Preparata Algorithm.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Example Preparata.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit 3 - Online and PRAM.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Odd-Even Merge Sort.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Preparata Algorithm.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Odd-Even Merge.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/A Logarithmic Time Algorithm.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Maximal Selection with n2 processor.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/List Ranking.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Frequently Asked Questions.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Summary of Unit 4 Mesh and Hypercube.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2077.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2078.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit 2.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/Explain reduction with an example.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/Unit 2 - Summary Computational Complexity Theory.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2081.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes/Cooks Theorem.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Data Concentration in Mesh.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Unit 4.1 Mesh.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit 4.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Summary of Unit 4 Mesh and Hypercube.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Unit 4.2 Hypercube.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Data Concentration in Hypercube.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Odd Even Merge Sort .md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Define Speed Up-Total work done - Efficiency of PRAM Algorithm.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Answer - 🐸 Frog Jump Problem.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Frequently Asked Questions.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Bitonic Sort.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2070.md",
+    "Attachments/2071-1.png",
+    "Main/Images/courses.pdf",
+    "Main/Images/Class Diagram.png",
+    "Main/Images/Backpropagation Sigmoid.png",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit 1.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/1.2 Advance Algorithm Design Techniques.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/Unit 1 - Summary.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/Huffman Vs Shannon Fano.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/2-Assignment/Shannon Fano Coding.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/Primality Testing.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/Randomized Quicksort- Time Complexity.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit 2.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Example Preparata.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Maximal Selection with n2 processor.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/List Ranking.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2077.md",
     "Attachments/Answer - 🐸 Frog Jump Problem.png",
     "Attachments/Frequently Asked Questions.png",
     "Attachments/Bitonic Sort.png",
@@ -231,9 +205,6 @@
     "Attachments/Odd Even Merge Sort -10.png",
     "Attachments/Odd Even Merge Sort -9.png",
     "Attachments/Odd Even Merge Sort -8.png",
-    "Attachments/Odd Even Merge Sort -7.png",
-    "Attachments/Odd Even Merge Sort -6.png",
-    "Attachments/Odd Even Merge Sort -5.png",
     "Attachments/Bitonic Sort- another apporch.html",
     "Attachments/Bitonic Sort- html.html",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes",
@@ -243,7 +214,6 @@
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions",
     "Main/Study/First Sem/All Notes and Resources Combined/OOSE Notes/Boooks/Ivar Jacobson - Object-oriented software engineering_ a use case driven approach-ACM Press_ Addison-Wesley Pub (1992).pdf",
-    "Main/Study/First Sem/All Notes and Resources Combined/OOSE Notes/Boooks",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }

@@ -37,7 +37,7 @@ Level 1: Create bitonic pairs
 
 Level 2: Merge to larger bitonic sequences  
 - Merge [3,8] ↑ and [5,4] ↓ → [3,4,8,5] (bitonic)
-- Merge [6,7] ↑ and [2,1] ↓ → [2,1,7,6] (bitonic)
+- Merge [6,7] ↑ and [2,1] ↓ → [6,7,2,1] (bitonic)
 ```
 
 ### Step 2: Bitonic Merge
@@ -48,10 +48,12 @@ BITONIC_MERGE([3,4,8,5]):
 - After compare-exchange: (3,4), (5,8)
 - Result: [3,4,5,8] (sorted)
 
-BITONIC_MERGE([2,1,7,6]):
-- Split and compare: (2,7), (1,6)  
-- After compare-exchange: (2,1), (6,7)
-- Recursively sort: [1,2,6,7]
+BITONIC_MERGE([6,7,2,1]):
+   - Compare and split: (6,2), (7,1) → [2,1], [6,7]
+   - Recursively sort:
+      → [2,1] → [1,2]
+      → [6,7] → [6,7]
+   - Final sorted result: [1,2,6,7]
 ```
 
 ### Step 3: Optimal Merge Network
