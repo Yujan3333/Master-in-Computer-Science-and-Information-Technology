@@ -4,6 +4,7 @@
 
 **Preparata's Algorithm** is an improved parallel sorting algorithm that achieves O(log²n) time with better constant factors than odd-even merge sort by using optimal merging networks and bitonic sorting principles.
 
+### [Example Preparata](Example%20Preparata.md)
 ## Key Concepts
 
 ### Bitonic Sequence

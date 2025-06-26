@@ -1,5 +1,5 @@
-- [[Explain an algorithm for data concentration problem on linear array with example]]
-- 
+- Explain an algorithm for data concentration problem on linear array with example
+- How can you compute rank in linear array
 - [[Explain how dynamic programming can be used to solve optimal BST]]
 - 
 - [Min-Max Tree with real life examples](Unit%201/Unit1-Notes-Folder/Min-Max%20Tree%20with%20real%20life%20examples.md)
@@ -18,4 +18,4 @@
 
 ---
 - [Define Speed Up-Total work done - Efficiency of PRAM Algorithm](Unit%203/Unit3%20-%20Notes/Define%20Speed%20Up-Total%20work%20done%20-%20Efficiency%20of%20PRAM%20Algorithm.md)
-- 
+- [Explain reduction with an example](Unit%202/Unit2%20-%20Notes/Explain%20reduction%20with%20an%20example.md)

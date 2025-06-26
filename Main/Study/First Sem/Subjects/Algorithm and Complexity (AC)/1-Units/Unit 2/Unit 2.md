@@ -11,3 +11,6 @@
 - [Travelling Salesman](Unit2%20-%20Notes/Travelling%20Salesman.md)
 - subset sum
 - [Hamiltonian Cycle (Hamilton Cycle)](Unit2%20-%20Notes/Hamiltonian%20Cycle%20(Hamilton%20Cycle).md)
+
+---
+- [Explain reduction with an example](Unit2%20-%20Notes/Explain%20reduction%20with%20an%20example.md)
