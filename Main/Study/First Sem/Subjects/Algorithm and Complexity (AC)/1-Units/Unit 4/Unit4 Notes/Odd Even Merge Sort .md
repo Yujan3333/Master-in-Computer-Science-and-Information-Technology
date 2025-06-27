@@ -1,44 +1,44 @@
 ### Descending
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20-1.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20-1.png)
 
 ####  Step 1 and 2
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20-2.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20-2.png)
 
 #### Step 3
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20.png)
 
 #### Step 4
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20-3.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20-3.png)
 
 
 ---
 ### Bitonic
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20-4.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20-4.png)
 
 ---
 ### Ascending
 
 #### Step 1
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20-5.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20-5.png)
 
 #### Step 2
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20-6.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20-6.png)
 
 #### Step 3
 
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20-7.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20-7.png)
 #### Step 4
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20-8.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20-8.png)
 
 ---
 
 ### Prefix Computation
 #### Step 1
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20-9.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20-9.png)
 
 #### Step 2
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20-10.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20-10.png)
 
 ---
 ###  Selection sort
-![](../../../../../../../../Attachments/Odd%20Even%20Merge%20Sort%20-11.png)
+![](../../../../../../../../Images/First_Sem_Images/Odd%20Even%20Merge%20Sort%20-11.png)

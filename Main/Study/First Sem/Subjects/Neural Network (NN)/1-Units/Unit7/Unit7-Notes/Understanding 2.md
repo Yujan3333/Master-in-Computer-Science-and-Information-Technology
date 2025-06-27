@@ -58,7 +58,7 @@ But actually:
     
 - So, instead of thinking of them as many layers, you can think of it as **one recurrent layer** applied multiple times — once for each time step.
     
-![](../../../../../../../../Attachments/Fig%20RNN.png)
+![](../../../../../../../../Images/First_Sem_Images/Fig%20RNN.png)
 
 ---
 

@@ -31,4 +31,4 @@ To solve this problem, the page table is **divided into multiple smaller tables*
 3. The **Offset** is added to this physical frame to get the **exact physical address**.
 
 ---
-![](../../../../../../../../Attachments/Multi-Level%20Page%20Tables.png)
+![](../../../../../../../../Images/First_Sem_Images/Multi-Level%20Page%20Tables.png)

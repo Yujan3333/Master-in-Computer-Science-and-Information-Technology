@@ -1,14 +1,24 @@
 %% Begin Waypoint %%
 - **1-Units**
 	- **Unit1**
-		- [Biological neural networks](./1-Units/Unit1/Biological%20neural%20networks.md)
 		- [Unit 1 Intro to artificial neural network](./1-Units/Unit1/Unit%201%20Intro%20to%20artificial%20neural%20network.md)
+		- **Unit1 - Notes**
+			- [Biological neural networks](./1-Units/Unit1/Unit1%20-%20Notes/Biological%20neural%20networks.md)
 	- **Unit3**
+		- [CNN Numerical -1](./1-Units/Unit3/CNN%20Numerical%20-1.md)
+		- [CNN Numerical -2 4bit greyscale image](./1-Units/Unit3/CNN%20Numerical%20-2%204bit%20greyscale%20image.md)
 		- [Unit3 - Feedforward neural networks](./1-Units/Unit3/Unit3%20-%20Feedforward%20neural%20networks.md)
 		- **[Unit3-Notes-Folder](./1-Units/Unit3/Unit3-Notes-Folder/Unit3-Notes-Folder.md)**
 	- **Unit4**
 		- [Unit4 - Radial Basis Function Networks(RBFNN)](./1-Units/Unit4/Unit4%20-%20Radial%20Basis%20Function%20Networks(RBFNN).md)
 		- **[Unit4-Notes-Folder](./1-Units/Unit4/Unit4-Notes-Folder/Unit4-Notes-Folder.md)**
+	- **Unit5**
+		- [Unit 5 - Kernel methods for pattern analysis](./1-Units/Unit5/Unit%205%20-%20Kernel%20methods%20for%20pattern%20analysis.md)
+		- **Unit5 - Notes**
+			- [Further Explanation of Statistical Model Example](./1-Units/Unit5/Unit5%20-%20Notes/Further%20Explanation%20of%20Statistical%20Model%20Example.md)
+			- [Numerical of Support Vector Machine](./1-Units/Unit5/Unit5%20-%20Notes/Numerical%20of%20Support%20Vector%20Machine.md)
+			- [Overview of Unit 5](./1-Units/Unit5/Unit5%20-%20Notes/Overview%20of%20Unit%205.md)
+			- [SVM-Numerical-Sir Solution](./1-Units/Unit5/Unit5%20-%20Notes/SVM-Numerical-Sir%20Solution.md)
 	- **Unit7**
 		- [Numerical - 1 - RNN Forward Propagation - dogs](./1-Units/Unit7/Numerical%20-%201%20-%20RNN%20Forward%20Propagation%20-%20dogs.md)
 		- [Numerical -2 Forward Propagation in RNN](./1-Units/Unit7/Numerical%20-2%20Forward%20Propagation%20in%20RNN.md)

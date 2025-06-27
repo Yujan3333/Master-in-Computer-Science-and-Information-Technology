@@ -10,7 +10,7 @@ The input signal propagates through the network in a forward direction, layer by
 
 Such neural networks are known as **Multilayer Perceptron's (MLPs).**
 ###### Fig of Multilayer Feedforward NN
-![](../../../../../../../../Attachments/Multilayer%20Feedforward%20Network%20Fully%20Connected.png)
+![](../../../../../../../../Images/First_Sem_Images/Multilayer%20Feedforward%20Network%20Fully%20Connected.png)
 
 ### 
 ---
@@ -19,7 +19,7 @@ If you remove all the nonlinear activation functions (i.e., use only linear func
 
 Example:
 If you stack multiple linear layers:
-![](../../../../../../../../Attachments/Multilayer%20Feedforward%20Network-1.png)
+![](../../../../../../../../Images/First_Sem_Images/Multilayer%20Feedforward%20Network-1.png)
 
 #### **This is just one big matrix multiplication — still linear.**
 
@@ -39,7 +39,7 @@ If you stack multiple linear layers:
 - Originates at Output Signals
 - Propagates through each layer backward direction.
 ##### Figure Illustrating Signals
-![](../../../../../../../../Attachments/Multilayer%20Feedforward%20Network-signals.png)
+![](../../../../../../../../Images/First_Sem_Images/Multilayer%20Feedforward%20Network-signals.png)
 
 ### 
 ---

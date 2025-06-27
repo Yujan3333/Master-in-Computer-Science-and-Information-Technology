@@ -13,7 +13,7 @@ Quick Sort is a **divide-and-conquer** sorting algorithm that works in three mai
 
 Since the pivot is chosen **randomly**, this is called a **randomized algorithm**.
 
-![](../../../../../../Images/Randomized%20Quicksort.png)
+![](../../../../../../Images/First_Sem_Images/Randomized%20Quicksort.png)
 ##### Pseudo Code
 ```md
 INPUT: n-element array A function Randomized quicksort(A):  
@@ -27,8 +27,8 @@ In the worst case scenario, this algorithm takes O(n²) time to
 sort n digits in case the pivot element chosen at random is the first  
 or last element in the array.
 ```
-![](../../../../../../Images/Randomized%20Quicksort%20Explained.png)
-![](../../../../../../Images/Randomized%20Quicksort-Exp.png)
+![](../../../../../../Images/First_Sem_Images/Randomized%20Quicksort%20Explained.png)
+![](../../../../../../Images/First_Sem_Images/Randomized%20Quicksort-Exp.png)
 
 
 

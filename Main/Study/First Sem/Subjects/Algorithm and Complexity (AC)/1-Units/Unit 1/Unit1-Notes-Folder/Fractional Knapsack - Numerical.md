@@ -1,4 +1,4 @@
-Absolutely, Yujan! Let’s now talk about the **Fractional Knapsack Problem** and compare it with the **0/1 Knapsack**, focusing on:
+The **Fractional Knapsack Problem** and compare it with the **0/1 Knapsack**, focusing on:
 
 - What it is
     

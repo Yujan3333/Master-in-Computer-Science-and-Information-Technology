@@ -1,4 +1,4 @@
-![](../../../../../../../Images/Question2-%20Male%20Female.png)
+![](../../../../../../../../Images/First_Sem_Images/Question2-%20Male%20Female.png)
 
 #### **Question?**
 What happens if i ask the perceptron to predict for data (6.4,90)?

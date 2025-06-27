@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/Big%20Bang%20Model-fig.png)
+![](../../../../../../../../Images/First_Sem_Images/Big%20Bang%20Model-fig.png)
 
 
 ### Big Bang Model Overview

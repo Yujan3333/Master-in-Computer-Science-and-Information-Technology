@@ -126,6 +126,6 @@ for sample in range(len(input_data)):
 ```
 
 Output
-![](../../../../../../Images/Backpropagation%20Sigmoid.png)
+![](../../../../../../../Images/First_Sem_Images/Backpropagation%20Sigmoid.png)
 
 ---

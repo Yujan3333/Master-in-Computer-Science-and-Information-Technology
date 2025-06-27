@@ -2,7 +2,7 @@
 - But guarantees the lowest possible page fault rate.
 
 
-![](../../../../../../../../Attachments/Optimal%20(OPR)%20%20Principle%20of%20Optimality-que.png)
+![](../../../../../../../../Images/First_Sem_Images/Optimal%20(OPR)%20%20Principle%20of%20Optimality-que.png)
 
 ### 📌 **Numerical Example**
 

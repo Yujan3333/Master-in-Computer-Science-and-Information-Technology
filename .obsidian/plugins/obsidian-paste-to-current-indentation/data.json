@@ -2,7 +2,7 @@
   "blockquotePrefix": "> ",
   "mode": "Text",
   "saveBase64EncodedFiles": false,
-  "saveFilesLocation": "Attachments",
+  "saveFilesLocation": "/Images/First_Sem_Images",
   "saveFilesOverrideLocations": [],
   "apiVersion": 5,
   "escapeCharactersInBlockquotes": false,

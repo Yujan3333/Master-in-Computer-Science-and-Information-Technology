@@ -1,5 +1,5 @@
 
-![](../../../../../../../../Attachments/Segmentation%20Numericals.png)
+![](../../../../../../../../Images/First_Sem_Images/Segmentation%20Numericals.png)
 
 Given segment table:
 

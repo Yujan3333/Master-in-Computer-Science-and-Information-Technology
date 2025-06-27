@@ -1,7 +1,7 @@
 Only **load into memory** the **parts of a program (instructions/data)** that are **needed at the moment**.
 
 ### Figure
-![](../../../../../../../../Attachments/Overlays.png)
+![](../../../../../../../../Images/First_Sem_Images/Overlays.png)
 
 ### 🔄 **Why it's used:**
 

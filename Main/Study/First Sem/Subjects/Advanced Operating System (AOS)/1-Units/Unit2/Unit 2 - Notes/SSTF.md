@@ -2,7 +2,7 @@
 - From current head shortest seek time choosen
 - Used in batch system.
 
-![](../../../../../../../../Attachments/SSTF-fig.png)
+![](../../../../../../../../Images/First_Sem_Images/SSTF-fig.png)
 
 ### Advantages
 1. Performance Improve

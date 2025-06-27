@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/Shared%20Segment.png)
+![](../../../../../../../../Images/First_Sem_Images/Shared%20Segment.png)
 
 **Shared segments** are segments that can be accessed by multiple processes simultaneously. This is an important concept in segmentation-based memory management.
 

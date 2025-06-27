@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/Segmentation%20with%20Paging.png)
+![](../../../../../../../../Images/First_Sem_Images/Segmentation%20with%20Paging.png)
 
 
 ### 📌 **What happens when segments are larger than main memory?**

@@ -11,7 +11,7 @@ If the training data is **linearly separable**, the **Perceptron Learning Rule**
 
 #### Perceptron Learning Rule
 
-![](../../../../../../../Images/Perceptron%20Convergence%20Theorem%20-%20another%20equivalent%20perceptron.png)
+![](../../../../../../../../Images/First_Sem_Images/Perceptron%20Convergence%20Theorem%20-%20another%20equivalent%20perceptron.png)
 
 **$$
 v = \sum_{i=1}^{m} w_i x_i + b

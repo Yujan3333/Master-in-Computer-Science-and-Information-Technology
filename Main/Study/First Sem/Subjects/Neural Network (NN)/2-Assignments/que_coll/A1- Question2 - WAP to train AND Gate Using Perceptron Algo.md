@@ -8,11 +8,11 @@
 | 1            | 1            | 1          |
 
 ---
-![](../../../../../../Images/AND%20Gate%20Neural%20Network.png)
+![](../../../../../../../Images/First_Sem_Images/AND%20Gate%20Neural%20Network.png)
 
 ---
 **Step Activation Function**
-![](../../../../../../Images/AND%20Activation%20Function.png)
+![](../../../../../../../Images/First_Sem_Images/AND%20Activation%20Function.png)
 
 $$\phi(x) = \begin{cases} 1 & \text{if } x > 0 \\ 0 & \text{otherwise} \end{cases}$$
 
@@ -87,7 +87,7 @@ for inputs in training_inputs:
 ```
 
 ##### Output
-![](../../../../../../Images/Question2%20-%20WAP%20to%20train%20AND%20Gate%20Using%20Perceptron%20Algo%20OUTPUT.png)
+![](../../../../../../../Images/First_Sem_Images/Question2%20-%20WAP%20to%20train%20AND%20Gate%20Using%20Perceptron%20Algo%20OUTPUT.png)
 
 #### Things Different from Numerical
 - Making the weight and bias equals to 0. *Makes the neuron learn the same thing*

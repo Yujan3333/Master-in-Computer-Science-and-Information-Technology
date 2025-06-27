@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/FIFO%20(First-In,%20First-Out).png)
+![](../../../../../../../../Images/First_Sem_Images/FIFO%20(First-In,%20First-Out).png)
 
 ### 📘 Reference String:
 

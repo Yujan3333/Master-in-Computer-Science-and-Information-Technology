@@ -2,7 +2,7 @@
   
 ### Main Topic
 
-- [Biological neural networks](Biological%20neural%20networks.md)
+- [Biological neural networks](Unit1%20-%20Notes/Biological%20neural%20networks.md)
 
 - Pattern analysis tasks: Classification, Regression, Clustering
 

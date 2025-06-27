@@ -2,7 +2,7 @@ The **Prototyping Model** is a software development approach where a **prototype
 
 This prototype helps users **visualize the system**, give **feedback**, and refine requirements.  
 After multiple improvements, the final system is developed based on the prototype.
-![](../../../../../../../../Attachments/Prototyping%20Model-fig-1.png)
+![](../../../../../../../../Images/First_Sem_Images/Prototyping%20Model-fig-1.png)
 
 
 ### 🔄 Steps in Prototyping Model:

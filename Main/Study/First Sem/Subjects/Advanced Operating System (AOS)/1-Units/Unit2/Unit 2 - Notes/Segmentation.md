@@ -26,7 +26,7 @@ Each segment is treated as a **separate unit** with its own **starting address a
 
 ---
 ### Logical View of Segmentation
-![](../../../../../../../../Attachments/Segmentation.png)
+![](../../../../../../../../Images/First_Sem_Images/Segmentation.png)
 
 ---
 ## More From Slides
@@ -69,7 +69,7 @@ Each **entry in the segment table** has:
     - If **invalid**, a **segmentation fault** (trap) occurs.
         
 
-![](../../../../../../../../Attachments/Segmentation%20-%20Address%20Translation.png)
+![](../../../../../../../../Images/First_Sem_Images/Segmentation%20-%20Address%20Translation.png)
 
 ---
 

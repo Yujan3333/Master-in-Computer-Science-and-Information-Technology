@@ -16,7 +16,7 @@ Pick one of the data points from the training set
 #### 3. Similarity Matching
 Compute the Euclidean distance between x and each cluster center $μ_k$​:
 
-![](../../../../../../../Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means.png)
+![](../../../../../../../../Images/First_Sem_Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means.png)
 
 This gives you the **closest cluster center** (winning cluster).
 
@@ -45,7 +45,7 @@ Sigma controls the **spread** of the radial basis function (e.g., Gaussian). The
 
 $\sigma = \frac{d_{max}}{\sqrt{2K}}$
 
-![](../../../../../../../Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means-1.png)
+![](../../../../../../../../Images/First_Sem_Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means-1.png)
 
 This spreads the RBFs just enough to overlap.
 
@@ -55,7 +55,7 @@ This spreads the RBFs just enough to overlap.
 
 $\sigma = \sqrt{\frac{1}{P} \sum_{k=1}^{P} (x - x_k)^2}$
 
-![](../../../../../../../Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means-2.png)
+![](../../../../../../../../Images/First_Sem_Images/Training%20RBF%20Hidden%20Layer%20Using%20K-means-2.png)
 
 Where:
 - $P$ = number of centers

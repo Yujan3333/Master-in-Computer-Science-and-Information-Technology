@@ -1,6 +1,6 @@
 
 
-![](../../../../../../../../Attachments/Iterative%20Model-fig.png)
+![](../../../../../../../../Images/First_Sem_Images/Iterative%20Model-fig.png)
 
 The **Incremental Model** (also called the **Iterative Model**) is a software development approach where the system is built **and delivered in parts** (increments), rather than all at once.
 

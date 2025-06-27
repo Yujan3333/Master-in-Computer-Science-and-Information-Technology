@@ -3,7 +3,7 @@ what are the main reasons in construction phase ? What is done in construction p
 ## ✅ **Construction Phase in OOSE**
 
 The **construction phase** is where the system is **actually built and refined**, translating the earlier models into working software. It bridges the gap between **analysis** and **real implementation**.
-![](../../../../../../../../Attachments/Answer%20of%20construction%20phase.png)
+![](../../../../../../../../Images/First_Sem_Images/Answer%20of%20construction%20phase.png)
 
 ---
 

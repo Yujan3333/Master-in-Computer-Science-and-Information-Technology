@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/Numerical%20on%20RMS%20Que1.png)
+![](../../../../../../../../Images/First_Sem_Images/Numerical%20on%20RMS%20Que1.png)
 
 ## Rate Monotonic Scheduling Basics
 
@@ -37,7 +37,7 @@ This is a **fixed-priority preemptive** scheduling algorithm.
 
 ---
 ### Example 2  (Non-Schedulable Case)
-![](../../../../../../../../Attachments/Numerical%20on%20RMS%20Num2.png)
+![](../../../../../../../../Images/First_Sem_Images/Numerical%20on%20RMS%20Num2.png)
 
 > [!info]+ Even though there is CPU capacity $P_2$ is not completed HERE!
 

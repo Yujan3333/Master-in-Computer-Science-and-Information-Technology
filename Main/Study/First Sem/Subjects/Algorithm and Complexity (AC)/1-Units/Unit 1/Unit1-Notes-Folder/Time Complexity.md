@@ -14,4 +14,4 @@
 | **Ω**      | Best case     | ❌ Not useful for guarantees      |
 | **Θ**      | Exact average | ❌ Hard to prove, varies by input |
 ### Figure
-![](../../../../../../../Images/time%20complexity%201.jpg)
+![](../../../../../../../../Images/First_Sem_Images/time%20complexity%201.jpg)

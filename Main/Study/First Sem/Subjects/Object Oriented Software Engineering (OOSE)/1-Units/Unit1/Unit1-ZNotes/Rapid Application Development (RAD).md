@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/Rapid%20Application%20Development%20(RAD)-fig.png)
+![](../../../../../../../../Images/First_Sem_Images/Rapid%20Application%20Development%20(RAD)-fig.png)
 
 ## ✅ What is the RAD Model?
 

@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/Use%20Case%20Diagram-usecase%20players.png)
+![](../../../../../../../../Images/First_Sem_Images/Use%20Case%20Diagram-usecase%20players.png)
 
 
 **Include Relationship:**
@@ -18,4 +18,4 @@
 
 
 
-![](../../../../../../../Images/Use%20Case%20Diagram.png)
+![](../../../../../../../../Images/First_Sem_Images/Use%20Case%20Diagram.png)

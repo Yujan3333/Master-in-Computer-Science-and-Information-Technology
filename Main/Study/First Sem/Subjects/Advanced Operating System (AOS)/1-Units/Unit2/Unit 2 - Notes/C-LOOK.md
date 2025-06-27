@@ -2,4 +2,4 @@
 
 - Doesnot go until the end of track just the end of the queue.
 
-![](../../../../../../../../Attachments/C-LOOK-fig.png)
+![](../../../../../../../../Images/First_Sem_Images/C-LOOK-fig.png)

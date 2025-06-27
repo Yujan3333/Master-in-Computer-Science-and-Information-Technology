@@ -36,4 +36,4 @@ The main difference is in how they decay with distance:
 - **Exponential:** Cares about things that are close, but _also_ still pays _some_ attention to things that are a bit further away.
 
 ###### Visual Graph
-![](../../../../../../../Images/unnamed.png)
+![](../../../../../../../../Images/First_Sem_Images/unnamed.png)

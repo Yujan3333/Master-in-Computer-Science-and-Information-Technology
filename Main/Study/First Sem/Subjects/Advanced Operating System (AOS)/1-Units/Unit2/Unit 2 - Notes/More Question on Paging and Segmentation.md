@@ -67,7 +67,7 @@ This limitation cause the development of paging and virtual memory.
 ---
 
 ### 5. Consider the following segment table:
-   ![](../../../../../../../../Attachments/More%20Question%20on%20Paging%20and%20Segmentation-%20que5.png)
+   ![](../../../../../../../../Images/First_Sem_Images/More%20Question%20on%20Paging%20and%20Segmentation-%20que5.png)
 
 **Given Segment Table:**
 

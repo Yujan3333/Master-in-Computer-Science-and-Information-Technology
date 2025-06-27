@@ -1,7 +1,7 @@
 Write a python program to create a neuron and predict its output using the threshold activation function
 
 Things to focus
-![](../../../../../../Images/Fig%20of%20Basic%20Neuron.png)
+![](../../../../../../../Images/First_Sem_Images/Fig%20of%20Basic%20Neuron.png)
 $$u_k = \sum_{j=1}^{n} x_j * w_{kj}$$
 $$v_k = u_k + b_k $$
 $$y_k = \varphi(u_k + b_k) = \varphi(v_k)$$
@@ -77,7 +77,7 @@ $v_k$ is the `weighted_sum` of input
 
 ---
 ##### Output
-![](../../../../../../Images/Question%201%20-%20WAP%20to%20create%20a%20neuron%20OUTPUT.png)
+![](../../../../../../../Images/First_Sem_Images/Question%201%20-%20WAP%20to%20create%20a%20neuron%20OUTPUT.png)
 
 ## Tag
 #assignment #NN 

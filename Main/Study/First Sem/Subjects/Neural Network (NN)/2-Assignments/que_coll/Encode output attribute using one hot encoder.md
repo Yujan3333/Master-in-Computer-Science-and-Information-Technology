@@ -26,4 +26,4 @@ print(y_encoded[:5])  # Show first 5 rows
 
 ```
 
-![](../../../../../../Images/iris%20output.png)
+![](../../../../../../../Images/First_Sem_Images/iris%20output.png)

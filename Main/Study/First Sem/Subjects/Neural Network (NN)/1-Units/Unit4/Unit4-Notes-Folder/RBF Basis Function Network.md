@@ -43,7 +43,7 @@ This layer consists of the **K computation units (K≤N)**, where *N is number t
 #### Output Layer
 This layer of neural network contains *one or more nodes* depending upon the need.
 ###### Visually
-![](../../../../../../../Images/RBF%20Basis%20Function%20Network.png)
+![](../../../../../../../../Images/First_Sem_Images/RBF%20Basis%20Function%20Network.png)
 
 ---
 ### RBF Continued

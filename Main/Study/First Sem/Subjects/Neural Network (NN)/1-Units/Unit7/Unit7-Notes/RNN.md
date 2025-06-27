@@ -30,7 +30,7 @@ RNNs have trouble learning **long-term dependencies** due to issues like the **v
 - **Transformers**: Modern architectures that often outperform RNNs for many tasks, especially in NLP.
 ---
 ### Figure Of RNN
-![](../../../../../../../../Attachments/Fig%20RNN.png)
+![](../../../../../../../../Images/First_Sem_Images/Fig%20RNN.png)
 > [Understanding the RNN Figure and formula](Understanding%20the%20RNN%20Figure%20and%20formula.md)
 
 

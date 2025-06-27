@@ -1,5 +1,5 @@
 # Question 1
-![](../../../../../../../../Attachments/Exercises-1.png)
+![](../../../../../../../../Images/First_Sem_Images/Exercises-1.png)
 
 ### 🔧 Given:
 
@@ -171,7 +171,7 @@ Like C-SCAN, but **only goes as far as the last request**, not to the physical e
 
 ---
 # Question 2
-![](../../../../../../../../Attachments/Exercises2.png)
+![](../../../../../../../../Images/First_Sem_Images/Exercises2.png)
 
 **Given information:**
 

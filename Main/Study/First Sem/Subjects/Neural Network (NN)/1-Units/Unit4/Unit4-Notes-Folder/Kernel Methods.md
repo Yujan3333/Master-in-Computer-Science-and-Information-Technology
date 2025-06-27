@@ -6,7 +6,7 @@ They are used to solve a [non-linear problem](non-linear%20problem.md) by using 
 
 The main idea to use kernel is: A linear classifier or regression curve in higher dimensions becomes a Non-linear classifier or regression curve in lower dimensions.
 
-![](../../../../../../../Images/Kernel%20Methods.png)
+![](../../../../../../../../Images/First_Sem_Images/Kernel%20Methods.png)
 
 ---
 #### Different Types of Kernel

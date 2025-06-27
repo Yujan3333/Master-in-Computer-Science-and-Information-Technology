@@ -45,7 +45,7 @@ print("\nStandardized Data:\n", scaled_data)
 ```
 
 ##### Output
-![](../../../../../../Images/Question4%20-%20WAP%20Standard%20Scalar%20OUTPUT.png)
+![](../../../../../../../Images/First_Sem_Images/Question4%20-%20WAP%20Standard%20Scalar%20OUTPUT.png)
 
 ## Tag
 #assignment #NN 

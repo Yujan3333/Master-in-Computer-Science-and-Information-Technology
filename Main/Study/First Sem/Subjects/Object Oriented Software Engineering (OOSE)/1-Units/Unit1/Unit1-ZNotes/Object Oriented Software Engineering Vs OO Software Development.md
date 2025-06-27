@@ -72,4 +72,4 @@ class CreditCard implements Payment {
     public void process() { System.out.println("Paid via Card"); }
 }
 ```
-![](../../../../../../../../Attachments/Object%20Oriented%20Software%20Engineering%20Vs%20OO%20Software%20Development-fig.png)
+![](../../../../../../../../Images/First_Sem_Images/Object%20Oriented%20Software%20Engineering%20Vs%20OO%20Software%20Development-fig.png)

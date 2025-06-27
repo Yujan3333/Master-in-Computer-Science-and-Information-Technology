@@ -49,4 +49,4 @@
 
 ---
 ### Schematic View of Swapping
-![](../../../../../../../../Attachments/Swapping%20-%20schematic%20view.png)
+![](../../../../../../../../Images/First_Sem_Images/Swapping%20-%20schematic%20view.png)

@@ -1,6 +1,6 @@
 - Waterfall model + Iterative Model
 
-![](../../../../../../../../Attachments/Pasted%20image%2020250621115619.png)
+![](../../../../../../../../Images/First_Sem_Images/Pasted%20image%2020250621115619.png)
 
 ## ✅ What is the Spiral Model?
 

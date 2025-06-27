@@ -33,7 +33,7 @@ print(output_feature)
 df = df.sample(frac=1).reset_index(drop=True)
 ```
 ##### Output
-![](../../../../../../Images/Display%20input%20and%20output%20features%20of%20the%20dataset.png)
+![](../../../../../../../Images/First_Sem_Images/Display%20input%20and%20output%20features%20of%20the%20dataset.png)
 
 
 ---
@@ -73,7 +73,7 @@ print("Shuffled Dataset:\n", df_shuffled)
 ```
 
 ###### Output
-![](../../../../../../Images/iris%20input%20output%20features.png)
+![](../../../../../../../Images/First_Sem_Images/iris%20input%20output%20features.png)
 ---
 #### Explaining the shuffling code
 `df_shuffled = df.sample(frac=1, random_state=42).reset_index(drop=True)`

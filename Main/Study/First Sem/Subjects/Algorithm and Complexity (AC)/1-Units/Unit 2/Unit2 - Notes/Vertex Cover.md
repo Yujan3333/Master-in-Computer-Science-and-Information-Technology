@@ -6,7 +6,7 @@ In a graph, a **vertex cover** is a **subset of vertices** such that **every edg
 - That means: for every edge (u,v)∈E, either u, v, or **both** are in the vertex cover set.
 
 
-![](../../../../../../../../Attachments/Vertex%20Cover.png)
+![](../../../../../../../../Images/First_Sem_Images/Vertex%20Cover.png)
 
 A vertex cover of a graph G=(V,E) is a subset of vertices V′⊆V such that for every edge (u,v)∈E, at least one of u or v (or both) is in V′. The minimum size vertex cover problem asks for the smallest possible size of such a set V′.
 

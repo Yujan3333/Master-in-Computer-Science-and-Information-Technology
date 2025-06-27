@@ -46,7 +46,7 @@ Let’s assume:
 
    * Until **all processors** have received a copy
 
-![](../../../../../../../../Attachments/Broadcasting%20in%20Hypercube.png)
+![](../../../../../../../../Images/First_Sem_Images/Broadcasting%20in%20Hypercube.png)
 
 ---
 

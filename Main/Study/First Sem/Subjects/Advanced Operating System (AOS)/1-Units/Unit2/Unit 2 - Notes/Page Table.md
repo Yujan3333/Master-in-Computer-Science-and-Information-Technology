@@ -1,6 +1,6 @@
 ## Page Table Entry Layout (32-bit system)
 
-![](../../../../../../../../Attachments/Page%20Table.png)
+![](../../../../../../../../Images/First_Sem_Images/Page%20Table.png)
 
 ## Core Function
 

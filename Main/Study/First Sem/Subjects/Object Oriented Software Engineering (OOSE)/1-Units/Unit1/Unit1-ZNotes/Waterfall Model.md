@@ -18,7 +18,7 @@ Each phase must be **completed fully before the next begins**, and there is **no
     
 6. **Maintenance**
 
-![](../../../../../../../../Attachments/Waterfall%20Model-Phases.png)
+![](../../../../../../../../Images/First_Sem_Images/Waterfall%20Model-Phases.png)
 
 ### ✅ Advantages of the Waterfall Model
 

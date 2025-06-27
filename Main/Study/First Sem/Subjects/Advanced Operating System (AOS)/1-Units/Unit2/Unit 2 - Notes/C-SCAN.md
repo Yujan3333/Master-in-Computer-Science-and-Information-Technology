@@ -10,7 +10,7 @@
 - This provides **more uniform wait times** compared to SCAN.
 
 
-![](../../../../../../../../Attachments/C-SCAN-fig.png)
+![](../../../../../../../../Images/First_Sem_Images/C-SCAN-fig.png)
 
 
 ### 🧠 **Key Points:**

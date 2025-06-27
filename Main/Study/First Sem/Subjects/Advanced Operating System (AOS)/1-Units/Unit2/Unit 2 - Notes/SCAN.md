@@ -35,5 +35,5 @@
 - ❌ **Not the most efficient** for all access patterns (e.g., uniformly distributed requests).
 
 
-![](../../../../../../../../Attachments/SCAN-fig.png)
+![](../../../../../../../../Images/First_Sem_Images/SCAN-fig.png)
 

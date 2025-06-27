@@ -1,5 +1,5 @@
 ### Write a python program to train perceptron using given training set and predict class for the input (6,82) and (5.3,52) 
-![](../../../../../../Images/Lab1%20-%20Table.png)
+![](../../../../../../../Images/First_Sem_Images/Lab1%20-%20Table.png)
 
 ---
 #### Code

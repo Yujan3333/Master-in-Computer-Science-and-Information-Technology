@@ -62,4 +62,4 @@ history = model.fit(
 ```
 
 ###### Output
-![](../../../../../../Images/mlp.png)
+![](../../../../../../../Images/First_Sem_Images/mlp.png)

@@ -1,1 +1,1 @@
-![](../../../../../../../../Attachments/Data%20Concentration%20in%20Hypercube.png)
+![](../../../../../../../../Images/First_Sem_Images/Data%20Concentration%20in%20Hypercube.png)

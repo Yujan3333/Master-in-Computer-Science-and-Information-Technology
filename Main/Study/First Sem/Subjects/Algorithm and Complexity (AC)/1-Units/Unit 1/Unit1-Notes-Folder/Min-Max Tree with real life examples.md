@@ -1,6 +1,3 @@
-Sure, Yujan! Let's explore **Min-Max Trees** (also known as **Minimax Trees**) along with a **real-life example** you can confidently write in exams.
-
----
 
 ## 🌳 What is a Min-Max (Minimax) Tree?
 

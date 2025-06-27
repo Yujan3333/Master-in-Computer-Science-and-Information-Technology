@@ -17,9 +17,9 @@ $$W = \begin{pmatrix}
 $$
 
 
-![](../../../../../../../Images/Pasted%20image%2020250522193143.png)
+![](../../../../../../../../Images/First_Sem_Images/Pasted%20image%2020250522193143.png)
 
-![](../../../../../../../Images/Pasted%20image%2020250522193355.png)
+![](../../../../../../../../Images/First_Sem_Images/Pasted%20image%2020250522193355.png)
 
-![](../../../../../../../Images/Pasted%20image%2020250522193412.png)
+![](../../../../../../../../Images/First_Sem_Images/Pasted%20image%2020250522193412.png)
 

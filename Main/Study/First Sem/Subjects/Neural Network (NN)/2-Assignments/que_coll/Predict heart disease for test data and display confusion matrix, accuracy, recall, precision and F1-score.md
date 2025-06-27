@@ -40,7 +40,7 @@ print(classification_report(y_test, y_pred))
 ```
 
 ##### Output
-![](../../../../../../Images/Predict%20heart%20disease%20for%20test%20data%20and%20display%20confusion%20matrix,%20accuracy,%20recall,%20precision%20and%20F1-score.png)
+![](../../../../../../../Images/First_Sem_Images/Predict%20heart%20disease%20for%20test%20data%20and%20display%20confusion%20matrix,%20accuracy,%20recall,%20precision%20and%20F1-score.png)
 
 ---
 ---
@@ -66,7 +66,7 @@ print(classification_report(y_test, y_pred))
 -> *flatten()* : Ensures the prediction are in 1D array (e.g. [1,0,1])
 
 #### Confusion Matrix
- ![](../../../../../../Images/confusion-matrix.webp)
+ ![](../../../../../../../Images/First_Sem_Images/confusion-matrix.webp)
 - **TN (True Negative)**: Correctly predicted `0`.
 - **FP (False Positive)**: Predicted `1` but actual `0`.
 - **FN (False Negative)**: Predicted `0` but actual `1`.

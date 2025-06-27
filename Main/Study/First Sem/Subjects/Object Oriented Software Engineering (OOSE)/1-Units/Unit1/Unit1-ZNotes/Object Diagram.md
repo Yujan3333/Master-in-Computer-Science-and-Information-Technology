@@ -1,3 +1,3 @@
-![](../../../../../../../../Attachments/Object%20Diagram-state.png)
+![](../../../../../../../../Images/First_Sem_Images/Object%20Diagram-state.png)
 
-![](../../../../../../../../Attachments/Object%20Diagram-ex.png)
+![](../../../../../../../../Images/First_Sem_Images/Object%20Diagram-ex.png)

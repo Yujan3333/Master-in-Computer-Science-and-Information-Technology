@@ -48,4 +48,4 @@ df = df.dropna()
     
 - `.sum()` counts how many missing values there are in each column.
 ###### Output
-![](../../../../../../Images/1.png)
+![](../../../../../../../Images/First_Sem_Images/1.png)

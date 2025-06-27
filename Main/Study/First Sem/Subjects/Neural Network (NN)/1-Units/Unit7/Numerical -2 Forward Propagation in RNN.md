@@ -1,4 +1,4 @@
-![](../../../../../../../Attachments/Numerical%20-2%20-%20feed%20forward%20%20propagation%20in%20RNN.png)
+![](../../../../../../../Images/First_Sem_Images/Numerical%20-2%20-%20feed%20forward%20%20propagation%20in%20RNN.png)
 
 ---
 # Complete RNN Forward Propagation Solution

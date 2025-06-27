@@ -1,6 +1,6 @@
 ## EDF (Earliest Deadline First) Scheduling Solution
 
-![](../../../../../../../../Attachments/EDF%20Numerical%20Fig.png)
+![](../../../../../../../../Images/First_Sem_Images/EDF%20Numerical%20Fig.png)
 
 
 

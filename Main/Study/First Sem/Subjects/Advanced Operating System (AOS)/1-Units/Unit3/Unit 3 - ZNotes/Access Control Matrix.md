@@ -10,7 +10,7 @@
         
     - **Cells** = Allowed operations (read, write, execute, etc.)
         
-![](../../../../../../../../Attachments/Access%20Control%20Matrix.png)
+![](../../../../../../../../Images/First_Sem_Images/Access%20Control%20Matrix.png)
 
 ---
 ## 1. Global Table

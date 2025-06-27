@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "632acfdef352c14a",
+        "id": "43228401dd14ebed",
         "type": "tabs",
         "children": [
           {
-            "id": "3a8de74d0505c1f4",
+            "id": "869730a4c1cb8d7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2077.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2077"
+              "title": "Unit3 - Feedforward neural networks"
+            }
+          },
+          {
+            "id": "3371a34617309dd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Summary of Unit 3 Feedforward neural networks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Summary of Unit 3 Feedforward neural networks"
             }
           }
         ]
@@ -54,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hard Real time",
+                "query": "Images",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +110,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -134,16 +149,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2077.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2077"
+              "title": "Outline of Unit3 - Feedforward neural networks"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -163,53 +179,54 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3a8de74d0505c1f4",
+  "active": "869730a4c1cb8d7c",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2078.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2081.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2077.md",
-    "Attachments/2077-3.png",
-    "Attachments/2077.png",
-    "Attachments/2078-3.png",
-    "Attachments/2078.png",
-    "Attachments/2081-3.png",
-    "Attachments/2081.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/Past Questions.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit1/Unit 1 Intro to artificial neural network.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Preparata Algorithm.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit 3 - Online and PRAM.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Odd-Even Merge Sort.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/Odd-Even Merge.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes/A Logarithmic Time Algorithm.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit 4.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Summary of Unit 4 Mesh and Hypercube.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Unit 4.2 Hypercube.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Data Concentration in Hypercube.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Answer - 🐸 Frog Jump Problem.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Frequently Asked Questions.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/CNN Numerical -2 4bit greyscale image.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/CNN Numerical -1.md",
+    "Images/First_Sem_Images/CNN Numerical -1 que.png",
+    "Images/First_Sem_Images/Pasted image 20250627191717.png",
+    "Images/First_Sem_Images/Pasted image 20250627191303.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Summary of Unit 3 Feedforward neural networks.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Overview of Sir Slides for U-3.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Derivation of Sigmoid(Logistic Function) and Tanh function.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Back Propagation Network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/XOR Using MLP.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/NOT and NAND Can While XNOR Cannot.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Derivation steps of Tanh.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Process of Derivation of sigmiod.md",
+    "Images/First_Sem_Images/tanh graph.png",
+    "Images/First_Sem_Images/Sigmoid graph.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/What exactly is a bias.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Can a Perceptron have more then one neuron.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit5/Unit 5 - Kernel methods for pattern analysis.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit5/Unit5 - Notes/Overview of Unit 5.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit5/Unit5 - Notes/Numerical of Support Vector Machine.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit5/Unit5 - Notes/SVM-Numerical-Sir Solution.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
+    "Main/Study/First Sem/_index.md",
+    "Images/First_Sem_Images/Pasted image 20250627113541.png",
+    "Images/First_Sem_Images/AND Activation Function.png",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Bitonic Sort.md",
-    "Attachments/2071-1.png",
-    "Main/Images/courses.pdf",
-    "Main/Images/Class Diagram.png",
-    "Main/Images/Backpropagation Sigmoid.png",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit 1.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/1.2 Advance Algorithm Design Techniques.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method).md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/Unit 1 - Summary.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/Huffman Vs Shannon Fano.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/2-Assignment/Shannon Fano Coding.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 1/Unit1-Notes-Folder/Primality Testing.md",
-    "Attachments/Answer - 🐸 Frog Jump Problem.png",
-    "Attachments/Bitonic Sort- another apporch.html",
-    "Attachments/Bitonic Sort- html.html",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3/Unit3 - Notes",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 3",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2/Unit2 - Notes",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 2",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions",
-    "Main/Study/First Sem/All Notes and Resources Combined/OOSE Notes/Boooks/Ivar Jacobson - Object-oriented software engineering_ a use case driven approach-ACM Press_ Addison-Wesley Pub (1992).pdf",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Unit 4.2 Hypercube.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit 4.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2071.md",
+    "Images/First_Sem_Images/_index.png",
+    "Images/First_Sem_Images/2070.png",
+    "Images/First_Sem_Images/2073-1.png",
+    "Images/First_Sem_Images",
+    "Images/New folder",
+    "Images",
+    "Attachments",
+    "New folder",
+    "Images/First_Sem_Images/thesis Msc CSIT Format.pdf",
+    "Images/First_Sem_Images/Simplest_working_example_LaTeX_document.pdf",
+    "Images/First_Sem_Images/seminar Msc CSIT.pdf",
+    "Images/First_Sem_Images/courses.pdf",
+    "Images/First_Sem_Images/1-Images-Folder",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/Past Questions.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/que_coll/A1- Question 1 - WAP to create a neuron.md",
+    "Main/Untitled.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }

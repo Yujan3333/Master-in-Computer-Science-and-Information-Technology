@@ -90,7 +90,7 @@ Let:
 
 ##### **Steps:**
 
-![](../../../../../../../../Attachments/Travelling%20Salesman.png)
+![](../../../../../../../../Images/First_Sem_Images/Travelling%20Salesman.png)
 
 - Time complexity:
     

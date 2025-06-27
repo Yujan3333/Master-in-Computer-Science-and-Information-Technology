@@ -100,7 +100,7 @@ Summarize the key points of your seminar. You should:
 \end{document}
 ```
 ###### Output
-![](../../Images/Simplest_working_example_LaTeX_document.pdf)
+![](../../../Images/First_Sem_Images/Simplest_working_example_LaTeX_document.pdf)
 
 
 ## Reference

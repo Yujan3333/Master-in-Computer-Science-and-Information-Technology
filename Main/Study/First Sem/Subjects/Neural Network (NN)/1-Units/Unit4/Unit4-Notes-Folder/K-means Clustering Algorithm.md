@@ -8,7 +8,7 @@
 4. **Recalculate the centroids** by computing the mean of all data points in each cluster.
 5. **Repeat steps 3 and 4** until the centroids no longer change (or changes are very small).
 ###### Figure of Clustering
-![](../../../../../../../Images/k_means_clustering.png)
+![](../../../../../../../../Images/First_Sem_Images/k_means_clustering.png)
 
 ---
 ### [Numerical of K-means](Numerical%20of%20K-means.md)

@@ -16,7 +16,7 @@ String editing refers to **transforming one string into another** using a set of
 
 ---
 ## Numerical
-![](../../../../../../../../Attachments/String%20Editing-que.png)
+![](../../../../../../../../Images/First_Sem_Images/String%20Editing-que.png)
 
 ### 🧾 **Given:**
 

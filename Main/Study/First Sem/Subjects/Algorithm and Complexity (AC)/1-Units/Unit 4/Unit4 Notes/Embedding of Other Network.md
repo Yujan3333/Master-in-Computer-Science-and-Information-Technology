@@ -75,7 +75,7 @@ $$
 ---
 
 ## 🔸 Simple Mapping Example (Based on your content):
-![](../../../../../../../../Attachments/Embedding%20of%20Other%20Network.png)
+![](../../../../../../../../Images/First_Sem_Images/Embedding%20of%20Other%20Network.png)
 **Graph G (Original)**:
 Vertices: {1, 2, 3}
 Edges: (1-2), (1-3)

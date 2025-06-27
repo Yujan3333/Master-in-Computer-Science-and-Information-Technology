@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/LRU%20(Least%20Recently%20Used).png)
+![](../../../../../../../../Images/First_Sem_Images/LRU%20(Least%20Recently%20Used).png)
 
 - [Implementation of LRU](Implementation%20of%20LRU.md)
 ---

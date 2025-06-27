@@ -7,13 +7,13 @@ Imagine you're at the top of a hill (high error), and your goal is to reach the 
  
  You take steps in the direction of the steepest descent — this direction is given by the **negative gradient** of the function.
 ###### Example 
-![](../../../../../../../Images/Gradient%20Descent.png)
+![](../../../../../../../../Images/First_Sem_Images/Gradient%20Descent.png)
 ###### Direction of the descent depends on the slope / Derivative / Gradient / m
-![](../../../../../../../Images/Gradient%20Descent%20a.png)
+![](../../../../../../../../Images/First_Sem_Images/Gradient%20Descent%20a.png)
 
 
 ###### Gradient Descent Parameter change is gradual
-![](../../../../../../../Images/Gradient%20Descent-%20formula.png)
+![](../../../../../../../../Images/First_Sem_Images/Gradient%20Descent-%20formula.png)
 
 ### 📦 Types of Gradient Descent
 1. **Batch Gradient Descent**: Uses the entire dataset to compute the gradient.

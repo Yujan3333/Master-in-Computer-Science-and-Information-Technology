@@ -16,7 +16,7 @@ $\varphi_2(x) = \exp(-\|x - c_2\|^2)$
 
 ---
 After this we get the transformed input for the XOR inputs and they can be linearly separable as well.
-![](../../../../../../../Images/XOR%20Problem%20with%20Radial%20Basis%20Function.png)
+![](../../../../../../../../Images/First_Sem_Images/XOR%20Problem%20with%20Radial%20Basis%20Function.png)
 
 ### Exercise
 - [Solve the XOR problem using RBF by taking (1,0) and (0,1) as centers](Solve%20the%20XOR%20problem%20using%20RBF%20by%20taking%20(1,0)%20and%20(0,1)%20as%20centers.md).

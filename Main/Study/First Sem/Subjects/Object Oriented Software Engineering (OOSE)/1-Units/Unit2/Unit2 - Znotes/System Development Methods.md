@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/System%20Development%20Methods-software%20paradigm.png)
+![](../../../../../../../../Images/First_Sem_Images/System%20Development%20Methods-software%20paradigm.png)
 
 - [SREM - Software Requirement Engineering Methodology](#SREM%20-%20Software%20Requirement%20Engineering%20Methodology)
 - [RDD - Responsibility Driven Design](#RDD%20-%20Responsibility%20Driven%20Design)

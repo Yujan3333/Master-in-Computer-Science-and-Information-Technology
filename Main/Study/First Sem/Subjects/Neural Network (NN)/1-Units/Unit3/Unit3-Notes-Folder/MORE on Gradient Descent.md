@@ -52,7 +52,7 @@
 ---
 #### High Learning Rate OR Low Learning Rate?
 - Overshooting or Time Consuming?
-![](../../../../../../../Images/Learning%20rate.png)
+![](../../../../../../../../Images/First_Sem_Images/Learning%20rate.png)
  > [!info]- Explanation
  > > This figure shows how **learning rate** affects the training process of a machine learning model, especially how fast and effectively it reduces the **loss (error)** over time (measured in **epochs**).
  >   

@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/Embedding%20of%20Binary%20tree%20on%20Hypercube.png)
+![](../../../../../../../../Images/First_Sem_Images/Embedding%20of%20Binary%20tree%20on%20Hypercube.png)
 
 ---
 

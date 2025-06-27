@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/DevOps%20Model-fig.png)
+![](../../../../../../../../Images/First_Sem_Images/DevOps%20Model-fig.png)
 
 ### What is DevOps Model?
 

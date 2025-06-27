@@ -1,5 +1,5 @@
 ## 🧭 Disk Access Time Components
-![](../../../../../../../../Attachments/Disk%20Operation-disk%20access%20time.png)
+![](../../../../../../../../Images/First_Sem_Images/Disk%20Operation-disk%20access%20time.png)
 
 To access data on a disk, the OS must coordinate **three main actions**:
 

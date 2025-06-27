@@ -69,7 +69,7 @@ A perceptron can only classify  [linearly separable data](linearly%20separable.m
 ---
 
 ### Perceptron Figure
-![](../../../../../../../Images/Perceptron.png)
+![](../../../../../../../../Images/First_Sem_Images/Perceptron.png)
 
 #### Hard Limiter function
 $$
@@ -77,7 +77,7 @@ v = \sum_{i=1}^{m} w_i x_i + b
 $$
 
 
-![](../../../../../../../Images/Pasted%20image%2020250521190717.png)
+![](../../../../../../../../Images/First_Sem_Images/Pasted%20image%2020250521190717.png)
 
 #### Description 
 
@@ -99,10 +99,10 @@ $$
 
 ---
 #### Hyperplane
-![](../../../../../../../Images/Perceptron-hyperplane.png)
+![](../../../../../../../../Images/First_Sem_Images/Perceptron-hyperplane.png)
 
 ---
 ### Perceptron can show behavior of AND function and OR function but not XOR funciton
 - Because XOR is not linearly separable
 ###### Figure AND, OR , XOR
-![](../../../../../../../Images/Perceptron-%20AND%20OR%20XOR.png)
+![](../../../../../../../../Images/First_Sem_Images/Perceptron-%20AND%20OR%20XOR.png)

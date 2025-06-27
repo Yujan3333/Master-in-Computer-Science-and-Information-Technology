@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/Answer%20-%20🐸%20Frog%20Jump%20Problem.png)
+![](../../../../../../../../Images/First_Sem_Images/Answer%20-%20🐸%20Frog%20Jump%20Problem.png)
 
 ### 🐸 **Problem: Frog Jump**
 

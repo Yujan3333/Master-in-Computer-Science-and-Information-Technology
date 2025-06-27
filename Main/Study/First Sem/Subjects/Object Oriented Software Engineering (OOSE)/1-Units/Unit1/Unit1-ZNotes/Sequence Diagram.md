@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/Sequence%20Diagram.png)
+![](../../../../../../../../Images/First_Sem_Images/Sequence%20Diagram.png)
 
 ```md
 Customer    →    Website    →    Payment System    →    Inventory

@@ -124,6 +124,6 @@ nn.test(data_inputs, target_outputs)
 ```
 
 ###### Output
-![](../../../../../../Images/A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20tanh%20and%20batch.png)
+![](../../../../../../../Images/First_Sem_Images/A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20tanh%20and%20batch.png)
 ## Tag
 #assignment #NN 

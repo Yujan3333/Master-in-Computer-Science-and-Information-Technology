@@ -1,4 +1,4 @@
-![](../../../../../../../Images/Perceptron%20Learning%20Algorithm.png)
+![](../../../../../../../../Images/First_Sem_Images/Perceptron%20Learning%20Algorithm.png)
 
 
 ---

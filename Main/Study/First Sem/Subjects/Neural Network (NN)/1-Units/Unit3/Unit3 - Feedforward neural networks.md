@@ -1,5 +1,6 @@
 **7hrs**
 ### Main Topics
+- [Summary of Unit 3 Feedforward neural networks](Unit3-Notes-Folder/Summary%20of%20Unit%203%20Feedforward%20neural%20networks.md)
 
 - Pattern classification using perceptron
 	 
@@ -22,10 +23,35 @@
 - [Gradient Descent](Unit3-Notes-Folder/Gradient%20Descent.md)
 - [Batch Perceptron Algorithm](Unit3-Notes-Folder/Batch%20Perceptron%20Algorithm.md)
 - [Multilayer Feedforward Network](Unit3-Notes-Folder/Multilayer%20Feedforward%20Network.md)
-- [[Back Propagation Network]]
+- [Back Propagation Network](Unit3-Notes-Folder/Back%20Propagation%20Network.md)
 - [Batch and Online Learning](Unit3-Notes-Folder/Batch%20and%20Online%20Learning.md)
+- [XOR Using MLP](Unit3-Notes-Folder/XOR%20Using%20MLP.md)
+- Jacobian and Hessian
+- Learning Rate Annealing
+	- Time Based Decay
+	- Step Decay
+	- Exponential Decay
+- Adaptive Control of Learning Rate
+	- Momentum
+	- Adagrad
+	- Adadelta
+	- RMSProp
+	- Adam
+- Cross-Validation
+- Convolutional Neural Network(CNN)
+	- [CNN Numerical -1](CNN%20Numerical%20-1.md)
+	- [CNN Numerical -2 4bit greyscale image](CNN%20Numerical%20-2%204bit%20greyscale%20image.md)
+- Fast Learning Method: Newton’s Method
+- Fast Learning Method: Conjugate Gradient
+- Auto associative Neural Network 
+- Bayesian Neural Network
+
+---
+- [Can a Perceptron have more then one neuron?](Unit3-Notes-Folder/Can%20a%20Perceptron%20have%20more%20then%20one%20neuron.md)
+- [What exactly is a bias?](Unit3-Notes-Folder/What%20exactly%20is%20a%20bias.md)
 
 
+- [Derivation of Sigmoid(Logistic Function) and Tanh function](Unit3-Notes-Folder/Derivation%20of%20Sigmoid(Logistic%20Function)%20and%20Tanh%20function.md)
 
 
 

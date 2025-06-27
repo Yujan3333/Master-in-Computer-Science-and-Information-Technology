@@ -1,4 +1,4 @@
-![](../../../../../../../../Attachments/Agile%20Model-fig.png)
+![](../../../../../../../../Images/First_Sem_Images/Agile%20Model-fig.png)
 
 The **Agile Model** is a modern software development approach that delivers the product in **small, working parts** (called iterations or sprints), with **continuous user feedback** and **frequent improvements**.
 

@@ -15,7 +15,7 @@ A **distributed system** is a collection of **loosely coupled processors** (also
 
 ---
 ### Visually
-![](../../../../../../../../Attachments/Distributed%20%20Systems.png)
+![](../../../../../../../../Images/First_Sem_Images/Distributed%20%20Systems.png)
 
 ---
 

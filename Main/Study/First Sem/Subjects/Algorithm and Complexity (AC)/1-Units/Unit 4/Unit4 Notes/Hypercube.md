@@ -1,6 +1,4 @@
-Of course, Yujan! Let’s make the **Hypercube Computational Model** super clear with **simple language**, **examples**, and **visual understanding** — just the way you'd want to write or say it in exams.
 
----
 
 ## 🔷 What is a Hypercube?
 
@@ -18,7 +16,7 @@ Because it generalizes:
 * A **square (2D cube)** → 4 nodes
 * A **cube (3D)** → 8 nodes
 * And so on… into higher dimensions.
-![](../../../../../../../../Attachments/Hypercube.png)
+![](../../../../../../../../Images/First_Sem_Images/Hypercube.png)
 Just like how a 3D cube has 8 corners, a 4D hypercube has 16, a 5D has 32, and so on.
 
 ---

@@ -31,7 +31,7 @@ print("DataFrame after Label Encoding:\n", df_encoded)
 
 ```
 ###### Output
-![](../../../../../../Images/encoding%20non%20numeric.png)
+![](../../../../../../../Images/First_Sem_Images/encoding%20non%20numeric.png)
 
 ---
 ## What Each Part Does:

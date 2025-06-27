@@ -21,7 +21,7 @@
 
 ---
 ### Formula
- ![](../../../../../../../../Attachments/Batch%20Perceptron%20Algorithm.png)
+ ![](../../../../../../../../Images/First_Sem_Images/Batch%20Perceptron%20Algorithm.png)
 
 #### Why the Gradient is Negated in Optimization?
 > [!info]- Gradient is negated Becase: 
@@ -59,7 +59,7 @@
 
 ---
 ### Numerical Given By Sir
-> ![](../../../../../../../../Attachments/Batch%20Perceptron%20Algorithm-1.png)
+> ![](../../../../../../../../Images/First_Sem_Images/Batch%20Perceptron%20Algorithm-1.png)
 
 > [!example]+ Solution
 >   

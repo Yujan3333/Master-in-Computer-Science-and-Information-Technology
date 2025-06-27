@@ -9,7 +9,7 @@ Imagine a **straight line** on a graph.
 #### Example:
 If a line goes **up 2 units** for every **1 unit to the right**, the slope is:
 
-![](../../../../../../../Images/What%20is%20a%20Slope%20and%20Gradient.png)
+![](../../../../../../../../Images/First_Sem_Images/What%20is%20a%20Slope%20and%20Gradient.png)
 
 ---
 

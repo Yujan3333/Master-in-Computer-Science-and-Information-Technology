@@ -2,7 +2,7 @@
    **Low-level formatting** is the process of **dividing a blank disk into sectors** that the disk controller can read and write.
    
    ## **Sector Structure (Image 1):**
-   ![](../../../../../../../../Attachments/Disk%20Formatting-1.png)
+   ![](../../../../../../../../Images/First_Sem_Images/Disk%20Formatting-1.png)
    Each **sector** contains three parts:
    
    **1. Preamble:**
@@ -30,7 +30,7 @@
    
 ## Physical Layout (Image 2)
    
-   ![](../../../../../../../../Attachments/Disk%20Formatting-2.png)
+   ![](../../../../../../../../Images/First_Sem_Images/Disk%20Formatting-2.png)
    The circular diagram shows how **sectors are numbered** on a track:
    
    - **Concentric circles** = different tracks

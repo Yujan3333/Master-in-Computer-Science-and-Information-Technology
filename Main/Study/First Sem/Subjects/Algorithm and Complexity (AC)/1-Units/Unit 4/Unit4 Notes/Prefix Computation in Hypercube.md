@@ -25,7 +25,7 @@ A **d-dimensional hypercube** has $2^d$ processors. So if we place one value per
 ## 🔄 Two Phases of Prefix Computation
 
 We simulate a **binary tree on a hypercube**, and perform the computation in **2 phases**:
-![](../../../../../../../../Attachments/Prefix%20Computation%20in%20Hypercube.png)
+![](../../../../../../../../Images/First_Sem_Images/Prefix%20Computation%20in%20Hypercube.png)
 
 ---
 
