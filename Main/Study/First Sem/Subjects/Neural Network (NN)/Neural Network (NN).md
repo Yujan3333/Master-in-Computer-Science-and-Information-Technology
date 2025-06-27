@@ -26,6 +26,9 @@
 	- **[que_coll](./2-Assignments/que_coll/que_coll.md)**
 - **3-Past Que**
 	- **[_Notes](./3-Past%20Que/_Notes/_Notes.md)**
+	- [2077](./3-Past%20Que/2077.md)
+	- [2078](./3-Past%20Que/2078.md)
+	- [2081](./3-Past%20Que/2081.md)
 	- [Past Questions](./3-Past%20Que/Past%20Questions.md)
 - **[General Knowledge](./General%20Knowledge/General%20Knowledge.md)**
 - **Slides-Lab Files**
