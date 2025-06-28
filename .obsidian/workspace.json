@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Summary of Unit 4 RBF.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Summary of Unit 4 RBF"
+              "title": "README"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Summary of Unit 4 RBF.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Summary of Unit 4 RBF"
+              "title": "Outline of README"
             }
           }
         ]
@@ -163,8 +163,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "e41f2028a4665174",
   "lastOpenFiles": [
+    "Main/Study/Overview of Master.md",
+    "README.md",
+    "Main/Study/First Sem/_index.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Summary of Unit 4 RBF.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit 4 - Radial Basis Function Networks(RBFNN).md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit 2 Linear Models for regresison and classification.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes/Numerical Logistic Regression.md",
@@ -176,7 +183,6 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes/Numerical of Polynomial Curve Fitting.md",
     "Images/First_Sem_Images/Numerical of Polynomial Curve Fitting.png",
     "Images/First_Sem_Images/Numerical of Polynomial Curve Fitting1.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Bayesian Neural Network.md",
@@ -195,13 +201,8 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Jacobian and Hessian.md",
     "Images/First_Sem_Images/Jacobian and Hessian-1.png",
     "Images/First_Sem_Images/Jacobian and Hessian.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6/Unit6 - Notes/Summary of Self Organizing Map.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6/Unit 6 Self Organizing Map.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6/Unit6 - Notes/Learning Vector Quantization (LVQ).md",
     "Images/First_Sem_Images/Learning Vector Quantization (LVQ).png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6/Unit6 - Notes",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Boltzman Machine.md",
     "Images/First_Sem_Images/Gated Recurrent Unit (GRU)-1.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6",
     "Images/First_Sem_Images",
