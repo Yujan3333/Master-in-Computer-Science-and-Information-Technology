@@ -126,5 +126,20 @@
       ],
       "key": "B"
     }
+  ],
+  "wikilinks-to-mdlinks-obsidian:toggle-wiki-md-links": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
   ]
 }

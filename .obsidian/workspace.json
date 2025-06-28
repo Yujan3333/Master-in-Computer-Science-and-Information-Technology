@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "3a2313186b08f94a",
+        "id": "b0fb1f1fa358c639",
         "type": "tabs",
         "children": [
           {
-            "id": "bb65426c67bcdd32",
+            "id": "e41f2028a4665174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit 4 - Radial Basis Function Networks(RBFNN).md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Summary of Unit 4 RBF.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 4 - Radial Basis Function Networks(RBFNN)"
-            }
-          },
-          {
-            "id": "6ba6ae7d8d53ca0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Unit7 - Feedback Neural Network"
-            }
-          },
-          {
-            "id": "afe8b2194ddbb082",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Summary of Unit 7 feedback Neural network.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Summary of Unit 7 feedback Neural network"
+              "title": "Summary of Unit 4 RBF"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,17 +134,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Summary of Unit 4 RBF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit7 - Feedback Neural Network"
+              "title": "Outline of Summary of Unit 4 RBF"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,53 +163,53 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "6ba6ae7d8d53ca0c",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/General Knowledge.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/Sigmoid Activation Function and Tanh Activation Function.md",
-    "Images/First_Sem_Images/Sigmoid Activation Function and Tanh Activation Function-1.png",
-    "Images/First_Sem_Images/Sigmoid Activation Function and Tanh Activation Function.png",
-    "Images/First_Sem_Images/sigmoid 2.png",
-    "Images/First_Sem_Images/sigmoid.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit 4 - Radial Basis Function Networks(RBFNN).md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Truncated BPTT.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Summary of Unit 7 feedback Neural network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Numerical -2 Forward Propagation in RNN.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/RNN.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/From Sir Slide.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Understanding 2.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Understanding This.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Summary of Unit 4 RBF.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit5/Unit 5 - Kernel methods for pattern analysis.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Numerical of LMS.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/LMS Estimation of weight vector.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/CNN Numerical -1.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Summary of Unit 3 Feedforward neural networks.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit 2 Linear Models for regresison and classification.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes/Numerical Logistic Regression.md",
+    "Images/First_Sem_Images/Numerical Logistic Regression-1.png",
+    "Images/First_Sem_Images/Numerical Logistic Regression.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes/Logistic Regression.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes/Unit 2 Summary Linear Models for regression and Classification.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes/Polynomial Curve fitting.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes/Numerical of Polynomial Curve Fitting.md",
+    "Images/First_Sem_Images/Numerical of Polynomial Curve Fitting.png",
+    "Images/First_Sem_Images/Numerical of Polynomial Curve Fitting1.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Bayesian Neural Network.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/CNN Numerical -2 4bit greyscale image.md",
-    "Images/First_Sem_Images/CNN Numerical -1 que.png",
-    "Images/First_Sem_Images/Pasted image 20250627191717.png",
-    "Images/First_Sem_Images/Pasted image 20250627191303.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Auto associative Neural Network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Fast Learning Method - Conjugate Gradient.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Fast Learning Method - Newton’s Method.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Cross-Validation.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Overview of Sir Slides for U-3.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Derivation of Sigmoid(Logistic Function) and Tanh function.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Back Propagation Network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/XOR Using MLP.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/NOT and NAND Can While XNOR Cannot.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Derivation steps of Tanh.md",
-    "Images/First_Sem_Images/tanh graph.png",
-    "Images/First_Sem_Images/Sigmoid graph.png",
-    "Images/First_Sem_Images/Pasted image 20250627113541.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Numerical 2 of Adam.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Summary of Unit 3 Feedforward neural networks.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Adaptive Control of Learning Rate.md",
+    "Images/First_Sem_Images/Numerical 2 of Adam.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Numerical of adaguard  RMS PROP adam Momentum.md",
+    "Images/First_Sem_Images/qye.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Jacobian and Hessian.md",
+    "Images/First_Sem_Images/Jacobian and Hessian-1.png",
+    "Images/First_Sem_Images/Jacobian and Hessian.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6/Unit6 - Notes/Summary of Self Organizing Map.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6/Unit 6 Self Organizing Map.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6/Unit6 - Notes/Learning Vector Quantization (LVQ).md",
+    "Images/First_Sem_Images/Learning Vector Quantization (LVQ).png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6/Unit6 - Notes",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Boltzman Machine.md",
+    "Images/First_Sem_Images/Gated Recurrent Unit (GRU)-1.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6",
     "Images/First_Sem_Images",
     "Images/New folder",
     "Images",
     "Attachments",
     "New folder",
     "Images/First_Sem_Images/thesis Msc CSIT Format.pdf",
-    "Images/First_Sem_Images/Simplest_working_example_LaTeX_document.pdf",
-    "Images/First_Sem_Images/seminar Msc CSIT.pdf",
-    "Images/First_Sem_Images/courses.pdf",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }

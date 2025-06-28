@@ -11,8 +11,8 @@
 - [Numerical - 1 - RNN Forward Propagation - dogs](Unit7-Notes/Numerical%20-%201%20-%20RNN%20Forward%20Propagation%20-%20dogs.md)
 - [Numerical -2 Feed Forward Prop](Unit7-Notes/Numerical%20-2%20Forward%20Propagation%20in%20RNN.md)
 ---
-- [Truncated BPTT](Truncated%20BPTT.md)
-- [[Long Short-term Memory(LSTM)]]
-- [[Gated Recurrent Unit (GRU)]]
-- [[Hopfield Networks]]
-- [[Boltzman Machine]]
+- [Truncated BPTT](Unit7-Notes/Truncated%20BPTT.md)
+- [Long Short-term Memory(LSTM)](Unit7-Notes/Long%20Short-term%20Memory(LSTM).md)
+- [Gated Recurrent Unit (GRU)](Unit7-Notes/Gated%20Recurrent%20Unit%20(GRU).md)
+- [Hopfield Networks](Unit7-Notes/Hopfield%20Networks.md)
+- [Boltzman Machine](Unit7-Notes/Boltzman%20Machine.md)
