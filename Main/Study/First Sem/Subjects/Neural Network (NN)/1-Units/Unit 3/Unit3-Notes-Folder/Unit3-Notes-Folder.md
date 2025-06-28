@@ -4,6 +4,7 @@
 - [Back Propagation Network](./Back%20Propagation%20Network.md)
 - [Batch and Online Learning](./Batch%20and%20Online%20Learning.md)
 - [Batch Perceptron Algorithm](./Batch%20Perceptron%20Algorithm.md)
+- [Bayesian Neural Network](./Bayesian%20Neural%20Network.md)
 - [Can a Perceptron have more then one neuron](./Can%20a%20Perceptron%20have%20more%20then%20one%20neuron.md)
 - [CNN Numerical -1](./CNN%20Numerical%20-1.md)
 - [CNN Numerical -2 4bit greyscale image](./CNN%20Numerical%20-2%204bit%20greyscale%20image.md)

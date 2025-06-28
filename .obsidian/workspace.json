@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "b0fb1f1fa358c639",
+        "id": "13d909bd4d6bb3c9",
         "type": "tabs",
         "children": [
           {
-            "id": "e41f2028a4665174",
+            "id": "a436a5731668b1a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2081.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2081"
+            }
+          },
+          {
+            "id": "439377c11979c599",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Feedforward neural networks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit3 - Feedforward neural networks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Images",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           }
         ]
@@ -163,10 +178,20 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e41f2028a4665174",
+  "active": "439377c11979c599",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/NOT and NAND Can While XNOR Cannot.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/XOR Using MLP.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Feedforward neural networks.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2081.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/Sigmoid Activation Function and Tanh Activation Function.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/General Knowledge.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 1/Unit 1 Intro to artificial neural network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 1/Unit1 - Notes/Biological neural networks.md",
+    "Images/First_Sem_Images/courses.pdf",
     "Main/Study/Overview of Master.md",
     "README.md",
+    "Main/Study/First Sem/All Notes and Resources Combined/All Notes and Resources Combined.md",
     "Main/Study/First Sem/_index.md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
@@ -185,32 +210,22 @@
     "Images/First_Sem_Images/Numerical of Polynomial Curve Fitting1.png",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Bayesian Neural Network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Auto associative Neural Network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Fast Learning Method - Conjugate Gradient.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Fast Learning Method - Newton’s Method.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Cross-Validation.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Overview of Sir Slides for U-3.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Numerical 2 of Adam.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Summary of Unit 3 Feedforward neural networks.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Adaptive Control of Learning Rate.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/Bayesian Neural Network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/Auto associative Neural Network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/Fast Learning Method - Conjugate Gradient.md",
     "Images/First_Sem_Images/Numerical 2 of Adam.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Numerical of adaguard  RMS PROP adam Momentum.md",
     "Images/First_Sem_Images/qye.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Jacobian and Hessian.md",
     "Images/First_Sem_Images/Jacobian and Hessian-1.png",
     "Images/First_Sem_Images/Jacobian and Hessian.png",
     "Images/First_Sem_Images/Learning Vector Quantization (LVQ).png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6/Unit6 - Notes",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 6/Unit6 - Notes",
     "Images/First_Sem_Images/Gated Recurrent Unit (GRU)-1.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 6",
     "Images/First_Sem_Images",
     "Images/New folder",
     "Images",
     "Attachments",
     "New folder",
-    "Images/First_Sem_Images/thesis Msc CSIT Format.pdf",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }

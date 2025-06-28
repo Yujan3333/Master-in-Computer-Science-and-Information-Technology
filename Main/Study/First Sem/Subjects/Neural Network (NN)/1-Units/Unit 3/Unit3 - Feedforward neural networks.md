@@ -46,7 +46,7 @@
 - [Fast Learning Method - Newton’s Method](Unit3-Notes-Folder/Fast%20Learning%20Method%20-%20Newton’s%20Method.md)
 - [Fast Learning Method - Conjugate Gradient](Unit3-Notes-Folder/Fast%20Learning%20Method%20-%20Conjugate%20Gradient.md)
 - [Auto associative Neural Network](Unit3-Notes-Folder/Auto%20associative%20Neural%20Network.md)
-- [Bayesian Neural Network](Bayesian%20Neural%20Network.md)
+- [Bayesian Neural Network](Unit3-Notes-Folder/Bayesian%20Neural%20Network.md)
 
 ---
 - [Can a Perceptron have more then one neuron?](Unit3-Notes-Folder/Can%20a%20Perceptron%20have%20more%20then%20one%20neuron.md)

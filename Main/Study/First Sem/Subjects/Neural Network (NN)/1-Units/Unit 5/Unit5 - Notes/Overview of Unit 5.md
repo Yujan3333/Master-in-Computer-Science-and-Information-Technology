@@ -23,7 +23,7 @@ This framework for machine learning uses statistics and functional analysis to f
     y = ax_1 + bx_2 + c
     $$
 
-- ==[Further Explanation of Statistical Model Example](Unit5%20-%20Notes/Further%20Explanation%20of%20Statistical%20Model%20Example.md)==
+- ==[Further Explanation of Statistical Model Example](Further%20Explanation%20of%20Statistical%20Model%20Example.md)==
 
 ---
 
