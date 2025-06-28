@@ -3,6 +3,8 @@
 - [Batch and Online Learning](./Batch%20and%20Online%20Learning.md)
 - [Batch Perceptron Algorithm](./Batch%20Perceptron%20Algorithm.md)
 - [Can a Perceptron have more then one neuron](./Can%20a%20Perceptron%20have%20more%20then%20one%20neuron.md)
+- [CNN Numerical -1](./CNN%20Numerical%20-1.md)
+- [CNN Numerical -2 4bit greyscale image](./CNN%20Numerical%20-2%204bit%20greyscale%20image.md)
 - [Derivation of Sigmoid(Logistic Function) and Tanh function](./Derivation%20of%20Sigmoid(Logistic%20Function)%20and%20Tanh%20function.md)
 - [Derivation steps of Tanh](./Derivation%20steps%20of%20Tanh.md)
 - [Gradient Descent](./Gradient%20Descent.md)

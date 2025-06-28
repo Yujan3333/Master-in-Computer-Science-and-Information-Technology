@@ -1,5 +1,6 @@
 **8hrs**
 ### Main Topic
+- [Summary of Unit 4 RBF](Unit4-Notes-Folder/Summary%20of%20Unit%204%20RBF.md)
 - Regularization theory
 - RBF networks for function approximation
 - RBF network for pattern classification
@@ -19,6 +20,7 @@
 	- [Numerical On RBF Hidden Layer Using K-means](Unit4-Notes-Folder/Numerical%20On%20RBF%20Hidden%20Layer%20Using%20K-means.md)
 
 5. [LMS Estimation of weight vector](Unit4-Notes-Folder/LMS%20Estimation%20of%20weight%20vector.md)
+	- [4-data center Numerical of LMS](Unit4-Notes-Folder/Numerical%20of%20LMS.md)
 
 
 

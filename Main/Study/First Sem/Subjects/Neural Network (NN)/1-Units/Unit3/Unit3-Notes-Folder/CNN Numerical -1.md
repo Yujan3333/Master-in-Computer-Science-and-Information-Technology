@@ -1,7 +1,7 @@
 # CNN Convolution and Max Pooling Example
 
 #### Question
-![](../../../../../../../Images/First_Sem_Images/CNN%20Numerical%20-1%20que.png)
+![](../../../../../../../../Images/First_Sem_Images/CNN%20Numerical%20-1%20que.png)
 
 ## Given Data
 **6×6 Input Image:**

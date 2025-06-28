@@ -44,7 +44,7 @@ SVM is a popular supervised learning algorithm used for both classification and 
 
   * **Linear SVM**: Used for linearly separable data points.
   * **Non-linear SVM**: Used when data is not linearly separable.
-    It transforms low-dimensional data into high-dimensional linearly separable data using the **[Kernel Trick](../../Unit4/Unit4-Notes-Folder/Kernel%20Methods.md)**, then applies a linear hyperplane in that higher space.
+    It transforms low-dimensional data into high-dimensional linearly separable data using the **[Kernel Trick](../../Unit%204/Unit4-Notes-Folder/Kernel%20Methods.md)**, then applies a linear hyperplane in that higher space.
 
 ---
 

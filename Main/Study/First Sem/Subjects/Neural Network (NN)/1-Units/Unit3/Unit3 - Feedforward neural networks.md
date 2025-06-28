@@ -39,8 +39,8 @@
 	- Adam
 - Cross-Validation
 - Convolutional Neural Network(CNN)
-	- [CNN Numerical -1](CNN%20Numerical%20-1.md)
-	- [CNN Numerical -2 4bit greyscale image](CNN%20Numerical%20-2%204bit%20greyscale%20image.md)
+	- [CNN Numerical -1](Unit3-Notes-Folder/CNN%20Numerical%20-1.md)
+	- [CNN Numerical -2 4bit greyscale image](Unit3-Notes-Folder/CNN%20Numerical%20-2%204bit%20greyscale%20image.md)
 - Fast Learning Method: Newton’s Method
 - Fast Learning Method: Conjugate Gradient
 - Auto associative Neural Network 

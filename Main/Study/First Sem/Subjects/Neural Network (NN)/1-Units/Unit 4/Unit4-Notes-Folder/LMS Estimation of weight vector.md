@@ -36,7 +36,9 @@ $\varphi_{ji} w_{kj} = d_{ki}, \quad i=1,\dots,N, j=1,\dots,M, k=1,\dots,C$
 
 $e = \varphi \; w_k - d_k$
 
+
 ![](../../../../../../../../Images/First_Sem_Images/LMS%20Estimation%20of%20weight%20vector.png)
+
 Here, 
 	$φ \; w_{k}$ represents the actual output from the network for class k
 	$d_k$ represents the desired output for class k

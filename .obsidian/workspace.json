@@ -4,40 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "43228401dd14ebed",
+        "id": "3a2313186b08f94a",
         "type": "tabs",
         "children": [
           {
-            "id": "869730a4c1cb8d7c",
+            "id": "bb65426c67bcdd32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit 4 - Radial Basis Function Networks(RBFNN).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit3 - Feedforward neural networks"
+              "title": "Unit 4 - Radial Basis Function Networks(RBFNN)"
             }
           },
           {
-            "id": "3371a34617309dd1",
+            "id": "6ba6ae7d8d53ca0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Summary of Unit 3 Feedforward neural networks.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Summary of Unit 3 Feedforward neural networks"
+              "title": "Unit7 - Feedback Neural Network"
+            }
+          },
+          {
+            "id": "afe8b2194ddbb082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Summary of Unit 7 feedback Neural network.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Summary of Unit 7 feedback Neural network"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,8 +126,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -149,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
+                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit3 - Feedforward neural networks"
+              "title": "Outline of Unit7 - Feedback Neural Network"
             }
           }
         ],
@@ -179,41 +195,44 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "869730a4c1cb8d7c",
+  "active": "6ba6ae7d8d53ca0c",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/CNN Numerical -2 4bit greyscale image.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/General Knowledge.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/Sigmoid Activation Function and Tanh Activation Function.md",
+    "Images/First_Sem_Images/Sigmoid Activation Function and Tanh Activation Function-1.png",
+    "Images/First_Sem_Images/Sigmoid Activation Function and Tanh Activation Function.png",
+    "Images/First_Sem_Images/sigmoid 2.png",
+    "Images/First_Sem_Images/sigmoid.png",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7 - Feedback Neural Network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit 4 - Radial Basis Function Networks(RBFNN).md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Truncated BPTT.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Summary of Unit 7 feedback Neural network.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Numerical -2 Forward Propagation in RNN.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/RNN.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/From Sir Slide.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Understanding 2.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit7/Unit7-Notes/Understanding This.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Summary of Unit 4 RBF.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit5/Unit 5 - Kernel methods for pattern analysis.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Numerical of LMS.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/LMS Estimation of weight vector.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/CNN Numerical -1.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit6",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Summary of Unit 3 Feedforward neural networks.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3 - Feedforward neural networks.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/CNN Numerical -1.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/CNN Numerical -2 4bit greyscale image.md",
     "Images/First_Sem_Images/CNN Numerical -1 que.png",
     "Images/First_Sem_Images/Pasted image 20250627191717.png",
     "Images/First_Sem_Images/Pasted image 20250627191303.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Summary of Unit 3 Feedforward neural networks.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Overview of Sir Slides for U-3.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Derivation of Sigmoid(Logistic Function) and Tanh function.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Back Propagation Network.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/XOR Using MLP.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/NOT and NAND Can While XNOR Cannot.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Derivation steps of Tanh.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Process of Derivation of sigmiod.md",
     "Images/First_Sem_Images/tanh graph.png",
     "Images/First_Sem_Images/Sigmoid graph.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/What exactly is a bias.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit3/Unit3-Notes-Folder/Can a Perceptron have more then one neuron.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit5/Unit 5 - Kernel methods for pattern analysis.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit5/Unit5 - Notes/Overview of Unit 5.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit5/Unit5 - Notes/Numerical of Support Vector Machine.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit5/Unit5 - Notes/SVM-Numerical-Sir Solution.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
-    "Main/Study/First Sem/_index.md",
     "Images/First_Sem_Images/Pasted image 20250627113541.png",
-    "Images/First_Sem_Images/AND Activation Function.png",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Bitonic Sort.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit4 Notes/Unit 4.2 Hypercube.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/1-Units/Unit 4/Unit 4.md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2071.md",
-    "Images/First_Sem_Images/_index.png",
-    "Images/First_Sem_Images/2070.png",
-    "Images/First_Sem_Images/2073-1.png",
     "Images/First_Sem_Images",
     "Images/New folder",
     "Images",
@@ -223,10 +242,6 @@
     "Images/First_Sem_Images/Simplest_working_example_LaTeX_document.pdf",
     "Images/First_Sem_Images/seminar Msc CSIT.pdf",
     "Images/First_Sem_Images/courses.pdf",
-    "Images/First_Sem_Images/1-Images-Folder",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/Past Questions.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/que_coll/A1- Question 1 - WAP to create a neuron.md",
-    "Main/Untitled.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }
