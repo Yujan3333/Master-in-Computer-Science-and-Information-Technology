@@ -6,7 +6,9 @@ Made from obsidian note taking app.
 ## Semester
 - 4 Semester 2 year Program
 
-### First Semester
+
+### [First Semester](Main/Study/First%20Sem/_index.md)
+
 - [Neural Network (NN)](Main/Study/First%20Sem/Subjects/Neural%20Network%20(NN)/Neural%20Network%20(NN).md)
 - [Parallel and Distributed Computing (PDC)](Main/Study/First%20Sem/Subjects/Parallel%20and%20Distributed%20Computing%20(PDC)/Parallel%20and%20Distributed%20Computing%20(PDC).md)
 - [Algorithm and Complexity (AC)](Main/Study/First%20Sem/Subjects/Algorithm%20and%20Complexity%20(AC)/Algorithm%20and%20Complexity%20(AC).md)
