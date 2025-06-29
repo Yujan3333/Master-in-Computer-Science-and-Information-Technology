@@ -82,5 +82,7 @@
 		- [Responsibility-driven design (RDD)](./2-Assignments/OOSE%20A2/Responsibility-driven%20design%20(RDD).md)
 	- **OOSE A3-Case Study**
 
+- **3-Past Questions**
+	- [2082 - OOSE Board](./3-Past%20Questions/2082%20-%20OOSE%20Board.md)
 
 %% End Waypoint %%

@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "13d909bd4d6bb3c9",
+        "id": "b0e316599f0ebba9",
         "type": "tabs",
         "children": [
           {
-            "id": "a436a5731668b1a7",
+            "id": "f34c0110d19df487",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2081.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2081"
-            }
-          },
-          {
-            "id": "b0991dadcc6b1cc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 5/Unit5 - Notes/Overview of Unit 5.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Overview of Unit 5"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,17 +129,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 5/Unit5 - Notes/Overview of Unit 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Overview of Unit 5"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,8 +157,45 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "b0991dadcc6b1cc2",
+  "active": "f34c0110d19df487",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2070.md",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Preboard/PDC-Preboard-2082.jpeg",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Preboard/OOSE-Preboard-2082.jpeg",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Preboard/NN-Preboard-2082.jpeg",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Preboard/AOS-Preboard-2082.jpeg",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Preboard/AC-Preboard-2082.jpeg",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term/PDC-MidTerm-2081.jpeg",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term/OOSE-Midterm-2081.jpeg",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term/NN-Midterm-2081.jpeg",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term/AOS-Midterm-2081.jpeg",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term/AC-Midterm-2082.jpeg",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Preboard",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Board",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/passed year question .pdf",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Csit_oldquestions.pdf",
+    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions",
+    "Main/Study/First Sem/All Notes and Resources Combined/NN Notes/Unit -7 Recurrent Neural Network.pptx",
+    "Main/Study/First Sem/All Notes and Resources Combined/NN Notes/Unit -6 Self Organizing Maps.pptx",
+    "Main/Study/First Sem/All Notes and Resources Combined/NN Notes/Unit -5 Support Vector Machine.pptx",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2075.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2072.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2073.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2074.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2076.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2077.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2078.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2081.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2082-PDC-Board.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2082- Neural Network.md",
+    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2082 - AC Board My.md",
+    "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/3-Past Questions/2082 - OOSE Board.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/Past Questions.md",
+    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/3-Past Questions/2082 - AOS Board.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2081.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 5/Unit5 - Notes/Overview of Unit 5.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 5/Unit 5 - Kernel methods for pattern analysis.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 5/Unit5 - Notes/Numerical of Support Vector Machine.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Summary of Unit 4 RBF.md",
@@ -190,44 +204,6 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/Numerical 2 of Adam.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Feedforward neural networks.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/CNN Numerical -2 4bit greyscale image.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/Back Propagation Network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 7/Unit7 - Feedback Neural Network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 7/Unit7-Notes/Boltzman Machine.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 7/Unit7-Notes/Summary of Unit 7 feedback Neural network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 7/Unit7-Notes/RNN.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2081.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Numerical On RBF Hidden Layer Using K-means.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/RBF Basis Function Network.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Why K less then or equal to N.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Kernel Methods.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes/Numerical of Polynomial Curve Fitting.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit 2 Linear Models for regresison and classification.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes/Polynomial Curve fitting.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/CNN Numerical -1.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/NOT and NAND Can While XNOR Cannot.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/XOR Using MLP.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/Sigmoid Activation Function and Tanh Activation Function.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/General Knowledge/General Knowledge.md",
-    "Images/First_Sem_Images/courses.pdf",
-    "Images/First_Sem_Images/Numerical Logistic Regression-1.png",
-    "Images/First_Sem_Images/Numerical Logistic Regression.png",
-    "Images/First_Sem_Images/Numerical of Polynomial Curve Fitting.png",
-    "Images/First_Sem_Images/Numerical of Polynomial Curve Fitting1.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit-2 Notes",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2",
-    "Images/First_Sem_Images/Numerical 2 of Adam.png",
-    "Images/First_Sem_Images/qye.png",
-    "Images/First_Sem_Images/Jacobian and Hessian-1.png",
-    "Images/First_Sem_Images/Jacobian and Hessian.png",
-    "Images/First_Sem_Images/Learning Vector Quantization (LVQ).png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 6/Unit6 - Notes",
-    "Images/First_Sem_Images/Gated Recurrent Unit (GRU)-1.png",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 6",
-    "Images/First_Sem_Images",
-    "Images/New folder",
-    "Images",
-    "Attachments",
-    "New folder",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }
