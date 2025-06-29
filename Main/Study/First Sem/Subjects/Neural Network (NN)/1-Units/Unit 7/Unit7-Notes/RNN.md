@@ -15,7 +15,7 @@
 ### 🧠 Key Idea:
 Unlike traditional neural networks (like feedforward networks), **RNNs have memory**. They **"remember"** information from previous steps in the sequence by passing a hidden state from one time step to the next.
 
-In **traditional neural networks**, all the inputs and outputs are *independent of each other*, but in cases like when it is required to predict the next word of a sentence, the previous words are required and hence there is a need to remember the previous words.
+In **traditional neural networks**, all the inputs and outputs are *independent of each other*, but in cases like when it is required to predict the next word of a sentence, the previous wods are required and hence there is a need to remember the previous words.
 
 ---
 ### ⚠️ Limitation:
