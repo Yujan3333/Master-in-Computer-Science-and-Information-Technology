@@ -1,6 +1,3 @@
-Sure, Yujan! Let’s expand and clearly explain the meaning of this example in simpler terms and relate it to **Statistical Learning Theory** and **Regression Models**.
-
----
 
 ### 🔎 **Understanding the Example**
 

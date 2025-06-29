@@ -11,10 +11,15 @@
             "id": "f34c0110d19df487",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Role-Based Access Control (RBAC).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Role-Based Access Control (RBAC)"
             }
           }
         ]
@@ -49,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "yujan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,6 +165,8 @@
   },
   "active": "f34c0110d19df487",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/que_coll/Check the dataset for missing values and handle, if any.md",
+    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 5/Unit5 - Notes/Further Explanation of Statistical Model Example.md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2070.md",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Preboard/PDC-Preboard-2082.jpeg",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Preboard/OOSE-Preboard-2082.jpeg",
@@ -203,7 +211,6 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/Numerical of LMS.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/Numerical 2 of Adam.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Feedforward neural networks.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3-Notes-Folder/CNN Numerical -2 4bit greyscale image.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }

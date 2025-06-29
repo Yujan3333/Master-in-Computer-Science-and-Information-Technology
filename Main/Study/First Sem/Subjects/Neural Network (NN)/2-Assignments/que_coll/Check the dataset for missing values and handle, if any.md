@@ -22,7 +22,7 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder
 
 # Update this path to match where your file is in your Drive
-file_path = '/content/drive/My Drive/Colab Notebooks/Yujan_NN/NN_Lab3/heart.csv'
+file_path = '/path to drive'
 
 # Read the CSV
 df = pd.read_csv(file_path)
