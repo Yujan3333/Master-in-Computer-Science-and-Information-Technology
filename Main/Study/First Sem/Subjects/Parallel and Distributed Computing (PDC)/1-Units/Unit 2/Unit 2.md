@@ -1,0 +1,21 @@
+### 2.1.PRAM Models (5hrs)
+- Introduction; Techniques for the Design of Parallel Algorithms
+- The PRAM Model
+- Optimality and Efficiency of Parallel Algorithms
+- Basic PRAM Algorithms
+- The NC-Class
+- P-Completeness
+	- Hardly Parallelizable Problems
+	- Randomized Algorithms and Parallelism
+- List Ranking Revisited 
+	- Optimal O(log n) Deterministic List Ranking
+- Taxonomy of Parallel Algorithms
+- Deficiencies of the PRAM Model
+
+---
+- PRAM Models
+- [Finding the smallest value in N](Unit2%20-%20Notes/Finding%20the%20smallest%20value%20in%20N.md)
+- Techniques for the design of parallel algorithms
+	- Divide and Conquer
+	- Balanced Binary Tree Method
+- PRAM Model

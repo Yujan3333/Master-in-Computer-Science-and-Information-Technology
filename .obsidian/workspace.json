@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "71200e4ba8de1d17",
+        "id": "58bd510fac2c99b3",
         "type": "tabs",
         "children": [
           {
-            "id": "3526cea7a6833edb",
+            "id": "5e13a5396fcd310e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Unit 2"
             }
           }
         ]
@@ -134,15 +134,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Unit 2"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,12 +164,26 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3526cea7a6833edb",
+  "active": "5e13a5396fcd310e",
   "lastOpenFiles": [
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2078.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2081.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit 2.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit2 - Notes/Finding the smallest value in N.md",
+    "Images/First_Sem_Images/Pasted image 20250630084853.png",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 1/Unit 1.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit2 - Notes",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 1/Unit1 - Notes",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 1/Unit1 - Notes/Models of Concurrent Programming.md",
     "Main/Study/First Sem/_index.md",
+    "Main/Study/First Sem/All Notes and Resources Combined/All Notes and Resources Combined.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit1/Unit1.2 - Notes",
+    "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
+    "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
+    "Main/Study/First Sem/All Notes and Resources Combined/AOS Notes/~$Unit 1.1-Chapter 1 (Process Management ).pptx",
     "README.md",
     "Main/Study/Overview of Master.md",
-    "Main/Study/First Sem/All Notes and Resources Combined/All Notes and Resources Combined.md",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Questions - 2082.md",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Csit_oldquestions.pdf",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Role-Based Access Control (RBAC).md",
@@ -183,33 +199,20 @@
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term/OOSE-Midterm-2081.jpeg",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term/NN-Midterm-2081.jpeg",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term/AOS-Midterm-2081.jpeg",
-    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term/AC-Midterm-2082.jpeg",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Preboard",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Board",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082",
-    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/passed year question .pdf",
-    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions",
-    "Main/Study/First Sem/All Notes and Resources Combined/NN Notes/Unit -7 Recurrent Neural Network.pptx",
-    "Main/Study/First Sem/All Notes and Resources Combined/NN Notes/Unit -6 Self Organizing Maps.pptx",
-    "Main/Study/First Sem/All Notes and Resources Combined/NN Notes/Unit -5 Support Vector Machine.pptx",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2075.md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2072.md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2073.md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2074.md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2076.md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2077.md",
-    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2078.md",
-    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2081.md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/2-Past Questions/2082-PDC-Board.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2082- Neural Network.md",
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/3-Past Questions/2082 - AC Board My.md",
     "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/3-Past Questions/2082 - OOSE Board.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/Past Questions.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/3-Past Questions/2082 - AOS Board.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/3-Past Que/2081.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 5/Unit5 - Notes/Overview of Unit 5.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 5/Unit 5 - Kernel methods for pattern analysis.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }
