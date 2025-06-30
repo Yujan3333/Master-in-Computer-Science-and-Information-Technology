@@ -41,6 +41,8 @@
 			- [Target Machine](./1-Units/Unit%202/Unit2%20-%20Notes/Target%20Machine.md)
 			- [Task Scheduling](./1-Units/Unit%202/Unit2%20-%20Notes/Task%20Scheduling.md)
 			- [Techniques for checkpointing](./1-Units/Unit%202/Unit2%20-%20Notes/Techniques%20for%20checkpointing.md)
+	- **[Unit 3](./1-Units/Unit%203/Unit%203.md)**
+		- **Unit3 - Notes**
 - **2-Past Questions**
 	- [2070](./2-Past%20Questions/2070.md)
 	- [2072](./2-Past%20Questions/2072.md)

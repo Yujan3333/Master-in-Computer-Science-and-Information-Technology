@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit 2.md",
+                "file": "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 3/Unit 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 2"
+              "title": "Unit 3"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit 2.md",
+                "file": "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 3/Unit 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 2"
+              "title": "Outline of Unit 3"
             }
           }
         ]
@@ -163,10 +163,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "71c075a01e4cfe4e",
   "lastOpenFiles": [
-    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit2 - Notes/Components of Open Distributed Systems.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 3/Unit3 - Notes",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit 2.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 3/Unit 3.md",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 3",
+    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit2 - Notes/Components of Open Distributed Systems.md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit2 - Notes/Techniques for checkpointing.md",
     "Images/First_Sem_Images/Techniques for checkpointing.png",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit2 - Notes/Checkpointing using task duplication.md",
@@ -200,8 +203,6 @@
     "Images/First_Sem_Images/summation.png",
     "Images/First_Sem_Images/Pasted image 20250630144050.png",
     "Images/First_Sem_Images/Basic Primitive of Data Flow.png",
-    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit2 - Notes/Dataflow Model.md",
-    "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit2 - Notes/NIck Class (NC).md",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2/Unit2 - Notes",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 2",
     "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit 1/Unit1 - Notes",
@@ -212,7 +213,6 @@
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Csit_oldquestions.pdf",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Preboard",
     "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Mid term",
-    "Main/Study/First Sem/All Notes and Resources Combined/Passed Year Questions/Questions - 2082/Board",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
   ]
 }
