@@ -12,6 +12,7 @@
 - Taxonomy of Parallel Algorithms
 - Deficiencies of the PRAM Model
 
+- [RAM VS PRAM](RAM%20VS%20PRAM.md)
 ---
 - PRAM Models
 - [Finding the smallest value in N](Unit2%20-%20Notes/Finding%20the%20smallest%20value%20in%20N.md)
