@@ -1,5 +1,5 @@
 ### Unit 1.1
-- [Flynn Taxonomy](Flynn%20Taxonomy.md)
+- [Flynn Taxonomy](Unit1%20-%20Notes/Flynn%20Taxonomy.md)
 
 ### Unit 1.2
 - [Concurrent Programming](Unit1%20-%20Notes/Concurrent%20Programming.md)
@@ -7,12 +7,12 @@
 - [Axiomatic Semantic Definition](Unit1%20-%20Notes/Axiomatic%20Semantic%20Definition.md)
 	- [Numerical of Sir Slide](Unit1%20-%20Notes/Numerical%20of%20Sir%20Slide.md)
 	- [Sequence Statement Rule](Unit1%20-%20Notes/Sequence%20Statement%20Rule.md)
-	- [Alternation Statement Rule](Alternation%20Statement%20Rule.md)
-- [Operational Semantics](Operational%20Semantics.md)
-	- [Henessy Milner Logic](Henessy%20Milner%20Logic.md)
-- [Denotational Semantics](Denotational%20Semantics.md)
-	- [Example of Denotational](Example%20of%20Denotational.md)
-	- [Communicating Sequential Process](Communicating%20Sequential%20Process.md)
+	- [Alternation Statement Rule](Unit1%20-%20Notes/Alternation%20Statement%20Rule.md)
+- [Operational Semantics](Unit1%20-%20Notes/Operational%20Semantics.md)
+	- [Henessy Milner Logic](Unit1%20-%20Notes/Henessy%20Milner%20Logic.md)
+- [Denotational Semantics](Unit1%20-%20Notes/Denotational%20Semantics.md)
+	- [Example of Denotational](Unit1%20-%20Notes/Example%20of%20Denotational.md)
+	- [Communicating Sequential Process](Unit1%20-%20Notes/Communicating%20Sequential%20Process.md)
 ---
 ### Unit 1.3 Petri Nets - 2hrs
 - [Process Algebra](Unit1%20-%20Notes/Process%20Algebra.md)

@@ -23,6 +23,7 @@
 - [Parallel Sorting Algorithm-Bitonic Sort](./Parallel%20Sorting%20Algorithm-Bitonic%20Sort.md)
 - [Performance Criteria](./Performance%20Criteria.md)
 - [PRAM Model](./PRAM%20Model.md)
+- [RAM VS PRAM](./RAM%20VS%20PRAM.md)
 - [Randomized Algorithm](./Randomized%20Algorithm.md)
 - [Schedule](./Schedule.md)
 - [Scheduling Heuristic Algorithm](./Scheduling%20Heuristic%20Algorithm.md)

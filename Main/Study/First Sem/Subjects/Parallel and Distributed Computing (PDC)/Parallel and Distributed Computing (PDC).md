@@ -1,17 +1,9 @@
 %% Begin Waypoint %%
 - **1-Units**
 	- **Unit-1**
-		- [Alternation Statement Rule](./1-Units/Unit-1/Alternation%20Statement%20Rule.md)
-		- [Communicating Sequential Process](./1-Units/Unit-1/Communicating%20Sequential%20Process.md)
-		- [Denotational Semantics](./1-Units/Unit-1/Denotational%20Semantics.md)
-		- [Example of Denotational](./1-Units/Unit-1/Example%20of%20Denotational.md)
-		- [Flynn Taxonomy](./1-Units/Unit-1/Flynn%20Taxonomy.md)
-		- [Henessy Milner Logic](./1-Units/Unit-1/Henessy%20Milner%20Logic.md)
-		- [Operational Semantics](./1-Units/Unit-1/Operational%20Semantics.md)
 		- [Unit 1](./1-Units/Unit-1/Unit%201.md)
 		- **[Unit1 - Notes](./1-Units/Unit-1/Unit1%20-%20Notes/Unit1%20-%20Notes.md)**
 	- **Unit-2**
-		- [RAM VS PRAM](./1-Units/Unit-2/RAM%20VS%20PRAM.md)
 		- [Unit 2](./1-Units/Unit-2/Unit%202.md)
 		- **[Unit2 - Notes](./1-Units/Unit-2/Unit2%20-%20Notes/Unit2%20-%20Notes.md)**
 	- **Unit-3**
@@ -29,5 +21,6 @@
 	- [2081](./2-Past%20Questions/2081.md)
 	- [2082-PDC-Board](./2-Past%20Questions/2082-PDC-Board.md)
 	- [Colored Petri nets ](./2-Past%20Questions/Colored%20Petri%20nets%20.md)
+	- [Confusing Questions](./2-Past%20Questions/Confusing%20Questions.md)
 
 %% End Waypoint %%
