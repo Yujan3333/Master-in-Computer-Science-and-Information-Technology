@@ -30,6 +30,7 @@ Process Algebra Vs Process Graph Vs Petri net
 Petri Net
 
 ![](../../../../../../Images/First_Sem_Images/Confusing%20Questions-6.png)
+[Answer-Total and Partial Correct](Answer-Total%20and%20Partial%20Correct.md)
 
 ---
 ![](../../../../../../Images/First_Sem_Images/Confusing%20Questions-7.png)

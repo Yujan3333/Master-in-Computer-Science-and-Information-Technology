@@ -20,6 +20,7 @@
 	- [2078](./2-Past%20Questions/2078.md)
 	- [2081](./2-Past%20Questions/2081.md)
 	- [2082-PDC-Board](./2-Past%20Questions/2082-PDC-Board.md)
+	- [Answer-Total and Partial Correct](./2-Past%20Questions/Answer-Total%20and%20Partial%20Correct.md)
 	- [Colored Petri nets ](./2-Past%20Questions/Colored%20Petri%20nets%20.md)
 	- [Confusing Questions](./2-Past%20Questions/Confusing%20Questions.md)
 
