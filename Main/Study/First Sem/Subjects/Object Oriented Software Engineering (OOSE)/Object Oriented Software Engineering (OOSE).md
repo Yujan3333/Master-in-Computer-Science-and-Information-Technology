@@ -1,77 +1,19 @@
 %% Begin Waypoint %%
 - **1-Units**
 	- [OOOSE and Subjectory](./1-Units/OOOSE%20and%20Subjectory.md)
-	- **[Unit1](./1-Units/Unit1/Unit1.md)**
-		- **Unit1-ZNotes**
-			- [Activity Diagram](./1-Units/Unit1/Unit1-ZNotes/Activity%20Diagram.md)
-			- [Agile Model](./1-Units/Unit1/Unit1-ZNotes/Agile%20Model.md)
-			- [Big Bang Model](./1-Units/Unit1/Unit1-ZNotes/Big%20Bang%20Model.md)
-			- [CASE](./1-Units/Unit1/Unit1-ZNotes/CASE.md)
-			- [Class Diagram](./1-Units/Unit1/Unit1-ZNotes/Class%20Diagram.md)
-			- [DevOps Model](./1-Units/Unit1/Unit1-ZNotes/DevOps%20Model.md)
-			- [Iterative Model](./1-Units/Unit1/Unit1-ZNotes/Iterative%20Model.md)
-			- [Object Diagram](./1-Units/Unit1/Unit1-ZNotes/Object%20Diagram.md)
-			- [object oriented software development vs object oriented system development](./1-Units/Unit1/Unit1-ZNotes/object%20oriented%20software%20development%20vs%20object%20oriented%20system%20development.md)
-			- [Object Oriented Software Development](./1-Units/Unit1/Unit1-ZNotes/Object%20Oriented%20Software%20Development.md)
-			- [Object Oriented Software Engineering Vs OO Software Development](./1-Units/Unit1/Unit1-ZNotes/Object%20Oriented%20Software%20Engineering%20Vs%20OO%20Software%20Development.md)
-			- [OO Software Engineering Vs OO Software Development Vs OO System Development](./1-Units/Unit1/Unit1-ZNotes/OO%20Software%20Engineering%20Vs%20OO%20Software%20Development%20Vs%20OO%20System%20Development.md)
-			- [Project Scope](./1-Units/Unit1/Unit1-ZNotes/Project%20Scope.md)
-			- [Prototype VS RAD](./1-Units/Unit1/Unit1-ZNotes/Prototype%20VS%20RAD.md)
-			- [Prototyping Model Vs Iterating Model](./1-Units/Unit1/Unit1-ZNotes/Prototyping%20Model%20Vs%20Iterating%20Model.md)
-			- [Prototyping Model](./1-Units/Unit1/Unit1-ZNotes/Prototyping%20Model.md)
-			- [Questions and Answer of Notes](./1-Units/Unit1/Unit1-ZNotes/Questions%20and%20Answer%20of%20Notes.md)
-			- [Rapid Application Development (RAD)](./1-Units/Unit1/Unit1-ZNotes/Rapid%20Application%20Development%20(RAD).md)
-			- [RUP- Rational Unified Process](./1-Units/Unit1/Unit1-ZNotes/RUP-%20Rational%20Unified%20Process.md)
-			- [Sequence Diagram](./1-Units/Unit1/Unit1-ZNotes/Sequence%20Diagram.md)
-			- [Software development Life Cycle (SDLC)](./1-Units/Unit1/Unit1-ZNotes/Software%20development%20Life%20Cycle%20(SDLC).md)
-			- [Software Development Life cycle models](./1-Units/Unit1/Unit1-ZNotes/Software%20Development%20Life%20cycle%20models.md)
-			- [Software Development Life Cycle Vs System Dev Life Cycle](./1-Units/Unit1/Unit1-ZNotes/Software%20Development%20Life%20Cycle%20Vs%20System%20Dev%20Life%20Cycle.md)
-			- [Software model that support OO](./1-Units/Unit1/Unit1-ZNotes/Software%20model%20that%20support%20OO.md)
-			- [Spiral Model](./1-Units/Unit1/Unit1-ZNotes/Spiral%20Model.md)
-			- [SRS - Software Requirement Specification](./1-Units/Unit1/Unit1-ZNotes/SRS%20-%20Software%20Requirement%20Specification.md)
-			- [State Diagram](./1-Units/Unit1/Unit1-ZNotes/State%20Diagram.md)
-			- [Unit 1 - Brief Summary from syllabus](./1-Units/Unit1/Unit1-ZNotes/Unit%201%20-%20Brief%20Summary%20from%20syllabus.md)
-			- [Unit1 - Exam Question Collection](./1-Units/Unit1/Unit1-ZNotes/Unit1%20-%20Exam%20Question%20Collection.md)
-			- [Use Case Diagram](./1-Units/Unit1/Unit1-ZNotes/Use%20Case%20Diagram.md)
-			- [V-Model](./1-Units/Unit1/Unit1-ZNotes/V-Model.md)
-			- [Waterfall Model](./1-Units/Unit1/Unit1-ZNotes/Waterfall%20Model.md)
+	- **Unit1**
+		- [Unit-1](./1-Units/Unit1/Unit-1.md)
+		- **[Unit1-Notes](./1-Units/Unit1/Unit1-Notes/Unit1-Notes.md)**
 	- **Unit2**
 		- [Unit 2](./1-Units/Unit2/Unit%202.md)
-		- **Unit2 - Znotes**
-			- [Function - data method VS Object Oriented Method](./1-Units/Unit2/Unit2%20-%20Znotes/Function%20-%20data%20method%20VS%20Object%20Oriented%20Method.md)
-			- [OOA Vs OOD](./1-Units/Unit2/Unit2%20-%20Znotes/OOA%20Vs%20OOD.md)
-			- [OOA with examples](./1-Units/Unit2/Unit2%20-%20Znotes/OOA%20with%20examples.md)
-			- [OOA-Coad and Yourdon Vs Traditional OOA method](./1-Units/Unit2/Unit2%20-%20Znotes/OOA-Coad%20and%20Yourdon%20Vs%20Traditional%20OOA%20method.md)
-			- [OOA-Coad Vs OOD-Booch](./1-Units/Unit2/Unit2%20-%20Znotes/OOA-Coad%20Vs%20OOD-Booch.md)
-			- [OOA-Coad](./1-Units/Unit2/Unit2%20-%20Znotes/OOA-Coad.md)
-			- [OOAD](./1-Units/Unit2/Unit2%20-%20Znotes/OOAD.md)
-			- [OOD-Booch Vs Traditional OOD method](./1-Units/Unit2/Unit2%20-%20Znotes/OOD-Booch%20Vs%20Traditional%20OOD%20method.md)
-			- [OOD-Booch](./1-Units/Unit2/Unit2%20-%20Znotes/OOD-Booch.md)
-			- [System Development Methods](./1-Units/Unit2/Unit2%20-%20Znotes/System%20Development%20Methods.md)
-			- [Unit 2 Brief Summary](./1-Units/Unit2/Unit2%20-%20Znotes/Unit%202%20Brief%20Summary.md)
+		- **[Unit2-Notes](./1-Units/Unit2/Unit2-Notes/Unit2-Notes.md)**
 	- **Unit3**
 		- [Unit 3](./1-Units/Unit3/Unit%203.md)
-		- **Unit3 - Notes**
-			- [Answer of construction phase](./1-Units/Unit3/Unit3%20-%20Notes/Answer%20of%20construction%20phase.md)
-			- [Black Box Testing Vs White Box Testing](./1-Units/Unit3/Unit3%20-%20Notes/Black%20Box%20Testing%20Vs%20White%20Box%20Testing.md)
-			- [Brief](./1-Units/Unit3/Unit3%20-%20Notes/Brief.md)
-			- [Component Based Software Engineering](./1-Units/Unit3/Unit3%20-%20Notes/Component%20Based%20Software%20Engineering.md)
-			- [Component Management](./1-Units/Unit3/Unit3%20-%20Notes/Component%20Management.md)
-			- [Component Vs Component management](./1-Units/Unit3/Unit3%20-%20Notes/Component%20Vs%20Component%20management.md)
-			- [Different Views on Component Based Software Engineering](./1-Units/Unit3/Unit3%20-%20Notes/Different%20Views%20on%20Component%20Based%20Software%20Engineering.md)
-			- [Hard RTS Vs Soft RTS](./1-Units/Unit3/Unit3%20-%20Notes/Hard%20RTS%20Vs%20Soft%20RTS.md)
-			- [Model Architecture VS Requirement Model](./1-Units/Unit3/Unit3%20-%20Notes/Model%20Architecture%20VS%20Requirement%20Model.md)
-			- [Model Architecture](./1-Units/Unit3/Unit3%20-%20Notes/Model%20Architecture.md)
-			- [Object Oriented Data Model](./1-Units/Unit3/Unit3%20-%20Notes/Object%20Oriented%20Data%20Model.md)
-			- [Requirement Model](./1-Units/Unit3/Unit3%20-%20Notes/Requirement%20Model.md)
-			- [Testing](./1-Units/Unit3/Unit3%20-%20Notes/Testing.md)
-			- [Unit 3 Notes Que and Answer](./1-Units/Unit3/Unit3%20-%20Notes/Unit%203%20Notes%20Que%20and%20Answer.md)
-			- [Unit 3 Syllabus Overview](./1-Units/Unit3/Unit3%20-%20Notes/Unit%203%20Syllabus%20Overview.md)
-	- **[Unit4](./1-Units/Unit4/Unit4.md)**
+		- **[Unit3-Notes](./1-Units/Unit3/Unit3-Notes/Unit3-Notes.md)**
+	- **Unit4**
 	- **Unit5**
 		- [Unit 5](./1-Units/Unit5/Unit%205.md)
-		- **Unit5 - Notes**
-			- [Object Modeling Technique](./1-Units/Unit5/Unit5%20-%20Notes/Object%20Modeling%20Technique.md)
+		- **[Unit5-Notes](./1-Units/Unit5/Unit5-Notes/Unit5-Notes.md)**
 - **2-Assignments**
 	- **OOSE A1**
 

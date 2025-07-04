@@ -1,80 +1,19 @@
 %% Begin Waypoint %%
 - **1-Units**
 	- [Frequently Asked Questions](./1-Units/Frequently%20Asked%20Questions.md)
-	- **[Unit 1](./1-Units/Unit%201/Unit%201.md)**
+	- **Unit 1**
+		- [Unit-1](./1-Units/Unit%201/Unit-1.md)
 		- **[Unit1-Notes-Folder](./1-Units/Unit%201/Unit1-Notes-Folder/Unit1-Notes-Folder.md)**
-	- **[Unit 2](./1-Units/Unit%202/Unit%202.md)**
-		- **Unit2 - Notes**
-			- [3-SAT](./1-Units/Unit%202/Unit2%20-%20Notes/3-SAT.md)
-			- [CLIQUE problem](./1-Units/Unit%202/Unit2%20-%20Notes/CLIQUE%20problem.md)
-			- [Cooks Theorem](./1-Units/Unit%202/Unit2%20-%20Notes/Cooks%20Theorem.md)
-			- [Difference P -  NP - NP hard problems](./1-Units/Unit%202/Unit2%20-%20Notes/Difference%20P%20-%20%20NP%20-%20NP%20hard%20problems.md)
-			- [Explain reduction with an example](./1-Units/Unit%202/Unit2%20-%20Notes/Explain%20reduction%20with%20an%20example.md)
-			- [Further Explanation](./1-Units/Unit%202/Unit2%20-%20Notes/Further%20Explanation.md)
-			- [Hamiltonian Cycle (Hamilton Cycle)](./1-Units/Unit%202/Unit2%20-%20Notes/Hamiltonian%20Cycle%20(Hamilton%20Cycle).md)
-			- [SAT is in NP](./1-Units/Unit%202/Unit2%20-%20Notes/SAT%20is%20in%20NP.md)
-			- [Travelling Salesman](./1-Units/Unit%202/Unit2%20-%20Notes/Travelling%20Salesman.md)
-			- [Unit 2 - Summary Computational Complexity Theory](./1-Units/Unit%202/Unit2%20-%20Notes/Unit%202%20-%20Summary%20Computational%20Complexity%20Theory.md)
-			- [Vertex Cover](./1-Units/Unit%202/Unit2%20-%20Notes/Vertex%20Cover.md)
+	- **Unit 2**
+		- [Unit-2](./1-Units/Unit%202/Unit-2.md)
+		- **[Unit2 - Notes](./1-Units/Unit%202/Unit2%20-%20Notes/Unit2%20-%20Notes.md)**
 	- **Unit 3**
-		- [Unit 3 - Online and PRAM](./1-Units/Unit%203/Unit%203%20-%20Online%20and%20PRAM.md)
-		- **Unit3 - Notes**
-			- [A Logarithmic Time Algorithm](./1-Units/Unit%203/Unit3%20-%20Notes/A%20Logarithmic%20Time%20Algorithm.md)
-			- [Binary Search](./1-Units/Unit%203/Unit3%20-%20Notes/Binary%20Search.md)
-			- [Computing Model of PRAM](./1-Units/Unit%203/Unit3%20-%20Notes/Computing%20Model%20of%20PRAM.md)
-			- [Define Speed Up-Total work done - Efficiency of PRAM Algorithm](./1-Units/Unit%203/Unit3%20-%20Notes/Define%20Speed%20Up-Total%20work%20done%20-%20Efficiency%20of%20PRAM%20Algorithm.md)
-			- [Example Preparata](./1-Units/Unit%203/Unit3%20-%20Notes/Example%20Preparata.md)
-			- [LIFO](./1-Units/Unit%203/Unit3%20-%20Notes/LIFO.md)
-			- [List Ranking](./1-Units/Unit%203/Unit3%20-%20Notes/List%20Ranking.md)
-			- [Maximal Selection with n processors](./1-Units/Unit%203/Unit3%20-%20Notes/Maximal%20Selection%20with%20n%20processors.md)
-			- [Maximal Selection with n2 processor](./1-Units/Unit%203/Unit3%20-%20Notes/Maximal%20Selection%20with%20n2%20processor.md)
-			- [Odd-Even Merge Sort](./1-Units/Unit%203/Unit3%20-%20Notes/Odd-Even%20Merge%20Sort.md)
-			- [Odd-Even Merge](./1-Units/Unit%203/Unit3%20-%20Notes/Odd-Even%20Merge.md)
-			- [Online Algorithm Vs Offline Algorithm](./1-Units/Unit%203/Unit3%20-%20Notes/Online%20Algorithm%20Vs%20Offline%20Algorithm.md)
-			- [Prefix Computation](./1-Units/Unit%203/Unit3%20-%20Notes/Prefix%20Computation.md)
-			- [Preparata Algorithm](./1-Units/Unit%203/Unit3%20-%20Notes/Preparata%20Algorithm.md)
-			- [Simple Example](./1-Units/Unit%203/Unit3%20-%20Notes/Simple%20Example.md)
-			- [Ski Rental Problem](./1-Units/Unit%203/Unit3%20-%20Notes/Ski%20Rental%20Problem.md)
-			- [Summary of Unit 3 Online and PRAM](./1-Units/Unit%203/Unit3%20-%20Notes/Summary%20of%20Unit%203%20Online%20and%20PRAM.md)
-			- [Where can the concept of binary tree can be implemented  What is prefix computation  Explain 10 marks](./1-Units/Unit%203/Unit3%20-%20Notes/Where%20can%20the%20concept%20of%20binary%20tree%20can%20be%20implemented%20%20What%20is%20prefix%20computation%20%20Explain%2010%20marks.md)
-	- **[Unit 4](./1-Units/Unit%204/Unit%204.md)**
-		- **Unit4 Notes**
-			- [Answer - 🐸 Frog Jump Problem](./1-Units/Unit%204/Unit4%20Notes/Answer%20-%20%F0%9F%90%B8%20Frog%20Jump%20Problem.md)
-			- [Bitonic Sort](./1-Units/Unit%204/Unit4%20Notes/Bitonic%20Sort.md)
-			- [Broadcasting in Hypercube](./1-Units/Unit%204/Unit4%20Notes/Broadcasting%20in%20Hypercube.md)
-			- [Broadcasting in Mesh](./1-Units/Unit%204/Unit4%20Notes/Broadcasting%20in%20Mesh.md)
-			- [Butterfly Network](./1-Units/Unit%204/Unit4%20Notes/Butterfly%20Network.md)
-			- [Data Concentration in Hypercube](./1-Units/Unit%204/Unit4%20Notes/Data%20Concentration%20in%20Hypercube.md)
-			- [Data Concentration in Mesh](./1-Units/Unit%204/Unit4%20Notes/Data%20Concentration%20in%20Mesh.md)
-			- [Embedding of Binary tree and Ring on Hypercube](./1-Units/Unit%204/Unit4%20Notes/Embedding%20of%20Binary%20tree%20and%20Ring%20on%20Hypercube.md)
-			- [Embedding of Other Network](./1-Units/Unit%204/Unit4%20Notes/Embedding%20of%20Other%20Network.md)
-			- [Hypercube](./1-Units/Unit%204/Unit4%20Notes/Hypercube.md)
-			- [Odd Even Merge Sort ](./1-Units/Unit%204/Unit4%20Notes/Odd%20Even%20Merge%20Sort%20.md)
-			- [Prefix Computation in Hypercube](./1-Units/Unit%204/Unit4%20Notes/Prefix%20Computation%20in%20Hypercube.md)
-			- [Prefix Computation In Mesh](./1-Units/Unit%204/Unit4%20Notes/Prefix%20Computation%20In%20Mesh.md)
-			- [Sorting on a Mesh - Sparse Sort](./1-Units/Unit%204/Unit4%20Notes/Sorting%20on%20a%20Mesh%20-%20Sparse%20Sort.md)
-			- [Sorting on Linear Array](./1-Units/Unit%204/Unit4%20Notes/Sorting%20on%20Linear%20Array.md)
-			- [Summary of Unit 4 Mesh and Hypercube](./1-Units/Unit%204/Unit4%20Notes/Summary%20of%20Unit%204%20Mesh%20and%20Hypercube.md)
-			- [Unit 4.1 Mesh](./1-Units/Unit%204/Unit4%20Notes/Unit%204.1%20Mesh.md)
-			- [Unit 4.2 Hypercube](./1-Units/Unit%204/Unit4%20Notes/Unit%204.2%20Hypercube.md)
-- **2-Assignment**
-	- [_index](./2-Assignment/_index.md)
-	- [Huffman Coding](./2-Assignment/Huffman%20Coding.md)
-	- [Randomized Method Using Las Vegas](./2-Assignment/Randomized%20Method%20Using%20Las%20Vegas.md)
-	- [Randomized Quicksort](./2-Assignment/Randomized%20Quicksort.md)
-	- [Shannon Fano Coding](./2-Assignment/Shannon%20Fano%20Coding.md)
-	- [Which Algorithm is better Shannon Feno or Huffman](./2-Assignment/Which%20Algorithm%20is%20better%20Shannon%20Feno%20or%20Huffman.md)
-- **3-Past Questions**
-	- [2070](./3-Past%20Questions/2070.md)
-	- [2071](./3-Past%20Questions/2071.md)
-	- [2072](./3-Past%20Questions/2072.md)
-	- [2073](./3-Past%20Questions/2073.md)
-	- [2074](./3-Past%20Questions/2074.md)
-	- [2075](./3-Past%20Questions/2075.md)
-	- [2076](./3-Past%20Questions/2076.md)
-	- [2077](./3-Past%20Questions/2077.md)
-	- [2078](./3-Past%20Questions/2078.md)
-	- [2081](./3-Past%20Questions/2081.md)
-	- [2082 - AC Board My](./3-Past%20Questions/2082%20-%20AC%20Board%20My.md)
+		- [Unit-3 Online and PRAM](./1-Units/Unit%203/Unit-3%20Online%20and%20PRAM.md)
+		- **[Unit3 - Notes](./1-Units/Unit%203/Unit3%20-%20Notes/Unit3%20-%20Notes.md)**
+	- **Unit 4**
+		- [Unit-4](./1-Units/Unit%204/Unit-4.md)
+		- **[Unit4 Notes](./1-Units/Unit%204/Unit4%20Notes/Unit4%20Notes.md)**
+- **[2-Assignment](./2-Assignment/2-Assignment.md)**
+- **[3-Past Questions](./3-Past%20Questions/3-Past%20Questions.md)**
 
 %% End Waypoint %%
