@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - [Assignment-1](./Assignment-1.md)
 - [Assignment-2](./Assignment-2.md)
+- **Assignments in PDF**
 - [Discuss Inter Processes communication in details](./Discuss%20Inter%20Processes%20communication%20in%20details.md)
 - [monitors](./monitors.md)
 - [semaphores](./semaphores.md)

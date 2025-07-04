@@ -7,7 +7,8 @@
 
 ---
 ---
-## Passed Year Questions
-- [Csit_oldquestions-Contains more past questions](All%20Notes%20and%20Resources%20Combined/Passed%20Year%20Questions/Csit_oldquestions.pdf)
-- [passed year question-Contains Little Latest ](All%20Notes%20and%20Resources%20Combined/Passed%20Year%20Questions/passed%20year%20question%20.pdf)
+## [First Sem - Old Questions](Old%20Questions/First%20Sem%20-%20Old%20Questions.md)
+- [CSIT Older Questions](Old%20Questions/Csit_oldquestions.pdf)
+- [CSIT Questions Newer](Old%20Questions/passed%20year%20question%20.pdf)
 - Questions - 2082
+---

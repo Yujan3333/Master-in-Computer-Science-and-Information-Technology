@@ -22,6 +22,13 @@
 		- [Unit7 - Feedback Neural Network](./1-Units/Unit%207/Unit7%20-%20Feedback%20Neural%20Network.md)
 		- **[Unit7-Notes](./1-Units/Unit%207/Unit7-Notes/Unit7-Notes.md)**
 - **2-Assignments**
+	- **Assignments Docs and Program**
+		- **Lab1**
+
+		- **Lab2**
+
+		- **Lab3**
+
 	- **[Lab-Questions](./2-Assignments/Lab-Questions/Lab-Questions.md)**
 	- [Lab1](./2-Assignments/Lab1.md)
 	- [Lab2](./2-Assignments/Lab2.md)
