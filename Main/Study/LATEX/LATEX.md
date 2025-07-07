@@ -1,5 +1,5 @@
-%% Begin Waypoint %%
-- [_Introduction](./_Introduction.md)
-- [To insert Images](./To%20insert%20Images.md)
+- [Introduction to Latex](./LATEX%20-%20Notes/_Introduction.md)
+- [How to insert Images](./LATEX%20-%20Notes/To%20insert%20Images.md)
 
-%% End Waypoint %%
+
+[Seminar Web App](../Research/Seminar%201/Seminar%20Web%20App.md)
