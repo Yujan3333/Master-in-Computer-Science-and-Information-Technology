@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f078c8f225f7f65b",
+        "id": "ee3dd02498c4ee3b",
         "type": "tabs",
         "children": [
           {
-            "id": "554e973020fbbd2b",
+            "id": "e7bca447c523b07f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/First Sem/_index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "_index"
+              "title": "New tab"
             }
           }
         ]
@@ -163,8 +158,16 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "71c075a01e4cfe4e",
+  "active": "e7bca447c523b07f",
   "lastOpenFiles": [
+    "Main/Study/Research/Seminar 1/Seminar 1.md",
+    "Main/Study/Research/Seminar 1/Seminar - Folder/Tokenization-Stemming-Lemmatization.md",
+    "Main/Study/Research/Seminar 1/Seminar - Folder/How to Train a Algorithm.md",
+    "Main/Study/Research/Seminar 1/Seminar - Folder/Corpus.md",
+    "Main/Study/Research/Seminar 1/Seminar - Folder/Seminar - Folder.md",
+    "Main/Study/Research/Seminar 1/Seminar - Folder",
+    "Main/Study/Research/Seminar 1",
+    "Main/Study/First Sem/_index.md",
     "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/Yujan_Case Study on Online Food Delivery System.pdf",
     "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/Yujan_Case Study on Online Food Delivery System.docx",
     "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/Prashant_Case_study__OOSE_.pdf",
@@ -176,12 +179,8 @@
     "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A2/OOSE A2.pdf",
     "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A2/OOSE A2.docx",
     "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A2/Object Modeling Technique (OMT)-Ver2.pptx",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A2/Object Modeling Technique (OMT)-Ver1.pptx",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A2",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A1/OOSE_Assignment.docx",
     "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A1/oose .png",
     "Main/Study/First Sem/Old Questions/First Sem - Old Questions.md",
-    "Main/Study/First Sem/_index.md",
     "Main/Study/First Sem/Old Questions/Questions - 2082/Preboard/PDC-Preboard-2082.jpeg",
     "Main/Study/First Sem/Old Questions/Questions - 2082/Preboard/OOSE-Preboard-2082.jpeg",
     "Main/Study/First Sem/Old Questions/Questions - 2082/Preboard/NN-Preboard-2082.jpeg",
@@ -207,10 +206,6 @@
     "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/Lab-Questions/Lab-Questions.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 7/Unit7-Notes/Unit7-Notes.md",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 6/Unit6 - Notes/Unit6 - Notes.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 5/Unit5 - Notes/Unit5 - Notes.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Notes/Unit3 - Notes.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit 4 - Radial Basis Function Networks(RBFNN).md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit2 - Notes/Unit2 - Notes.md",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
