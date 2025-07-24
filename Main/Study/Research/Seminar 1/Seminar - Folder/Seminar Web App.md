@@ -160,7 +160,7 @@ streamlit run app.py
 In Browser the App will open
 
 ### 7. Sample Output from the Browser
-![](../../../../Images/First_Sem_Images/Seminar%20Web%20App-%20Image.png)
+![](../../../../../Images/First_Sem_Images/Seminar%20Web%20App-%20Image.png)
 
 ---
 
