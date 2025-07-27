@@ -14,6 +14,12 @@
               "items": [
                 {
                   "type": "file",
+                  "ctime": 1753631146323,
+                  "path": "Main/Study/_index.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
                   "ctime": 1740061186908,
                   "path": "Main/Study/Overview of Master.md",
                   "subpath": "#^-"
@@ -24,8 +30,8 @@
                   "items": [
                     {
                       "type": "file",
-                      "ctime": 1740060440676,
-                      "path": "Main/Study/First Sem/_index.md",
+                      "ctime": 1753631003542,
+                      "path": "Main/Study/1-First Semester/1-First Semester.md",
                       "subpath": "#^-"
                     },
                     {
@@ -39,7 +45,7 @@
                             {
                               "type": "file",
                               "ctime": 1742913471840,
-                              "path": "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
+                              "path": "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
                               "subpath": "#^-"
                             }
                           ],
@@ -52,7 +58,7 @@
                             {
                               "type": "file",
                               "ctime": 1742913484708,
-                              "path": "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
+                              "path": "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
                               "subpath": "#^-"
                             }
                           ],
@@ -65,7 +71,7 @@
                             {
                               "type": "file",
                               "ctime": 1742913536416,
-                              "path": "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
+                              "path": "Main/Study/1-First Semester/Subjects/Neural Network (NN)/Neural Network (NN).md",
                               "subpath": "#^-"
                             },
                             {
@@ -85,7 +91,7 @@
                                     {
                                       "type": "file",
                                       "ctime": 1743439665081,
-                                      "path": "Main/Study/First Sem/Subjects/Neural Network (NN)/1-Units/Unit 1/Unit 1 Intro to artificial neural network.md",
+                                      "path": "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 1/Unit 1 Intro to artificial neural network.md",
                                       "subpath": "#^-"
                                     }
                                   ],
@@ -104,7 +110,7 @@
                             {
                               "type": "file",
                               "ctime": 1742913554249,
-                              "path": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
+                              "path": "Main/Study/1-First Semester/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
                               "subpath": "#^-"
                             },
                             {
@@ -118,7 +124,7 @@
                                     {
                                       "type": "file",
                                       "ctime": 1748768900656,
-                                      "path": "Main/Study/First Sem/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit-1.md",
+                                      "path": "Main/Study/1-First Semester/Subjects/Object Oriented Software Engineering (OOSE)/1-Units/Unit1/Unit-1.md",
                                       "subpath": "#^-"
                                     }
                                   ],
@@ -137,7 +143,7 @@
                             {
                               "type": "file",
                               "ctime": 1751372004085,
-                              "path": "Main/Study/First Sem/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
+                              "path": "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
                               "subpath": "#^-"
                             }
                           ],
@@ -147,7 +153,33 @@
                       "title": "Subjects"
                     }
                   ],
-                  "title": "\\\\First Sem"
+                  "title": "1-First Semester"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1753631015078,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1753631015078,
+                      "path": "Main/Study/2-Second Semester/2-Second Semester.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1753631181357,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1753631181357,
+                          "path": "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "Machine Learning"
+                    }
+                  ],
+                  "title": "2-Second Semester"
                 }
               ],
               "title": "\\\\Study"

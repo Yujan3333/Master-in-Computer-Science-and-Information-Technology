@@ -4,52 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ba0791a6368591c1",
+        "id": "9cb7684f1516fa24",
         "type": "tabs",
         "children": [
           {
-            "id": "5967801cf8f3983a",
+            "id": "f036a3f86db15585",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/Research/Seminar 1/Seminar 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Seminar 1"
-            }
-          },
-          {
-            "id": "6d8f8ee2dd17df4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/Research/Seminar 1/Seminar - Folder/Precision-Recall-F1Score.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Precision-Recall-F1Score"
-            }
-          },
-          {
-            "id": "5b535a8e5d1cc489",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/Research/Seminar 1/Seminar - Folder/Understanding Classification Report.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Understanding Classification Report"
+              "title": "New tab"
             }
           }
         ]
@@ -193,53 +158,53 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "5967801cf8f3983a",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/Research/Seminar 1/Seminar - Folder/Understanding Classification Report.md",
-    "Main/Study/Research/Seminar 1/Seminar - Folder/Precision-Recall-F1Score.md",
+    "Main/Study/2-Second Semester/Machine Learning/2-Assignments.md",
+    "Main/Study/2-Second Semester/Machine Learning/2-Assignments",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units",
+    "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
+    "Main/Study/1-First Semester/1-First Semester.md",
+    "Main/Study/2-Second Semester/2-Second Semester.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
+    "Main/Study/_index.md",
+    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units",
+    "Main/Study/2-Second Semester/DWDM/DWDM.md",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab2/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 2.pdf",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab1/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 1.pdf",
+    "Main/Study/First Sem/Assignments/NN-LAB/Lab3/Lab Assignment 3.docx.pdf",
+    "Main/Study/First Sem/Assignments/NN-LAB/Lab2/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 2.pdf",
+    "Main/Study/First Sem/Assignments/NN-LAB/Lab1/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 1.pdf",
+    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/2-Assignment/AOS-Assignments/AOS Assignment-1-YUJAN.pdf",
+    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/2-Assignment/2-Assignment.md",
+    "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/3-Past Questions/3-Past Questions.md",
+    "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/2-Assignment/2-Assignment.md",
+    "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
+    "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/2-Assignment/_index.md",
+    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
+    "Main/Study/1-First Semester/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/3-Past Que/3-Past Que.md",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Lab3.md",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Lab2.md",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Lab1.md",
+    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Numerical on RMS.md",
+    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Notes/Rate Monotonic Scheduling (RMS).md",
+    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Znotes/Multiprogramming VS Multiprocessing.md",
+    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Znotes/Process Model.md",
+    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Process Management and Synchronization.md",
+    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/3-Past Questions/2082 - AOS Board.md",
+    "Main/Study/1-First Semester/Old Questions/Questions - 2082/Board/AC-2082.jpeg",
+    "Main/Study/1-First Semester/Old Questions/Csit_oldquestions.pdf",
     "Images/First_Sem_Images/Precision-Recall-F1Score-img.png",
-    "Main/Study/Research/Seminar 1/Seminar 1.md",
     "Images/First_Sem_Images/Understanding Classification Report-Confusion Matrix.png",
-    "Main/Study/Research/Seminar 1/Seminar - Folder/Stemmer.md",
-    "Main/Study/Research/Seminar 1/Seminar - Folder/Change in TF-IDF.md",
-    "Main/Study/LATEX/LATEX.md",
-    "Main/Study/Research/Seminar 1/Seminar - Folder/SMOTE.md",
-    "Main/Study/Research/Seminar 1/Seminar - Folder/How to Train a Algorithm.md",
-    "Main/Study/Research/Seminar 1/Seminar - Folder/Corpus.md",
-    "Main/Study/Research/Seminar 1/Seminar - Folder/Tokenization-Stemming-Lemmatization.md",
-    "Main/Study/Research/Seminar 1/Seminar - Folder/Seminar Web App.md",
     "Images/First_Sem_Images/Seminar Web App- Image.png",
-    "Main/Study/LATEX/LATEX - Notes/_Introduction.md",
-    "Main/Study/LATEX/LATEX - Notes",
-    "Main/Study/LATEX/LATEX - Notes/To insert Images.md",
-    "Main/Study/Research/Seminar 1/Seminar - Folder/Seminar - Folder.md",
-    "Main/Study/Research/Seminar 1/Seminar - Folder",
-    "Main/Study/Research/Seminar 1",
-    "Main/Study/First Sem/_index.md",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/Yujan_Case Study on Online Food Delivery System.pdf",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/Yujan_Case Study on Online Food Delivery System.docx",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/Prashant_Case_study__OOSE_.pdf",
     "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/OOSE Case Study - Online Food Delivery.drawio.png",
     "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/OOSE Case Study - Online Food Delivery-Class Diagram-PlantUML.png",
     "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/OOSE Case Study - Online Food Delivery - Sequence Diagram.png",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/objective.jfif",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A2/OOSE A2.pdf",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A2/OOSE A2.docx",
     "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A1/oose .png",
-    "Main/Study/First Sem/Old Questions/First Sem - Old Questions.md",
-    "Main/Study/First Sem/Old Questions/Questions - 2082/Preboard/PDC-Preboard-2082.jpeg",
-    "Main/Study/First Sem/Old Questions/Questions - 2082/Preboard/OOSE-Preboard-2082.jpeg",
-    "Main/Study/First Sem/Old Questions/Questions - 2082/Preboard/NN-Preboard-2082.jpeg",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/Lab2.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/Assignment-1.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/What is critical section and critical section problem.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/Discuss Inter Processes communication in details.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/2-Assignment.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
-    "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
-    "README.md",
-    "Main/Study/Overview of Master.md",
+    "Main/Study/1-First Semester/Old Questions/Questions - 2082/Preboard/PDC-Preboard-2082.jpeg",
+    "Main/Study/1-First Semester/Old Questions/Questions - 2082/Preboard/OOSE-Preboard-2082.jpeg",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"

@@ -1,0 +1,5 @@
+- [FCFS](FCFS.md)
+- [SSTF](SSTF.md)
+- [SCAN](SCAN.md)
+- [C-SCAN](C-SCAN.md)
+- [C-LOOK](C-LOOK.md)

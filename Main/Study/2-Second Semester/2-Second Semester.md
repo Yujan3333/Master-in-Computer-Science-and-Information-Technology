@@ -1,0 +1,6 @@
+%% Begin Waypoint %%
+- **[Compiler Optimization](./Compiler%20Optimization/Compiler%20Optimization.md)**
+- **[DWDM](./DWDM/DWDM.md)**
+- **[Machine Learning](./Machine%20Learning/Machine%20Learning.md)**
+
+%% End Waypoint %%
