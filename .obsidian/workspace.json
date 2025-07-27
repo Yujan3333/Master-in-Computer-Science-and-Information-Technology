@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee3dd02498c4ee3b",
+        "id": "ba0791a6368591c1",
         "type": "tabs",
         "children": [
           {
-            "id": "e7bca447c523b07f",
+            "id": "5967801cf8f3983a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,18 +23,33 @@
             }
           },
           {
-            "id": "79a706bbea95bf59",
+            "id": "6d8f8ee2dd17df4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/Research/Seminar 1/Seminar - Folder/SMOTE.md",
+                "file": "Main/Study/Research/Seminar 1/Seminar - Folder/Precision-Recall-F1Score.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SMOTE"
+              "title": "Precision-Recall-F1Score"
+            }
+          },
+          {
+            "id": "5b535a8e5d1cc489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/Research/Seminar 1/Seminar - Folder/Understanding Classification Report.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Understanding Classification Report"
             }
           }
         ]
@@ -178,15 +193,21 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "e7bca447c523b07f",
+  "active": "5967801cf8f3983a",
   "lastOpenFiles": [
-    "Main/Study/Research/Seminar 1/Seminar - Folder/How to Train a Algorithm.md",
+    "Main/Study/Research/Seminar 1/Seminar - Folder/Understanding Classification Report.md",
+    "Main/Study/Research/Seminar 1/Seminar - Folder/Precision-Recall-F1Score.md",
+    "Images/First_Sem_Images/Precision-Recall-F1Score-img.png",
     "Main/Study/Research/Seminar 1/Seminar 1.md",
+    "Images/First_Sem_Images/Understanding Classification Report-Confusion Matrix.png",
+    "Main/Study/Research/Seminar 1/Seminar - Folder/Stemmer.md",
+    "Main/Study/Research/Seminar 1/Seminar - Folder/Change in TF-IDF.md",
+    "Main/Study/LATEX/LATEX.md",
+    "Main/Study/Research/Seminar 1/Seminar - Folder/SMOTE.md",
+    "Main/Study/Research/Seminar 1/Seminar - Folder/How to Train a Algorithm.md",
     "Main/Study/Research/Seminar 1/Seminar - Folder/Corpus.md",
     "Main/Study/Research/Seminar 1/Seminar - Folder/Tokenization-Stemming-Lemmatization.md",
-    "Main/Study/Research/Seminar 1/Seminar - Folder/SMOTE.md",
     "Main/Study/Research/Seminar 1/Seminar - Folder/Seminar Web App.md",
-    "Main/Study/LATEX/LATEX.md",
     "Images/First_Sem_Images/Seminar Web App- Image.png",
     "Main/Study/LATEX/LATEX - Notes/_Introduction.md",
     "Main/Study/LATEX/LATEX - Notes",
@@ -210,8 +231,6 @@
     "Main/Study/First Sem/Old Questions/Questions - 2082/Preboard/PDC-Preboard-2082.jpeg",
     "Main/Study/First Sem/Old Questions/Questions - 2082/Preboard/OOSE-Preboard-2082.jpeg",
     "Main/Study/First Sem/Old Questions/Questions - 2082/Preboard/NN-Preboard-2082.jpeg",
-    "Main/Study/First Sem/Old Questions/Questions - 2082/Preboard/AOS-Preboard-2082.jpeg",
-    "Main/Study/First Sem/Old Questions/Questions - 2082/Preboard/AC-Preboard-2082.jpeg",
     "Main/Study/First Sem/Subjects/Neural Network (NN)/2-Assignments/Lab2.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/Assignment-1.md",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/What is critical section and critical section problem.md",
@@ -221,11 +240,6 @@
     "Main/Study/First Sem/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
     "README.md",
     "Main/Study/Overview of Master.md",
-    "All Notes and Resources Combined/All Notes and Resources Combined.md",
-    "Main/Study/First Sem/All Notes and Resources Combined/All Notes and Resources Combined.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/3-Past Questions/2082 - AOS Board.md",
-    "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/2-Assignment/_index.md",
-    "Main/Study/First Sem/Subjects/Neural Network (NN)/Neural Network (NN).md",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
