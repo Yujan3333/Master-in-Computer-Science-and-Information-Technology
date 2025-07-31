@@ -177,6 +177,19 @@
                         }
                       ],
                       "title": "Machine Learning"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1753663497252,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1753663497253,
+                          "path": "Main/Study/2-Second Semester/DWDM/DWDM.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "DWDM"
                     }
                   ],
                   "title": "2-Second Semester"

@@ -1,0 +1,2 @@
+- [Database Vs Data Warehouse](Assignments%20-%20Notes/Database%20Vs%20Data%20Warehouse.md)
+- [OLTP VS OLAP](Assignments%20-%20Notes/OLTP%20VS%20OLAP.md)
