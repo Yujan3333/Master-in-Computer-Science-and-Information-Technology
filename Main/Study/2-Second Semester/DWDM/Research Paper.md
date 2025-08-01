@@ -1,0 +1,4 @@
+https://gwern.net/doc/ai/nn/1986-rumelhart-2.pdf?fbclid=IwY2xjawLu1uVleHRuA2FlbQIxMABicmlkETFTNUNaczBITFZsOUl1aHRjAR52zYkoIdnns4Jb5BUemmKXWk8dOJSLR_JFv5lfFfUQ7_xqz4x6R9Bo4bD2fA_aem_ByInak9_nSw5PDBpPbFOFg
+
+https://gwern.net/doc/ai/nn/1974-werbos.pdf?fbclid=IwY2xjawLu1pdleHRuA2FlbQIxMABicmlkETFTNUNaczBITFZsOUl1aHRjAR55dtRHMJKfAMbL1v0IzTIJ9Ed2qJpqWptEkieH4v0x1qIXx0nIfkezR1-jkQ_aem_LI0Iu80AmqFmhU_k2XCViw
+
