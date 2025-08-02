@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7a53155e11f7470a",
+        "id": "43a165a9b511dc4b",
         "type": "tabs",
         "children": [
           {
-            "id": "7370f7e87a7829a2",
+            "id": "4bb4caa06583d1d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/2-Second Semester.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2-Second Semester"
             }
           }
         ]
@@ -159,10 +164,12 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "7370f7e87a7829a2",
+  "active": "4bb4caa06583d1d1",
   "lastOpenFiles": [
-    "Main/Study/2-Second Semester/DWDM/Research Paper.md",
+    "Main/Research/Seminar 1/Paper Quality.md",
     "Main/Research/Seminar 1/Seminar 1.md",
+    "Main/Study/2-Second Semester/CG",
+    "Main/Study/2-Second Semester/DWDM/Research Paper.md",
     "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignment 1.md",
     "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignments - Notes/OLTP VS OLAP.md",
     "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignments - Notes/Database Vs Data Warehouse.md",
@@ -187,7 +194,6 @@
     "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
     "Main/Study/2-Second Semester/DWDM/1-Units",
     "Main/Study/2-Second Semester/DWDM/DWDM.md",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab2/Yujan_Basnet_18_MscCSIT__1st_SemLab Assignment 2.pdf",
     "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/2-Assignment/2-Assignment.md",
     "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/3-Past Questions/3-Past Questions.md",
     "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/2-Assignment/2-Assignment.md",
@@ -196,7 +202,6 @@
     "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
     "Main/Study/1-First Semester/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/3-Past Que/3-Past Que.md",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Lab3.md",
     "Main/Study/1-First Semester/Old Questions/Questions - 2082/Board/AC-2082.jpeg",
     "Images/First_Sem_Images/Precision-Recall-F1Score-img.png",
     "Images/First_Sem_Images/Understanding Classification Report-Confusion Matrix.png",
