@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Obsidian gruvbox"
+  "cssTheme": "Obsidian gruvbox",
+  "enabledCssSnippets": [
+    "yujan-heading-BI-HR"
+  ]
 }

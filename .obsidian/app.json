@@ -1,1 +1,9 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Images/Second_Sem_Images",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false
+}
