@@ -1,16 +1,10 @@
 [
-  "obsidian-editor-shortcuts",
-  "obsidian-style-settings",
-  "obsidian-file-color",
-  "obsidian-folder-focus-mode",
-  "obsidian-image-toolkit",
-  "obsidian-paste-image-rename",
-  "obsidian-sort-and-permute-lines",
-  "waypoint",
   "oz-clear-unused-images",
-  "obsidian-git",
+  "obsidian-editor-shortcuts",
   "custom-sort",
-  "wikilinks-to-mdlinks-obsidian",
-  "obsidian-paste-to-current-indentation",
-  "obsidian-text-format"
+  "obsidian-excalidraw-plugin",
+  "obsidian-file-color",
+  "obsidian-focus-plugin",
+  "obsidian-folder-focus-mode",
+  "obsidian-git"
 ]

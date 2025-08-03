@@ -12,6 +12,8 @@
 - [Stemmer](Seminar%20-%20Folder/Stemmer.md)
 - [Precision-Recall-F1Score](Seminar%20-%20Folder/Precision-Recall-F1Score.md)
 
+Difference between Naïve Bayes and Multinomial Naïve Bayes Algorithm
+
 ---
 ### Paper Collection
 - [Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language](https://www.researchgate.net/publication/301403864_Detecting_Sentiment_in_Nepali_texts_A_bootstrap_approach_for_Sentiment_Analysis_of_texts_in_the_Nepali_language)

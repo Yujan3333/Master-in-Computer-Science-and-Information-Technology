@@ -1,15 +1,3 @@
 {
-  "cssTheme": "Obsidian gruvbox",
-  "accentColor": "#039126",
-  "theme": "obsidian",
-  "interfaceFontFamily": "",
-  "textFontFamily": "Bodoni 72 Smallcaps,Bahnschrift",
-  "monospaceFontFamily": "Cascadia Code",
-  "baseFontSize": 19,
-  "baseFontSizeAction": true,
-  "enabledCssSnippets": [
-    "yujan-hr",
-    "yujan-heading-BI-HR"
-  ],
-  "showRibbon": true
+  "cssTheme": "Obsidian gruvbox"
 }

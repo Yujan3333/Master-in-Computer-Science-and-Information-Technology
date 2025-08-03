@@ -1,9 +1,1 @@
-{
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
-  "attachmentFolderPath": "attachments",
-  "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
-  "readableLineLength": false,
-  "strictLineBreaks": false
-}
+{}

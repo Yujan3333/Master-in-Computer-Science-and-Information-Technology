@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "43a165a9b511dc4b",
+        "id": "7f9cdf40c394080b",
         "type": "tabs",
         "children": [
           {
-            "id": "4bb4caa06583d1d1",
+            "id": "0ef86284c338d886",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/2-Second Semester.md",
+                "file": "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP to create Polygon.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2-Second Semester"
+              "title": "WAP to create Polygon"
+            }
+          },
+          {
+            "id": "52a7a98f0a8b9411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Why sort the polygon points.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Why sort the polygon points"
             }
           }
         ]
@@ -95,8 +110,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -142,6 +157,25 @@
               "icon": "lucide-list",
               "title": "Outline of Seminar Web App"
             }
+          },
+          {
+            "id": "9f1f313a770c5be9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main/Research/Seminar 1/Paper Quality.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Paper Quality"
+            }
           }
         ]
       }
@@ -158,16 +192,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "obsidian-git:Open Git source control": false,
-      "custom-sort:Toggle custom sorting": false
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4bb4caa06583d1d1",
+  "active": "0ef86284c338d886",
   "lastOpenFiles": [
+    "Why sort the polygon points.md",
+    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP to create Polygon.md",
+    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
+    "Main/Study/2-Second Semester/CG/CG.md",
+    "Main/Study/2-Second Semester/2-Second Semester.md",
     "Main/Research/Seminar 1/Paper Quality.md",
     "Main/Research/Seminar 1/Seminar 1.md",
+    "Main/Study/_index.md",
+    "Main/Research/Seminar 1/Seminar - Folder/Seminar Web App.md",
+    "Images/First_Sem_Images/courses.pdf",
+    "README.md",
+    "Main/Study/2-Second Semester/DWDM/DWDM.md",
+    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP to implement Turn Test.md",
+    "Images/Second_Sem_Images/WAP to implement Turn Test-1.png",
+    "Images/Second_Sem_Images/Pasted image 20250802210545.png",
+    "Images/Second_Sem_Images/WAP to implement Turn Test.png",
+    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP to create line segment.md",
+    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP to create a point.md",
+    "Images/Second_Sem_Images/WAP to create a point.png",
+    "Images/Second_Sem_Images/WAP to create Polygon-output-1.png",
+    "Images/Second_Sem_Images/WAP to create Polygon-output.png",
+    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/Assignment_Note.md",
+    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note",
+    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment_Notes/Processor Parallelism.md",
+    "Main/Study/2-Second Semester/CG/2_Assignment",
+    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment_Notes/Assignment_Notes.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment_Notes/Multiple Issue Processor.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment_Notes",
+    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment",
+    "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
     "Main/Study/2-Second Semester/CG",
     "Main/Study/2-Second Semester/DWDM/Research Paper.md",
     "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignment 1.md",
@@ -179,39 +242,10 @@
     "Main/Study/2-Second Semester/DWDM/1-Units/Unit1/Unit 1 - Notes",
     "Main/Study/2-Second Semester/DWDM/1-Units/Unit1",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/Unit2/Unit2.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/Unit2/Unit 2 - Notes/Unit 2 - Notes.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/Unit2/Unit 2 - Notes",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/Unit2/Unit 2 - Notes.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/Unit2",
-    "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
-    "Main/Study/2-Second Semester/Machine Learning/2-Assignments.md",
-    "Main/Study/2-Second Semester/Machine Learning/2-Assignments",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units",
-    "Main/Study/1-First Semester/1-First Semester.md",
-    "Main/Study/2-Second Semester/2-Second Semester.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
-    "Main/Study/_index.md",
-    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit4/Unit 4 - Distributed Special Purpose Systems.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units",
-    "Main/Study/2-Second Semester/DWDM/DWDM.md",
-    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/2-Assignment/2-Assignment.md",
-    "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/3-Past Questions/3-Past Questions.md",
-    "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/2-Assignment/2-Assignment.md",
-    "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/Algorithm and Complexity (AC).md",
-    "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/2-Assignment/_index.md",
-    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/Parallel and Distributed Computing (PDC).md",
-    "Main/Study/1-First Semester/Subjects/Object Oriented Software Engineering (OOSE)/Object Oriented Software Engineering (OOSE).md",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/3-Past Que/3-Past Que.md",
     "Main/Study/1-First Semester/Old Questions/Questions - 2082/Board/AC-2082.jpeg",
     "Images/First_Sem_Images/Precision-Recall-F1Score-img.png",
     "Images/First_Sem_Images/Understanding Classification Report-Confusion Matrix.png",
     "Images/First_Sem_Images/Seminar Web App- Image.png",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/OOSE Case Study - Online Food Delivery.drawio.png",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/OOSE Case Study - Online Food Delivery-Class Diagram-PlantUML.png",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A3/OOSE Case Study - Online Food Delivery - Sequence Diagram.png",
-    "Main/Study/First Sem/Assignments/OOSE-Assignments/OOSE A1/oose .png",
-    "Main/Study/1-First Semester/Old Questions/Questions - 2082/Preboard/PDC-Preboard-2082.jpeg",
-    "Main/Study/1-First Semester/Old Questions/Questions - 2082/Preboard/OOSE-Preboard-2082.jpeg",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
