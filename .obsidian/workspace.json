@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f9cdf40c394080b",
+        "id": "34b24bac24dc4fb3",
         "type": "tabs",
         "children": [
           {
-            "id": "0ef86284c338d886",
+            "id": "30de2c6f0fdfd8a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Assignment"
+              "title": "New tab"
             }
           }
         ]
@@ -79,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "3097c2953960f235",
@@ -183,13 +177,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ef86284c338d886",
+  "active": "30de2c6f0fdfd8a5",
   "lastOpenFiles": [
+    "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignment 2.md",
+    "Main/Study/2-Second Semester/DWDM/2-Assignments/Implementation of K-Means Clustering Algorithm.md",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 4/Unit4-Notes-Folder/K-means Clustering Algorithm.md",
+    "Main/Research/Seminar 1/Seminar 1.md",
+    "Main/Research/Seminar 1/N.md",
+    "README.md",
+    "Main/Research/Seminar 1/Seminar - Folder/Why is Multinomial Naive Bayes is called Naive.md",
+    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP to create Polygon.md",
     "Images/Second_Sem_Images/WAP to create Polygon-2-1.png",
     "Images/Second_Sem_Images/WAP to create Polygon-2.png",
     "Images/Second_Sem_Images/WAP to create Polygon-1.png",
-    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP to implement Turn Test.md",
     "Images/Second_Sem_Images/WAP to implement Turn Test-2.png",
     "Images/Second_Sem_Images/WAP to implement Turn Test-1-1.png",
@@ -198,11 +199,9 @@
     "Main/Study/2-Second Semester/CG/CG.md",
     "Main/Study/2-Second Semester/2-Second Semester.md",
     "Main/Research/Seminar 1/Paper Quality.md",
-    "Main/Research/Seminar 1/Seminar 1.md",
     "Main/Study/_index.md",
     "Main/Research/Seminar 1/Seminar - Folder/Seminar Web App.md",
     "Images/First_Sem_Images/courses.pdf",
-    "README.md",
     "Main/Study/2-Second Semester/DWDM/DWDM.md",
     "Images/Second_Sem_Images/WAP to implement Turn Test-1.png",
     "Images/Second_Sem_Images/Pasted image 20250802210545.png",
@@ -222,12 +221,8 @@
     "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
     "Main/Study/2-Second Semester/CG",
     "Main/Study/2-Second Semester/DWDM/Research Paper.md",
-    "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignment 1.md",
-    "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignments - Notes/OLTP VS OLAP.md",
-    "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignments - Notes/Database Vs Data Warehouse.md",
     "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignments - Notes",
     "Main/Study/2-Second Semester/DWDM/2-Assignments",
-    "Main/Study/2-Second Semester/DWDM/1-Units/Unit1/Unit1.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/Unit1/Unit 1 - Notes",
     "Main/Study/2-Second Semester/DWDM/1-Units/Unit1",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",

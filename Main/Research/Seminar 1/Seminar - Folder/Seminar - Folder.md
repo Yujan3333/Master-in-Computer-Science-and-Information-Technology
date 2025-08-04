@@ -8,5 +8,6 @@
 - [Stemmer](./Stemmer.md)
 - [Tokenization-Stemming-Lemmatization](./Tokenization-Stemming-Lemmatization.md)
 - [Understanding Classification Report](./Understanding%20Classification%20Report.md)
+- [Why is Multinomial Naive Bayes is called Naive](./Why%20is%20Multinomial%20Naive%20Bayes%20is%20called%20Naive.md)
 
 %% End Waypoint %%
