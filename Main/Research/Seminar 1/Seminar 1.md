@@ -38,3 +38,7 @@
 - 
 - [Sentiment Analysis in the Era of Large Language Models: A Reality Check](https://arxiv.org/pdf/2305.15005)
 - [Systematic reviews in sentiment analysis: a tertiary study](https://link.springer.com/article/10.1007/s10462-021-09973-3?utm_source=chatgpt.com)
+
+---
+### Reference for the paper to be used
+[All Reference](Seminar%20-%20Folder/All%20Reference.md)

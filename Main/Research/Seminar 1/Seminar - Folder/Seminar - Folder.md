@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- [All Reference](./All%20Reference.md)
 - [Change in TF-IDF](./Change%20in%20TF-IDF.md)
 - [Corpus](./Corpus.md)
 - [How to Train a Algorithm](./How%20to%20Train%20a%20Algorithm.md)
