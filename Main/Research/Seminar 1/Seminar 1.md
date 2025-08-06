@@ -1,6 +1,6 @@
 ### Code Web App Part of Seminar
 - [Seminar Web App](Seminar%20-%20Folder/Seminar%20Web%20App.md)
-
+- [Paper Used in Seminar](Paper%20Used%20in%20Seminar.md)
 ### Topics
 - [Corpus](Seminar%20-%20Folder/Corpus.md)
 - [How to Train a Algorithm](Seminar%20-%20Folder/How%20to%20Train%20a%20Algorithm.md)
@@ -39,6 +39,8 @@
 - [Sentiment Analysis in the Era of Large Language Models: A Reality Check](https://arxiv.org/pdf/2305.15005)
 - [Systematic reviews in sentiment analysis: a tertiary study](https://link.springer.com/article/10.1007/s10462-021-09973-3?utm_source=chatgpt.com)
 
+- K. Garcia and L. Berton, “Topic detection and sentimentanalysis in twitter content related to COVID-19 from Brazil and the USA,” Applied Soft Computing, vol. 101, Article ID107057, 2021
+- 
 ---
 ### Reference for the paper to be used
 [All Reference](Seminar%20-%20Folder/All%20Reference.md)

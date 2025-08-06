@@ -1,5 +1,21 @@
 - [Scimagojr](https://www.scimagojr.com/)
 - [Scorpus](https://www.scopus.com/sources.uri)
+- Web of Science (Clarivate)
+- ABDC
+- PubMed
+- EBSCO
+
+### Reputable Search Engine for Paper
+- ScienceDirect
+- Scopus
+- Web of Science
+- JSTOR
+
+### ⚠️ Blacklisted Journal 
+- Beall's List
+- Cabell's Blacklist
+- Stop Predatory Journals
+- Ulrich's Periodicals Directory
 
 ### Quality Paper
 - IEEE
