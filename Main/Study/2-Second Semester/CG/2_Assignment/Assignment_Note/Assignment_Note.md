@@ -1,4 +1,12 @@
 %% Begin Waypoint %%
+- [Explanation of cross and dot product](./Explanation%20of%20cross%20and%20dot%20product.md)
+- [Explanation of Math behind the Code of Line Segment](./Explanation%20of%20Math%20behind%20the%20Code%20of%20Line%20Segment.md)
+- [Explanation of Polygon Convex Check Logic](./Explanation%20of%20Polygon%20Convex%20Check%20Logic.md)
+- [Normalize Code Explanation](./Normalize%20Code%20Explanation.md)
+- [WAP for determining where a polygon is convex or not](./WAP%20for%20determining%20where%20a%20polygon%20is%20convex%20or%20not.md)
+- [WAP for implementing Line](./WAP%20for%20implementing%20Line.md)
+- [WAP for implementing point line classification](./WAP%20for%20implementing%20point%20line%20classification.md)
+- [WAP for implementing Ray](./WAP%20for%20implementing%20Ray.md)
 - [WAP to create a point](./WAP%20to%20create%20a%20point.md)
 - [WAP to create line segment](./WAP%20to%20create%20line%20segment.md)
 - [WAP to create Polygon](./WAP%20to%20create%20Polygon.md)
