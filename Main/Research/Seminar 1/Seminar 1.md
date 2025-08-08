@@ -16,7 +16,8 @@
 ### Confusion
 - Difference between Naïve Bayes and Multinomial Naïve Bayes Algorithm
 - [Why is Multinomial Naive Bayes is called Naive ?](Seminar%20-%20Folder/Why%20is%20Multinomial%20Naive%20Bayes%20is%20called%20Naive.md)
-- 
+- [[ Word2vec and GloVe]]
+
 ---
 ### Paper Collection
 - [Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language](https://www.researchgate.net/publication/301403864_Detecting_Sentiment_in_Nepali_texts_A_bootstrap_approach_for_Sentiment_Analysis_of_texts_in_the_Nepali_language)
