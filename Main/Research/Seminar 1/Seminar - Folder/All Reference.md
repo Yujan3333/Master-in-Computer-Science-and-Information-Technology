@@ -40,7 +40,7 @@ In conclusion, Naive Bayes remains a relevant and efficient model for sentiment 
 7. Tripathi (2021) – Nepali COVID tweets classification 
 8. Koirala & Shakya (2020) – Rule-based Nepali stemmer with NB
 9. Shahi et al. (2022) – Hybrid FastText + NB model (Q2 journal) ✅
-10. Pant & Shakya (2022) – BiLSTM on Nepali restaurant reviews
+10. Pant & Shakya (2022) – BiLSTM on Nepali restaurant reviews ✅
 11. Pahari & Shimada (2023) – Nepali-English code-switched sentiment
 12. Kim (2014) – CNN for sentence classification
 13. Khan et al. (2017) – Compressed CNN (image classification)

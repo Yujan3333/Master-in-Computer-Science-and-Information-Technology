@@ -17,6 +17,16 @@
 - Difference between Naïve Bayes and Multinomial Naïve Bayes Algorithm
 - [Why is Multinomial Naive Bayes is called Naive ?](Seminar%20-%20Folder/Why%20is%20Multinomial%20Naive%20Bayes%20is%20called%20Naive.md)
 - [[ Word2vec and GloVe]]
+- [What is POS](Seminar%20-%20Folder/What%20is%20POS.md)
+- [What is BiLSTM](Seminar%20-%20Folder/What%20is%20BiLSTM.md)
+- [What is BERT](What%20is%20BERT.md)
+
+
+
+
+
+
+
 
 ---
 ### Paper Collection
