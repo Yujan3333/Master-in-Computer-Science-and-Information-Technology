@@ -19,7 +19,7 @@ Koirala and Shakya \[8] focused on improving classification by introducing a rul
 
 More recent research has incorporated hybrid and deep learning approaches. Shahi et al. \[9] proposed a hybrid model combining FastText embeddings with NB and other classifiers for classifying Nepali tweets. Their study, published in *Computational Intelligence and Neuroscience* (a Q2-ranked journal), achieved strong results and validated the use of hybrid features for low-resource languages. ✅
 
-Similarly, Pant and Shakya \[10] applied BiLSTM for aspect-based sentiment analysis of Nepali restaurant reviews, showing that deep learning can capture sentiment nuances more effectively than NB alone.
+Similarly, Pant and Shakya \[10] applied BiLSTM for aspect-based sentiment analysis of Nepali restaurant reviews, showing that deep learning can capture sentiment nuances more effectively than NB alone.❌
 
 In multilingual and code-switched settings, Pahari and Shimada \[11] developed a dataset of Nepali-English social media texts and applied both traditional and transformer-based models. Although their work was published in the ACL Anthology (not a Q2 journal), it remains a valuable contribution to multilingual sentiment analysis.
 
@@ -84,7 +84,10 @@ The journey of sentiment analysis from its early days on English data to the pre
 4.  **Shahi, T. B., & Sitaula, C. (2022).** Natural language processing for Nepali text: a review. *Artificial Intelligence Review*, 55(4), 3147-3172.
 5.  **Pant, A. K., & Yadav, A. (2015).** Sentiment Analysis on Nepali Movie Reviews using Machine Learning. *Proceedings of the 2015 International Conference on Research & Innovation in Information Systems (ICRIIS)*.
 6.  **Gupta, P., & Bal, B. K. (2015).** Detecting Sentiment in Nepali texts: A bootstrap approach for Sentiment Analysis of texts in the Nepali language. *Proceedings of the 2015 International Conference on Advances in Computing, Communications and Informatics (ICACCI)*.
+
 7.  **Tamrakar, S., Bal, B. K., & Thapa, R. B. (2020).** Aspect Based Sentiment Analysis of Nepali Text Using Support Vector Machine and Naive Bayes. *Technical Journal*, 2(1), 22–29.
+
 8.  **IOE Graduate Conference. (2024).** Transformer-Based Deep Learning Models for Sentiment Analysis in Romanized Nepali: A Comparative Investigation of BERT and RoBERTa. *IOE Graduate Conference*.
 9.  **Socher, R., Perelygin, A., Wu, J., Chuang, J., Manning, C. D., Ng, A. Y., & Potts, C. (2013).** Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank. *Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 1631-1642.
 10. **Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019).** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. *Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)*, 4171-4186.
+
