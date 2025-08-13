@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - [Detailed Explanation of CCW ordering by angle around the centroid](./Detailed%20Explanation%20of%20CCW%20ordering%20by%20angle%20around%20the%20centroid.md)
+- [Explanation of code of arbitrary point polygon](./Explanation%20of%20code%20of%20arbitrary%20point%20polygon.md)
 - [Explanation of cross and dot product](./Explanation%20of%20cross%20and%20dot%20product.md)
 - [Explanation of Math behind the Code of Line Segment](./Explanation%20of%20Math%20behind%20the%20Code%20of%20Line%20Segment.md)
 - [Explanation of Polygon Convex Check Logic](./Explanation%20of%20Polygon%20Convex%20Check%20Logic.md)

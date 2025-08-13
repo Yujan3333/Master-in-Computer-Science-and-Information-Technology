@@ -15,3 +15,9 @@
 ### Lab 3
 - [WAP to calculate area of polygon wrt to vertex](Assignment_Note/WAP%20to%20calculate%20area%20of%20polygon%20wrt%20to%20vertex.md)
 - [WAP to calculate area of polygon wrt to arbitrary point](Assignment_Note/WAP%20to%20calculate%20area%20of%20polygon%20wrt%20to%20arbitrary%20point.md)
+
+---
+### Lab 4
+- WAP to check proper intersection
+- WAP to check improper intersection
+- 
