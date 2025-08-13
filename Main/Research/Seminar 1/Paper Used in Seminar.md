@@ -8,4 +8,8 @@
 
 5. S. T. B. K. B. a. A. J. O. M. Singh, "Aspect based abusive sentiment detection in Nepali social media texts," IEEE/ACM Int. Conf. Advances in Social Networks Analysis and Mining (ASONAM), pp. 301-308, 2020. 
 
-6. 
+6. K. S. Niraj Pahari, "Language Preference for Expression of Sentiment for Nepali-English," in Proceedings of the 6th Workshop on Computational Approaches to Linguistic Code-Switching (CALCS), Singapore, 2023.
+
+7. A. K. P. a. A. Yadav, "Sentiment Analysis on Nepali Movie Reviews using," in International Conference on Research & Innovation in Information Systems ICRIIS, 2015. 
+
+8. 

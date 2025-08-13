@@ -21,7 +21,7 @@ More recent research has incorporated hybrid and deep learning approaches. Shahi
 
 Similarly, Pant and Shakya \[10] applied BiLSTM for aspect-based sentiment analysis of Nepali restaurant reviews, showing that deep learning can capture sentiment nuances more effectively than NB alone.❌
 
-In multilingual and code-switched settings, Pahari and Shimada \[11] developed a dataset of Nepali-English social media texts and applied both traditional and transformer-based models. Although their work was published in the ACL Anthology (not a Q2 journal), it remains a valuable contribution to multilingual sentiment analysis.
+In multilingual and code-switched settings, Pahari and Shimada \[11] developed a dataset of Nepali-English social media texts and applied both traditional and transformer-based models. Although their work was published in the ACL Anthology (not a Q2 journal), it remains a valuable contribution to multilingual sentiment analysis. ✅
 
 A few works like Kim \[12] and Khan et al. \[13] have explored compressed or residual CNN models for large-scale image recognition. Though these studies are image-focused, the model compression strategies they discuss can inspire lightweight NLP architectures suitable for resource-constrained settings like Nepali sentiment analysis.
 
@@ -41,13 +41,12 @@ In conclusion, Naive Bayes remains a relevant and efficient model for sentiment 
 8. Koirala & Shakya (2020) – Rule-based Nepali stemmer with NB
 9. Shahi et al. (2022) – Hybrid FastText + NB model (Q2 journal) ✅
 10. Pant & Shakya (2022) – BiLSTM on Nepali restaurant reviews ✅
-11. Pahari & Shimada (2023) – Nepali-English code-switched sentiment
+11. Pahari & Shimada (2023) – Nepali-English code-switched sentiment ✅
 12. Kim (2014) – CNN for sentence classification
 13. Khan et al. (2017) – Compressed CNN (image classification)
 
 ---
 
-## From Gemini
 ### A Combined Literature Review on Sentiment Analysis: From High-Resource English to Low-Resource Nepali
 
 #### Introduction
@@ -91,3 +90,29 @@ The journey of sentiment analysis from its early days on English data to the pre
 9.  **Socher, R., Perelygin, A., Wu, J., Chuang, J., Manning, C. D., Ng, A. Y., & Potts, C. (2013).** Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank. *Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing (EMNLP)*, 1631-1642.
 10. **Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2019).** BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. *Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)*, 4171-4186.
 
+
+---
+---
+### EXTRA
+
+9. B. Liu, Sentiment Analysis and Opinion Mining, Morgan & Claypool Publishers, 2012.
+Liu’s book is a foundational resource in sentiment analysis, covering core concepts and techniques such as lexicon-based and machine learning approaches. It provides a comprehensive overview of sentiment classification, opinion mining, and the challenges in natural language processing, making it a key reference for researchers developing sentiment models, especially in resource-scarce languages.
+
+10. T. Mikolov et al., "Efficient Estimation of Word Representations in Vector Space," ICLR Workshop, 2013.
+This paper introduces Word2Vec, a method for learning high-quality word embeddings that capture semantic relationships in text. Word embeddings have since become fundamental in improving sentiment analysis models by providing dense, meaningful vector representations of words, enhancing performance in low-resource language settings by transferring semantic knowledge.
+
+11. R. Socher et al., "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank," EMNLP 2013.
+Socher et al. proposed a recursive neural network model to capture compositional sentiment in sentences, handling varying levels of phrase and sentence structure. Their approach improved sentiment classification by incorporating syntactic information, setting a precedent for deep learning techniques applied to nuanced sentiment analysis tasks.
+
+12. M. Joshi, A. Bhattacharyya, and E. Mehler, "Overview of the FIRE 2016 Shared Task on Sentiment Analysis in Code-Mixed Social Media Text," FIRE 2016.
+This work discusses sentiment analysis challenges in code-mixed social media data, such as Hindi-English and other Indian languages. It provides insights into preprocessing, feature extraction, and classification strategies tailored to mixed-language texts, which is highly relevant for Nepali-English code-switching sentiment analysis research.
+
+
+#### References
+B. Liu, Sentiment Analysis and Opinion Mining, Morgan & Claypool Publishers, 2012.
+
+T. Mikolov, K. Chen, G. Corrado, and J. Dean, "Efficient Estimation of Word Representations in Vector Space," in Proc. Workshop at ICLR, 2013.
+
+R. Socher, A. Perelygin, J. Wu, J. Chuang, C. Manning, A. Ng, and C. Potts, "Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank," in Proc. Conf. on Empirical Methods in Natural Language Processing (EMNLP), 2013, pp. 1631–1642.
+
+M. Joshi, A. Bhattacharyya, and E. Mehler, "Overview of the FIRE 2016 Shared Task on Sentiment Analysis in Code-Mixed Social Media Text," in Working Notes of FIRE, 2016.
