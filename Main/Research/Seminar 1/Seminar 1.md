@@ -19,7 +19,7 @@
 - [[ Word2vec and GloVe]]
 - [What is POS](Seminar%20-%20Folder/What%20is%20POS.md)
 - [What is BiLSTM](Seminar%20-%20Folder/What%20is%20BiLSTM.md)
-- [What is BERT](What%20is%20BERT.md)
+- [What is BERT](Seminar%20-%20Folder/What%20is%20BERT.md)
 
 
 

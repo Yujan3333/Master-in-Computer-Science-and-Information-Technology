@@ -15,3 +15,5 @@
 - Change value of learning rate 0.01 to 0.00001.
 - Compare performance of both algorithms and write down conclusion.
 [Lab1-Contd Explanation](Assignment_notes/Lab1-Contd%20Explanation.md)
+
+---
