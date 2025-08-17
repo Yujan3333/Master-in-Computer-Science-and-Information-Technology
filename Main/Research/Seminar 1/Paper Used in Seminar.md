@@ -12,4 +12,8 @@
 
 7. A. K. P. a. A. Yadav, "Sentiment Analysis on Nepali Movie Reviews using," in International Conference on Research & Innovation in Information Systems ICRIIS, 2015. 
 
-8. 
+8. S. S. Piyush Pant, "Aspect based Nepali Text Sentiment," Journal of Ubiquitous Computing and Communication Technologies, vol. 4, no. 4, pp. 219-235, 2022. 
+
+9.  A. B. M. S. A. M. A. K. Neeraj Anand Sharma, "A review of sentiment analysis: tasks, applications, and deep learningtechniques," International Journal of Data Science and Analytics, 2024. 
+
+10.  
