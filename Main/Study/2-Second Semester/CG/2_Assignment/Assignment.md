@@ -20,4 +20,6 @@
 ### Lab 4
 - WAP to check proper intersection
 - WAP to check improper intersection
-- 
+- WAP point Inclusion for convex Polygon
+- WAP for point inclusion using Ray Cast
+[CG - Lab 4](Assignment_Note/CG%20-%20Lab%204.md)

@@ -1,9 +1,11 @@
 %% Begin Waypoint %%
+- [CG - Lab 4](./CG%20-%20Lab%204.md)
 - [Detailed Explanation of CCW ordering by angle around the centroid](./Detailed%20Explanation%20of%20CCW%20ordering%20by%20angle%20around%20the%20centroid.md)
 - [Explanation of code of arbitrary point polygon](./Explanation%20of%20code%20of%20arbitrary%20point%20polygon.md)
 - [Explanation of cross and dot product](./Explanation%20of%20cross%20and%20dot%20product.md)
 - [Explanation of Math behind the Code of Line Segment](./Explanation%20of%20Math%20behind%20the%20Code%20of%20Line%20Segment.md)
 - [Explanation of Polygon Convex Check Logic](./Explanation%20of%20Polygon%20Convex%20Check%20Logic.md)
+- [Improper Intersection Explanation of Lab4 - CG](./Improper%20Intersection%20Explanation%20of%20Lab4%20-%20CG.md)
 - [More Explanation of The Above Code of finding the polygon area of convex polygon](./More%20Explanation%20of%20The%20Above%20Code%20of%20finding%20the%20polygon%20area%20of%20convex%20polygon.md)
 - [Normalize Code Explanation](./Normalize%20Code%20Explanation.md)
 - [WAP for determining where a polygon is convex or not](./WAP%20for%20determining%20where%20a%20polygon%20is%20convex%20or%20not.md)
