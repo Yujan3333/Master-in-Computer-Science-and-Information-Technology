@@ -51,24 +51,9 @@
               "icon": "lucide-file",
               "title": "Paper Used in Seminar"
             }
-          },
-          {
-            "id": "20ef41e36e897273",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Assignment"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -229,11 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20ef41e36e897273",
+  "active": "9cd58bdc0be75c43",
   "lastOpenFiles": [
+    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/CG - Lab 4.md",
     "Images/Second_Sem_Images/CG - Lab 4-fig.png",
-    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/Improper Intersection Explanation of Lab4 - CG.md",
     "Main/Research/Seminar 1/Seminar 1.md",
     "Main/Research/Seminar 1/Paper Used in Seminar.md",
