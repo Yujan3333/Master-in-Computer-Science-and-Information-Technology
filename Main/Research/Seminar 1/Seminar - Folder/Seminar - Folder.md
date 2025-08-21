@@ -2,6 +2,7 @@
 - [All Reference](./All%20Reference.md)
 - [Change in TF-IDF](./Change%20in%20TF-IDF.md)
 - [Corpus](./Corpus.md)
+- [Data Preprocessing-Seminar I](./Data%20Preprocessing-Seminar%20I.md)
 - [How to Train a Algorithm](./How%20to%20Train%20a%20Algorithm.md)
 - [Precision-Recall-F1Score](./Precision-Recall-F1Score.md)
 - [Seminar Web App](./Seminar%20Web%20App.md)

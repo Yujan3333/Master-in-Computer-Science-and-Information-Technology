@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "ab513007acef813c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
+          },
+          {
             "id": "9cd58bdc0be75c43",
             "type": "leaf",
             "state": {
@@ -165,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/Research/Seminar 1/Seminar Web App.md",
+                "file": "Main/Research/Seminar 1/Seminar 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Seminar Web App"
+              "title": "Outline of Seminar 1"
             }
           },
           {
@@ -193,15 +205,16 @@
               "title": "Backlinks for Paper Quality"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -214,14 +227,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cd58bdc0be75c43",
+  "active": "ab513007acef813c",
   "lastOpenFiles": [
+    "Main/Research/Seminar 1/Seminar - Folder/Data Preprocessing-Seminar I.md",
+    "Main/Research/Seminar 1/Seminar 1.md",
+    "Main/Research/Seminar 1/Paper Used in Seminar.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/CG - Lab 4.md",
     "Images/Second_Sem_Images/CG - Lab 4-fig.png",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/Improper Intersection Explanation of Lab4 - CG.md",
-    "Main/Research/Seminar 1/Seminar 1.md",
-    "Main/Research/Seminar 1/Paper Used in Seminar.md",
     "Main/Research/Seminar 1/Seminar - Folder/All Reference.md",
     "Main/Study/2-Second Semester/Machine Learning/2-Assignments/Assignment_notes/Lab1-Explanation.md",
     "Main/Study/2-Second Semester/Machine Learning/2-Assignments/2-Assignments.md",
