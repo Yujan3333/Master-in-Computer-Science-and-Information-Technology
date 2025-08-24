@@ -38,15 +38,18 @@
             }
           },
           {
-            "id": "ab513007acef813c",
+            "id": "1ad12cae6c8def65",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.10"
+                "file": "Main/Research/Seminar 1/Paper Quality.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.10"
+              "icon": "lucide-file",
+              "title": "Paper Quality"
             }
           },
           {
@@ -65,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Research/Seminar 1/Seminar 1.md",
+                "file": "Main/Research/Seminar 1/Paper Used in Seminar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Seminar 1"
+              "title": "Outline of Paper Used in Seminar"
             }
           },
           {
@@ -227,11 +230,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab513007acef813c",
+  "active": "9cd58bdc0be75c43",
   "lastOpenFiles": [
-    "Main/Research/Seminar 1/Seminar - Folder/Data Preprocessing-Seminar I.md",
-    "Main/Research/Seminar 1/Seminar 1.md",
+    "Main/Research/Seminar 1/Paper Quality.md",
     "Main/Research/Seminar 1/Paper Used in Seminar.md",
+    "Main/Research/Seminar 1/Seminar 1.md",
+    "Main/Research/Seminar 1/Seminar - Folder/Data Preprocessing-Seminar I.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/CG - Lab 4.md",
     "Images/Second_Sem_Images/CG - Lab 4-fig.png",
@@ -265,7 +269,6 @@
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP for implementing point line classification.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/Explanation of cross and dot product.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/Explanation of Math behind the Code of Line Segment.md",
-    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP for implementing Line.md",
     "Images/First_Sem_Images/courses.pdf",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note",
     "Main/Study/2-Second Semester/CG/2_Assignment",
