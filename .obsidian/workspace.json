@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Research/Seminar 1/Paper Used in Seminar.md",
+                "file": "Main/Research/Seminar 1/Seminar 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Paper Used in Seminar"
+              "title": "Outline of Seminar 1"
             }
           },
           {
@@ -230,11 +230,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cd58bdc0be75c43",
+  "active": "4d55c352246369df",
   "lastOpenFiles": [
+    "Main/Research/Seminar 1/Seminar - Folder/Result.md",
+    "Images/Second_Sem_Images/Result.png",
+    "Main/Research/Seminar 1/Seminar 1.md",
     "Main/Research/Seminar 1/Paper Quality.md",
     "Main/Research/Seminar 1/Paper Used in Seminar.md",
-    "Main/Research/Seminar 1/Seminar 1.md",
     "Main/Research/Seminar 1/Seminar - Folder/Data Preprocessing-Seminar I.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/CG - Lab 4.md",
@@ -265,10 +267,7 @@
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP for determining where a polygon is convex or not.md",
     "Images/Second_Sem_Images/WAP for determining where a polygon is convex or not-fig.png",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP for implementing Ray.md",
-    "Images/Second_Sem_Images/WAP for implementing Ray-fig.png",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/WAP for implementing point line classification.md",
-    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/Explanation of cross and dot product.md",
-    "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/Explanation of Math behind the Code of Line Segment.md",
     "Images/First_Sem_Images/courses.pdf",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note",
     "Main/Study/2-Second Semester/CG/2_Assignment",

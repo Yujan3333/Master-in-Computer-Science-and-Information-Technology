@@ -5,6 +5,7 @@
 - [Data Preprocessing-Seminar I](./Data%20Preprocessing-Seminar%20I.md)
 - [How to Train a Algorithm](./How%20to%20Train%20a%20Algorithm.md)
 - [Precision-Recall-F1Score](./Precision-Recall-F1Score.md)
+- [Result](./Result.md)
 - [Seminar Web App](./Seminar%20Web%20App.md)
 - [SMOTE](./SMOTE.md)
 - [Stemmer](./Stemmer.md)
