@@ -4,67 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "76e243dbe37e015e",
+        "id": "47c8c235f508004d",
         "type": "tabs",
         "children": [
           {
-            "id": "c03c6ce653b7fca5",
+            "id": "4c63eb3ed075284b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Research/Seminar 1/Seminar - Folder/All Reference.md",
+                "file": "Main/Study/2-Second Semester/Machine Learning/2-Assignments/2-Assignments.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "All Reference"
+              "title": "2-Assignments"
             }
           },
           {
-            "id": "4d55c352246369df",
+            "id": "d670052ab6b317fd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Main/Research/Seminar 1/Seminar 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "currentVersion": "1.9.12"
               },
-              "icon": "lucide-file",
-              "title": "Seminar 1"
-            }
-          },
-          {
-            "id": "1ad12cae6c8def65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Research/Seminar 1/Paper Quality.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Paper Quality"
-            }
-          },
-          {
-            "id": "9cd58bdc0be75c43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Research/Seminar 1/Paper Used in Seminar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Paper Used in Seminar"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ],
@@ -180,13 +147,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Research/Seminar 1/Seminar 1.md",
+                "file": "Main/Study/2-Second Semester/Machine Learning/2-Assignments/2-Assignments.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Seminar 1"
+              "title": "Outline of 2-Assignments"
             }
           },
           {
@@ -230,19 +197,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d55c352246369df",
+  "active": "d670052ab6b317fd",
   "lastOpenFiles": [
-    "Main/Research/Seminar 1/Seminar - Folder/Result.md",
-    "Images/Second_Sem_Images/Result.png",
+    "Main/Research/Seminar 1/Seminar - Folder/All Reference.md",
     "Main/Research/Seminar 1/Seminar 1.md",
     "Main/Research/Seminar 1/Paper Quality.md",
     "Main/Research/Seminar 1/Paper Used in Seminar.md",
+    "Main/Research/Seminar 1/Seminar - Folder/Result.md",
+    "Images/Second_Sem_Images/Result.png",
     "Main/Research/Seminar 1/Seminar - Folder/Data Preprocessing-Seminar I.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/CG - Lab 4.md",
     "Images/Second_Sem_Images/CG - Lab 4-fig.png",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note/Improper Intersection Explanation of Lab4 - CG.md",
-    "Main/Research/Seminar 1/Seminar - Folder/All Reference.md",
     "Main/Study/2-Second Semester/Machine Learning/2-Assignments/Assignment_notes/Lab1-Explanation.md",
     "Main/Study/2-Second Semester/Machine Learning/2-Assignments/2-Assignments.md",
     "Main/Study/2-Second Semester/Machine Learning/2-Assignments/Assignment_notes/Lab1-Contd Explanation.md",
