@@ -1,8 +1,10 @@
 %% Begin Waypoint %%
 - [All Reference](./All%20Reference.md)
 - [Change in TF-IDF](./Change%20in%20TF-IDF.md)
+- [Comparison of all naive bayes algorithm](./Comparison%20of%20all%20naive%20bayes%20algorithm.md)
 - [Corpus](./Corpus.md)
 - [Data Preprocessing-Seminar I](./Data%20Preprocessing-Seminar%20I.md)
+- [Description of Bernoulli NB](./Description%20of%20Bernoulli%20NB.md)
 - [How to Train a Algorithm](./How%20to%20Train%20a%20Algorithm.md)
 - [Precision-Recall-F1Score](./Precision-Recall-F1Score.md)
 - [Result](./Result.md)

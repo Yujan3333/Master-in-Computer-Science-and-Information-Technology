@@ -41,3 +41,12 @@ https://www.kaggle.com/ds/2829619. [Accessed 2025].
 
    [12] Python Documnetation, "snowballstemmer," May 2025. [Online]. Available:
 https://pypi.org/project/snowballstemmer/. [Accessed June 2025]
+
+
+Tried Using more paper for comparison
+Not found❌
+- [Sentiment analysis of movie reviews based on NB approaches using TF–IDF and count vectorizer](https://link.springer.com/article/10.1007/s13278-024-01250-9)
+
+
+To add ✅ 
+- [Comparison between Multinomial and Bernoulli Naïve Bayes for Text Classification](https://www.researchgate.net/publication/334765873_Comparison_between_Multinomial_and_Bernoulli_Naive_Bayes_for_Text_Classification)

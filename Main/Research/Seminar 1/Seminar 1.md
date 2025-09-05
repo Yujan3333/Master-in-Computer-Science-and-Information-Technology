@@ -1,7 +1,12 @@
+Comparative Study of Multinomial and Bernoulli Naive Bayes for Nepali Sentiment Analysis
+
 ### Code Web App Part of Seminar
 - [Seminar Web App](Seminar%20-%20Folder/Seminar%20Web%20App.md)
 - [Paper Used in Seminar](Paper%20Used%20in%20Seminar.md)
 - [Result](Seminar%20-%20Folder/Result.md)
+- [Comparison of all naive bayes algorithm](Seminar%20-%20Folder/Comparison%20of%20all%20naive%20bayes%20algorithm.md)
+- Code of comparing MNB and BNB
+
 ### Topics
 - [Corpus](Seminar%20-%20Folder/Corpus.md)
 - [How to Train a Algorithm](Seminar%20-%20Folder/How%20to%20Train%20a%20Algorithm.md)
@@ -12,6 +17,7 @@
 - [Understanding Classification Report](Seminar%20-%20Folder/Understanding%20Classification%20Report.md)
 - [Stemmer](Seminar%20-%20Folder/Stemmer.md)
 - [Precision-Recall-F1Score](Seminar%20-%20Folder/Precision-Recall-F1Score.md)
+- [Description of Bernoulli NB](Seminar%20-%20Folder/Description%20of%20Bernoulli%20NB.md)
 
 ---
 ### Confusion
@@ -22,7 +28,8 @@
 - [What is BiLSTM](Seminar%20-%20Folder/What%20is%20BiLSTM.md)
 - [What is BERT](Seminar%20-%20Folder/What%20is%20BERT.md)
 
-
+---
+### Question To Consider
 
 
 
