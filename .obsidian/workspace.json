@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b5f4cbbaed3a28e2",
+        "id": "a2b4adcdba7095f5",
         "type": "tabs",
         "children": [
           {
-            "id": "c87e6f4f49a90f19",
+            "id": "ec5d0b10dd8266d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Research/Seminar 1/Seminar - Folder/All Reference.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "All Reference"
+              "title": "New tab"
             }
           }
         ]
@@ -95,8 +90,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -105,12 +100,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Study/First Sem/Subjects/Neural Network (NN)/Units/Unit4/RBF Basis Function Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RBF Basis Function Network"
+              "title": "Outgoing links"
             }
           },
           {
@@ -134,13 +128,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Research/Seminar 1/Seminar - Folder/All Reference.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of All Reference"
+              "title": "Outline"
             }
           },
           {
@@ -162,12 +155,11 @@
               "title": "Backlinks for Paper Quality"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +176,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c87e6f4f49a90f19",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
+    "Main/Research/Seminar 1/Seminar - Folder/All Reference.md",
     "Main/Research/Seminar 1/Seminar 1.md",
     "Main/Research/Seminar 1/Seminar - Folder/Data Preprocessing-Seminar I.md",
     "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignment 3.md",
@@ -198,7 +191,6 @@
     "Main/Research/Seminar 1/Seminar - Folder/Description of Bernoulli NB.md",
     "Main/Research/Seminar 1/Seminar - Folder/Result.md",
     "Main/Study/2-Second Semester/Machine Learning/2-Assignments/2-Assignments.md",
-    "Main/Research/Seminar 1/Seminar - Folder/All Reference.md",
     "Main/Research/Seminar 1/Paper Quality.md",
     "Images/Second_Sem_Images/Result.png",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment.md",
