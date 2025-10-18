@@ -1,5 +1,4 @@
 Made from obsidian note taking app.
- 
 ---
 ## Syllabus
 - [Msc. CSIT Syllabus](Images/First_Sem_Images/courses.pdf)
