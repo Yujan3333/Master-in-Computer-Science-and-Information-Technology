@@ -11,10 +11,12 @@
             "id": "1c5a4879c8d09680",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
             }
           }
         ]
@@ -176,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "1c5a4879c8d09680",
   "lastOpenFiles": [
     "Main/Research/Seminar 1/Seminar - Folder/All Reference.md",
     "Main/Research/Seminar 1/Seminar 1.md",
