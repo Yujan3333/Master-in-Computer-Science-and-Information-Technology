@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8fc08fcc9bacb487",
+        "id": "ddb20a298e528de7",
         "type": "tabs",
         "children": [
           {
-            "id": "1c5a4879c8d09680",
+            "id": "cb277b07b9c95f39",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -178,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c5a4879c8d09680",
+  "active": "cb277b07b9c95f39",
   "lastOpenFiles": [
     "Main/Research/Seminar 1/Seminar - Folder/All Reference.md",
     "Main/Research/Seminar 1/Seminar 1.md",
