@@ -20,7 +20,7 @@
 - [Perceptron](Unit3%20-%20Notes/Perceptron.md)
 - [Perceptron Convergence Theorem](Unit3%20-%20Notes/Perceptron%20Convergence%20Theorem.md)
 -  [Perceptron Learning Algorithm](Unit3%20-%20Notes/Perceptron%20Learning%20Algorithm.md)
-- [Gradient Descent](Unit3%20-%20Notes/Gradient%20Descent.md)
+- [Gradient Descent Detail](Unit3%20-%20Notes/Gradient%20Descent%20Detail.md)
 - [Batch Perceptron Algorithm](Unit3%20-%20Notes/Batch%20Perceptron%20Algorithm.md)
 - [Multilayer Feedforward Network](Unit3%20-%20Notes/Multilayer%20Feedforward%20Network.md)
 - [Back Propagation Network](Unit3%20-%20Notes/Back%20Propagation%20Network.md)

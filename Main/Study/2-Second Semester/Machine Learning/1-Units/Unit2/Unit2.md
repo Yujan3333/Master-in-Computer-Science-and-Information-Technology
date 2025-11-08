@@ -1,0 +1,2 @@
+- [Gradient Descent](Unit%202%20-%20Notes/Gradient%20Descent.md)
+- 

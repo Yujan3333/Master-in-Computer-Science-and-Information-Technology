@@ -1,4 +1,6 @@
 ### 📏 What is a **Slope**?
+- [Slope](../../../../../../2-Second%20Semester/Machine%20Learning/1-Units/Unit2/Unit%202%20-%20Notes/Slope.md)
+
 Imagine a **straight line** on a graph.
 
 - The **slope** tells you how steep the line is.

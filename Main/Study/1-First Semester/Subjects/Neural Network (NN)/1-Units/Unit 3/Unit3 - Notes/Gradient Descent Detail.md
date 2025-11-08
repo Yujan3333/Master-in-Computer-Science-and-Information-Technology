@@ -24,7 +24,7 @@ Imagine you're at the top of a hill (high error), and your goal is to reach the 
 
 
 ### ⚠️ Key Concepts
-- **Learning rate α\alphaα**: Too small → slow learning; too large → might overshoot or diverge.
+- **Learning rate α**: Too small → slow learning; too large → might overshoot or diverge.
     
 - **Convergence**: When changes in the cost function are minimal.
     
@@ -44,4 +44,4 @@ Gradient descent is the backbone of how machine learning models **learn from dat
 
 
 ---
-## [MORE on Gradient Descent](MORE%20on%20Gradient%20Descent.md)
+## [MORE on Gradient Descent and different learning rate](MORE%20on%20Gradient%20Descent%20and%20different%20learning%20rate.md)
