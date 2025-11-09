@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f7ea7b20935f1c94",
+        "id": "8dcd0491276e6b68",
         "type": "tabs",
         "children": [
           {
-            "id": "b9b644745673eb3e",
+            "id": "e0a4d3602b8cc0e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/Unit2/Unit 2.md",
+                "file": "Main/Study/2-Second Semester/WSA/1_Units/U1/Unit 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 2"
+              "title": "Unit 1"
             }
           }
         ]
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +181,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9b644745673eb3e",
+  "active": "e0a4d3602b8cc0e0",
   "lastOpenFiles": [
-    "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Web services.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/Unit 1.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Crawling.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Screen Scraping.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Website syndication.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Online Gaming.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Media Sharing Sites.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Wikis.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Portals.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Mashups.md",
+    "Images/Second_Sem_Images/Unit 1- 3 essence of intelligent syst.png",
+    "Untitled.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1",
+    "Main/Study/2-Second Semester/WSA/1_Units",
+    "Main/Study/2-Second Semester/WSA",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/Unit2/Unit 2.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/Unit2/Unit2_Notes/Unit2_Notes.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/Unit2/Unit2_Notes",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/Unit2",
@@ -206,30 +221,14 @@
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Notes/Gradient Descent Detail.md",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Notes/MORE on Gradient Descent and different learning rate.md",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Notes/What is a Slope and Gradient.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/Unit2/Unit 2 - Notes/Slope.md",
     "Images/Second_Sem_Images/Gradient Descent-pos and neg.png",
     "Images/Second_Sem_Images/Gradient Descent.png",
     "Images/Second_Sem_Images/Slope-curve.png",
     "Images/Second_Sem_Images/Slope-curve slope diff.png",
     "Images/Second_Sem_Images/Slope-curve formula.png",
-    "Images/Second_Sem_Images/Slope-1.png",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/Unit2/Unit 2 - Notes/Unit 2 - Notes.md",
-    "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
-    "Main/Research/Seminar 1/Seminar - Folder/All Reference.md",
-    "Main/Research/Seminar 1/Seminar 1.md",
-    "Main/Research/Seminar 1/Seminar - Folder/Data Preprocessing-Seminar I.md",
-    "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignment 3.md",
-    "Main/Study/2-Second Semester/DWDM/2-Assignments/Class Assignment 1.md",
-    "Main/Research/Seminar 1/Paper Used in Seminar.md",
-    "Main/Research/Seminar 1/Seminar - Folder/Comparison of all naive bayes algorithm.md",
-    "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignment 2.md",
     "Main/Study/2-Second Semester/Machine Learning/2-Assignments/Assignment_notes",
     "Images/First_Sem_Images/courses.pdf",
     "Main/Study/2-Second Semester/CG/2_Assignment/Assignment_Note",
-    "Main/Study/2-Second Semester/CG/2_Assignment",
-    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment_Notes",
-    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment",
-    "Main/Study/2-Second Semester/CG",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"

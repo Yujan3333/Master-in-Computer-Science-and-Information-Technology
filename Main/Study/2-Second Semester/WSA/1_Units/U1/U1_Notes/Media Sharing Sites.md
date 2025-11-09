@@ -1,0 +1,1 @@
+Media-sharing sites, like YouTube, primarily host binary content (videos or audio). They also rely on aggregated and categorized content, with algorithms used to organize, recommend, and extract insights from the media.

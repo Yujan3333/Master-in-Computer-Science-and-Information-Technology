@@ -1,0 +1,3 @@
+Online gaming, especially massively multiplayer online games (MMOs), contains all the key elements needed to build intelligent systems. These games have large amounts of aggregated content, reference structures that define game rules, and algorithms that enhance gameplay.
+
+Computer-controlled characters can learn from human players’ actions, allowing the game to adapt and become more engaging and realistic for users.

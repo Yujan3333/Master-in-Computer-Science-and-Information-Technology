@@ -1,0 +1,3 @@
+Portals serve as gateways to content distributed across the internet or an intranet. A prime example is Google News, which collects news from thousands of sources and automatically groups related stories under categories like Business, Health, World, or Sci/Tech. Users can also customize categories based on their interests.
+
+Such portals rely on aggregated content, reference structures, and algorithms that automatically or semi-automatically organize and present relevant information to users.

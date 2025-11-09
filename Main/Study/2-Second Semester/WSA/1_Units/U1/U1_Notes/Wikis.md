@@ -1,0 +1,1 @@
+Wikis are online knowledge repositories, such as Wikipedia, that serve as content aggregators. Their page creation process naturally adds structure and annotations to the content. Various algorithms support advanced functions like search, clustering, and data analysis.
