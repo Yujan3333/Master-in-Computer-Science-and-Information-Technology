@@ -17,5 +17,10 @@
 				- [Website syndication](./WSA/1_Units/U1/U1_Notes/Website%20syndication.md)
 				- [Wikis](./WSA/1_Units/U1/U1_Notes/Wikis.md)
 			- [Unit 1](./WSA/1_Units/U1/Unit%201.md)
+		- **U2**
+			- **U2_notes**
+				- [Find PageRank and HITS in the numerical](./WSA/1_Units/U2/U2_notes/Find%20PageRank%20and%20HITS%20in%20the%20numerical.md)
+				- [PageRank Algorithm](./WSA/1_Units/U2/U2_notes/PageRank%20Algorithm.md)
+			- [Unit 2](./WSA/1_Units/U2/Unit%202.md)
 
 %% End Waypoint %%

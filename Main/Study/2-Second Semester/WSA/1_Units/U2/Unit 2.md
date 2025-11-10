@@ -1,0 +1,3 @@
+- [PageRank Algorithm](U2_notes/PageRank%20Algorithm.md)
+- [Find PageRank and HITS in the numerical](U2_notes/Find%20PageRank%20and%20HITS%20in%20the%20numerical.md)
+- 
