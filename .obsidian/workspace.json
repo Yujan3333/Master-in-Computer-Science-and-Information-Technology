@@ -4,22 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "40103944f4e5d706",
+        "id": "c0664c355b886e17",
         "type": "tabs",
         "children": [
           {
-            "id": "49a18a5c1ba46de8",
+            "id": "b10605ea86fac5c4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "currentVersion": "1.10.3"
               },
-              "icon": "lucide-file",
-              "title": "Unit 1"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ]
@@ -181,10 +178,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49a18a5c1ba46de8",
+  "active": "b10605ea86fac5c4",
   "lastOpenFiles": [
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes/Unit1_Notes.md",
+    "Main/Untitled.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit 1.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes/Unit1_Notes.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes/Untitled",
     "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes",
@@ -221,7 +219,6 @@
     "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Gradient Descent.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Types of Gradient Descent.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Convex Vs Non-Convex Functions.md",
     "Images/Second_Sem_Images/Convex Vs Non-Convex Functions-2.png",
     "Images/Second_Sem_Images/Convex Vs Non-Convex Functions-2.jpeg",
     "Images/Second_Sem_Images/Convex Vs Non-Convex Functions-2.jpeg",
