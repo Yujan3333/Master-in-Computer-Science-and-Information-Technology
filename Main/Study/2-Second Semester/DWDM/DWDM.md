@@ -1,7 +1,9 @@
 %% Begin Waypoint %%
 - **1-Units**
-	- **[Unit1](./1-Units/Unit1/Unit1.md)**
-		- **Unit 1 - Notes**
+	- **U1**
+		- [Unit1](./1-Units/U1/Unit1.md)
+	- **U9**
+		- [Unit 9](./1-Units/U9/Unit%209.md)
 - **2-Assignments**
 	- [Assignment 1](./2-Assignments/Assignment%201.md)
 	- [Assignment 2](./2-Assignments/Assignment%202.md)

@@ -11,13 +11,31 @@
             "id": "13a9f001c1383240",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/DWDM/1-Units/U9/Unit 9.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Unit 9"
+            }
+          },
+          {
+            "id": "d156feb9618762ec",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,12 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Main/Study/2-Second Semester/DWDM/1-Units/U9/Unit 9.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Unit 9"
             }
           },
           {
@@ -177,8 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b3ed38c5d7242a79",
+  "active": "d156feb9618762ec",
   "lastOpenFiles": [
+    "Main/Study/2-Second Semester/DWDM/1-Units/U9/Unit 9.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U9",
     "Main/Untitled.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit 1.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes/Unit1_Notes.md",
@@ -213,11 +234,9 @@
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/Unit2/Unit 2.md",
     "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/Unit2/Unit2_Notes/Unit2_Notes.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/Unit2/Unit2_Notes",
     "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment_Notes/Processor Parallelism.md",
     "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Gradient Descent.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Types of Gradient Descent.md",
     "Images/Second_Sem_Images/Convex Vs Non-Convex Functions-2.png",
     "Images/Second_Sem_Images/Convex Vs Non-Convex Functions-2.jpeg",
     "Images/Second_Sem_Images/Convex Vs Non-Convex Functions-2.jpeg",
