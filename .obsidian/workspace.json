@@ -21,21 +21,8 @@
               "icon": "lucide-file",
               "title": "Unit 9"
             }
-          },
-          {
-            "id": "d156feb9618762ec",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d156feb9618762ec",
+  "active": "13a9f001c1383240",
   "lastOpenFiles": [
     "Main/Study/2-Second Semester/DWDM/1-Units/U9/Unit 9.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U9",
