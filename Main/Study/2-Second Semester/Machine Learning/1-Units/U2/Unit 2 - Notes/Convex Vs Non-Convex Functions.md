@@ -7,9 +7,7 @@ A **convex** function is one where the line segment between any two points on th
 * **Property**: Any line connecting two points on the curve stays **above or on** the curve.
 * **Optimization**: Has **only one global minimum** — if you're going downhill, you're guaranteed to reach the lowest point.
 * **Example**:
-  [
-  f(x) = x^2
-  ]
+  [ f(x) = x^2 ]
   The curve is U-shaped.
 
 
@@ -22,12 +20,11 @@ A **convex** function is one where the line segment between any two points on th
 * **Property**: A line connecting two points might dip below the curve in places.
 * **Optimization**: Can have **multiple minima** — you might get stuck in a **local minimum** that isn’t the absolute lowest.
 * **Example**:
-  [
-  f(x) = x^3 - 3x
-  ]
+  [ f(x) = x^3 - 3x]
   The curve bends both up and down.
 
 ![](../../../../../../../Images/Second_Sem_Images/Convex%20Vs%20Non-Convex%20Functions-2.png)
+
 ---
 
 ### 🤖 Why It Matters in Machine Learning

@@ -1,2 +1,2 @@
 - [Gradient Descent](Unit%202%20-%20Notes/Gradient%20Descent.md)
-- 
+- [Linear Regression](Unit%202%20-%20Notes/Linear%20Regression.md)
