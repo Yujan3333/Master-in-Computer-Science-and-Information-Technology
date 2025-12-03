@@ -112,3 +112,6 @@ $$
 
 ---
 ## [Linear Regression - Explanation of the w_0 and w_1 update rule](Linear%20Regression%20-%20Explanation%20of%20the%20w_0%20and%20w_1%20update%20rule.md)
+
+---
+

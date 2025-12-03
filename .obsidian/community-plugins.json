@@ -7,11 +7,11 @@
   "obsidian-folder-focus-mode",
   "obsidian-git",
   "obsidian-image-toolkit",
-  "obsidian-paste-image-rename",
-  "obsidian-paste-to-current-indentation",
   "obsidian-sort-and-permute-lines",
   "obsidian-style-settings",
-  "obsidian-text-format",
   "waypoint",
-  "wikilinks-to-mdlinks-obsidian"
+  "wikilinks-to-mdlinks-obsidian",
+  "obsidian-paste-image-rename",
+  "obsidian-paste-to-current-indentation",
+  "obsidian-text-format"
 ]

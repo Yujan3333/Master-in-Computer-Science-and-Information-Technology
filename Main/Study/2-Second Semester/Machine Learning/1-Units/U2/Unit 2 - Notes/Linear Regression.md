@@ -27,18 +27,23 @@ If we assume that:
 
 then the regression equation becomes:
 
-[ y = f(x) = w_0 + w_1 x ]
+$y = f(x) = w_0 + w_1 x$
 
 Where:
 
-* ( w_0 ) = intercept (bias)
-* ( w_1 ) = slope (weight) of the line
+* ( $w_0$ ) = intercept (bias)
+* ( $w_1$ ) = slope (weight) of the line
 * ( x ) = input
 * ( y ) = predicted output
 
 ==[Intercept Vs Slope](Intercept%20Vs%20Slope.md)==
 
 ---
-###  Error Function
+### ⭐Error Function
 
 [Linear Regression - Error Function Explanation](Linear%20Regression%20-%20Error%20Function%20Explanation.md)
+
+---
+### ⭐[Linear Regression Numerical](Linear%20Regression%20Numerical.md)
+
+---

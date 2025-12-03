@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35aa5ad3c98ceb02",
+            "id": "1913891204bd545b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "0cfd2243dcb3fe49",
+            "id": "0e28478c3cafec4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -38,18 +38,18 @@
             }
           },
           {
-            "id": "84f534c06818f3f9",
+            "id": "50688ab91e7d58aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression - Error Function Explanation.md",
+                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression Numerical.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Linear Regression - Error Function Explanation"
+              "title": "Linear Regression Numerical"
             }
           }
         ],
@@ -126,8 +126,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression - Error Function Explanation.md",
+                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression Numerical.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linear Regression - Error Function Explanation"
+              "title": "Outline of Linear Regression Numerical"
             }
           },
           {
@@ -192,8 +192,7 @@
               "title": "Backlinks for Paper Quality"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,16 +213,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84f534c06818f3f9",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression - Explanation of the w_0 and w_1 update rule.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression - Error Function Explanation.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Intercept Vs Slope.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression SGD and BGD with two x - Numerical Answer.md",
+    "Images/Second_Sem_Images/Linear Regression SGD and BGD with two x - Numerical Answer.png",
+    "Images/Second_Sem_Images/Pasted image 20251203115319.png",
+    "Images/Second_Sem_Images/Linear Regression SGD and BGD with two x - Numerical Answer-2.png",
+    "Images/Second_Sem_Images/Linear Regression SGD and BGD with two x - Numerical Answer-1.png",
+    "Images/Second_Sem_Images/Linear Regression SGD and BGD with two x - Numerical Answer.png",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression Numerical.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression SGD -numerical-answer.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression BGD - Numerical Answer.md",
+    "Images/Second_Sem_Images/Linear Regression BGD - Numerical Answer.png",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Things to be mindful of while doing the Linear Regression Numerical.md",
+    "Images/Second_Sem_Images/Linear Regression-num.png",
+    "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Gradient Descent.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit 1.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes/Unit1_Notes.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression - Error Function Explanation.md",
+    "Images/Second_Sem_Images/Linear Regression - Error Function Explanation.png",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression - Explanation of the w_0 and w_1 update rule.md",
+    "Images/Second_Sem_Images/Linear Regression - Error Function Explanation-1.png",
+    "Images/Second_Sem_Images/Linear Regression - Error Function Explanation-Numerical.png",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Intercept Vs Slope.md",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Notes/Gradient Descent Detail.md",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Notes/MORE on Gradient Descent and different learning rate.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Gradient Descent.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Slope.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Convex Vs Non-Convex Functions.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Types of Gradient Descent.md",
@@ -231,37 +248,18 @@
     "Main/Study/2-Second Semester/DWDM/1-Units/U9/Unit 9.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U9",
     "Main/Untitled.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit 1.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes/Unit1_Notes.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes/Untitled",
-    "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1",
     "Main/Study/2-Second Semester/WSA/1_Units/U2/Unit 2.md",
     "Main/Study/2-Second Semester/WSA/1_Units/U2/U2_notes/Find PageRank and HITS in the numerical.md",
-    "Images/Second_Sem_Images/Find PageRank and HITS in the numerical-que2.png",
     "Main/Study/2-Second Semester/WSA/1_Units/U2/U2_notes/PageRank Algorithm.md",
-    "Images/Second_Sem_Images/PageRank Algorithm-que.png",
     "Main/Study/2-Second Semester/WSA/1_Units/U2/U2_notes",
-    "Main/Study/2-Second Semester/WSA/1_Units/U1/Unit 1.md",
     "Main/Study/2-Second Semester/WSA/1_Units/U2",
-    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Web services.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Crawling.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Screen Scraping.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Website syndication.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Online Gaming.md",
-    "Images/Second_Sem_Images/Unit 1- 3 essence of intelligent syst.png",
     "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes",
     "Main/Study/2-Second Semester/WSA/1_Units/U1",
     "Main/Study/2-Second Semester/WSA/1_Units",
     "Main/Study/2-Second Semester/WSA",
-    "Images/Second_Sem_Images/Convex Vs Non-Convex Functions-2.png",
-    "Images/Second_Sem_Images/Convex Vs Non-Convex Functions-2.jpeg",
-    "Images/Second_Sem_Images/Convex Vs Non-Convex Functions-2.jpeg",
-    "Images/Second_Sem_Images/Pasted image 20251104221746.png",
-    "Images/Second_Sem_Images/Gradient Descent-pos and neg.png",
-    "Images/Second_Sem_Images/Gradient Descent.png",
-    "Images/Second_Sem_Images/Slope-curve.png",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
