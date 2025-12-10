@@ -6,12 +6,12 @@
   "obsidian-file-color",
   "obsidian-folder-focus-mode",
   "obsidian-git",
-  "obsidian-image-toolkit",
   "obsidian-sort-and-permute-lines",
   "obsidian-style-settings",
   "waypoint",
   "wikilinks-to-mdlinks-obsidian",
   "obsidian-paste-image-rename",
   "obsidian-paste-to-current-indentation",
-  "obsidian-text-format"
+  "obsidian-text-format",
+  "obsidian-image-toolkit"
 ]

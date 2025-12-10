@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c71c64f2b6deaa17",
+        "id": "32516736aaef5bec",
         "type": "tabs",
         "children": [
           {
-            "id": "1913891204bd545b",
+            "id": "c6842a459534cec6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "e9ef62ae5b1835c1",
+            "id": "f5f39d9e5723056d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -198,9 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "f5f39d9e5723056d",
   "lastOpenFiles": [
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2.md",
+    "Main/Study/1-First Semester/Subjects/Object Oriented Software Engineering (OOSE)/3-Past Questions/2082 - OOSE Board.md",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/3-Past Que/2082- Neural Network.md",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit2 - Notes/Logistic Regression.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression Numerical.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression SGD and BGD with two x - Numerical Answer.md",
@@ -238,8 +240,6 @@
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1",
     "Main/Study/2-Second Semester/WSA/1_Units/U2/Unit 2.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U2/U2_notes/Find PageRank and HITS in the numerical.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U2/U2_notes/PageRank Algorithm.md",
     "Main/Study/2-Second Semester/WSA/1_Units/U2/U2_notes",
     "Main/Study/2-Second Semester/WSA/1_Units/U2",
     "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes",
