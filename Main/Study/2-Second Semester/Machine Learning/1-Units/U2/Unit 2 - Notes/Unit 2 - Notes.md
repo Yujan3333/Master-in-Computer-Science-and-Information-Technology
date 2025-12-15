@@ -11,6 +11,7 @@
 - [Linear Regression SGD -numerical-answer](./Linear%20Regression%20SGD%20-numerical-answer.md)
 - [Linear Regression SGD and BGD with two x - Numerical Answer](./Linear%20Regression%20SGD%20and%20BGD%20with%20two%20x%20-%20Numerical%20Answer.md)
 - [Linear Regression](./Linear%20Regression.md)
+- [Multinomial Logistic Regression](./Multinomial%20Logistic%20Regression.md)
 - [Sigmoid Function](./Sigmoid%20Function.md)
 - [Slope](./Slope.md)
 - [Stochastic Gradient Descent](./Stochastic%20Gradient%20Descent.md)
