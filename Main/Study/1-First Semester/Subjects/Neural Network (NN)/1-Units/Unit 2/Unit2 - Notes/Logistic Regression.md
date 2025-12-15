@@ -3,7 +3,12 @@
    
    * A **binary classification algorithm** (predicts 0 or 1).
    * Similar to linear regression but **uses a logistic (sigmoid) function** to convert outputs into **probabilities between 0 and 1**.
-   
+##### Figure of fitting the curve
+![](../../../../../../../../Images/Second_Sem_Images/Logistic%20Regression-%20figure.png)
+- Describing the curve here using the `sigmoid function` we change -$\infty$  to +$\infty$ to `0 to 1`.
+- [Sigmoid Function](../../../../../../2-Second%20Semester/Machine%20Learning/1-Units/U2/Unit%202%20-%20Notes/Sigmoid%20Function.md) makes the `S-shape curve`
+
+
    ---
    
 ## 🌻 Logistic (Sigmoid) Function:
