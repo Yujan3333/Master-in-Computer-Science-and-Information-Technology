@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "ebf7e6f4b4402833",
+        "id": "6895b50b8a911b5b",
         "type": "tabs",
         "children": [
           {
-            "id": "9769b28ad9aca5ae",
+            "id": "07cb577b89b18b39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2077.md",
+                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2077"
+              "title": "Unit2"
+            }
+          },
+          {
+            "id": "5aa4008801e9a405",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Multinomial Logistic Regression.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Multinomial Logistic Regression"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +178,8 @@
               "title": "Backlinks for Paper Quality"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,13 +200,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9769b28ad9aca5ae",
+  "active": "5aa4008801e9a405",
   "lastOpenFiles": [
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2.md",
+    "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit 1.md",
+    "Main/Study/2-Second Semester/2-Second Semester.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/Unit1_Notes.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment.md",
+    "Main/Study/1-First Semester/Old Questions/Csit_oldquestions.pdf",
+    "Main/Study/1-First Semester/Old Questions/First Sem - Old Questions.md",
+    "Main/Study/1-First Semester/1-First Semester.md",
+    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
+    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Process Management and Synchronization.md",
+    "Main/Study/2-Second Semester/WSA/WSA.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/U1_Notes.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit 1.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/Examples of Phases of Compiler.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/Phases of Comipler-Example1.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/Phases of Comipler-Example2.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/Untitled.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2077.md",
     "Images/Second_Sem_Images/2077-3.png",
     "Images/Second_Sem_Images/2077-2.png",
     "Images/Second_Sem_Images/2077-1.png",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2070.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2077.md",
     "Images/Second_Sem_Images/2070.png",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2071.md",
     "Images/Second_Sem_Images/2071.png",
@@ -201,36 +239,15 @@
     "Images/Second_Sem_Images/2074-1.png",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2075.md",
     "Images/Second_Sem_Images/2075-2.png",
-    "Images/Second_Sem_Images/2075-1.png",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2076.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2078.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2079.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2081.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/Unit2/Unit 2.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/Unit2/Unit2_Notes/Unit2_Notes.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Multinomial Logistic Regression.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2.md",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit2 - Notes/Logistic Regression.md",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit2 - Notes/Numerical of Logistic Regression from Slide -2.md",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit2 - Notes/Numerical of Logistic Regression from Slide-1.md",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit2 - Notes/Updating the weight and bias in logistic regression using the cost function.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Sigmoid Function.md",
-    "Main/Study/1-First Semester/Subjects/Object Oriented Software Engineering (OOSE)/3-Past Questions/2082 - OOSE Board.md",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/3-Past Que/2082- Neural Network.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression Numerical.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression SGD and BGD with two x - Numerical Answer.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Linear Regression SGD -numerical-answer.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U9",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes/Untitled",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1",
     "Main/Study/2-Second Semester/WSA/1_Units/U2/U2_notes",
     "Main/Study/2-Second Semester/WSA/1_Units/U2",
-    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes",
-    "Main/Study/2-Second Semester/WSA/1_Units/U1",
-    "Main/Study/2-Second Semester/WSA/1_Units",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
