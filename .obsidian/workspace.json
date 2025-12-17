@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "5aa4008801e9a405",
+            "id": "ef7febb885c2bcc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,9 +36,54 @@
               "icon": "lucide-file",
               "title": "Multinomial Logistic Regression"
             }
+          },
+          {
+            "id": "d93b7706ff103adb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit 1"
+            }
+          },
+          {
+            "id": "9c8f6e5e66ece2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/Data Hazard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Data Hazard"
+            }
+          },
+          {
+            "id": "6a8d52b26720b879",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/RAW vs WAR vs WAW.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "RAW vs WAR vs WAW"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Multinomial Logistic Regression.md",
+                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/RAW vs WAR vs WAW.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Multinomial Logistic Regression"
+              "title": "Outline of RAW vs WAR vs WAW"
             }
           },
           {
@@ -200,9 +245,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5aa4008801e9a405",
+  "active": "6a8d52b26720b879",
   "lastOpenFiles": [
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/Data Hazard.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/RAW vs WAR vs WAW.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit 1.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/Examples of Phases of Compiler.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Multinomial Logistic Regression.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2.md",
+    "Main/Research/Expansion on Seminar I.md",
     "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit 1.md",
     "Main/Study/2-Second Semester/2-Second Semester.md",
@@ -216,8 +267,6 @@
     "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Process Management and Synchronization.md",
     "Main/Study/2-Second Semester/WSA/WSA.md",
     "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/U1_Notes.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit 1.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/Examples of Phases of Compiler.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/Phases of Comipler-Example1.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/Phases of Comipler-Example2.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes",
@@ -234,13 +283,9 @@
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2072.md",
     "Images/Second_Sem_Images/2072-2.png",
     "Images/Second_Sem_Images/2072-1.png",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2074.md",
     "Images/Second_Sem_Images/2074-2.png",
     "Images/Second_Sem_Images/2074-1.png",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2075.md",
     "Images/Second_Sem_Images/2075-2.png",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2076.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2078.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions",
     "Main/Study/2-Second Semester/DWDM/1-Units/U9",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes/Untitled",

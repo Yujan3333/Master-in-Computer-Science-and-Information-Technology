@@ -1,4 +1,12 @@
 - Structure of Compiler
 - Phases of a compiler
 	- [Examples of Phases of Compiler](Unit1_Notes/Examples%20of%20Phases%20of%20Compiler.md)
+- Instruction Pipelining
+- Pipeline Hazards
+	- Control Hazard
+	- [Data Hazard](Unit1_Notes/Data%20Hazard.md)
+		- RAW
+		- WAR
+		- WAW
+	- Structural Hazard
 - 
