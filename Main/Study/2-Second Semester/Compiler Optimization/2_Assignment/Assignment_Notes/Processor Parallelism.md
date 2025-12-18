@@ -1,4 +1,4 @@
-### **Processor Parallelization in Compiler Optimization**
+- [Processor Parallelism - Exam Ready](Processor%20Parallelism%20-%20Exam%20Ready.md)
 
 **Processor parallelization** in the context of **compiler optimization** refers to the techniques a compiler uses to exploit the underlying hardware’s ability to execute **multiple instructions or tasks simultaneously**. Modern processors are designed with parallelism in mind—whether at the instruction level (ILP), thread level (TLP), or data level (DLP)—and compilers play a crucial role in **unlocking and utilizing** this potential during code generation and transformation.
 

@@ -9,4 +9,6 @@
 		- WAR
 		- WAW
 	- Structural Hazard
-- 
+- [Multiple Issue Processor](Multiple%20Issue%20Processor.md)
+	- [Superscalar Vs VLIW](Unit1_Notes/Superscalar%20Vs%20VLIW.md)
+- [Processor Parallelism](Processor%20Parallelism.md)
