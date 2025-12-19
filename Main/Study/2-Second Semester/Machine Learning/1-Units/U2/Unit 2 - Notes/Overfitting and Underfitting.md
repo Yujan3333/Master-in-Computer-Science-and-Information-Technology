@@ -120,3 +120,5 @@ A model that memorizes **every single point** instead of learning the general tr
 > Underfitting is associated with high bias, while overfitting is associated with high variance.
 
 ---
+## Figurative
+![](../../../../../../../Images/Second_Sem_Images/Overfitting%20and%20Underfitting.png)
