@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- **[ADC](./ADC/ADC.md)**
 - **[CG](./CG/CG.md)**
 - **[Compiler Optimization](./Compiler%20Optimization/Compiler%20Optimization.md)**
 - **[DWDM](./DWDM/DWDM.md)**

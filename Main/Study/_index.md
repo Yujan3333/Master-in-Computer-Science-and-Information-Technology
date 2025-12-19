@@ -1,4 +1,4 @@
-## [1-First Semester](1-First%20Semester/1-First%20Semester.md)
+## First Semester
 
 - [Neural Network (NN)](1-First%20Semester/Subjects/Neural%20Network%20(NN)/Neural%20Network%20(NN).md)
 - [Parallel and Distributed Computing (PDC)](1-First%20Semester/Subjects/Parallel%20and%20Distributed%20Computing%20(PDC)/Parallel%20and%20Distributed%20Computing%20(PDC).md)
@@ -8,4 +8,13 @@
 
 ---
 ---
-## [2-Second Semester](2-Second%20Semester/2-Second%20Semester.md)
+## Second Semester
+
+- [Machine Learning (ML)](2-Second%20Semester/Machine%20Learning/Machine%20Learning.md)
+- [Compiler Optimization (CO)](2-Second%20Semester/Compiler%20Optimization/Compiler%20Optimization.md)
+- [Web Systems and Algorithms (WSA)](2-Second%20Semester/WSA/WSA.md)
+- [Data Warehouse and Data Mining (DWDM)](2-Second%20Semester/DWDM/DWDM.md)
+- [Advance Database Concepts (ADC)](2-Second%20Semester/ADC/ADC.md)
+- [Computational Geometry (CG)](2-Second%20Semester/CG/CG.md)
+---
+---

@@ -15,8 +15,8 @@ Made from obsidian note taking app.
 ## Semester
 - 4 Semester 2 year Program
 
-
-### [First Semester](Main/Study/_index.md)
+# [Overview](Main/Study/_index.md)
+### First Semester
 
 - [Neural Network (NN)](Main/Study/1-First%20Semester/Subjects/Neural%20Network%20(NN)/Neural%20Network%20(NN).md)
 - [Parallel and Distributed Computing (PDC)](Main/Study/1-First%20Semester/Subjects/Parallel%20and%20Distributed%20Computing%20(PDC)/Parallel%20and%20Distributed%20Computing%20(PDC).md)
@@ -26,3 +26,10 @@ Made from obsidian note taking app.
 
 ---
 ### Second Semester
+
+- [Machine Learning (ML)](Main/Study/2-Second%20Semester/Machine%20Learning/Machine%20Learning.md)
+- [Web Systems and Algorithms (WSA)](Main/Study/2-Second%20Semester/WSA/WSA.md)
+- [Computational Geometry (CG)](Main/Study/2-Second%20Semester/CG/CG.md)
+- [Compiler Optimization (CO)](Main/Study/2-Second%20Semester/Compiler%20Optimization/Compiler%20Optimization.md)
+- [Data Warehouse and Data Mining (DWDM)](Main/Study/2-Second%20Semester/DWDM/DWDM.md)
+- [Advance Database Concepts (ADC)](Main/Study/2-Second%20Semester/ADC/ADC.md)
