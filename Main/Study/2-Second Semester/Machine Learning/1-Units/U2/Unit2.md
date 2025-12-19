@@ -11,3 +11,7 @@
 
 ---
 - [Multinomial Logistic Regression](Unit%202%20-%20Notes/Multinomial%20Logistic%20Regression.md)
+	- [Multinomial Logistic Regression - Numerical](Unit%202%20-%20Notes/Multinomial%20Logistic%20Regression%20-%20Numerical.md)
+
+---
+- [Overfitting and Underfitting](Unit%202%20-%20Notes/Overfitting%20and%20Underfitting.md)
