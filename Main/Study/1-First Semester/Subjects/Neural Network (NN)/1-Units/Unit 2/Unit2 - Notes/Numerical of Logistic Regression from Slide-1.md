@@ -24,51 +24,35 @@ $x_1 = 0.22,\ x_2 = 0.14,\ y = 0$
 ## Logistic Regression Model
 
 Linear combination:
-$$
-z = w_0 + w_1 x_1 + w_2 x_2
-$$
+$$z = w_0 + w_1 x_1 + w_2 x_2$$
 
 Sigmoid (prediction):
-$$
-\hat y = \frac{1}{1 + e^{-z}}
-$$
+$$\hat y = \frac{1}{1 + e^{-z}}$$
 
 ---
 
 ## Initial weights (given)
 
-$$
-w_0 = 0,\quad w_1 = 0,\quad w_2 = 0
-$$
+$$w_0 = 0,\quad w_1 = 0,\quad w_2 = 0$$
 
 ---
 
 ## Learning rate (assumed)
 
 Since not given, we assume:
-$$
-\alpha = 0.1
-$$
+$$\alpha = 0.1$$
 
 ---
 
 ## SGD Gradient formulas (single sample)
 
 Error:
-$$
-\text{error} = \hat y - y
-$$
+$$\text{error} = \hat y - y$$
 
 Weight updates:
-$$
-w_0 = w_0 - \alpha(\hat y - y)
-$$
-$$
-w_1 = w_1 - \alpha(\hat y - y)x_1
-$$
-$$
-w_2 = w_2 - \alpha(\hat y - y)x_2
-$$
+$$w_0 = w_0 - \alpha(\hat y - y)$$
+$$w_1 = w_1 - \alpha(\hat y - y)x_1$$
+$$w_2 = w_2 - \alpha(\hat y - y)x_2$$
 
 ---
 

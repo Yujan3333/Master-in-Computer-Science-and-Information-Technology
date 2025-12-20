@@ -4,8 +4,35 @@
 		- [Unit 1](./1-Units/U1/Unit%201.md)
 		- **[Unit1_Notes](./1-Units/U1/Unit1_Notes/Unit1_Notes.md)**
 	- **U2**
-		- **[Unit 2 - Notes](./1-Units/U2/Unit%202%20-%20Notes/Unit%202%20-%20Notes.md)**
-		- [Unit2](./1-Units/U2/Unit2.md)
+		- [Unit 2](./1-Units/U2/Unit%202.md)
+		- **Unit2 - Notes**
+			- [Batch Gradient Descent](./1-Units/U2/Unit2%20-%20Notes/Batch%20Gradient%20Descent.md)
+			- [Batch gradient doesnot allow to update model online](./1-Units/U2/Unit2%20-%20Notes/Batch%20gradient%20doesnot%20allow%20to%20update%20model%20online.md)
+			- [Confusion in the ith part](./1-Units/U2/Unit2%20-%20Notes/Confusion%20in%20the%20ith%20part.md)
+			- [Convex Vs Non-Convex Functions](./1-Units/U2/Unit2%20-%20Notes/Convex%20Vs%20Non-Convex%20Functions.md)
+			- [Gradient Descent](./1-Units/U2/Unit2%20-%20Notes/Gradient%20Descent.md)
+			- [High variance](./1-Units/U2/Unit2%20-%20Notes/High%20variance.md)
+			- [Intercept Vs Slope](./1-Units/U2/Unit2%20-%20Notes/Intercept%20Vs%20Slope.md)
+			- [Linear Regression - Error Function Explanation](./1-Units/U2/Unit2%20-%20Notes/Linear%20Regression%20-%20Error%20Function%20Explanation.md)
+			- [Linear Regression - Explanation of the w_0 and w_1 update rule](./1-Units/U2/Unit2%20-%20Notes/Linear%20Regression%20-%20Explanation%20of%20the%20w_0%20and%20w_1%20update%20rule.md)
+			- [Linear Regression BGD - Numerical Answer](./1-Units/U2/Unit2%20-%20Notes/Linear%20Regression%20BGD%20-%20Numerical%20Answer.md)
+			- [Linear Regression Numerical](./1-Units/U2/Unit2%20-%20Notes/Linear%20Regression%20Numerical.md)
+			- [Linear Regression SGD -numerical-answer](./1-Units/U2/Unit2%20-%20Notes/Linear%20Regression%20SGD%20-numerical-answer.md)
+			- [Linear Regression SGD and BGD with two x - Numerical Answer](./1-Units/U2/Unit2%20-%20Notes/Linear%20Regression%20SGD%20and%20BGD%20with%20two%20x%20-%20Numerical%20Answer.md)
+			- [Linear Regression](./1-Units/U2/Unit2%20-%20Notes/Linear%20Regression.md)
+			- [Locally Weighted Regression](./1-Units/U2/Unit2%20-%20Notes/Locally%20Weighted%20Regression.md)
+			- [Multinomial Logistic Regression - Numerical](./1-Units/U2/Unit2%20-%20Notes/Multinomial%20Logistic%20Regression%20-%20Numerical.md)
+			- [Multinomial Logistic Regression](./1-Units/U2/Unit2%20-%20Notes/Multinomial%20Logistic%20Regression.md)
+			- [Overfitting and Underfitting](./1-Units/U2/Unit2%20-%20Notes/Overfitting%20and%20Underfitting.md)
+			- [Regularization](./1-Units/U2/Unit2%20-%20Notes/Regularization.md)
+			- [Sigmoid Function](./1-Units/U2/Unit2%20-%20Notes/Sigmoid%20Function.md)
+			- [Slope](./1-Units/U2/Unit2%20-%20Notes/Slope.md)
+			- [Stochastic Gradient Descent](./1-Units/U2/Unit2%20-%20Notes/Stochastic%20Gradient%20Descent.md)
+			- [Things to be mindful of while doing the Linear Regression Numerical](./1-Units/U2/Unit2%20-%20Notes/Things%20to%20be%20mindful%20of%20while%20doing%20the%20Linear%20Regression%20Numerical.md)
+			- [Types of Gradient Descent](./1-Units/U2/Unit2%20-%20Notes/Types%20of%20Gradient%20Descent.md)
+			- [Unit 2 - Notes](./1-Units/U2/Unit2%20-%20Notes/Unit%202%20-%20Notes.md)
+			- [Value of w(i) in the LWR](./1-Units/U2/Unit2%20-%20Notes/Value%20of%20w(i)%20in%20the%20LWR.md)
+			- [Why are we needed to retrain everything in batch gradient to accumulate new data](./1-Units/U2/Unit2%20-%20Notes/Why%20are%20we%20needed%20to%20retrain%20everything%20in%20batch%20gradient%20to%20accumulate%20new%20data.md)
 - **[2-Assignments](./2-Assignments/2-Assignments.md)**
 	- **Assignment_notes**
 		- [Lab1-Contd Explanation](./2-Assignments/Assignment_notes/Lab1-Contd%20Explanation.md)

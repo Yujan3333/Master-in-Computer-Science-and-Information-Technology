@@ -6,7 +6,7 @@
 ##### Figure of fitting the curve
 ![](../../../../../../../../Images/Second_Sem_Images/Logistic%20Regression-%20figure.png)
 - Describing the curve here using the `sigmoid function` we change -$\infty$  to +$\infty$ to `0 to 1`.
-- [Sigmoid Function](../../../../../../2-Second%20Semester/Machine%20Learning/1-Units/U2/Unit%202%20-%20Notes/Sigmoid%20Function.md) makes the `S-shape curve`
+- [Sigmoid Function](../../../../../../2-Second%20Semester/Machine%20Learning/1-Units/U2/Unit2%20-%20Notes/Sigmoid%20Function.md) makes the `S-shape curve`
 
 ## Derivation of the Update function
 - [Updating the weight and bias in logistic regression using the cost function](Updating%20the%20weight%20and%20bias%20in%20logistic%20regression%20using%20the%20cost%20function.md)
