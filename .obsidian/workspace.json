@@ -4,25 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "5a5eb439616ef419",
+        "id": "71ecb2a7b9f92b06",
         "type": "tabs",
         "children": [
           {
-            "id": "ddc24fa61cecfaf0",
+            "id": "91a5f442fc135ddd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit 3.md",
+                "file": "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit 5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 3"
+              "title": "Unit 5"
+            }
+          },
+          {
+            "id": "2bff0d9167e87ae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit5-Notes/Differences betn Bagging and Boosting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Differences betn Bagging and Boosting"
+            }
+          },
+          {
+            "id": "0aa4bcaf7d9c607b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit5-Notes/Ensemble Technique.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Ensemble Technique"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit 3.md",
+                "file": "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit5-Notes/Differences betn Bagging and Boosting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 3"
+              "title": "Outline of Differences betn Bagging and Boosting"
             }
           },
           {
@@ -162,7 +193,8 @@
               "title": "Backlinks for Paper Quality"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,8 +215,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ddc24fa61cecfaf0",
+  "active": "71c075a01e4cfe4e",
   "lastOpenFiles": [
+    "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit5-Notes/Differences betn Bagging and Boosting.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit 5.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit5-Notes/Ensemble Technique.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit5-Notes",
+    "Main/Study/2-Second Semester/WSA/1_Units/U5",
+    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit 4.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/Unit 4-all main topics collec.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/Difference between K Mean and Kmediod.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes",
+    "Main/Study/2-Second Semester/WSA/1_Units/U4",
+    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit 3.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit3_Notes/Content Based Recommendation.md",
+    "Images/Second_Sem_Images/Content Based Recommendation---2.png",
+    "Images/Second_Sem_Images/Content Based Recommendation-1.png",
+    "Images/Second_Sem_Images/Content Based Recommendation-que.png",
+    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit3_Notes/Collaborative Filtering NUM.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U2/Unit 2.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U2/Page Rank Vs HITS.md",
+    "Images/Second_Sem_Images/Collaborative Filtering NUM1.png",
+    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit3_Notes/Association Rule Mining.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit3_Notes/Apriori Algorithm.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/Unit 1.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Crawling.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U1/U1_Notes/Screen Scraping.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit3_Notes",
+    "Main/Study/2-Second Semester/WSA/1_Units/U3",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit 3.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit3_Notes/Induction Variable Substitution.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U2/Unit 2.md",
@@ -198,39 +256,13 @@
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2078.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2079.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2081.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2070.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Locally Weighted Regression.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Value of w(i) in the LWR.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Confusion in the ith part.md",
     "Images/Second_Sem_Images/Locally Weighted Regression-fig.png",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit2 - Notes/Numerical of Logistic Regression from Slide-1.md",
-    "README.md",
-    "Main/Study/_index.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Regularization.md",
-    "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
-    "Main/Study/2-Second Semester/WSA/WSA.md",
-    "Main/Study/2-Second Semester/2-Second Semester.md",
-    "Main/Study/2-Second Semester/ADC/ADC.md",
     "Main/Study/2-Second Semester/ADC/1_Units",
     "Main/Study/2-Second Semester/ADC",
-    "Main/Study/2-Second Semester/CG/CG.md",
-    "Main/Study/1-First Semester/1-First Semester.md",
     "Images/Second_Sem_Images/Overfitting and Underfitting.png",
     "Images/Second_Sem_Images/Multinomial Logistic Regression - Numerical.png",
-    "Main/Study/1-First Semester/Old Questions/Csit_oldquestions.pdf",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1",
     "Images/Second_Sem_Images/2077-3.png",
     "Images/Second_Sem_Images/2077-2.png",
-    "Images/Second_Sem_Images/2077-1.png",
-    "Images/Second_Sem_Images/2070.png",
-    "Images/Second_Sem_Images/2071.png",
-    "Images/Second_Sem_Images/2072-2.png",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U9",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit1_Notes/Untitled",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
