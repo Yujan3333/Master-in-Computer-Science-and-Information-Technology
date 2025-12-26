@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "478357ed8be1667b",
+        "id": "e8b56e090e86d774",
         "type": "tabs",
         "children": [
           {
-            "id": "291c2648bc00de72",
+            "id": "bfc03ddc6badaa94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2.md",
-                "mode": "preview",
+                "file": "Main/Study/2-Second Semester/ADC/1_Units/U2/Overview of Unit 2.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 2"
+              "title": "Overview of Unit 2"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2.md",
+                "file": "Main/Study/2-Second Semester/ADC/1_Units/U2/Overview of Unit 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 2"
+              "title": "Outline of Overview of Unit 2"
             }
           },
           {
@@ -183,10 +183,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "291c2648bc00de72",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit2 - Notes/Numerical of Logistic Regression from Slide -2.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2/Unit 2.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2/Overview of Unit 2.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2/Unit2-Notes",
+    "Main/Study/2-Second Semester/ADC/1_Units/U5/Unit5-Notes/Overview of Unit 5.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U1/Unit 1.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U1/Unit1-Notes/Overview of Unit 1.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U6/Unit6-Notes/Overview of Unit 6.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U1/Unit1-Notes",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2",
+    "Main/Study/2-Second Semester/ADC/1_Units/U1",
+    "Main/Study/2-Second Semester/ADC/1_Units/U5/Unit 5.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U6/Unit 6.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U6/Unit6-Notes",
+    "Main/Study/2-Second Semester/ADC/1_Units/U6",
+    "Main/Study/2-Second Semester/ADC/1_Units/U5/Unit5-Notes",
+    "Main/Study/2-Second Semester/ADC/1_Units/U5",
+    "Main/Study/2-Second Semester/ADC/1_Units/U4/Unit 4 - Object-Oriented Databases.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U4/Unit4-Notes/Overview of Unit 4 - Object Oriented Databases.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U4/Unit4-Notes/RDBMS VS OODBMS.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U4/Unit4-Notes",
+    "Main/Study/2-Second Semester/ADC/1_Units/U4",
+    "Main/Study/2-Second Semester/ADC/ADC.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U3/Unit 3 - Database Security and Authorization.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U3/Unit3-Notes/Difference between DAC-Mandatory-Role Based.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U3/Unit3-Notes/Unit 3 Database Security and Authorization - Overview.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U3/Unit3-Notes/Types of Discretionary Privileges.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2.md",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 2/Unit2 - Notes/Numerical of Logistic Regression from Slide -2.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Linear Regression Numerical.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Linear Regression BGD - Numerical Answer.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Linear Regression SGD and BGD with two x - Numerical Answer.md",
@@ -195,38 +221,12 @@
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Convex Vs Non-Convex Functions.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Types of Gradient Descent.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Batch Gradient Descent.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Stochastic Gradient Descent.md",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Notes/Gradient Descent Detail.md",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 3/Unit3 - Notes/MORE on Gradient Descent and different learning rate.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit5-Notes/Differences betn Bagging and Boosting.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit 5.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit5-Notes/Ensemble Technique.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U5/Unit5-Notes",
-    "Main/Study/2-Second Semester/WSA/1_Units/U5",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit 4.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/Unit 4-all main topics collec.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/Difference between K Mean and Kmediod.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit 3.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit3_Notes/Content Based Recommendation.md",
     "Images/Second_Sem_Images/Content Based Recommendation---2.png",
     "Images/Second_Sem_Images/Content Based Recommendation-1.png",
     "Images/Second_Sem_Images/Content Based Recommendation-que.png",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit3_Notes/Collaborative Filtering NUM.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U2/Unit 2.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U2/Page Rank Vs HITS.md",
     "Images/Second_Sem_Images/Collaborative Filtering NUM1.png",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit3_Notes/Association Rule Mining.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit3_Notes/Apriori Algorithm.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit3_Notes",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3",
     "Images/Second_Sem_Images/Example -1 Loop Carried  Loop Independent Dependencies.png",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit3_Notes",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3",
     "Images/Second_Sem_Images/Locally Weighted Regression-fig.png",
-    "Main/Study/2-Second Semester/ADC/1_Units",
-    "Main/Study/2-Second Semester/ADC",
     "Images/Second_Sem_Images/Overfitting and Underfitting.png",
     "Images/Second_Sem_Images/Multinomial Logistic Regression - Numerical.png",
     "Images/Second_Sem_Images/2077-3.png",

@@ -1,4 +1,31 @@
 %% Begin Waypoint %%
 - **1_Units**
+	- **U1**
+		- [Unit 1](./1_Units/U1/Unit%201.md)
+		- **Unit1-Notes**
+			- [Overview of Unit 1](./1_Units/U1/Unit1-Notes/Overview%20of%20Unit%201.md)
+	- **U2**
+		- [Overview of Unit 2](./1_Units/U2/Overview%20of%20Unit%202.md)
+		- [Unit 2](./1_Units/U2/Unit%202.md)
+		- **Unit2-Notes**
+	- **U3**
+		- [Unit 3 - Database Security and Authorization](./1_Units/U3/Unit%203%20-%20Database%20Security%20and%20Authorization.md)
+		- **Unit3-Notes**
+			- [Difference between DAC-Mandatory-Role Based](./1_Units/U3/Unit3-Notes/Difference%20between%20DAC-Mandatory-Role%20Based.md)
+			- [Types of Discretionary Privileges](./1_Units/U3/Unit3-Notes/Types%20of%20Discretionary%20Privileges.md)
+			- [Unit 3 Database Security and Authorization - Overview](./1_Units/U3/Unit3-Notes/Unit%203%20Database%20Security%20and%20Authorization%20-%20Overview.md)
+	- **U4**
+		- [Unit 4 - Object-Oriented Databases](./1_Units/U4/Unit%204%20-%20Object-Oriented%20Databases.md)
+		- **Unit4-Notes**
+			- [Overview of Unit 4 - Object Oriented Databases](./1_Units/U4/Unit4-Notes/Overview%20of%20Unit%204%20-%20Object%20Oriented%20Databases.md)
+			- [RDBMS VS OODBMS](./1_Units/U4/Unit4-Notes/RDBMS%20VS%20OODBMS.md)
+	- **U5**
+		- [Unit 5](./1_Units/U5/Unit%205.md)
+		- **Unit5-Notes**
+			- [Overview of Unit 5](./1_Units/U5/Unit5-Notes/Overview%20of%20Unit%205.md)
+	- **U6**
+		- [Unit 6](./1_Units/U6/Unit%206.md)
+		- **Unit6-Notes**
+			- [Overview of Unit 6](./1_Units/U6/Unit6-Notes/Overview%20of%20Unit%206.md)
 
 %% End Waypoint %%
