@@ -4,41 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "d05e76e6d77de99f",
+        "id": "267f4ffaf446fec0",
         "type": "tabs",
         "children": [
           {
-            "id": "4ddfdbd32f3158d7",
+            "id": "f49308b1110dbbc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/DWDM/1-Units/U1/Unit 1.md",
+                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit 3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 1"
+              "title": "Unit 3"
             }
           },
           {
-            "id": "c31d7d24c9e0caea",
+            "id": "8d25d4cbb9506e36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/DWDM/DWDM.md",
+                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit3_Notes/Preliminary Transformation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "DWDM"
+              "title": "Preliminary Transformation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/DWDM/DWDM.md",
+                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DWDM"
+              "title": "Outline of Unit 3"
             }
           },
           {
@@ -200,10 +199,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c31d7d24c9e0caea",
+  "active": "f49308b1110dbbc6",
   "lastOpenFiles": [
-    "Main/Study/2-Second Semester/DWDM/DMQL.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit3_Notes/Preliminary Transformation.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit 3.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit3_Notes/Induction Variable Substitution.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U1/Unit 1.md",
     "Main/Study/2-Second Semester/DWDM/DWDM.md",
+    "Main/Study/2-Second Semester/DWDM/DMQL.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U3/Unit 3.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U6/Unit 6.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U3/Unit3-notes",
@@ -216,7 +219,6 @@
     "Main/Study/2-Second Semester/DWDM/1-Units/U2/Unit 2.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U6/Unit6-notes",
     "Main/Study/2-Second Semester/DWDM/1-Units/U6",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U1/Unit 1.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U2/Unit2-Notes",
     "Main/Study/2-Second Semester/DWDM/1-Units/U1/Unit1-Notes/Overview of DWDM Unit 1.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U2",
@@ -236,9 +238,6 @@
     "Main/Study/2-Second Semester/ADC/1_Units/U6/Unit 6.md",
     "Main/Study/2-Second Semester/ADC/1_Units/U4/Unit 4 - Object-Oriented Databases.md",
     "Main/Study/2-Second Semester/ADC/1_Units/U4/Unit4-Notes/Overview of Unit 4 - Object Oriented Databases.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U4/Unit4-Notes/RDBMS VS OODBMS.md",
-    "Main/Study/2-Second Semester/ADC/ADC.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U3/Unit 3 - Database Security and Authorization.md",
     "Images/Second_Sem_Images/Content Based Recommendation---2.png",
     "Images/Second_Sem_Images/Content Based Recommendation-1.png",
     "Images/Second_Sem_Images/Content Based Recommendation-que.png",

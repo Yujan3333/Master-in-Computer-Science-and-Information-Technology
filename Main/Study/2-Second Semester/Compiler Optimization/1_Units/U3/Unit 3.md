@@ -13,9 +13,10 @@ Hardware
 
 ---
 ### Induction Variable Optimization
+- Reducing the computation by introducing loop?
 
 ---
-### Preliminary Transformation
+### [Preliminary Transformation](Unit3_Notes/Preliminary%20Transformation.md)
 - Usually we don't make program while keeping the **dependence test** in mind.
 - The number of *transformation* done prior to the dependence test (*goal is to make the testing more accurate*) is known as **Preliminary Transformation**
 

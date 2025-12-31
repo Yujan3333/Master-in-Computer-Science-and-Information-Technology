@@ -10,6 +10,7 @@
 		- [Unit 3](./1_Units/U3/Unit%203.md)
 		- **Unit3_Notes**
 			- [Induction Variable Substitution](./1_Units/U3/Unit3_Notes/Induction%20Variable%20Substitution.md)
+			- [Preliminary Transformation](./1_Units/U3/Unit3_Notes/Preliminary%20Transformation.md)
 - **2_Assignment**
 	- **[Assignment_Notes](./2_Assignment/Assignment_Notes/Assignment_Notes.md)**
 	- [Assignment](./2_Assignment/Assignment.md)
