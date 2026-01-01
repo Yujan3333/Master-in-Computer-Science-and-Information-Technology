@@ -16,7 +16,7 @@ An **induction variable** is a variable whose value changes by a **constant amou
 1. **Basic Induction Variable (BIV)**
    Example: `I`, `J` (loop counters)
 
-2. **Auxiliary Induction Variable (AIV)**
+2. **[Auxiliary Induction Variable (AIV)](Auxiliary%20Induction%20Variable%20(AIV).md)**
    Example: `KI`
 
 ---

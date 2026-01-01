@@ -24,9 +24,30 @@ Hardware
 ### [Induction Variable Substitution](Unit3_Notes/Induction%20Variable%20Substitution.md)
 
 ---
-### Loop Normalization
+### [Loop Normalization](Unit3_Notes/Loop%20Normalization.md)
 
 ---
-### Loop Normalization Algorithm
+### [Loop Normalization Algorithm](Unit3_Notes/Loop%20Normalization%20Algorithm.md)
+
+---
+### Data Flow Analysis
+
+---
+### Data Flow properties
+1. Available Expression
+2. Reaching Definition
+
+---
+### [Definition of Use Graph](Definition%20of%20Use%20Graph.md)
+
+- uses(b)
+- defsout(b)
+- killed(b)
+
+---
+### Blocks
+
+---
+### Reaches(b)
 
 ---

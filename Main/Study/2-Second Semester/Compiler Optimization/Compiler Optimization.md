@@ -7,9 +7,13 @@
 		- [Unit 2](./1_Units/U2/Unit%202.md)
 		- **[Unit2_Notes](./1_Units/U2/Unit2_Notes/Unit2_Notes.md)**
 	- **U3**
+		- [Definition of Use Graph](./1_Units/U3/Definition%20of%20Use%20Graph.md)
 		- [Unit 3](./1_Units/U3/Unit%203.md)
 		- **Unit3_Notes**
+			- [Auxiliary Induction Variable (AIV)](./1_Units/U3/Unit3_Notes/Auxiliary%20Induction%20Variable%20(AIV).md)
 			- [Induction Variable Substitution](./1_Units/U3/Unit3_Notes/Induction%20Variable%20Substitution.md)
+			- [Loop Normalization Algorithm](./1_Units/U3/Unit3_Notes/Loop%20Normalization%20Algorithm.md)
+			- [Loop Normalization](./1_Units/U3/Unit3_Notes/Loop%20Normalization.md)
 			- [Preliminary Transformation](./1_Units/U3/Unit3_Notes/Preliminary%20Transformation.md)
 - **2_Assignment**
 	- **[Assignment_Notes](./2_Assignment/Assignment_Notes/Assignment_Notes.md)**
