@@ -45,6 +45,11 @@ Since derivative of $y_i$ and $a_1 x_i$ w.r.t $a_0$ is $0$ and $-1$ respectively
 $$
 \frac{d}{da_0}(y_i - a_0 - a_1 x_i) = -1
 $$
+- First term: $y_i$ → derivative w.r.t $a_0$ is 0 (because $y_i$ is constant w.r.t $a_0$).
+- Second term: $-a_0$ → derivative w.r.t $a_0$ is -1.
+- Third term: $-a_1 x_i$ → derivative w.r.t $a_0$ is 0 (because $a_1$ and $x_i$ are constants when differentiating w.r.t $a_0$).
+
+
 
 So:
 

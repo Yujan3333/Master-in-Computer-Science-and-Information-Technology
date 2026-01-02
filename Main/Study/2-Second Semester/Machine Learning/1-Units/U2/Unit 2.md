@@ -20,4 +20,16 @@
 ---
 ### [Locally Weighted Regression](Unit2%20-%20Notes/Locally%20Weighted%20Regression.md)
 - [Locally Weighted Regression - Derivation](Unit2%20-%20Notes/Locally%20Weighted%20Regression%20-%20Derivation.md) 
+- [Numerical - LWR Find the cost function](Unit2%20-%20Notes/Numerical%20-%20LWR%20Find%20the%20cost%20function.md)
+- [Numerical 2 - LWR](Unit2%20-%20Notes/Numerical%202%20-%20LWR.md)
 ---
+### Bayesian Classification
+
+#### [Bayes Theorem](Unit2%20-%20Notes/Bayes%20Theorem.md)
+#### [Bayes Theorem in Multiclass](Unit2%20-%20Notes/Bayes%20Theorem%20in%20Multiclass.md)
+- [Numerical of Bayes Theorem](Unit2%20-%20Notes/Numerical%20of%20Bayes%20Theorem.md)
+
+#### [Text Classification](Unit2%20-%20Notes/Text%20Classification.md)
+- Count Vectorization / Bag of Words
+- TF-IDF
+	- [Numerical TF-IDF](Unit2%20-%20Notes/Numerical%20TF-IDF.md)

@@ -21,8 +21,39 @@
               "icon": "lucide-file",
               "title": "Unit 3"
             }
+          },
+          {
+            "id": "995bc7784a24d614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Unit 2"
+            }
+          },
+          {
+            "id": "2b4b5b6710081f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Numerical TF-IDF.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Numerical TF-IDF"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit 3.md",
+                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Numerical TF-IDF.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 3"
+              "title": "Outline of Numerical TF-IDF"
             }
           },
           {
@@ -184,12 +215,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c4eab1c92f9b9b67",
+  "active": "2b4b5b6710081f82",
   "lastOpenFiles": [
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Definition of Use Graph.md",
+    "Images/Second_Sem_Images/Numerical TF-IDF-table.png",
+    "Images/Second_Sem_Images/Pasted image 20260102090503.png",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Numerical TF-IDF.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Text Classification.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Numerical of Bayes Theorem.md",
+    "Images/Second_Sem_Images/Numerical of Bayes Theorem-que.png",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Bayes Theorem in Multiclass.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/conditionally independent given the class.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Bayes Theorem.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Numerical 2 - LWR.md",
+    "Images/Second_Sem_Images/Numerical 2 - LWR.png",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Numerical - LWR Find the cost function.md",
+    "Images/Second_Sem_Images/Numerical - LWR Find the cost function.png",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit 3.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Locally Weighted Regression - Derivation.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Definition of Use Graph.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Derivation of LWR.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Locally Weighted Regression.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit3_Notes/Loop Normalization Algorithm.md",
@@ -209,29 +253,16 @@
     "Main/Study/2-Second Semester/DWDM/1-Units/U5",
     "Main/Study/2-Second Semester/DWDM/1-Units/U4",
     "Main/Study/2-Second Semester/DWDM/1-Units/U2/Unit2-Notes/Overview of DWDM Unit 2.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U2/Unit 2.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U6/Unit6-notes",
     "Main/Study/2-Second Semester/DWDM/1-Units/U6",
     "Main/Study/2-Second Semester/DWDM/1-Units/U2/Unit2-Notes",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U1/Unit1-Notes/Overview of DWDM Unit 1.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U2",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/Unit 1.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U1/Unit1-Notes/Multidimensional Database Schemas.md",
-    "Main/Study/2-Second Semester/DWDM/2-Assignments/Assignments - Notes/Database Vs Data Warehouse.md",
     "Images/Second_Sem_Images/Architecture of a typical data mining system.png",
-    "Main/Study/2-Second Semester/DWDM/Research Paper for DWDM.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U9/Unit 9.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U2/Overview of Unit 2.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U2/Unit 2.md",
     "Images/Second_Sem_Images/Content Based Recommendation---2.png",
     "Images/Second_Sem_Images/Content Based Recommendation-1.png",
     "Images/Second_Sem_Images/Content Based Recommendation-que.png",
     "Images/Second_Sem_Images/Collaborative Filtering NUM1.png",
     "Images/Second_Sem_Images/Example -1 Loop Carried  Loop Independent Dependencies.png",
-    "Images/Second_Sem_Images/Locally Weighted Regression-fig.png",
-    "Images/Second_Sem_Images/Overfitting and Underfitting.png",
-    "Images/Second_Sem_Images/Multinomial Logistic Regression - Numerical.png",
-    "Images/Second_Sem_Images/2077-3.png",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
