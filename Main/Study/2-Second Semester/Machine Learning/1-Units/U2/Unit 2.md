@@ -32,4 +32,14 @@
 #### [Text Classification](Unit2%20-%20Notes/Text%20Classification.md)
 - Count Vectorization / Bag of Words
 - TF-IDF
-	- [Numerical TF-IDF](Unit2%20-%20Notes/Numerical%20TF-IDF.md)
+	- [Numerical Count Vectorization and TF-IDF](Unit2%20-%20Notes/Numerical%20Count%20Vectorization%20and%20TF-IDF.md)
+	- [Same Numerical of TF-IDF with different finding](Unit2%20-%20Notes/Same%20Numerical%20of%20TF-IDF%20with%20different%20finding.md)
+
+---
+### [Classification by Decision Tree Induction](Unit2%20-%20Notes/Classification%20by%20Decision%20Tree%20Induction.md)
+
+#### [ID3](Unit2%20-%20Notes/ID3.md)
+##### [Numerical - ID3](Unit2%20-%20Notes/Numerical%20-%20ID3.md)
+- [Written - Completing the ID3 Numerical](Unit2%20-%20Notes/Completing%20the%20ID3%20Numerical.md)
+
+---
