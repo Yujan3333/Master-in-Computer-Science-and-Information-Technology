@@ -7,14 +7,20 @@
 		- [Unit 2](./1_Units/U2/Unit%202.md)
 		- **[Unit2_Notes](./1_Units/U2/Unit2_Notes/Unit2_Notes.md)**
 	- **U3**
-		- [Definition of Use Graph](./1_Units/U3/Definition%20of%20Use%20Graph.md)
 		- [Unit 3](./1_Units/U3/Unit%203.md)
 		- **Unit3_Notes**
 			- [Auxiliary Induction Variable (AIV)](./1_Units/U3/Unit3_Notes/Auxiliary%20Induction%20Variable%20(AIV).md)
+			- [Dead Code Elimination Algorithm](./1_Units/U3/Unit3_Notes/Dead%20Code%20Elimination%20Algorithm.md)
+			- [Definition of Use Graph](./1_Units/U3/Unit3_Notes/Definition%20of%20Use%20Graph.md)
+			- [Explanation of dead code elimination algorithm](./1_Units/U3/Unit3_Notes/Explanation%20of%20dead%20code%20elimination%20algorithm.md)
 			- [Induction Variable Substitution](./1_Units/U3/Unit3_Notes/Induction%20Variable%20Substitution.md)
 			- [Loop Normalization Algorithm](./1_Units/U3/Unit3_Notes/Loop%20Normalization%20Algorithm.md)
 			- [Loop Normalization](./1_Units/U3/Unit3_Notes/Loop%20Normalization.md)
 			- [Preliminary Transformation](./1_Units/U3/Unit3_Notes/Preliminary%20Transformation.md)
+			- [Single Static Assignment (SSA)](./1_Units/U3/Unit3_Notes/Single%20Static%20Assignment%20(SSA).md)
+	- **U4**
+		- [Unit 4](./1_Units/U4/Unit%204.md)
+		- **Unit4-Notes**
 - **2_Assignment**
 	- **[Assignment_Notes](./2_Assignment/Assignment_Notes/Assignment_Notes.md)**
 	- [Assignment](./2_Assignment/Assignment.md)

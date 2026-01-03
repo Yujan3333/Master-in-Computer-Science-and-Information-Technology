@@ -1,3 +1,4 @@
+Decision tree induction is a supervised machine learning process that builds a flowchart-like model (a decision tree) from labeled data to classify or predict outcomes, by recursively splitting the dataset into smaller subsets based on the most significant attributes, creating internal nodes for tests and leaf nodes for final class labels.
 
 ## Decision Tree Induction
  

@@ -37,9 +37,17 @@
 
 ---
 ### [Classification by Decision Tree Induction](Unit2%20-%20Notes/Classification%20by%20Decision%20Tree%20Induction.md)
+- Decision tree induction is a supervised machine learning process that builds a flowchart-like model (a decision tree) from labeled data to classify or predict outcomes, by recursively splitting the dataset into smaller subsets based on the most significant attributes, creating internal nodes for tests and leaf nodes for final class labels.
 
 #### [ID3](Unit2%20-%20Notes/ID3.md)
 ##### [Numerical - ID3](Unit2%20-%20Notes/Numerical%20-%20ID3.md)
 - [Written - Completing the ID3 Numerical](Unit2%20-%20Notes/Completing%20the%20ID3%20Numerical.md)
 
 ---
+### [K-Nearest Neighbors Classifier](Unit2%20-%20Notes/K-Nearest%20Neighbors%20Classifier.md)
+- In KNN there is already a set of points and when a new point is added then according to the value of *k(nearest neighbors)* distance from the new point to these point are calculated and the majority to which class it is close to is selected. 
+
+#### [Numerical KNN](Unit2%20-%20Notes/Numerical%20KNN.md)
+
+---
+### Support Vector Machine (SVM)

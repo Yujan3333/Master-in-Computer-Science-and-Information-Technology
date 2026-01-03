@@ -38,7 +38,7 @@ Hardware
 2. Reaching Definition
 
 ---
-### [Definition of Use Graph](Definition%20of%20Use%20Graph.md)
+### [Definition of Use Graph](Unit3_Notes/Definition%20of%20Use%20Graph.md)
 
 - uses(b)
 - defsout(b)
@@ -51,3 +51,18 @@ Hardware
 ### Reaches(b)
 
 ---
+### Dead Code Elimination
+#### [Dead Code Elimination Algorithm](Unit3_Notes/Dead%20Code%20Elimination%20Algorithm.md)
+---
+### Constant Propagation
+
+---
+### [Single Static Assignment (SSA)](Unit3_Notes/Single%20Static%20Assignment%20(SSA).md)
+- Each use of variable is done by exactly one definition
+- Merge Function
+
+---
+### Common sub-expression elimination
+
+---
+### Forward Substitution
