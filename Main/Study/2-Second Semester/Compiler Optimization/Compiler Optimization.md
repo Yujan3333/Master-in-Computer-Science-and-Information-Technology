@@ -19,8 +19,14 @@
 			- [Preliminary Transformation](./1_Units/U3/Unit3_Notes/Preliminary%20Transformation.md)
 			- [Single Static Assignment (SSA)](./1_Units/U3/Unit3_Notes/Single%20Static%20Assignment%20(SSA).md)
 	- **U4**
+		- [Program Explanation - Scalar Expansion](./1_Units/U4/Program%20Explanation%20-%20Scalar%20Expansion.md)
 		- [Unit 4](./1_Units/U4/Unit%204.md)
 		- **Unit4-Notes**
+			- [Loop Invariant](./1_Units/U4/Unit4-Notes/Loop%20Invariant.md)
+			- [Loop Skewing](./1_Units/U4/Unit4-Notes/Loop%20Skewing.md)
+			- [Loop Unrolling](./1_Units/U4/Unit4-Notes/Loop%20Unrolling.md)
+			- [Loop Vectorization](./1_Units/U4/Unit4-Notes/Loop%20Vectorization.md)
+			- [Scalar Expansion](./1_Units/U4/Unit4-Notes/Scalar%20Expansion.md)
 - **2_Assignment**
 	- **[Assignment_Notes](./2_Assignment/Assignment_Notes/Assignment_Notes.md)**
 	- [Assignment](./2_Assignment/Assignment.md)

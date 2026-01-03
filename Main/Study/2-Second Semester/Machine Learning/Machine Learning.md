@@ -4,6 +4,7 @@
 		- [Unit 1](./1-Units/U1/Unit%201.md)
 		- **[Unit1_Notes](./1-Units/U1/Unit1_Notes/Unit1_Notes.md)**
 	- **U2**
+		- [SVM Derivation](./1-Units/U2/SVM%20Derivation.md)
 		- [Unit 2](./1-Units/U2/Unit%202.md)
 		- **Unit2 - Notes**
 			- [Batch Gradient Descent](./1-Units/U2/Unit2%20-%20Notes/Batch%20Gradient%20Descent.md)

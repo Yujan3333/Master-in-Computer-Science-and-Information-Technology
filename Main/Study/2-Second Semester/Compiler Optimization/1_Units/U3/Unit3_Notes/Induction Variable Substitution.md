@@ -1,5 +1,19 @@
+### Initial Question
+```md
+INC = 2
+KI = 0
 
+DO I = 1, 100
+    DO J = 1, 100
+        KI = KI + INC
+        U(KI) = U(KI) + W(J)
+    END DO
+    S(I) = U(KI)
+END DO
+```
 
+---
+### Answer from here
 #### 1. Replace References to auxiliary induction variable with function of loop index
 ```md
 INC = 2
