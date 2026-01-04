@@ -27,7 +27,7 @@
 ---
 ### [Scalar Expansion](Unit4-Notes/Scalar%20Expansion.md)
 
-#### [Program Explanation - Scalar Expansion](Program%20Explanation%20-%20Scalar%20Expansion.md)
+#### [Program Explanation - Scalar Expansion](Unit4-Notes/Program%20Explanation%20-%20Scalar%20Expansion.md)
 
 ---
 ### Array Renaming
@@ -40,4 +40,15 @@
 
 ---
 ### Index Set Splitting
-#### 
+#### 1️⃣ Threshold Analysis
+#### 2️⃣ Loop Peeling
+#### [3️⃣Section Based Splitting](Unit4-Notes/3️⃣Section%20Based%20Splitting.md)
+
+---
+### Alignment
+
+---
+### Code Replication
+
+---
+### Parallel Code Generation and Its Problem

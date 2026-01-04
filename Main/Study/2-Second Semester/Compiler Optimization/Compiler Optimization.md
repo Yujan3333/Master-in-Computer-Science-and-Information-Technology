@@ -19,14 +19,24 @@
 			- [Preliminary Transformation](./1_Units/U3/Unit3_Notes/Preliminary%20Transformation.md)
 			- [Single Static Assignment (SSA)](./1_Units/U3/Unit3_Notes/Single%20Static%20Assignment%20(SSA).md)
 	- **U4**
-		- [Program Explanation - Scalar Expansion](./1_Units/U4/Program%20Explanation%20-%20Scalar%20Expansion.md)
 		- [Unit 4](./1_Units/U4/Unit%204.md)
 		- **Unit4-Notes**
+			- [3️⃣Section Based Splitting](./1_Units/U4/Unit4-Notes/3%EF%B8%8F%E2%83%A3Section%20Based%20Splitting.md)
 			- [Loop Invariant](./1_Units/U4/Unit4-Notes/Loop%20Invariant.md)
 			- [Loop Skewing](./1_Units/U4/Unit4-Notes/Loop%20Skewing.md)
 			- [Loop Unrolling](./1_Units/U4/Unit4-Notes/Loop%20Unrolling.md)
 			- [Loop Vectorization](./1_Units/U4/Unit4-Notes/Loop%20Vectorization.md)
+			- [Program Explanation - Scalar Expansion](./1_Units/U4/Unit4-Notes/Program%20Explanation%20-%20Scalar%20Expansion.md)
 			- [Scalar Expansion](./1_Units/U4/Unit4-Notes/Scalar%20Expansion.md)
+	- **U5**
+		- [Unit 5 - Control Dependence](./1_Units/U5/Unit%205%20-%20Control%20Dependence.md)
+		- **Unit5-Notes**
+			- [Branch Classification](./1_Units/U5/Unit5-Notes/Branch%20Classification.md)
+			- [Branch Removal](./1_Units/U5/Unit5-Notes/Branch%20Removal.md)
+			- [Control Dependence](./1_Units/U5/Unit5-Notes/Control%20Dependence.md)
+			- [IF Conversion](./1_Units/U5/Unit5-Notes/IF%20Conversion.md)
+			- [Iterative Dependence](./1_Units/U5/Unit5-Notes/Iterative%20Dependence.md)
+			- [WHY- Branch Removal Done in Forward Branch](./1_Units/U5/Unit5-Notes/WHY-%20Branch%20Removal%20Done%20in%20Forward%20Branch.md)
 - **2_Assignment**
 	- **[Assignment_Notes](./2_Assignment/Assignment_Notes/Assignment_Notes.md)**
 	- [Assignment](./2_Assignment/Assignment.md)
