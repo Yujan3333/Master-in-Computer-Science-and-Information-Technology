@@ -2,6 +2,7 @@
 
 ---
 ### [IF Conversion](Unit5-Notes/IF%20Conversion.md)
+- [Exam Numerical - IF Conversion](Unit5-Notes/Exam%20Numerical%20-%20IF%20Conversion.md)
 
 ---
 ### [Branch Classification](Unit5-Notes/Branch%20Classification.md)
@@ -20,3 +21,17 @@
 
 ---
 ###  CFG (Control Flow Graph)
+#### [Dominators](Unit5-Notes/Dominators.md)
+##### [Immediate Dominators](Unit5-Notes/Immediate%20Dominators.md)
+- last dominator before reaching the point
+##### Making the Dominator Tree
+- [Copy Example of Dominator Tree](Unit5-Notes/Copy%20Example%20of%20Dominator%20Tree.md)
+- [YouTube - Dominator Tree Numerical](https://www.youtube.com/watch?v=tiyeuHsBO2U)
+
+---
+### Control Dependence
+
+---
+### Program Dependence Graph
+
+---

@@ -8,35 +8,13 @@
 		- **[Unit2_Notes](./1_Units/U2/Unit2_Notes/Unit2_Notes.md)**
 	- **U3**
 		- [Unit 3](./1_Units/U3/Unit%203.md)
-		- **Unit3_Notes**
-			- [Auxiliary Induction Variable (AIV)](./1_Units/U3/Unit3_Notes/Auxiliary%20Induction%20Variable%20(AIV).md)
-			- [Dead Code Elimination Algorithm](./1_Units/U3/Unit3_Notes/Dead%20Code%20Elimination%20Algorithm.md)
-			- [Definition of Use Graph](./1_Units/U3/Unit3_Notes/Definition%20of%20Use%20Graph.md)
-			- [Explanation of dead code elimination algorithm](./1_Units/U3/Unit3_Notes/Explanation%20of%20dead%20code%20elimination%20algorithm.md)
-			- [Induction Variable Substitution](./1_Units/U3/Unit3_Notes/Induction%20Variable%20Substitution.md)
-			- [Loop Normalization Algorithm](./1_Units/U3/Unit3_Notes/Loop%20Normalization%20Algorithm.md)
-			- [Loop Normalization](./1_Units/U3/Unit3_Notes/Loop%20Normalization.md)
-			- [Preliminary Transformation](./1_Units/U3/Unit3_Notes/Preliminary%20Transformation.md)
-			- [Single Static Assignment (SSA)](./1_Units/U3/Unit3_Notes/Single%20Static%20Assignment%20(SSA).md)
+		- **[Unit3_Notes](./1_Units/U3/Unit3_Notes/Unit3_Notes.md)**
 	- **U4**
 		- [Unit 4](./1_Units/U4/Unit%204.md)
-		- **Unit4-Notes**
-			- [3️⃣Section Based Splitting](./1_Units/U4/Unit4-Notes/3%EF%B8%8F%E2%83%A3Section%20Based%20Splitting.md)
-			- [Loop Invariant](./1_Units/U4/Unit4-Notes/Loop%20Invariant.md)
-			- [Loop Skewing](./1_Units/U4/Unit4-Notes/Loop%20Skewing.md)
-			- [Loop Unrolling](./1_Units/U4/Unit4-Notes/Loop%20Unrolling.md)
-			- [Loop Vectorization](./1_Units/U4/Unit4-Notes/Loop%20Vectorization.md)
-			- [Program Explanation - Scalar Expansion](./1_Units/U4/Unit4-Notes/Program%20Explanation%20-%20Scalar%20Expansion.md)
-			- [Scalar Expansion](./1_Units/U4/Unit4-Notes/Scalar%20Expansion.md)
+		- **[Unit4-Notes](./1_Units/U4/Unit4-Notes/Unit4-Notes.md)**
 	- **U5**
 		- [Unit 5 - Control Dependence](./1_Units/U5/Unit%205%20-%20Control%20Dependence.md)
-		- **Unit5-Notes**
-			- [Branch Classification](./1_Units/U5/Unit5-Notes/Branch%20Classification.md)
-			- [Branch Removal](./1_Units/U5/Unit5-Notes/Branch%20Removal.md)
-			- [Control Dependence](./1_Units/U5/Unit5-Notes/Control%20Dependence.md)
-			- [IF Conversion](./1_Units/U5/Unit5-Notes/IF%20Conversion.md)
-			- [Iterative Dependence](./1_Units/U5/Unit5-Notes/Iterative%20Dependence.md)
-			- [WHY❓- Branch Removal Done in Forward Branch](./1_Units/U5/Unit5-Notes/WHY%E2%9D%93-%20Branch%20Removal%20Done%20in%20Forward%20Branch.md)
+		- **[Unit5-Notes](./1_Units/U5/Unit5-Notes/Unit5-Notes.md)**
 - **2_Assignment**
 	- **[Assignment_Notes](./2_Assignment/Assignment_Notes/Assignment_Notes.md)**
 	- [Assignment](./2_Assignment/Assignment.md)

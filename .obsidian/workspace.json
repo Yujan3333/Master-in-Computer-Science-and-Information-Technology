@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "259751e2000b0593",
+        "id": "35bc5a75f25fae25",
         "type": "tabs",
         "children": [
           {
-            "id": "911c96f38e0393fa",
+            "id": "71689956088ddd88",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit 5 - Control Dependence.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Unit 5 - Control Dependence"
+              "title": "New tab"
             }
           }
         ]
@@ -134,13 +129,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit 5 - Control Dependence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 5 - Control Dependence"
+              "title": "Outline"
             }
           },
           {
@@ -185,8 +179,22 @@
   },
   "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit5-Notes/WHY❓- Branch Removal Done in Forward Branch.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit 5 - Control Dependence.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit5-Notes/Dominators.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit5-Notes/Exam Numerical - IF Conversion.md",
+    "Images/Second_Sem_Images/Exam Numerical - IF Conversion.png",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit5-Notes/Copy Example of Dominator Tree.md",
+    "Images/Second_Sem_Images/Copy Example of Dominator Tree.png",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit5-Notes/Immediate Dominators.md",
+    "Images/Second_Sem_Images/Dominators-prop.png",
+    "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment_Notes/Processor Parallelism.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/2_Assignment/Assignment_Notes/Processor Parallelism - Exam Ready.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U4/Unit4-Notes/Unit4-Notes.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit3_Notes/Unit3_Notes.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit5-Notes/Unit5-Notes.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit5-Notes/WHY❓- Branch Removal Done in Forward Branch.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit5-Notes/Iterative Dependence.md",
     "Main/Template/Emoji/Question mark.md",
     "Main/Template/Emoji/Untitled.md",
@@ -201,18 +209,6 @@
     "Main/Template/Date/Date Full Detail.md",
     "Main/Template/Date/day.md",
     "Main/Template/Date/time AM-PM.md",
-    "Main/Template/Emoji/Numbers.md",
-    "Main/Template/Emoji/10.md",
-    "Main/Template/Emoji/9.md",
-    "Main/Template/Emoji/8.md",
-    "Main/Template/Emoji/7.md",
-    "Main/Template/Emoji/6.md",
-    "Main/Template/Emoji/5.md",
-    "Main/Template/Emoji/4.md",
-    "Main/Template/Emoji/2.md",
-    "Main/Template/Emoji/3.md",
-    "Main/Template/Emoji/1.md",
-    "Main/Template/Emoji/0.md",
     "Images/Second_Sem_Images/SVM Derivation.png",
     "Images/Second_Sem_Images/Numerical KNN-a2.png",
     "Images/Second_Sem_Images/Numerical KNN-a1.png",
@@ -222,9 +218,6 @@
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U4",
     "Images/Second_Sem_Images/Single Static Assignment (SSA).png",
     "Images/Second_Sem_Images/Completing the ID3 Numerical-3.jpeg",
-    "Images/Second_Sem_Images/Completing the ID3 Numerical-2.jpeg",
-    "Images/Second_Sem_Images/Completing the ID3 Numerical-1.jpeg",
-    "Images/Second_Sem_Images/Completing the ID3 Numerical.jpeg",
     "Main/Study/2-Second Semester/DWDM/1-Units/U3/Unit3-notes",
     "Main/Study/2-Second Semester/DWDM/1-Units/U3",
     "Main/Study/2-Second Semester/DWDM/1-Units/U8",
