@@ -12,8 +12,8 @@
 ### Dependence in Loops
 
 
-### Iteration Vectors
-- ?
+### [Iteration Vectors](Unit2_Notes/Iteration%20Vectors.md)
+
 
 ### Iteration Space
 
@@ -40,3 +40,4 @@
 #### MIV
 
 ---
+[ZIV Test](Unit2_Notes/ZIV%20Test.md)
