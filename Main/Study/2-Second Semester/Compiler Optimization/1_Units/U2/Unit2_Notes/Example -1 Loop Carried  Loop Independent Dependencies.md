@@ -76,4 +76,3 @@ Example:
 
 ---
 
-If you want, I can also give a **one-sentence answer** exactly how examiners expect it.

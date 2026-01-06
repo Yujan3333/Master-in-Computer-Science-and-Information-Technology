@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "35bc5a75f25fae25",
+        "id": "bdf1d32099c1f116",
         "type": "tabs",
         "children": [
           {
-            "id": "71689956088ddd88",
+            "id": "407eb947fe28ff47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U4/Unit 4.md",
+                "file": "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2081.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 4"
+              "title": "2081"
             }
           }
         ]
@@ -105,12 +105,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2 - Notes/Multinomial Logistic Regression.md",
+                "file": "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2081.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Multinomial Logistic Regression"
+              "title": "Outgoing links from 2081"
             }
           },
           {
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U4/Unit 4.md",
+                "file": "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2081.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Unit 4"
+              "title": "Outline of 2081"
             }
           },
           {
@@ -162,8 +162,7 @@
               "title": "Backlinks for Paper Quality"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,38 +183,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71689956088ddd88",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit 5 - Control Dependence.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/3_Old Questions/CO-Old Question-Answer- Fig1 above dependence testing .md",
+    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/Questions And Answer.md",
+    "Images/Second_Sem_Images/Questions And Answer.png",
+    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/3_Old Questions/Flow Sensitive and Flow insensitive and Loop Fission.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U4/Unit 4.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U3/Unit 3.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U2/Unit 2.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U2/Unit2_Notes/Example -1 Loop Carried  Loop Independent Dependencies.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit 1.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U6/Unit 6.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U6/Inline Substitution.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U6/Unit6-Notes/Constant Propagation and Alias Analysis.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit5-Notes/WHY❓- Branch Removal Done in Forward Branch.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit5-Notes/Branch Removal.md",
+    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit5-Notes/Branch Classification.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U2/Unit2_Notes/ZIV Test.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U2/Unit2_Notes/Iteration Vectors.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U6/Unit 6.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/3_Old Questions/Qno3 - Optimization in following program❓.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/Questions And Answer.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/3_Old Questions/Qno2- How do you test dependency in loop❓.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/3_Old Questions/3_Old Questions.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/3_Old Questions",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/Old-Questions Answer.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit 1.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/Data Hazard.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U1/Unit1_Notes/RAW vs WAR vs WAW.md",
     "Images/Second_Sem_Images/Pasted image 20260104200922.png",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2081.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2070.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2071.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2072.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2074.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2075.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2076.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2077.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2078.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2079.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U6/Unit6-Notes/Side Effect to Arrays.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U6/Unit6-Notes/Constant Propagation and Alias Analysis.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U6/Unit6-Notes",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U6",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U5/Unit 5 - Control Dependence.md",
     "Images/Second_Sem_Images/Exam Numerical - IF Conversion.png",
     "Images/Second_Sem_Images/Copy Example of Dominator Tree.png",
     "Images/Second_Sem_Images/Dominators-prop.png",
@@ -228,7 +228,6 @@
     "Images/Second_Sem_Images/Numerical KNN-que fig.png",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U4/Unit4-Notes",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U4",
-    "Images/Second_Sem_Images/Single Static Assignment (SSA).png",
     "Main/Study/2-Second Semester/DWDM/1-Units/U3/Unit3-notes",
     "Main/Study/2-Second Semester/DWDM/1-Units/U3",
     "Main/Study/2-Second Semester/DWDM/1-Units/U8",
