@@ -36,6 +36,7 @@
 	- [2078](./3_Old%20Questions/2078.md)
 	- [2079](./3_Old%20Questions/2079.md)
 	- [2081](./3_Old%20Questions/2081.md)
+	- [2082-My](./3_Old%20Questions/2082-My.md)
 	- [Questions And Answer](./3_Old%20Questions/Questions%20And%20Answer.md)
 
 %% End Waypoint %%
