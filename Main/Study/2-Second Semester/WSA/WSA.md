@@ -27,6 +27,12 @@
 		- **Unit5-Notes**
 			- [Differences betn Bagging and Boosting](./1_Units/U5/Unit5-Notes/Differences%20betn%20Bagging%20and%20Boosting.md)
 			- [Ensemble Technique](./1_Units/U5/Unit5-Notes/Ensemble%20Technique.md)
+	- **U6**
+		- [Unit 6](./1_Units/U6/Unit%206.md)
+		- **Unit6-Notes**
+	- **U7**
+		- [Unit 7](./1_Units/U7/Unit%207.md)
+		- **Unit7-Notes**
 - **2_Old Question**
 	- [2072](./2_Old%20Question/2072.md)
 	- [2074](./2_Old%20Question/2074.md)
@@ -35,6 +41,8 @@
 	- [2079](./2_Old%20Question/2079.md)
 	- [2080](./2_Old%20Question/2080.md)
 	- [2081](./2_Old%20Question/2081.md)
-	- **Notes**
+	- [2082-My](./2_Old%20Question/2082-My.md)
+	- **[Notes](./2_Old%20Question/Notes/Notes.md)**
+	- [To Search](./2_Old%20Question/To%20Search.md)
 
 %% End Waypoint %%
