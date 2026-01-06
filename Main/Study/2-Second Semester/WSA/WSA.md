@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - **1_Units**
+	- [2075](./1_Units/2075.md)
 	- **U1**
 		- **[U1_Notes](./1_Units/U1/U1_Notes/U1_Notes.md)**
 		- [Unit 1](./1_Units/U1/Unit%201.md)
@@ -26,5 +27,14 @@
 		- **Unit5-Notes**
 			- [Differences betn Bagging and Boosting](./1_Units/U5/Unit5-Notes/Differences%20betn%20Bagging%20and%20Boosting.md)
 			- [Ensemble Technique](./1_Units/U5/Unit5-Notes/Ensemble%20Technique.md)
+- **2_Old Question**
+	- [2072](./2_Old%20Question/2072.md)
+	- [2074](./2_Old%20Question/2074.md)
+	- [2076](./2_Old%20Question/2076.md)
+	- [2077](./2_Old%20Question/2077.md)
+	- [2079](./2_Old%20Question/2079.md)
+	- [2080](./2_Old%20Question/2080.md)
+	- [2081](./2_Old%20Question/2081.md)
+	- **Notes**
 
 %% End Waypoint %%
