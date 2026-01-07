@@ -1,9 +1,11 @@
 ### [Association Rule Mining](U3_Notes/Association%20Rule%20Mining.md)
 #### [1️⃣  Apriori Algorithm](U3_Notes/Apriori%20Algorithm.md)
+##### [Apriori - Numerical Example](U3_Notes/Apriori%20-%20Numerical%20Example.md)
 ##### [Apriori Advantages and Disadvantages](U3_Notes/Apriori%20Advantages%20and%20Disadvantages.md)
 
 
 #### [2️⃣ FP Growth](U3_Notes/FP%20Growth.md)
+##### [FP-Growth Numerical Example](U3_Notes/FP-Growth%20Numerical%20Example.md)
 ##### [FP Growth Adv and Disadv](U3_Notes/FP%20Growth%20Adv%20and%20Disadv.md)
 
 ---

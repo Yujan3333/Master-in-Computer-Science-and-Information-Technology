@@ -12,9 +12,7 @@
 		- [Unit 3](./1_Units/U3/Unit%203.md)
 	- **U4**
 		- [Unit 4](./1_Units/U4/Unit%204.md)
-		- **Unit4_Notes**
-			- [Difference between K Mean and Kmediod](./1_Units/U4/Unit4_Notes/Difference%20between%20K%20Mean%20and%20Kmediod.md)
-			- [Unit 4-all main topics collec](./1_Units/U4/Unit4_Notes/Unit%204-all%20main%20topics%20collec.md)
+		- **[Unit4_Notes](./1_Units/U4/Unit4_Notes/Unit4_Notes.md)**
 	- **U5**
 		- [Unit 5](./1_Units/U5/Unit%205.md)
 		- **Unit5-Notes**

@@ -78,9 +78,6 @@ Step 2: Apply formula iteratively until PR stabilizes.
 > PageRank is a link analysis algorithm that ranks web pages by measuring their importance based on the number and quality of links pointing to them. Higher-ranked pages are considered more important.
 
 ---
-## Some Rules TO BE CONSIDERED
-Absolutely! Let’s break these **PageRank rules** into **simple, easy-to-understand points**, Yujan. I’ll also explain **why each rule exists**, so you can remember them for exams.
-
 ---
 
 # **PageRank Rules Explained**

@@ -93,7 +93,7 @@ Interpretation:
 ## 🔹 Common Algorithms
 
 * [Apriori Algorithm](Apriori%20Algorithm.md)
-* **FP-Growth Algorithm**
+* [FP Growth](FP%20Growth.md)
 
 (For exams: just naming is usually enough)
 

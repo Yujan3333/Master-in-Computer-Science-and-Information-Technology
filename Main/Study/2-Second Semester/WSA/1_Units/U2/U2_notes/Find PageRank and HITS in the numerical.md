@@ -3,8 +3,6 @@ The graph in the image has **six nodes**: A, B, C, D, E, and F.
 
 
 ---
-Perfect, Yujan! Let’s solve this **carefully step by step** for **both HITS and PageRank**, including **2 iterations** and explain the effect of mutual links (A↔B).
-
 ---
 
 # **Step 0: Data Recap**
