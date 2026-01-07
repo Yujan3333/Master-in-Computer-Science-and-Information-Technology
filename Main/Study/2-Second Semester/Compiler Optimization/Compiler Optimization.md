@@ -16,11 +16,8 @@
 		- [Unit 5 - Control Dependence](./1_Units/U5/Unit%205%20-%20Control%20Dependence.md)
 		- **[Unit5-Notes](./1_Units/U5/Unit5-Notes/Unit5-Notes.md)**
 	- **U6**
-		- [Inline Substitution](./1_Units/U6/Inline%20Substitution.md)
 		- [Unit 6](./1_Units/U6/Unit%206.md)
-		- **Unit6-Notes**
-			- [Constant Propagation and Alias Analysis](./1_Units/U6/Unit6-Notes/Constant%20Propagation%20and%20Alias%20Analysis.md)
-			- [Side Effect to Arrays](./1_Units/U6/Unit6-Notes/Side%20Effect%20to%20Arrays.md)
+		- **[Unit6-Notes](./1_Units/U6/Unit6-Notes/Unit6-Notes.md)**
 - **2_Assignment**
 	- **[Assignment_Notes](./2_Assignment/Assignment_Notes/Assignment_Notes.md)**
 	- [Assignment](./2_Assignment/Assignment.md)

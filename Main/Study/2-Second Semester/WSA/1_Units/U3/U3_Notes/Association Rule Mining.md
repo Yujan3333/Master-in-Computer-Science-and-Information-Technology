@@ -1,6 +1,3 @@
-Sure, Yujan — here’s a **simple and exam-friendly explanation** of **Association Rules in Data Mining** 👇
-
----
 
 ## 🔹 What are Association Rules?
 

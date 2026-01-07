@@ -1,5 +1,6 @@
 Applications like **Wikipedia** focus on **collaborative knowledge sharing**, while applications like **Google Search, Google Ads, or Netflix** are **intelligent systems** that learn patterns from collective data.
-   
+
+### [Basic Element of Intelligent Applications](U1_Notes/Basic%20Element%20of%20Intelligent%20Applications.md)
    To build an **intelligent web application**, three key elements are needed:
    
    1. **Aggregated Content** – large, dynamic, and interconnected data collected from various sources.
@@ -16,7 +17,7 @@ Applications like **Wikipedia** focus on **collaborative knowledge sharing**, wh
 4. [Wikis](U1_Notes/Wikis.md)
 5. [Media Sharing Sites](U1_Notes/Media%20Sharing%20Sites.md)
 6. [Online Gaming](U1_Notes/Online%20Gaming.md)
-### How can i build intelligence in my own applications
+### [How can i build intelligence in my own applications](U1_Notes/How%20can%20i%20build%20intelligence%20in%20my%20own%20applications.md)
 - Two prerequisite's of building an intelligent application:
 	- Review your functionality
 	- Examine your data
@@ -25,14 +26,14 @@ Applications like **Wikipedia** focus on **collaborative knowledge sharing**, wh
 	- [Website syndication](U1_Notes/Website%20syndication.md)
 	- [Web services](U1_Notes/Web%20services.md)
 
-### What exactly Intelligence mean
+### [What exactly Intelligence mean](U1_Notes/What%20exactly%20Intelligence%20mean.md)
 - AI
 - Machine Learning
 - Data Mining
 - Soft computing (genetic algorithm)
-### Eight fallacies of intelligent applications
+### [Eight fallacies of intelligent applications](Eight%20fallacies%20of%20intelligent%20applications.md)
 1. Your data is reliable
-2. Inference happens instantenously
+2. Inference happens instantaneously
 3. The size of data doesn't matter
 4. Scalability is not an issue
 5. Apply the same good library everywhere

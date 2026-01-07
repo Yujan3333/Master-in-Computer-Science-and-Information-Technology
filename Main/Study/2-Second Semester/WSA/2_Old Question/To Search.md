@@ -3,7 +3,10 @@
 ### 2077
 ![](../../../../../Images/Second_Sem_Images/To%20Search-5.png)
 
+
 ![](../../../../../Images/Second_Sem_Images/To%20Search-6.png)
+- [How does a spider crawl the page❓ Express its algorithm](Notes/How%20does%20a%20spider%20crawl%20the%20page❓%20Express%20its%20algorithm.md)
+
 
 ![](../../../../../Images/Second_Sem_Images/To%20Search-7.png)
 

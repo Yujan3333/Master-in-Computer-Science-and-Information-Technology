@@ -1,6 +1,8 @@
 Assume a small universe of four web pages: A, B, C, and D. Suppose that page B had a link to pages C and A, page C had a link to page A, and page D had links to all three pages. 
 ![](../../../../../../../Images/Second_Sem_Images/PageRank%20Algorithm-que.png)
 
+- [Solving Using PR damping factor](Solving%20Using%20PR%20damping%20factor.md)
+
 ---
 The **PageRank algorithm** is an iterative method that assigns a numerical weight to each element (web page) in a linked set, reflecting its relative importance. The fundamental idea is that a page is more important if it receives links from other important pages.
 

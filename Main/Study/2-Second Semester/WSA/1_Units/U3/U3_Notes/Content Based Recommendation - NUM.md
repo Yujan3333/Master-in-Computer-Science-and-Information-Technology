@@ -12,14 +12,14 @@
 
 ## 🔹 Given: Rating & Genre Table
 
-| Movie | U1 | U2 | U3 | U4 | U5 | U6 | Genre    |
-| ----- | -- | -- | -- | -- | -- | -- | -------- |
-| M1    | 1  | 1  | ?  | 1  | 1  | ?  | Romance  |
-| M2    | 1  | 1  | 1  | 1  | 1  | ?  | Thriller |
-| M3    | 1  | 1  | 1  | 1  | 1  | 1  | Action   |
-| M4    | ?  | 1  | 1  | 1  | 1  | 1  | Romance  |
-| M5    | 1  | 1  | 1  | 1  | 1  | ?  | Crime    |
-| M6    | 1  | 1  | 1  | 1  | 1  | 1  | Crime    |
+| Movie | U1    | U2  | U3    | U4  | U5  | U6    | Genre    |
+| ----- | ----- | --- | ----- | --- | --- | ----- | -------- |
+| M1    | 1     | 1   | **?** | 1   | 1   | **?** | Romance  |
+| M2    | 1     | 1   | 1     | 1   | 1   | ?     | Thriller |
+| M3    | 1     | 1   | 1     | 1   | 1   | 1     | Action   |
+| M4    | **?** | 1   | 1     | 1   | 1   | 1     | Romance  |
+| M5    | 1     | 1   | 1     | 1   | 1   | **?** | Crime    |
+| M6    | 1     | 1   | 1     | 1   | 1   | 1     | Crime    |
 
 👉 We must **predict rating of Movie M4 for User U1**
 👉 Use **Content-Based Recommendation**

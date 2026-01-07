@@ -15,7 +15,7 @@
 ### [Constant Propagation and Alias Analysis](Unit6-Notes/Constant%20Propagation%20and%20Alias%20Analysis.md)
 
 ---
-### [Inline Substitution](Inline%20Substitution.md)
+### [Inline Substitution](Unit6-Notes/Inline%20Substitution.md)
 
 ==NEED FOR EXPANDING==
 

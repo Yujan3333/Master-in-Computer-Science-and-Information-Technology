@@ -1,22 +1,15 @@
 %% Begin Waypoint %%
 - **1_Units**
-	- [2075](./1_Units/2075.md)
 	- **U1**
+		- [Eight fallacies of intelligent applications](./1_Units/U1/Eight%20fallacies%20of%20intelligent%20applications.md)
 		- **[U1_Notes](./1_Units/U1/U1_Notes/U1_Notes.md)**
 		- [Unit 1](./1_Units/U1/Unit%201.md)
 	- **U2**
-		- [Page Rank Vs HITS](./1_Units/U2/Page%20Rank%20Vs%20HITS.md)
-		- **U2_notes**
-			- [Find PageRank and HITS in the numerical](./1_Units/U2/U2_notes/Find%20PageRank%20and%20HITS%20in%20the%20numerical.md)
-			- [PageRank Algorithm](./1_Units/U2/U2_notes/PageRank%20Algorithm.md)
+		- **[U2_notes](./1_Units/U2/U2_notes/U2_notes.md)**
 		- [Unit 2](./1_Units/U2/Unit%202.md)
 	- **U3**
+		- **[U3_Notes](./1_Units/U3/U3_Notes/U3_Notes.md)**
 		- [Unit 3](./1_Units/U3/Unit%203.md)
-		- **Unit3_Notes**
-			- [Apriori Algorithm](./1_Units/U3/Unit3_Notes/Apriori%20Algorithm.md)
-			- [Association Rule Mining](./1_Units/U3/Unit3_Notes/Association%20Rule%20Mining.md)
-			- [Collaborative Filtering NUM](./1_Units/U3/Unit3_Notes/Collaborative%20Filtering%20NUM.md)
-			- [Content Based Recommendation](./1_Units/U3/Unit3_Notes/Content%20Based%20Recommendation.md)
 	- **U4**
 		- [Unit 4](./1_Units/U4/Unit%204.md)
 		- **Unit4_Notes**
@@ -36,6 +29,7 @@
 - **2_Old Question**
 	- [2072](./2_Old%20Question/2072.md)
 	- [2074](./2_Old%20Question/2074.md)
+	- [2075](./2_Old%20Question/2075.md)
 	- [2076](./2_Old%20Question/2076.md)
 	- [2077](./2_Old%20Question/2077.md)
 	- [2079](./2_Old%20Question/2079.md)
