@@ -25,3 +25,18 @@
 - Generating Recommendation
 
 #### [📖Content Based Recommendation - NUM](U3_Notes/Content%20Based%20Recommendation%20-%20NUM.md)
+
+
+---
+### Hierarchical Clustering
+#### Agglomerative Hierarchical Clustering
+#### [Divisive Hierarchical Clustering](Divisive%20Hierarchical%20Clustering.md)
+
+---
+##### [Single Linkage Agglomerative Hierarchical clustering](U3_Notes/Single%20Linkage%20Agglomerative%20Hierarchical%20clustering.md)
+- Min taken
+##### Complete Linkage Agglomerative hierarchical clustering
+- Just Change **Min to Max** from Single Linkage
+
+##### Average Linkage Agglomerative Hierarchical Clustering
+- Just Change from **Min to Avg**

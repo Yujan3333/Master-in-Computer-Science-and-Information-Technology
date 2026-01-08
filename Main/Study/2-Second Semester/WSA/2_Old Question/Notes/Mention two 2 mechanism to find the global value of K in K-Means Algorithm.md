@@ -7,6 +7,9 @@
 
 📌 Intuition: After this point, increasing K gives little improvement.
 
+###### Visually
+![](../../../../../../Images/Second_Sem_Images/elbow%20method.png)
+
 ---
 
 ### **2️⃣ [Silhouette Method](Silhouette%20Method.md)**

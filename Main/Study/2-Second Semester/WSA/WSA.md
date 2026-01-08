@@ -8,6 +8,7 @@
 		- **[U2_notes](./1_Units/U2/U2_notes/U2_notes.md)**
 		- [Unit 2](./1_Units/U2/Unit%202.md)
 	- **U3**
+		- [Divisive Hierarchical Clustering](./1_Units/U3/Divisive%20Hierarchical%20Clustering.md)
 		- **[U3_Notes](./1_Units/U3/U3_Notes/U3_Notes.md)**
 		- [Unit 3](./1_Units/U3/Unit%203.md)
 	- **U4**

@@ -17,7 +17,7 @@
 🧠 [Brain (Concept - Idea)](Brain%20(Concept%20-%20Idea).md)  
 💡 [Light Bulb (Insight)](Light%20Bulb%20(Insight).md)  
 ✨ [Sparkles (Special - Highlight)](Sparkles%20(Special%20-%20Highlight).md)
-❓ [Question mark](Question%20mark.md)
+❓ [Question mark- red](Question%20mark-%20red.md)
 
 ===
 📝 [Memo (Note - Write)](Memo%20(Note%20-%20Write).md)  

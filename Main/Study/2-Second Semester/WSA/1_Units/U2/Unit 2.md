@@ -15,3 +15,20 @@
 
 ---
 ### [TF-IDF](U2_notes/TF-IDF.md)
+
+---
+### [String Editing](../../../../1-First%20Semester/Subjects/Algorithm%20and%20Complexity%20(AC)/1-Units/Unit%201/Unit1-Notes-Folder/String%20Editing.md)
+
+---
+### [K-grams](U2_notes/K-grams.md)
+
+---
+### How does search engine works❓
+- Web crawling
+- Indexing
+- Searching
+- Ranking
+
+#### [Spider Algorithm](U2_notes/Spider%20Algorithm.md)
+
+---

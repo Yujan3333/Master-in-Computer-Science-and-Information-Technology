@@ -13,7 +13,8 @@ String editing refers to **transforming one string into another** using a set of
 - **Insert** a character
 - **Delete** a character
 - **Replace** a character
-
+![](../../../../../../../../Images/Second_Sem_Images/String%20Editing-rules.png)
+- IN substitution no change =0
 ---
 ## Numerical
 ![](../../../../../../../../Images/First_Sem_Images/String%20Editing-que.png)

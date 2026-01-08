@@ -11,6 +11,7 @@
 - [FP Growth](./FP%20Growth.md)
 - [FP-Growth Numerical Example](./FP-Growth%20Numerical%20Example.md)
 - [Item based Collaborative Filtering](./Item%20based%20Collaborative%20Filtering.md)
+- [Single Linkage Agglomerative Hierarchical clustering](./Single%20Linkage%20Agglomerative%20Hierarchical%20clustering.md)
 - [User based Collaborative Filtering](./User%20based%20Collaborative%20Filtering.md)
 
 %% End Waypoint %%

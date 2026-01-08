@@ -33,7 +33,7 @@
 
 ### 2072
 ![](../../../../../Images/Second_Sem_Images/To%20Search-2072%20qno%202.png)
-
+- [Why does the ranking on same query by different people may differ❓ Explain in your own view․ How can be documents without links can be ranked ❓](Notes/Why%20does%20the%20ranking%20on%20same%20query%20by%20different%20people%20may%20differ❓%20Explain%20in%20your%20own%20view․%20How%20can%20be%20documents%20without%20links%20can%20be%20ranked%20❓.md)
 ---
 ### 2071
 ![](../../../../../Images/Second_Sem_Images/To%20Search.png)
