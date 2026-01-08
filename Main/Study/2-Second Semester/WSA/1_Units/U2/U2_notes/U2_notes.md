@@ -5,6 +5,7 @@
 - [Page Rank Vs HITS](./Page%20Rank%20Vs%20HITS.md)
 - [PageRank Algorithm - Numerical](./PageRank%20Algorithm%20-%20Numerical.md)
 - [Solving Using PR damping factor](./Solving%20Using%20PR%20damping%20factor.md)
+- [TF-IDF](./TF-IDF.md)
 - [WSA - Unit2 - Searching OVERVIEW](./WSA%20-%20Unit2%20-%20Searching%20OVERVIEW.md)
 
 %% End Waypoint %%

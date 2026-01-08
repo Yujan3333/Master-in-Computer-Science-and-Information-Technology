@@ -23,48 +23,63 @@
             }
           },
           {
-            "id": "594aa9ba38a0f6ba",
+            "id": "911a9a30078ad805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit 4.md",
+                "file": "Main/Study/2-Second Semester/WSA/2_Old Question/To Search.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Unit 4"
+              "title": "To Search"
             }
           },
           {
-            "id": "254b37520cd86be4",
+            "id": "d51ea8bf82a1efe5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/K Medoid.md",
+                "file": "Main/Study/2-Second Semester/WSA/2_Old Question/Notes/Mention two 2 mechanism to find the global value of K in K-Means Algorithm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "K Medoid"
+              "title": "Mention two 2 mechanism to find the global value of K in K-Means Algorithm"
             }
           },
           {
-            "id": "b2e4f2684fbbb229",
+            "id": "331f7fea2cf168cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/Difference between K Mean and Kmediod.md",
-                "mode": "preview",
+                "file": "Main/Study/2-Second Semester/WSA/1_Units/U2/Unit 2.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Difference between K Mean and Kmediod"
+              "title": "Unit 2"
+            }
+          },
+          {
+            "id": "e3f826b482b93b50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/WSA/1_Units/U2/U2_notes/TF-IDF.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TF-IDF"
             }
           }
         ],
@@ -180,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/K Medoid.md",
+                "file": "Main/Study/2-Second Semester/WSA/2_Old Question/Notes/Mention two 2 mechanism to find the global value of K in K-Means Algorithm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of K Medoid"
+              "title": "Outline of Mention two 2 mechanism to find the global value of K in K-Means Algorithm"
             }
           },
           {
@@ -208,11 +223,12 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,54 +245,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "d51ea8bf82a1efe5",
   "lastOpenFiles": [
+    "Main/Study/2-Second Semester/WSA/1_Units/U2/U2_notes/TF-IDF.md",
     "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit 4.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/K Medoid.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/Difference between K Mean and Kmediod.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/ROCK Numerical.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/ROCK.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/Unit 4-all main topics collec.md",
     "Main/Study/2-Second Semester/WSA/1_Units/U3/Unit 3.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/Unit4_Notes/Unit4_Notes.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/Apriori - Numerical Example.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/Association Rule Mining.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U2/U2_notes/Find PageRank and HITS in the numerical.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U2/U2_notes/Page Rank Algorithm.md",
-    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit3/Unit 3 - ZNotes/Role-Based Access Control (RBAC).md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/Apriori Advantages and Disadvantages.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/FP Growth Adv and Disadv.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/Apriori Algorithm.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/FP-Growth Numerical Example.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U2/Unit 2.md",
+    "Main/Study/2-Second Semester/WSA/2_Old Question/Notes/Silhouette Method.md",
+    "Main/Study/2-Second Semester/WSA/2_Old Question/Notes/Mention two 2 mechanism to find the global value of K in K-Means Algorithm.md",
+    "Main/Study/2-Second Semester/WSA/2_Old Question/To Search.md",
+    "Main/Study/2-Second Semester/WSA/2_Old Question/Notes/Describe the significances of combining the classifier - Can we get more accurate result by combining the classifier rather than using a single classifier❓ (3+2).md",
+    "Main/Study/2-Second Semester/WSA/2_Old Question/Notes/The selection of training data set will bias the model - Agree or disagree with this statement. Define over fitting and under fitting.md",
+    "Main/Study/2-Second Semester/WSA/2_Old Question/WSA Que/WSA Que.md",
+    "Main/Study/2-Second Semester/WSA/2_Old Question/WSA Que",
+    "Main/Study/2-Second Semester/WSA/1_Units/U7/Unit 7 Semantic Web.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit 2.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Same Numerical of TF-IDF with different finding.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Numerical Count Vectorization and TF-IDF.md",
+    "Main/Research/Seminar 1/Seminar - Folder/Change in TF-IDF.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U7/u7-notes/RDF VS OWL.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U7/u7-notes/Unit7-Semantic Web Overview.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U7/u7-notes/Web Ontology Language (OWL).md",
+    "Main/Study/2-Second Semester/WSA/WSA.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U7/u7-notes/Resource Description Framework (RDF).md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U6/Unit 6 - Combining Classifiers.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U6/u6-notes/Unit 6 - Combining Classifiers Overview.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U7/u7-notes/Unit 7 - Semantic Web.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U5/u5-notes/Differences between Bagging and Boosting.md",
+    "Main/Study/2-Second Semester/WSA/1_Units/U5/u5-notes/Ensemble Technique.md",
+    "Main/Study/2-Second Semester/WSA/2_Old Question/WSA Que/2081.md",
+    "Images/Second_Sem_Images/DBSCAN Numerical-3.png",
+    "Images/Second_Sem_Images/DBSCAN Numerical-2.png",
+    "Images/Second_Sem_Images/DBSCAN Numerical.png",
+    "Images/Second_Sem_Images/DBSCAN Numerical-1.png",
+    "Images/Second_Sem_Images/DBSCAN Numerical-que.png",
+    "Unit4_Notes",
     "Images/Second_Sem_Images/FP-Growth Numerical Example-18.png",
     "Images/Second_Sem_Images/FP-Growth Numerical Example-17.png",
     "Images/Second_Sem_Images/FP-Growth Numerical Example-16.png",
     "Images/Second_Sem_Images/FP-Growth Numerical Example-15.png",
     "Images/Second_Sem_Images/FP-Growth Numerical Example-14.png",
-    "Images/Second_Sem_Images/FP-Growth Numerical Example-13.png",
-    "Images/Second_Sem_Images/FP-Growth Numerical Example-12.png",
-    "Images/Second_Sem_Images/FP-Growth Numerical Example-11.png",
-    "Images/Second_Sem_Images/FP-Growth Numerical Example-10.png",
-    "Images/Second_Sem_Images/FP-Growth Numerical Example-9.png",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/FP Growth.md",
-    "Main/Study/2-Second Semester/WSA/2_Old Question/To Search.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/Content Based Recommendation - NUM.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/Content Based Recommendation.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/Adv and Disadv of Collaborative Recommendation.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/Collaborative Filtering NUM.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/Item based Collaborative Filtering.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/U3_Notes/User based Collaborative Filtering.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U2/Unit 2.md",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U6/Unit6-Notes/Untitled",
-    "Main/Study/2-Second Semester/WSA/1_Units/U7/Unit7-Notes",
-    "Main/Study/2-Second Semester/WSA/1_Units/U6/Unit6-Notes",
+    "Main/Study/2-Second Semester/WSA/1_Units/U7/u7-notes",
+    "Main/Study/2-Second Semester/WSA/1_Units/U6/u6-notes",
     "Main/Study/2-Second Semester/WSA/1_Units/U7",
     "Main/Study/2-Second Semester/WSA/1_Units/U6",
     "Main/Study/2-Second Semester/WSA/2_Old Question/Notes",
     "Main/Study/2-Second Semester/WSA/2_Old Question",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/3_Old Questions",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U6/Unit6-Notes",
-    "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U6",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"

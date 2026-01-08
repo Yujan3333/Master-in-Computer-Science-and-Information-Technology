@@ -51,6 +51,6 @@
 
 ---
 ### Support Vector Machine (SVM)
-#### [SVM Derivation](SVM%20Derivation.md)
+#### [SVM Derivation](Unit2%20-%20Notes/SVM%20Derivation.md)
 
 ---

@@ -4,7 +4,6 @@
 		- [Unit 1](./1-Units/U1/Unit%201.md)
 		- **[Unit1_Notes](./1-Units/U1/Unit1_Notes/Unit1_Notes.md)**
 	- **U2**
-		- [SVM Derivation](./1-Units/U2/SVM%20Derivation.md)
 		- [Unit 2](./1-Units/U2/Unit%202.md)
 		- **Unit2 - Notes**
 			- [Batch Gradient Descent](./1-Units/U2/Unit2%20-%20Notes/Batch%20Gradient%20Descent.md)
@@ -42,11 +41,13 @@
 			- [Numerical KNN](./1-Units/U2/Unit2%20-%20Notes/Numerical%20KNN.md)
 			- [Numerical of Bayes Theorem](./1-Units/U2/Unit2%20-%20Notes/Numerical%20of%20Bayes%20Theorem.md)
 			- [Overfitting and Underfitting](./1-Units/U2/Unit2%20-%20Notes/Overfitting%20and%20Underfitting.md)
+			- [Overfitting VS Underfitting](./1-Units/U2/Unit2%20-%20Notes/Overfitting%20VS%20Underfitting.md)
 			- [Regularization](./1-Units/U2/Unit2%20-%20Notes/Regularization.md)
 			- [Same Numerical of TF-IDF with different finding](./1-Units/U2/Unit2%20-%20Notes/Same%20Numerical%20of%20TF-IDF%20with%20different%20finding.md)
 			- [Sigmoid Function](./1-Units/U2/Unit2%20-%20Notes/Sigmoid%20Function.md)
 			- [Slope](./1-Units/U2/Unit2%20-%20Notes/Slope.md)
 			- [Stochastic Gradient Descent](./1-Units/U2/Unit2%20-%20Notes/Stochastic%20Gradient%20Descent.md)
+			- [SVM Derivation](./1-Units/U2/Unit2%20-%20Notes/SVM%20Derivation.md)
 			- [Text Classification](./1-Units/U2/Unit2%20-%20Notes/Text%20Classification.md)
 			- [Things to be mindful of while doing the Linear Regression Numerical](./1-Units/U2/Unit2%20-%20Notes/Things%20to%20be%20mindful%20of%20while%20doing%20the%20Linear%20Regression%20Numerical.md)
 			- [Types of Gradient Descent](./1-Units/U2/Unit2%20-%20Notes/Types%20of%20Gradient%20Descent.md)

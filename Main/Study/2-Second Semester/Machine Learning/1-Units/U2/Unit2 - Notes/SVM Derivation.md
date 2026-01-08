@@ -119,7 +119,7 @@ Where:
 * direction = $w$
 * magnitude = $r$
 
-![](../../../../../../Images/Second_Sem_Images/SVM%20Derivation.png)
+![](../../../../../../../Images/Second_Sem_Images/SVM%20Derivation.png)
 
 ---
 

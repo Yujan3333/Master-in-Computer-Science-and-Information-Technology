@@ -14,27 +14,17 @@
 		- [Unit 4](./1_Units/U4/Unit%204.md)
 		- **[Unit4_Notes](./1_Units/U4/Unit4_Notes/Unit4_Notes.md)**
 	- **U5**
-		- [Unit 5](./1_Units/U5/Unit%205.md)
-		- **Unit5-Notes**
-			- [Differences betn Bagging and Boosting](./1_Units/U5/Unit5-Notes/Differences%20betn%20Bagging%20and%20Boosting.md)
-			- [Ensemble Technique](./1_Units/U5/Unit5-Notes/Ensemble%20Technique.md)
+		- **[u5-notes](./1_Units/U5/u5-notes/u5-notes.md)**
+		- [Unit 5 - Classification](./1_Units/U5/Unit%205%20-%20Classification.md)
 	- **U6**
-		- [Unit 6](./1_Units/U6/Unit%206.md)
-		- **Unit6-Notes**
+		- **[u6-notes](./1_Units/U6/u6-notes/u6-notes.md)**
+		- [Unit 6 - Combining Classifiers](./1_Units/U6/Unit%206%20-%20Combining%20Classifiers.md)
 	- **U7**
-		- [Unit 7](./1_Units/U7/Unit%207.md)
-		- **Unit7-Notes**
+		- **[u7-notes](./1_Units/U7/u7-notes/u7-notes.md)**
+		- [Unit 7 Semantic Web](./1_Units/U7/Unit%207%20Semantic%20Web.md)
 - **2_Old Question**
-	- [2072](./2_Old%20Question/2072.md)
-	- [2074](./2_Old%20Question/2074.md)
-	- [2075](./2_Old%20Question/2075.md)
-	- [2076](./2_Old%20Question/2076.md)
-	- [2077](./2_Old%20Question/2077.md)
-	- [2079](./2_Old%20Question/2079.md)
-	- [2080](./2_Old%20Question/2080.md)
-	- [2081](./2_Old%20Question/2081.md)
-	- [2082-My](./2_Old%20Question/2082-My.md)
 	- **[Notes](./2_Old%20Question/Notes/Notes.md)**
 	- [To Search](./2_Old%20Question/To%20Search.md)
+	- **[WSA Que](./2_Old%20Question/WSA%20Que/WSA%20Que.md)**
 
 %% End Waypoint %%

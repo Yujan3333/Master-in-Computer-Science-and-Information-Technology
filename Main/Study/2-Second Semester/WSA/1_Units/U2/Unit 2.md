@@ -12,3 +12,6 @@
 
 ---
 ### [Page Rank Vs HITS](U2_notes/Page%20Rank%20Vs%20HITS.md)
+
+---
+### [TF-IDF](U2_notes/TF-IDF.md)

@@ -1,5 +1,3 @@
-
-
 ## **Ensemble Techniques**
 
 **Idea:**
