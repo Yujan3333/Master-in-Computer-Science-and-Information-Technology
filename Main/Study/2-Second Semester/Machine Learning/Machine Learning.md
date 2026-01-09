@@ -60,5 +60,9 @@
 		- [Lab1-Contd Explanation](./2-Assignments/Assignment_notes/Lab1-Contd%20Explanation.md)
 		- [Lab1-Explanation](./2-Assignments/Assignment_notes/Lab1-Explanation.md)
 		- [Why was Library giving better result when Learning rate was less](./2-Assignments/Assignment_notes/Why%20was%20Library%20giving%20better%20result%20when%20Learning%20rate%20was%20less.md)
+- **3-Old Question**
+	- **[ML Que](./3-Old%20Question/ML%20Que/ML%20Que.md)**
+	- [ML Que Collection](./3-Old%20Question/ML%20Que%20Collection.md)
+	- [To Search](./3-Old%20Question/To%20Search.md)
 
 %% End Waypoint %%
