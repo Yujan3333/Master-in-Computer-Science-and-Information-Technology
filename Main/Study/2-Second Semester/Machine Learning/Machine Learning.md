@@ -58,6 +58,13 @@
 	- **U3**
 		- **[u3-notes](./1-Units/U3/u3-notes/u3-notes.md)**
 		- [Unit 3](./1-Units/U3/Unit%203.md)
+	- **U4**
+		- **[u4-notes](./1-Units/U4/u4-notes/u4-notes.md)**
+		- [Unit 4  Unsupervised Learning](./1-Units/U4/Unit%204%20%20Unsupervised%20Learning.md)
+	- **U5**
+		- **u5-notes**
+			- [U5-Reinforcement Learning Overview](./1-Units/U5/u5-notes/U5-Reinforcement%20Learning%20Overview.md)
+		- [Unit 5 - Reinforcement Learning](./1-Units/U5/Unit%205%20-%20Reinforcement%20Learning.md)
 - **[2-Assignments](./2-Assignments/2-Assignments.md)**
 	- **Assignment_notes**
 		- [Lab1-Contd Explanation](./2-Assignments/Assignment_notes/Lab1-Contd%20Explanation.md)
