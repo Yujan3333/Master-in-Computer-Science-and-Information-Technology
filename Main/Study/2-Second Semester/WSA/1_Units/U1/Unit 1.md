@@ -31,7 +31,7 @@ Applications like **Wikipedia** focus on **collaborative knowledge sharing**, wh
 - Machine Learning
 - Data Mining
 - Soft computing (genetic algorithm)
-### [Eight fallacies of intelligent applications](Eight%20fallacies%20of%20intelligent%20applications.md)
+### [Eight fallacies of intelligent applications](U1_Notes/Eight%20fallacies%20of%20intelligent%20applications.md)
 1. Your data is reliable
 2. Inference happens instantaneously
 3. The size of data doesn't matter

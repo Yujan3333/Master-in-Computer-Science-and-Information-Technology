@@ -53,9 +53,9 @@ The graph in the image has **six nodes**: A, B, C, D, E, and F.
 
 ### **Step 3: Iteration 1 – PR formula**
 
-[
+$$[
 PR(P) = \frac{1-d}{N} + d \sum_{i \in M(P)} \frac{PR(i)}{C(i)}
-]
+]$$
 
 * ((1-d)/N = 0.025)
 
@@ -65,17 +65,17 @@ PR(P) = \frac{1-d}{N} + d \sum_{i \in M(P)} \frac{PR(i)}{C(i)}
 
 Inbound: B → C(B)=3
 
-[
+$$[
 PR₁(A) = 0.025 + 0.85 * (0.1667/3) = 0.025 + 0.85*0.05556 ≈ 0.0723
-]
+]$$
 
 #### **PR₁(B)**
 
 Inbound: A, C, E, F → C(A)=2, C(C)=1, C(E)=4, C(F)=2
 
-[
+$$[
 PR₁(B) = 0.025 + 0.85*(0.1667/2 + 0.1667/1 + 0.1667/4 + 0.1667/2)
-]
+]$$
 
 Step: 0.08335 + 0.1667 + 0.041675 + 0.08335 = 0.3741
 0.3741*0.85 ≈ 0.31798

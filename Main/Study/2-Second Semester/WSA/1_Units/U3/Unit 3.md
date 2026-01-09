@@ -28,15 +28,5 @@
 
 
 ---
-### Hierarchical Clustering
-#### Agglomerative Hierarchical Clustering
-#### [Divisive Hierarchical Clustering](Divisive%20Hierarchical%20Clustering.md)
 
----
-##### [Single Linkage Agglomerative Hierarchical clustering](U3_Notes/Single%20Linkage%20Agglomerative%20Hierarchical%20clustering.md)
-- Min taken
-##### Complete Linkage Agglomerative hierarchical clustering
-- Just Change **Min to Max** from Single Linkage
 
-##### Average Linkage Agglomerative Hierarchical Clustering
-- Just Change from **Min to Avg**

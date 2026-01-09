@@ -13,7 +13,7 @@
 ![](../../../../../../../Images/Second_Sem_Images/Single%20linkage%20hierarchical%20clustering-2.png)
 
 ---
-### Step 2 : Find the minimum Distance 
+### Step 2 : Find the minimum Distance is `2` for `c and e`
 - Here the minimum distance is between *c and e*. 
 - Merge *c and e*
 ![](../../../../../../../Images/Second_Sem_Images/Single%20linkage%20hierarchical%20clustering-3.png)
@@ -23,7 +23,7 @@
 ![](../../../../../../../Images/Second_Sem_Images/Single%20linkage%20hierarchical%20clustering-4.png)
 
 ---
-### Step 4 : Minimum distance again is between `a` and `ce`
+### Step 4 : Minimum distance again is between `a` and `ce` is `3`
 ![](../../../../../../../Images/Second_Sem_Images/Single%20linkage%20hierarchical%20clustering-5.png)
 
 ---

@@ -67,8 +67,14 @@ Two points *p* and *q* are **density-connected** if:
 
 * There exists a point *o* such that both *p* and *q* are **density-reachable from *o***
 
----
 
+### **6.** [Explaining in simple Directly Density Reachable-Density Reachable-Density Connected](Explaining%20in%20simple%20Directly%20Density%20Reachable-Density%20Reachable-Density%20Connected.md)
+* **Directly reachable** → one hop, **p must be core**
+* **Density reachable** → chain, **core → core → border**
+* **Density connected** → common core ancestor
+
+
+---
 ## **Types of Points in DBSCAN**
 
 | Type             | Description                                         |

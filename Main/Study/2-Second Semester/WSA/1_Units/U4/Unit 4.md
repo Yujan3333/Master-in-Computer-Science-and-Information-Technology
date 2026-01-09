@@ -28,7 +28,16 @@
 - Each Object as a separate cluster
 - Similar Cluster Grouped together
 
-#### Divisive clustering
+##### [1️⃣ Single Linkage Agglomerative Hierarchical clustering](../U3/U3_Notes/Single%20Linkage%20Agglomerative%20Hierarchical%20clustering.md)
+- Min taken
+##### 2️⃣ Complete Linkage Agglomerative hierarchical clustering
+- Just Change **Min to Max** from Single Linkage
+
+##### 3️⃣Average Linkage Agglomerative Hierarchical Clustering
+- Just Change from **Min to Avg**
+
+---
+#### [Divisive Hierarchical Clustering](../U3/U3_Notes/Divisive%20Hierarchical%20Clustering.md)
 - All the objects are grouped together in a single cluster
 - According to the dissimilarity breakdown the cluster until final cluster are made.
 

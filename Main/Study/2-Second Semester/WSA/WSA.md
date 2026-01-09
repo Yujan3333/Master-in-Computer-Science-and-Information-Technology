@@ -1,14 +1,12 @@
 %% Begin Waypoint %%
 - **1_Units**
 	- **U1**
-		- [Eight fallacies of intelligent applications](./1_Units/U1/Eight%20fallacies%20of%20intelligent%20applications.md)
 		- **[U1_Notes](./1_Units/U1/U1_Notes/U1_Notes.md)**
 		- [Unit 1](./1_Units/U1/Unit%201.md)
 	- **U2**
 		- **[U2_notes](./1_Units/U2/U2_notes/U2_notes.md)**
 		- [Unit 2](./1_Units/U2/Unit%202.md)
 	- **U3**
-		- [Divisive Hierarchical Clustering](./1_Units/U3/Divisive%20Hierarchical%20Clustering.md)
 		- **[U3_Notes](./1_Units/U3/U3_Notes/U3_Notes.md)**
 		- [Unit 3](./1_Units/U3/Unit%203.md)
 	- **U4**
@@ -26,6 +24,7 @@
 - **2_Old Question**
 	- **[Notes](./2_Old%20Question/Notes/Notes.md)**
 	- [To Search](./2_Old%20Question/To%20Search.md)
-	- **[WSA Que](./2_Old%20Question/WSA%20Que/WSA%20Que.md)**
+	- **[WSA Que Folder](./2_Old%20Question/WSA%20Que%20Folder/WSA%20Que%20Folder.md)**
+	- [WSA Que](./2_Old%20Question/WSA%20Que.md)
 
 %% End Waypoint %%

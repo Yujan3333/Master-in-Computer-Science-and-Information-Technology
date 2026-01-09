@@ -7,6 +7,7 @@
 - [Collaborative Filtering NUM](./Collaborative%20Filtering%20NUM.md)
 - [Content Based Recommendation - NUM](./Content%20Based%20Recommendation%20-%20NUM.md)
 - [Content Based Recommendation](./Content%20Based%20Recommendation.md)
+- [Divisive Hierarchical Clustering](./Divisive%20Hierarchical%20Clustering.md)
 - [FP Growth Adv and Disadv](./FP%20Growth%20Adv%20and%20Disadv.md)
 - [FP Growth](./FP%20Growth.md)
 - [FP-Growth Numerical Example](./FP-Growth%20Numerical%20Example.md)
