@@ -59,3 +59,25 @@ used to understand and categorize unstructured textual data
 - Use of Clustering Algorithm
 ---
 ### Dimensionality Reduction
+#### 1. Feature Selection
+#### 2. Feature Extraction
+##### 1. Principal Component Analysis(PCA)
+- [PCA-5min Engineering](https://www.youtube.com/watch?v=_ZkFfrCfIws)
+- [PCA-GateSmashers](https://www.youtube.com/watch?v=Dv-Kk7PDEas)
+- 
+- [Calculating Eigen Values in PCA](Calculating%20Eigen%20Values%20in%20PCA.md)
+- [Eigen Vector in PCA](Eigen%20Vector%20in%20PCA.md)
+##### 2. Linear Discriminant Analysis(LDA)
+##### 3. Generalized Discriminant Analysis(GDA)
+
+---
+### Low rank approximation
+
+
+### Single Value Decomposition
+
+
+### Factor Analysis
+
+### Independent Component Analysis (ICA)
+- whiten

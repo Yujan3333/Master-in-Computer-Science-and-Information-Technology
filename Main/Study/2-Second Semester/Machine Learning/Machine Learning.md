@@ -60,6 +60,8 @@
 		- **[u3-notes](./1-Units/U3/u3-notes/u3-notes.md)**
 		- [Unit 3 - Learning Theory and Model Evaluation](./1-Units/U3/Unit%203%20-%20Learning%20Theory%20and%20Model%20Evaluation.md)
 	- **U4**
+		- [Calculating Eigen Values in PCA](./1-Units/U4/Calculating%20Eigen%20Values%20in%20PCA.md)
+		- [Eigen Vector in PCA](./1-Units/U4/Eigen%20Vector%20in%20PCA.md)
 		- **[u4-notes](./1-Units/U4/u4-notes/u4-notes.md)**
 		- [Unit 4  Unsupervised Learning](./1-Units/U4/Unit%204%20%20Unsupervised%20Learning.md)
 	- **U5**

@@ -162,8 +162,7 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,11 +183,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8360a0e07c9af7ef",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/Eigen Vector in PCA.md",
+    "Images/Second_Sem_Images/Eigen Vector in PCA.png",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/Unit 4  Unsupervised Learning.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/Calculating Eigen Values in PCA.md",
+    "Images/Second_Sem_Images/Calculating Eigen Values in PCA.png",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/u4-notes/Text Clustering More.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/u4-notes/Text Clustering.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/Unit 4  Unsupervised Learning.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/u4-notes/Numerical - GMM-2 x and y.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U3/Unit 3 - Learning Theory and Model Evaluation.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U3/u3-notes/ML U3- Learning Theory and Model Evaluation.md",
@@ -203,8 +206,6 @@
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U3/u3-notes/Multiclass Classification.md",
     "Images/Second_Sem_Images/Multiclass Classification-1.png",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U3/u3-notes/Numerical - Silhouette Coefficient.md",
-    "Images/Second_Sem_Images/Numerical - Silhouette Coefficient-4.png",
-    "Images/Second_Sem_Images/Numerical - Silhouette Coefficient-3.png",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U3/u3-notes/Silhouette Coefficient.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U3/Elbow Method.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U3/u3-notes/Dunn Index (DI).md",
@@ -219,9 +220,6 @@
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/u4-notes/Numerical - GMM-1 only x.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/u4-notes/Gaussian Mixture Model (GMM).md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/u4-notes/ML U4 ppt 28 - Outline of EM Algorithm.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/u4-notes/ML ppt 25.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/u4-notes/K-Means ++.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/u4-notes/K Means ++ Numerical.md",
     "Main/Study/2-Second Semester/Machine Learning/3-Old Question/Notes",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/u4-notes",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/Untitled",
