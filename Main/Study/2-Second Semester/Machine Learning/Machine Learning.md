@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **1-Units**
 	- **U1**
+		- [Types of Attributes](./1-Units/U1/Types%20of%20Attributes.md)
 		- [Unit 1](./1-Units/U1/Unit%201.md)
 		- **[Unit1_Notes](./1-Units/U1/Unit1_Notes/Unit1_Notes.md)**
 	- **U2**
@@ -57,7 +58,7 @@
 			- [Why is the poor removed and what happens if there are multiple occurence of the same word in the likelihood finding](./1-Units/U2/Unit2%20-%20Notes/Why%20is%20the%20poor%20removed%20and%20what%20happens%20if%20there%20are%20multiple%20occurence%20of%20the%20same%20word%20in%20the%20likelihood%20finding.md)
 	- **U3**
 		- **[u3-notes](./1-Units/U3/u3-notes/u3-notes.md)**
-		- [Unit 3](./1-Units/U3/Unit%203.md)
+		- [Unit 3 - Learning Theory and Model Evaluation](./1-Units/U3/Unit%203%20-%20Learning%20Theory%20and%20Model%20Evaluation.md)
 	- **U4**
 		- **[u4-notes](./1-Units/U4/u4-notes/u4-notes.md)**
 		- [Unit 4  Unsupervised Learning](./1-Units/U4/Unit%204%20%20Unsupervised%20Learning.md)
@@ -73,6 +74,7 @@
 - **3-Old Question**
 	- **[ML Que](./3-Old%20Question/ML%20Que/ML%20Que.md)**
 	- [ML Que Collection](./3-Old%20Question/ML%20Que%20Collection.md)
+	- **Notes**
 	- [To Search](./3-Old%20Question/To%20Search.md)
 
 %% End Waypoint %%

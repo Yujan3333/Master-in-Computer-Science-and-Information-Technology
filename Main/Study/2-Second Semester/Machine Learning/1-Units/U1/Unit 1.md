@@ -1,8 +1,12 @@
+#### [AI vs ML vs NN vs DL](Unit1_Notes/AI%20vs%20ML%20vs%20NN%20vs%20DL.md)
+
+---
 ### How Machine Learning Works?
 - A decision process
 - An error function
 - An model Optimization process
 
+---
 ### Applications of ML
 - Image Recognition
 - Speech Recognition
@@ -20,7 +24,7 @@
 2. Unsupervised learning
 3. Reinforcement Learning
 
-### Types of Attributes
+### [Types of Attributes](Types%20of%20Attributes.md)
 1. Nominal Attributes
 2. Ordinal Attributes
 3. Interval-Scaled Attributes
