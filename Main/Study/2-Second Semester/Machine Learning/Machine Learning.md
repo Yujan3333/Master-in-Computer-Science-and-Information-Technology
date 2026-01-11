@@ -1,7 +1,6 @@
 %% Begin Waypoint %%
 - **1-Units**
 	- **U1**
-		- [Types of Attributes](./1-Units/U1/Types%20of%20Attributes.md)
 		- [Unit 1](./1-Units/U1/Unit%201.md)
 		- **[Unit1_Notes](./1-Units/U1/Unit1_Notes/Unit1_Notes.md)**
 	- **U2**
@@ -41,6 +40,7 @@
 			- [Numerical Count Vectorization and TF-IDF](./1-Units/U2/Unit2%20-%20Notes/Numerical%20Count%20Vectorization%20and%20TF-IDF.md)
 			- [Numerical KNN](./1-Units/U2/Unit2%20-%20Notes/Numerical%20KNN.md)
 			- [Numerical of Bayes Theorem](./1-Units/U2/Unit2%20-%20Notes/Numerical%20of%20Bayes%20Theorem.md)
+			- [Numerical Random Forest](./1-Units/U2/Unit2%20-%20Notes/Numerical%20Random%20Forest.md)
 			- [Overfitting and Underfitting](./1-Units/U2/Unit2%20-%20Notes/Overfitting%20and%20Underfitting.md)
 			- [Overfitting VS Underfitting](./1-Units/U2/Unit2%20-%20Notes/Overfitting%20VS%20Underfitting.md)
 			- [Regularization](./1-Units/U2/Unit2%20-%20Notes/Regularization.md)
@@ -60,13 +60,14 @@
 		- **[u3-notes](./1-Units/U3/u3-notes/u3-notes.md)**
 		- [Unit 3 - Learning Theory and Model Evaluation](./1-Units/U3/Unit%203%20-%20Learning%20Theory%20and%20Model%20Evaluation.md)
 	- **U4**
-		- [Calculating Eigen Values in PCA](./1-Units/U4/Calculating%20Eigen%20Values%20in%20PCA.md)
-		- [Eigen Vector in PCA](./1-Units/U4/Eigen%20Vector%20in%20PCA.md)
+		- [Independent Component Analysis (ICA)](./1-Units/U4/Independent%20Component%20Analysis%20(ICA).md)
 		- **[u4-notes](./1-Units/U4/u4-notes/u4-notes.md)**
 		- [Unit 4  Unsupervised Learning](./1-Units/U4/Unit%204%20%20Unsupervised%20Learning.md)
 	- **U5**
 		- **u5-notes**
+			- [Policy Iteration Example](./1-Units/U5/u5-notes/Policy%20Iteration%20Example.md)
 			- [U5-Reinforcement Learning Overview](./1-Units/U5/u5-notes/U5-Reinforcement%20Learning%20Overview.md)
+			- [Value Iteration Example](./1-Units/U5/u5-notes/Value%20Iteration%20Example.md)
 		- [Unit 5 - Reinforcement Learning](./1-Units/U5/Unit%205%20-%20Reinforcement%20Learning.md)
 - **[2-Assignments](./2-Assignments/2-Assignments.md)**
 	- **Assignment_notes**
@@ -77,6 +78,8 @@
 	- **[ML Que](./3-Old%20Question/ML%20Que/ML%20Que.md)**
 	- [ML Que Collection](./3-Old%20Question/ML%20Que%20Collection.md)
 	- **Notes**
+		- [Functional margin in SVM + derive geometric margin + Lagrange duality & KKT conditions](./3-Old%20Question/Notes/Functional%20margin%20in%20SVM%20+%20derive%20geometric%20margin%20+%20Lagrange%20duality%20&%20KKT%20conditions.md)
+		- [SVD-2080](./3-Old%20Question/Notes/SVD-2080.md)
 	- [To Search](./3-Old%20Question/To%20Search.md)
 
 %% End Waypoint %%

@@ -1,4 +1,4 @@
-![](../../../../../../Images/Second_Sem_Images/Eigen%20Vector%20in%20PCA.png)
+![](../../../../../../../Images/Second_Sem_Images/Eigen%20Vector%20in%20PCA.png)
 
 To solve this, we need to find the **eigenvector** corresponding to the eigenvalue $\lambda$.
 

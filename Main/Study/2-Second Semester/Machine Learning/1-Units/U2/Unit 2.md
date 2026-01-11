@@ -1,6 +1,7 @@
 ### [Gradient Descent](Unit2%20-%20Notes/Gradient%20Descent.md)
 ---
 ### [Linear Regression](Unit2%20-%20Notes/Linear%20Regression.md)
+- [Linear Regression - Explanation of the w_0 and w_1 update rule](Unit2%20-%20Notes/Linear%20Regression%20-%20Explanation%20of%20the%20w_0%20and%20w_1%20update%20rule.md)
 - [Linear Regression Numerical](Unit2%20-%20Notes/Linear%20Regression%20Numerical.md)
 
 ---
@@ -52,5 +53,13 @@
 ---
 ### Support Vector Machine (SVM)
 #### [SVM Derivation](Unit2%20-%20Notes/SVM%20Derivation.md)
+
+---
+### Random Forest Classifier
+- Bagging
+- Feature Randomnesse
+####  [Difference Bagging and Boosting](../../../WSA/1_Units/U5/u5-notes/Differences%20between%20Bagging%20and%20Boosting.md)
+
+#### [Numerical Random Forest](Unit2%20-%20Notes/Numerical%20Random%20Forest.md)
 
 ---

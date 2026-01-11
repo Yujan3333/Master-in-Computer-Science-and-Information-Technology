@@ -65,19 +65,22 @@ used to understand and categorize unstructured textual data
 - [PCA-5min Engineering](https://www.youtube.com/watch?v=_ZkFfrCfIws)
 - [PCA-GateSmashers](https://www.youtube.com/watch?v=Dv-Kk7PDEas)
 - 
-- [Calculating Eigen Values in PCA](Calculating%20Eigen%20Values%20in%20PCA.md)
-- [Eigen Vector in PCA](Eigen%20Vector%20in%20PCA.md)
+- [Calculating Eigen Values in PCA](u4-notes/Calculating%20Eigen%20Values%20in%20PCA.md)
+- [Eigen Vector in PCA](u4-notes/Eigen%20Vector%20in%20PCA.md)
 ##### 2. Linear Discriminant Analysis(LDA)
 ##### 3. Generalized Discriminant Analysis(GDA)
 
 ---
 ### Low rank approximation
 
+#### [Single Value Decomposition](u4-notes/Single%20Value%20Decomposition.md)
+##### [Numerical - Single Value Decomposition](u4-notes/Numerical%20-%20Single%20Value%20Decomposition.md)
 
-### Single Value Decomposition
+---
+### [Factor Analysis](u4-notes/Factor%20Analysis.md)
 
-
-### Factor Analysis
-
-### Independent Component Analysis (ICA)
+---
+### [Independent Component Analysis (ICA)](Independent%20Component%20Analysis%20(ICA).md)
 - whiten
+
+### Latent Semantic Indexing
