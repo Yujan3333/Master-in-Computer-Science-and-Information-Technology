@@ -4,6 +4,7 @@
 - [Factor Analysis - Even Simpler](./Factor%20Analysis%20-%20Even%20Simpler.md)
 - [Factor Analysis](./Factor%20Analysis.md)
 - [Gaussian Mixture Model (GMM)](./Gaussian%20Mixture%20Model%20(GMM).md)
+- [Independent Component Analysis (ICA)](./Independent%20Component%20Analysis%20(ICA).md)
 - [K Means ++ Numerical](./K%20Means%20++%20Numerical.md)
 - [K-Means ++](./K-Means%20++.md)
 - [KMO - Expanding On it](./KMO%20-%20Expanding%20On%20it.md)
@@ -14,8 +15,10 @@
 - [Numerical - GMM-1 only x](./Numerical%20-%20GMM-1%20only%20x.md)
 - [Numerical - GMM-2 x and y](./Numerical%20-%20GMM-2%20x%20and%20y.md)
 - [Numerical - Single Value Decomposition](./Numerical%20-%20Single%20Value%20Decomposition.md)
+- [Numerical GMM - Photo](./Numerical%20GMM%20-%20Photo.md)
 - [Single Value Decomposition](./Single%20Value%20Decomposition.md)
 - [Text Clustering More](./Text%20Clustering%20More.md)
 - [Text Clustering](./Text%20Clustering.md)
+- [TF-IDF ML Example](./TF-IDF%20ML%20Example.md)
 
 %% End Waypoint %%

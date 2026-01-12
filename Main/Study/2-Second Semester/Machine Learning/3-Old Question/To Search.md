@@ -4,6 +4,11 @@
 [ML Numerical questions collection](ML%20Que/ML%20Numerical%20questions%20collection.md)
 
 ---
+### 2081 Preboard
+![](../../../../../Images/Second_Sem_Images/To%20Search-14.png)
+- [ Answer for Classification matrix](%20Answer%20for%20Classification%20matrix.md)
+
+---
 ### 2080
 ![](../../../../../Images/Second_Sem_Images/To%20Search-12.png)
 2. **Q2:** Find SVD of the matrix:  

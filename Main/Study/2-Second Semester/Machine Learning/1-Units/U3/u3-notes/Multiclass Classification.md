@@ -6,12 +6,12 @@ I'll help you find the TP, FP, FN, and TN for each class from this confusion mat
 ## 📊 **Confusion Matrix Structure**
 From your data, it appears to be a **3×3 confusion matrix**:
 
-| | **Actual A** | **Actual B** | **Actual C** | **Total Predicted** |
-|---|---|---|---|---|
-| **Predicted A** | 2 | 2 | 0 | 4 |
-| **Predicted B** | 1 | 2 | 0 | 3 |
-| **Predicted C** | 0 | 0 | 3 | 3 |
-| **Total Actual** | 3 | 4 | 3 | **10** |
+|                  | **Actual A** | **Actual B** | **Actual C** | **Total Predicted** |
+| ---------------- | ------------ | ------------ | ------------ | ------------------- |
+| **Predicted A**  | 2            | 2            | 0            | 4                   |
+| **Predicted B**  | 1            | 2            | 0            | 3                   |
+| **Predicted C**  | 0            | 0            | 3            | 3                   |
+| **Total Actual** | 3            | 4            | 3            | **10**              |
 
 ---
 

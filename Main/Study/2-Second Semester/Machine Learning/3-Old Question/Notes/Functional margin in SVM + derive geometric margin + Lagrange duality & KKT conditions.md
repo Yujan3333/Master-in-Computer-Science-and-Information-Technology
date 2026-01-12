@@ -69,9 +69,8 @@ $$
 
 $$
 \mathcal{L}(w,b,\alpha)
-=======================
-
-## \frac12|w|^2
+=
+\frac12|w|^2
 
 \sum_{i=1}^m
 \alpha_i\Big(y^{(i)}(w^T x^{(i)}+b)-1\Big)

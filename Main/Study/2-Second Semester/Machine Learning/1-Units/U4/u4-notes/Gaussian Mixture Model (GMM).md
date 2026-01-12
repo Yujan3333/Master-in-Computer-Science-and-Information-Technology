@@ -39,8 +39,8 @@ $$
 
 Where:
 
-- \(p_k\) = **mixing proportion** (probability that \(x_i\) belongs to cluster \(k\)), with \(\sum_{k=1}^{K} p_k = 1\)
-- \(f_k(x)\) = **Gaussian pdf** of cluster \(k\):
+- $(p_k)$ = **mixing proportion** (probability that ($x_i$) belongs to cluster (k)), with $(sum_{k=1}^{K} p_k = 1)$
+- \($f_k(x)$\) = **Gaussian pdf** of cluster \(k\):
 
 $$
 f_k(x) = \frac{1}{\sigma_k \sqrt{2\pi}} \exp\Big(-\frac{(x - \mu_k)^2}{2\sigma_k^2}\Big)
@@ -48,13 +48,13 @@ $$
 
 ## 4. EM Algorithm for GMM
 
-The **Expectation-Maximization (EM)** algorithm estimates parameters \((\mu_k, \sigma_k^2, p_k)\) when **latent variables exist**.
+The **Expectation-Maximization (EM)** algorithm estimates parameters $((\mu_k, \sigma_k^2, p_k))$ when **latent variables exist**.
 
 ### Steps
 
 **Step 0: Initialize**
 
-- Choose initial \(\mu_k, \sigma_k, p_k\)
+- Choose initial $(\mu_k, \sigma_k, p_k)$
 - Evaluate log-likelihood
 
 **Step 1: E-Step (Expectation)**
@@ -67,7 +67,7 @@ $$
 
 **Step 2: M-Step (Maximization)**
 
-Update parameters using \(y_{ik}\):
+Update parameters using $(y_{ik}$):
 
 $$
 N_k = \sum_{i=1}^{n} y_{ik}
@@ -138,7 +138,7 @@ $$
 ## 6. Summary – Key Points
 
 - **GMM** = soft clustering using Gaussian distributions
-- Each cluster has: \(\mu_k, \sigma_k^2, p_k\)
+- Each cluster has: $(\mu_k, \sigma_k^2, p_k)$
 - **EM Algorithm** = iterative method to estimate these parameters
 - **Soft assignments** = probabilities of belonging to each cluster
 - Unlike K-Means, **data points can belong to multiple clusters**

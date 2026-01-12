@@ -17,9 +17,9 @@ TF-IDF captures this idea mathematically.
 
 Measures how frequently a term appears in a document.
 
-[
+$$[
 TF(t, d) = \frac{\text{Number of times term } t \text{ appears in document } d}{\text{Total terms in document } d}
-]
+]$$
 
 👉 Higher TF = term is important in that document.
 
@@ -29,9 +29,9 @@ TF(t, d) = \frac{\text{Number of times term } t \text{ appears in document } d}{
 
 Measures how rare a term is across all documents.
 
-[
+$$[
 IDF(t) = \log\left(\frac{N}{df(t)}\right)
-]
+]$$
 
 Where:
 
@@ -44,9 +44,9 @@ Where:
 
 ## 3️⃣ TF-IDF Formula
 
-[
+$$[
 TF\text{-}IDF(t, d) = TF(t, d) \times IDF(t)
-]
+]$$
 
 ---
 

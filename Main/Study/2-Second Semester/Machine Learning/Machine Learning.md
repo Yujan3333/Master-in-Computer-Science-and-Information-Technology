@@ -60,7 +60,6 @@
 		- **[u3-notes](./1-Units/U3/u3-notes/u3-notes.md)**
 		- [Unit 3 - Learning Theory and Model Evaluation](./1-Units/U3/Unit%203%20-%20Learning%20Theory%20and%20Model%20Evaluation.md)
 	- **U4**
-		- [Independent Component Analysis (ICA)](./1-Units/U4/Independent%20Component%20Analysis%20(ICA).md)
 		- **[u4-notes](./1-Units/U4/u4-notes/u4-notes.md)**
 		- [Unit 4  Unsupervised Learning](./1-Units/U4/Unit%204%20%20Unsupervised%20Learning.md)
 	- **U5**
@@ -75,6 +74,7 @@
 		- [Lab1-Explanation](./2-Assignments/Assignment_notes/Lab1-Explanation.md)
 		- [Why was Library giving better result when Learning rate was less](./2-Assignments/Assignment_notes/Why%20was%20Library%20giving%20better%20result%20when%20Learning%20rate%20was%20less.md)
 - **3-Old Question**
+	- [Answer for Classification matrix](./3-Old%20Question/Answer%20for%20Classification%20matrix.md)
 	- **[ML Que](./3-Old%20Question/ML%20Que/ML%20Que.md)**
 	- [ML Que Collection](./3-Old%20Question/ML%20Que%20Collection.md)
 	- **Notes**

@@ -45,6 +45,7 @@
 ### [Gaussian Mixture Model (GMM)](u4-notes/Gaussian%20Mixture%20Model%20(GMM).md)
 - [Outline of EM Algorithm](u4-notes/ML%20U4%20ppt%2028%20-%20Outline%20of%20EM%20Algorithm.md)
 #### [Numerical - GMM-1 only x](u4-notes/Numerical%20-%20GMM-1%20only%20x.md)
+#### [Numerical GMM - Photo](u4-notes/Numerical%20GMM%20-%20Photo.md)
 #### [Numerical - GMM-2 x and y](u4-notes/Numerical%20-%20GMM-2%20x%20and%20y.md)
 
 ---
@@ -57,6 +58,10 @@ used to understand and categorize unstructured textual data
 - Perform Stemming
 - Calculate TF-IDF
 - Use of Clustering Algorithm
+#### [TF-IDF](../../../WSA/1_Units/U2/U2_notes/TF-IDF.md)
+- [TF-IDF ML Example](u4-notes/TF-IDF%20ML%20Example.md)
+- [Same Numerical of TF-IDF with different finding](../U2/Unit2%20-%20Notes/Same%20Numerical%20of%20TF-IDF%20with%20different%20finding.md)
+
 ---
 ### Dimensionality Reduction
 #### 1. Feature Selection
@@ -80,7 +85,7 @@ used to understand and categorize unstructured textual data
 ### [Factor Analysis](u4-notes/Factor%20Analysis.md)
 
 ---
-### [Independent Component Analysis (ICA)](Independent%20Component%20Analysis%20(ICA).md)
+### [Independent Component Analysis (ICA)](u4-notes/Independent%20Component%20Analysis%20(ICA).md)
 - whiten
 
 ### Latent Semantic Indexing
