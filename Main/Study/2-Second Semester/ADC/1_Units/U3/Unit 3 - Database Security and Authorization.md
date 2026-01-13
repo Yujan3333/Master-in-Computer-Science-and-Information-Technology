@@ -1,6 +1,6 @@
-## [Unit 3 Database Security and Authorization - Overview](Unit3-Notes/Unit%203%20Database%20Security%20and%20Authorization%20-%20Overview.md)
+## [Unit 3 Database Security and Authorization - Overview](u3-notes/Unit%203%20Database%20Security%20and%20Authorization%20-%20Overview.md)
 
-[Difference between DAC-Mandatory-Role Based](Unit3-Notes/Difference%20between%20DAC-Mandatory-Role%20Based.md)
+[Difference between DAC-Mandatory-Role Based](u3-notes/Difference%20between%20DAC-Mandatory-Role%20Based.md)
 
 ---
 ####  Database Security and the DBA
@@ -14,7 +14,7 @@
 - Discretionary privileges are permissions that control what a user is allowed to do in a database.
 - They are usually granted by the DBA (Database Administrator) or by the owner of the object.
 
-##### [Types of Discretionary Privileges](Unit3-Notes/Types%20of%20Discretionary%20Privileges.md)
+##### [Types of Discretionary Privileges](u3-notes/Types%20of%20Discretionary%20Privileges.md)
 1. Account Level
 2. Relation / Table level
 
