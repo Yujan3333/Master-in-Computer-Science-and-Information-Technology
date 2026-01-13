@@ -8,7 +8,6 @@
 - [2080](./2080.md)
 - [2081](./2081.md)
 - [2082-My](./2082-My.md)
-- [ML - Important Questions Summary ](./ML%20-%20Important%20Questions%20Summary%20.md)
 - [ML Numerical questions collection](./ML%20Numerical%20questions%20collection.md)
 
 %% End Waypoint %%
