@@ -53,7 +53,7 @@
 ---
 ### Support Vector Machine (SVM)
 #### [SVM Derivation](Unit2%20-%20Notes/SVM%20Derivation.md)
-
+#### [Lagrange Duality and KKT Conditions](Unit2%20-%20Notes/Lagrange%20Duality%20and%20KKT%20Conditions.md)
 ---
 ### Random Forest Classifier
 - Bagging

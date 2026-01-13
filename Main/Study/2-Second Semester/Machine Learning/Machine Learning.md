@@ -23,6 +23,7 @@
 			- [ID3](./1-Units/U2/Unit2%20-%20Notes/ID3.md)
 			- [Intercept Vs Slope](./1-Units/U2/Unit2%20-%20Notes/Intercept%20Vs%20Slope.md)
 			- [K-Nearest Neighbors Classifier](./1-Units/U2/Unit2%20-%20Notes/K-Nearest%20Neighbors%20Classifier.md)
+			- [Lagrange Duality and KKT Conditions](./1-Units/U2/Unit2%20-%20Notes/Lagrange%20Duality%20and%20KKT%20Conditions.md)
 			- [Linear Regression - Error Function Explanation](./1-Units/U2/Unit2%20-%20Notes/Linear%20Regression%20-%20Error%20Function%20Explanation.md)
 			- [Linear Regression - Explanation of the w_0 and w_1 update rule](./1-Units/U2/Unit2%20-%20Notes/Linear%20Regression%20-%20Explanation%20of%20the%20w_0%20and%20w_1%20update%20rule.md)
 			- [Linear Regression BGD - Numerical Answer](./1-Units/U2/Unit2%20-%20Notes/Linear%20Regression%20BGD%20-%20Numerical%20Answer.md)
