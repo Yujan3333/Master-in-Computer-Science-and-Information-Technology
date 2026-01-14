@@ -40,4 +40,16 @@
 
 ---
 
-#### Role Based Access Control
+#### [Role Based Access Control](u3-notes/Role%20Based%20Access%20Control.md)
+- Access Control Policies for E-Commerce and Web
+---
+### [Statistical Database Security](u3-notes/Statistical%20Database%20Security.md)
+
+---
+### [Introduction to Flow Control](u3-notes/Introduction%20to%20Flow%20Control.md)
+
+---
+### [Covert Channel](u3-notes/Covert%20Channel.md)
+
+---
+### [Encryption and Public Key Infrastructure](u3-notes/Encryption%20and%20Public%20Key%20Infrastructure.md)

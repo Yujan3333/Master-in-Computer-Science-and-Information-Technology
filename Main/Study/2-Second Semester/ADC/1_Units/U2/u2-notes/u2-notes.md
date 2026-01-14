@@ -7,6 +7,9 @@
 - [Outer Join Operators](./Outer%20Join%20Operators.md)
 - [Overview of Unit 2](./Overview%20of%20Unit%202.md)
 - [Partition Hash Join](./Partition%20Hash%20Join.md)
+- [Query Optimization](./Query%20Optimization.md)
+- [Semantic Query](./Semantic%20Query.md)
 - [Translating SQL Queries into Relational Algebra](./Translating%20SQL%20Queries%20into%20Relational%20Algebra.md)
+- [Using Heuristics in Query Optimization](./Using%20Heuristics%20in%20Query%20Optimization.md)
 
 %% End Waypoint %%

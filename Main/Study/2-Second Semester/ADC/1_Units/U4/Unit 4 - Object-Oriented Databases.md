@@ -2,3 +2,11 @@
 
 ---
 #### [RDBMS VS OODBMS](u4-notes/RDBMS%20VS%20OODBMS.md)
+
+---
+### [Difference between Encapsulation and Abstraction](u4-notes/Difference%20between%20Encapsulation%20and%20Abstraction.md)
+
+---
+### [Operator Overloading](u4-notes/Operator%20Overloading.md)
+
+---

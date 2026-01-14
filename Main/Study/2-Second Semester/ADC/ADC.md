@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - **1_Units**
 	- **U1**
+		- [Internal Hashing Vs External Hashing](./1_Units/U1/Internal%20Hashing%20Vs%20External%20Hashing.md)
 		- **[u1-notes](./1_Units/U1/u1-notes/u1-notes.md)**
 		- [Unit 1](./1_Units/U1/Unit%201.md)
 	- **U2**
@@ -18,5 +19,8 @@
 	- **U6**
 		- **[u6-notes](./1_Units/U6/u6-notes/u6-notes.md)**
 		- [Unit 6](./1_Units/U6/Unit%206.md)
+- **2_Old Questions**
+	- [2082-My](./2_Old%20Questions/2082-My.md)
+	- **[Que-Ans](./2_Old%20Questions/Que-Ans/Que-Ans.md)**
 
 %% End Waypoint %%

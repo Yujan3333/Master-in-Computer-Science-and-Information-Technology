@@ -44,4 +44,9 @@
 ### [Combining Operators using Pipelining](u2-notes/Combining%20Operators%20using%20Pipelining.md)
 
 ---
-### Using Heuristics in Query Optimization
+### [Using Heuristics in Query Optimization](u2-notes/Using%20Heuristics%20in%20Query%20Optimization.md)
+- [Query Optimization](u2-notes/Query%20Optimization.md)
+
+---
+### [Semantic Query](u2-notes/Semantic%20Query.md)
+
