@@ -8,33 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e888f988df7881fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/2-Second Semester/ADC/1_Units/U1/u1-notes/Indexing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Indexing"
-            }
-          },
-          {
             "id": "17309459317a1749",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/ADC/1_Units/U1/u1-notes/Overview of Unit 1.md",
+                "file": "Main/Study/2-Second Semester/ADC/1_Units/U1/Unit 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Overview of Unit 1"
+              "title": "Unit 1"
             }
           }
         ]
@@ -149,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/ADC/1_Units/U1/u1-notes/Indexing.md",
+                "file": "Main/Study/2-Second Semester/ADC/1_Units/U1/Unit 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Indexing"
+              "title": "Outline of Unit 1"
             }
           },
           {
@@ -177,7 +162,8 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -198,15 +184,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "17309459317a1749",
   "lastOpenFiles": [
-    "Main/Study/2-Second Semester/ADC/1_Units/U1/u1-notes/Overview of Unit 1.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U1/u1-notes/Indexing.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U1/Unit 1.md",
     "Main/Study/2-Second Semester/ADC/1_Units/U2/Unit 2.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U2/u2-notes/Algorithms for SELECT and JOIN Operations.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U2/u2-notes/Translating SQL Queries into Relational Algebra.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U1/Unit 1.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2/u2-notes/Combining Operators using Pipelining.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2/u2-notes/Outer Join Operators.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2/u2-notes/Aggregate Operators.md",
     "Main/Study/2-Second Semester/ADC/ADC.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2/u2-notes/Hybrid Hash Join.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2/u2-notes/Partition Hash Join.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U1/u1-notes/Overview of Unit 1.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2/u2-notes/Algorithms for Join Operation.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2/u2-notes/Algorithms for SELECT Operations.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U1/u1-notes/Indexing.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U2/u2-notes/Translating SQL Queries into Relational Algebra.md",
     "Main/Study/2-Second Semester/ADC/1_Units/U6/u6-notes/u6-notes.md",
     "Main/Study/2-Second Semester/ADC/1_Units/U5/u5-notes/u5-notes.md",
     "Main/Study/2-Second Semester/ADC/1_Units/U4/u4-notes/u4-notes.md",
@@ -220,13 +212,7 @@
     "Main/Study/2-Second Semester/Machine Learning/3-Old Question/ML Que/ML Numerical questions collection.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U5/u5-notes/u5-notes.md",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/Unit2 - Notes/Unit2 - Notes.md",
-    "Main/Study/2-Second Semester/Machine Learning/3-Old Question/ML Que/2082-My.md",
     "Images/Second_Sem_Images/2082-My-8.jpeg",
-    "Main/Study/2-Second Semester/Machine Learning/3-Old Question/ML Que/ML - Important Questions Summary .md",
-    "Main/Study/2-Second Semester/Machine Learning/3-Old Question/ML Que/ML Que.md",
-    "Main/Study/2-Second Semester/Machine Learning/3-Old Question/ML Que Collection.md",
-    "Main/Study/2-Second Semester/Machine Learning/3-Old Question/To Search.md",
-    "Main/Study/2-Second Semester/Machine Learning/3-Old Question/Answer for Classification matrix.md",
     "Images/Second_Sem_Images/To Search-14.png",
     "Images/Second_Sem_Images/TF-IDF ML Example-1.png",
     "Images/Second_Sem_Images/TF-IDF ML Example.png",
