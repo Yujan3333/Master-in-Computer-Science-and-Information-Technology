@@ -1,136 +1,180 @@
-## ✅ RAID Levels (0 to 5)
+## RAID (Redundant Array of Independent Disks)
 
-- [Block Level Striping](Block%20Level%20Striping.md)
-- [Bit Level Striping](Bit%20Level%20Striping.md)
-- [Byte Level Striping](Byte%20Level%20Striping.md)
-- [Parity](Parity.md)
----
+RAID is a technique that combines multiple physical disks into one logical unit to improve:
 
-### 🔵 RAID 0 – Striping
-
-- **How it works**: Splits (stripes) data **evenly across two or more disks**.
-    
-- ✅ **Advantage**:
-    
-    - High **read/write performance** (parallel access).
-        
-- ❌ **Disadvantage**:
-    
-    - **No redundancy** – if one disk fails, **all data is lost**.
-        
-- 📌 **Use Case**:
-    
-    - High-speed, **non-critical** applications (e.g., video editing).
-        
+* Performance
+* Reliability
+* Storage capacity
 
 ---
 
-### 🟢 RAID 1 – Mirroring
+## RAID 0 (Striping)
 
-- **How it works**: Copies (mirrors) the **same data on two disks**.
-    
-- ✅ **Advantage**:
-    
-    - **High reliability** – one disk can fail without data loss.
-        
-- ❌ **Disadvantage**:
-    
-    - **Storage cost is 2x** (50% efficiency).
-        
-- 📌 **Use Case**:
-    
-    - **Critical systems** where data loss is not acceptable.
-        
+**Idea:** Data is split and stored across multiple disks.
 
----
+**Features:**
 
-### 🟡 RAID 2 – Bit-level striping with Hamming code ECC
+* No redundancy
+* High speed
+* No fault tolerance
 
-- **How it works**: Data is striped **at the bit level**, and error correction is done using [Hamming codes ](Hamming%20codes%20.md)on extra disks.
-    
-- ✅ **Advantage**:
-    
-    - Good **error detection and correction**.
-        
-- ❌ **Disadvantage**:
-    
-    - **Complex and expensive**; not used in practice.
-        
-- 📌 **Use Case**:
-    
-    - Mostly **theoretical/academic**; not used in commercial systems.
-        
+**Advantage:**
+
+* Very fast read/write
+
+**Disadvantage:**
+
+* If one disk fails, all data is lost
+
+**Use:** When performance is more important than safety.
 
 ---
 
-### 🟠 RAID 3 – Byte-level striping with dedicated parity
+## RAID 1 (Mirroring)
 
-- **How it works**: Data is striped **at the byte level**, and **one disk stores parity** (error correction information).
-    
-- ✅ **Advantage**:
-    
-    - Better **fault tolerance** than RAID 0.
-        
-- ❌ **Disadvantage**:
-    
-    - Only **one request** at a time due to **byte-level striping**.
-        
-- 📌 **Use Case**:
-    
-    - Applications with large data transfers (e.g., video streaming).
-        
+**Idea:** Same data is stored on two disks.
 
----
+**Features:**
 
-### 🔴 RAID 4 – Block-level striping with dedicated parity
+* Complete data duplication
+* High reliability
 
-- **How it works**: Data is striped at the **block level**, and **one disk** stores all parity.
-    
-- ✅ **Advantage**:
-    
-    - Can handle **multiple reads simultaneously**.
-        
-- ❌ **Disadvantage**:
-    
-    - **Parity disk becomes a bottleneck** during write operations.
-        
-- 📌 **Use Case**:
-    
-    - Systems where reads are more common than writes.
-        
+**Advantage:**
+
+* Data safe even if one disk fails
+
+**Disadvantage:**
+
+* Storage efficiency is only 50%
+
+**Use:** When data safety is critical.
 
 ---
 
-### 🟣 RAID 5 – Block-level striping with distributed parity
+## RAID 2 (Bit-level Striping with Hamming Code)
 
-- **How it works**: Data and parity are striped **across all disks** (no single parity disk).
-    
-- ✅ **Advantages**:
-    
-    - **High performance** (especially reads).
-        
-    - **Fault tolerant**: Can survive **1 disk failure**.
-        
-    - **Efficient storage**: Only one disk worth of space is used for parity.
-        
-- ❌ **Disadvantages**:
-    
-    - **Write performance** slightly slower due to parity calculation.
-        
-- 📌 **Use Case**:
-    
-    - Very popular in **servers and business environments** for a good balance of performance, fault tolerance, and cost.
-        
+**Idea:**
+
+* Data is striped at bit level
+* Extra disks store error-correcting codes (ECC)
+
+**Features:**
+
+* Very complex
+* Rarely used in practice
+
+**Advantage:**
+
+* Error detection and correction
+
+**Disadvantage:**
+
+* High cost and complexity
 
 ---
 
-### 🔚 **Summary Table**
+## RAID 3 (Byte-level Striping with Dedicated Parity)
 
-|RAID|Data Protection|Speed|Storage Efficiency|Min. Disks|
-|---|---|---|---|---|
-|0|❌ None|🔼 High|100%|2|
-|1|✅ Mirroring|🔼 High|50%|2|
-|2|✅ ECC (bit-level)|❌ Complex|Low (unused)|≥3|
-|3|✅ Parity|⚠️ Limited|Moderate|≥3|
-|4|✅ Parity|⚠️ Bottleneck|Moderate|≥3|
-|5|✅ Parity|✅ Balanced|Good (~75% with 4 disks)|≥3|
+**Idea:**
+
+* Data is striped at byte level
+* One disk stores parity
+
+**Features:**
+
+* One disk is dedicated for parity
+
+**Advantage:**
+
+* Good for large sequential data
+
+**Disadvantage:**
+
+* Parity disk becomes bottleneck
+
+---
+
+## RAID 4 (Block-level Striping with Dedicated Parity)
+
+**Idea:**
+
+* Data is striped in blocks
+* One disk stores parity
+
+**Features:**
+
+* Faster random reads than RAID 3
+
+**Advantage:**
+
+* Better read performance
+
+**Disadvantage:**
+
+* Parity disk bottleneck during writes
+
+---
+
+## RAID 5 (Block-level Striping with Distributed Parity)
+
+**Idea:**
+
+* Data and parity are distributed across all disks
+
+**Features:**
+
+* No dedicated parity disk
+* Fault tolerance for one disk failure
+
+**Advantage:**
+
+* Good balance between performance and reliability
+
+**Disadvantage:**
+
+* Write operations are slower due to parity update
+
+---
+
+## RAID 6 (Block-level Striping with Double Distributed Parity)
+
+**Idea:**
+
+* Similar to RAID 5, but uses **two parity blocks**
+
+**Features:**
+
+* Can tolerate failure of **two disks**
+* Parity is distributed
+
+**Advantage:**
+
+* Very high reliability
+
+**Disadvantage:**
+
+* More storage overhead
+* Slower writes than RAID 5
+
+---
+
+## Quick Comparison (Exam Style)
+
+| RAID Level | Redundancy               | Disk Failure Tolerance | Performance     |
+| ---------- | ------------------------ | ---------------------- | --------------- |
+| RAID 0     | No                       | 0                      | Very High       |
+| RAID 1     | Yes (Mirroring)          | 1                      | High read       |
+| RAID 2     | Yes (ECC)                | 1                      | Rarely used     |
+| RAID 3     | Yes (Parity)             | 1                      | High sequential |
+| RAID 4     | Yes (Parity)             | 1                      | Good reads      |
+| RAID 5     | Yes (Distributed Parity) | 1                      | Balanced        |
+| RAID 6     | Yes (Double Parity)      | 2                      | High safety     |
+
+---
+
+**One-line memory trick:**
+
+* RAID 0 → Speed
+* RAID 1 → Safety
+* RAID 5 → Balance
+* RAID 6 → Maximum safety
