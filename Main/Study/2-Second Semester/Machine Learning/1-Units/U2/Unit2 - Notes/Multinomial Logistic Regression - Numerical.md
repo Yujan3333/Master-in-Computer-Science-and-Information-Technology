@@ -88,7 +88,7 @@ So targets:
 Each class has its own weight vector
 ($w_0$ = bias)
 
-$$W=\begin{bmatrix}0.01&0.1&0.1\0.1&0.2&0.3\0.1&0.2&0.3\end{bmatrix}$$
+$$W=\begin{bmatrix}0.01&0.1&0.1\\0.1&0.2&0.3\\0.1&0.2&0.3\end{bmatrix}$$
 
 So:
 

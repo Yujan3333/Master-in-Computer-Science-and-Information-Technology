@@ -1,6 +1,6 @@
-## [Unit 3 Database Security and Authorization - Overview](u3-notes/Unit%203%20Database%20Security%20and%20Authorization%20-%20Overview.md)
+## [Unit 3 Database Security and Authorization - Overview](ADC%20-%20u3-notes/Unit%203%20Database%20Security%20and%20Authorization%20-%20Overview.md)
 
-[Difference between DAC-Mandatory-Role Based](u3-notes/Difference%20between%20DAC-Mandatory-Role%20Based.md)
+[Difference between DAC-Mandatory-Role Based](ADC%20-%20u3-notes/Difference%20between%20DAC-Mandatory-Role%20Based.md)
 
 ---
 ####  Database Security and the DBA
@@ -14,7 +14,7 @@
 - Discretionary privileges are permissions that control what a user is allowed to do in a database.
 - They are usually granted by the DBA (Database Administrator) or by the owner of the object.
 
-##### [Types of Discretionary Privileges](u3-notes/Types%20of%20Discretionary%20Privileges.md)
+##### [Types of Discretionary Privileges](ADC%20-%20u3-notes/Types%20of%20Discretionary%20Privileges.md)
 1. Account Level
 2. Relation / Table level
 
@@ -40,16 +40,16 @@
 
 ---
 
-#### [Role Based Access Control](u3-notes/Role%20Based%20Access%20Control.md)
+#### [Role Based Access Control](ADC%20-%20u3-notes/Role%20Based%20Access%20Control.md)
 - Access Control Policies for E-Commerce and Web
 ---
-### [Statistical Database Security](u3-notes/Statistical%20Database%20Security.md)
+### [Statistical Database Security](ADC%20-%20u3-notes/Statistical%20Database%20Security.md)
 
 ---
-### [Introduction to Flow Control](u3-notes/Introduction%20to%20Flow%20Control.md)
+### [Introduction to Flow Control](ADC%20-%20u3-notes/Introduction%20to%20Flow%20Control.md)
 
 ---
-### [Covert Channel](u3-notes/Covert%20Channel.md)
+### [Covert Channel](ADC%20-%20u3-notes/Covert%20Channel.md)
 
 ---
-### [Encryption and Public Key Infrastructure](u3-notes/Encryption%20and%20Public%20Key%20Infrastructure.md)
+### [Encryption and Public Key Infrastructure](ADC%20-%20u3-notes/Encryption%20and%20Public%20Key%20Infrastructure.md)

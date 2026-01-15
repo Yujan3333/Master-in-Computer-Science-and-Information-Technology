@@ -137,11 +137,11 @@ ORDBMS stores:
 ---
 
 ### 🔹 Storing Large ADTs
-
+- [ADT](ADT.md)
 Problems:
 
 * ADTs may be larger than disk page
-* Need special storage (like BLOBs)
+* Need special storage (like [BLOB](BLOB.md)s)
 * Pointers from tuples to objects
 
 ---

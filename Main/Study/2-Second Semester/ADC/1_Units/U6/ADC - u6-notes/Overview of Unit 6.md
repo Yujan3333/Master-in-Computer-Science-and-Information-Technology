@@ -83,6 +83,13 @@ A **distributed database** is a database:
 
 ## 4️⃣ Data Fragmentation (Breaking a table)
 
+| Type         | Description                                 | Example                                    |
+| ------------ | ------------------------------------------- | ------------------------------------------ |
+| Horizontal   | Subset of rows based on a condition         | $\sigma_{DNO=5}(EMPLOYEE)$                 |
+| Vertical     | Subset of columns, must include primary key | $\Pi_{SSN,Name}(EMPLOYEE)$                 |
+| Mixed/Hybrid | Combination of horizontal and vertical      | $\Pi_{SSN,Name}(\sigma_{DNO=5}(EMPLOYEE))$ |
+
+
 ### 🔹 Horizontal Fragmentation
 
 * Table is split by **rows**
@@ -135,6 +142,8 @@ A **distributed database** is a database:
 * Same DBMS software everywhere
 * Example: Oracle at all sites
 * OS may differ (Linux, Windows, Unix)
+![](../../../../../../../Images/Second_Sem_Images/Overview%20of%20Unit%206-homogeneous%20DDBMS.png)
+
 
 ### 🔹 Heterogeneous DDBMS
 
@@ -149,6 +158,9 @@ Different DBMS at different sites
 
    * No global schema
    * Schema built dynamically
+
+![](../../../../../../../Images/Second_Sem_Images/Overview%20of%20Unit%206-Heterogeneous%20DDBMS.png)
+
 
 ---
 
@@ -174,7 +186,7 @@ Different DBMS at different sites
 
 ---
 
-## 8️⃣ Concurrency Control & Recovery
+## 8️⃣ [Concurrency Control & Recovery](Concurrency%20Control%20&%20Recovery.md)
 
 Distributed DB has extra problems:
 
@@ -195,6 +207,8 @@ Distributed DB has extra problems:
 
 ✅ Simple to implement
 ❌ Single point of failure
+
+![](../../../../../../../Images/Second_Sem_Images/Overview%20of%20Unit%206-primary%20site.png)
 
 ---
 
