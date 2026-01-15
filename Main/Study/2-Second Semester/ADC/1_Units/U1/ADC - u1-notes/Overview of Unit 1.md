@@ -31,6 +31,8 @@ A database must be **stored physically** on storage devices.
 
 👉 DBMS mainly uses **secondary storage**
 
+![](../../../../../../../Images/Second_Sem_Images/Overview%20of%20Unit%201-%20Storage%20Hierarchy.png)
+
 ---
 
 ## 2️⃣ Why Not Store Everything in RAM?
@@ -74,6 +76,7 @@ Time needed because of:
 ## 4️⃣ Buffering of Blocks
 
 **Buffer** = space in RAM to temporarily store disk blocks
+![](../../../../../../../Images/Second_Sem_Images/Overview%20of%20Unit%201-buffering%20of%20blocks.png)
 
 ### 🔹 Double Buffering
 
@@ -81,6 +84,7 @@ Time needed because of:
 * Disk loads next block into another buffer
 
 👉 Improves performance by **parallelism**
+![](../../../../../../../Images/Second_Sem_Images/Overview%20of%20Unit%201-double%20buffer.png)
 
 ---
 
@@ -123,6 +127,8 @@ $B - (bfr × R)$
 
 * Record **can span multiple blocks**
 * Used when record is large
+
+![](../../../../../../../Images/Second_Sem_Images/Overview%20of%20Unit%201.png)
 
 ---
 

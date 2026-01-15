@@ -3,6 +3,7 @@
 	- **U1**
 		- **[ADC - u1-notes](./1_Units/U1/ADC%20-%20u1-notes/ADC%20-%20u1-notes.md)**
 		- [ADC - Unit 1](./1_Units/U1/ADC%20-%20Unit%201.md)
+		- [Disk Architecture](./1_Units/U1/Disk%20Architecture.md)
 	- **U2**
 		- **[ADC - u2-notes](./1_Units/U2/ADC%20-%20u2-notes/ADC%20-%20u2-notes.md)**
 		- [ADC - Unit 2](./1_Units/U2/ADC%20-%20Unit%202.md)
