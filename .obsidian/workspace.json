@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ae1ffc82f6c54cc1",
+        "id": "f35d01e8e2a641ec",
         "type": "tabs",
         "children": [
           {
-            "id": "3f7d4e26a897688d",
+            "id": "93eb0bfcde29767e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/2-Second Semester/ADC/1_Units/U3/ADC - Unit 3 - Database Security and Authorization.md",
+                "file": "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2082.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ADC - Unit 3 - Database Security and Authorization"
+              "title": "2082"
             }
           }
         ]
@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/ADC/1_Units/U3/ADC - Unit 3 - Database Security and Authorization.md",
+                "file": "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2082.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ADC - Unit 3 - Database Security and Authorization"
+              "title": "Outline of 2082"
             }
           },
           {
@@ -162,8 +162,7 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,11 +183,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f7d4e26a897688d",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/2-Second Semester/ADC/1_Units/U3/ADC - u3-notes/Unit 3 Database Security and Authorization - Overview.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U3/ADC - Unit 3 - Database Security and Authorization.md",
+    "Images/Second_Sem_Images/2082-1.jpeg",
+    "Images/Second_Sem_Images/2082.jpeg",
+    "Main/Study/2-Second Semester/DWDM/Research Paper for DWDM.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2082.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Notes",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question",
+    "Main/Study/2-Second Semester/DWDM/DMQL.md",
+    "Main/Study/2-Second Semester/ADC/2_Old Questions/2082-My.md",
+    "Images/Second_Sem_Images/2082-My board.jpeg",
     "Main/Study/2-Second Semester/ADC/1_Units/U4/ADC - u4-notes/Overview of Unit 4 - Object Oriented Databases.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U3/ADC - Unit 3 - Database Security and Authorization.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U3/ADC - u3-notes/Unit 3 Database Security and Authorization - Overview.md",
     "Main/Study/2-Second Semester/ADC/1_Units/U4/ADC - Unit 4 - Object-Oriented Databases.md",
     "Main/Study/2-Second Semester/ADC/1_Units/U5/ADC - u5-notes/Overview of Unit 5.md",
     "Main/Study/2-Second Semester/ADC/1_Units/U5/ADC - u5-notes/ADT.md",
@@ -207,31 +216,21 @@
     "Main/Study/2-Second Semester/ADC/1_Units/U2/ADC - u2-notes/Partition Hash Join.md",
     "Main/Study/2-Second Semester/ADC/1_Units/U2/ADC - u2-notes/Algorithms for SELECT Operations.md",
     "Main/Study/2-Second Semester/ADC/1_Units/U1/ADC - u1-notes/Internal Hashing Vs External Hashing.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U1/ADC - u1-notes/Hashing.md",
     "Images/Second_Sem_Images/Overview of Unit 1.png",
     "Images/Second_Sem_Images/Overview of Unit 1-buffering of blocks.png",
     "Images/Second_Sem_Images/Overview of Unit 1-double buffer.png",
-    "Main/Study/2-Second Semester/ADC/1_Units/U1/ADC - u1-notes/Disk Architecture.md",
     "Images/Second_Sem_Images/Disk Architecture-3.png",
     "Images/Second_Sem_Images/Disk Architecture-2.png",
     "Images/Second_Sem_Images/Disk Architecture-1.png",
     "Images/Second_Sem_Images/Disk Architecture.png",
     "Images/Second_Sem_Images/Pasted image 20260115093239.png",
-    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Memory Management.md",
-    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit2/Unit 2 - Notes/Actual Syllabus.md",
-    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/1-Units/Unit1/Unit 1 - Process Management and Synchronization.md",
-    "Images/Second_Sem_Images/Overview of Unit 1- Storage Hierarchy.png",
     "Main/Study/2-Second Semester/ADC/1_Units/U5/ADC - u5-notes/Untitled.base",
-    "Images/Second_Sem_Images/Overview of Unit 6-primary site.png",
     "Excalidraw",
     "Main/Study/1-First Semester/Untitled.base",
     "Main/Study/2-Second Semester/ADC/2_Old Questions/Que-Ans",
     "Main/Study/2-Second Semester/ADC/2_Old Questions",
     "Main/Study/2-Second Semester/Machine Learning/3-Old Question/Notes",
     "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/u4-notes",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/Untitled",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U4",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U5/u5-notes",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"

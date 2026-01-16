@@ -27,6 +27,10 @@
 	- [Assignment 3](./2-Assignments/Assignment%203.md)
 	- **[Assignments - Notes](./2-Assignments/Assignments%20-%20Notes/Assignments%20-%20Notes.md)**
 	- [Class Assignment 1](./2-Assignments/Class%20Assignment%201.md)
+- **3-Old Question**
+	- **Notes**
+	- **Que**
+		- [2082](./3-Old%20Question/Que/2082.md)
 - [DMQL](./DMQL.md)
 - [Research Paper for DWDM](./Research%20Paper%20for%20DWDM.md)
 
