@@ -1,23 +1,23 @@
 %% Begin Waypoint %%
 - **1_Units**
 	- **U1**
-		- [Unit 1](./1_Units/U1/Unit%201.md)
-		- **[Unit1_Notes](./1_Units/U1/Unit1_Notes/Unit1_Notes.md)**
+		- **[CO--u1](./1_Units/U1/CO--u1/CO--u1.md)**
+		- [CO--Unit 1](./1_Units/U1/CO--Unit%201.md)
 	- **U2**
-		- [Unit 2](./1_Units/U2/Unit%202.md)
-		- **[Unit2_Notes](./1_Units/U2/Unit2_Notes/Unit2_Notes.md)**
+		- **[CO--u2](./1_Units/U2/CO--u2/CO--u2.md)**
+		- [CO--Unit 2](./1_Units/U2/CO--Unit%202.md)
 	- **U3**
-		- [Unit 3](./1_Units/U3/Unit%203.md)
-		- **[Unit3_Notes](./1_Units/U3/Unit3_Notes/Unit3_Notes.md)**
+		- **[CO--u3](./1_Units/U3/CO--u3/CO--u3.md)**
+		- [CO--Unit 3](./1_Units/U3/CO--Unit%203.md)
 	- **U4**
-		- [Unit 4](./1_Units/U4/Unit%204.md)
-		- **[Unit4-Notes](./1_Units/U4/Unit4-Notes/Unit4-Notes.md)**
+		- **[CO--u4](./1_Units/U4/CO--u4/CO--u4.md)**
+		- [CO--Unit 4](./1_Units/U4/CO--Unit%204.md)
 	- **U5**
-		- [Unit 5 - Control Dependence](./1_Units/U5/Unit%205%20-%20Control%20Dependence.md)
-		- **[Unit5-Notes](./1_Units/U5/Unit5-Notes/Unit5-Notes.md)**
+		- **[CO--u5](./1_Units/U5/CO--u5/CO--u5.md)**
+		- [CO--Unit 5 - Control Dependence](./1_Units/U5/CO--Unit%205%20-%20Control%20Dependence.md)
 	- **U6**
-		- [Unit 6](./1_Units/U6/Unit%206.md)
-		- **[Unit6-Notes](./1_Units/U6/Unit6-Notes/Unit6-Notes.md)**
+		- **[CO--u6](./1_Units/U6/CO--u6/CO--u6.md)**
+		- [CO--Unit 6](./1_Units/U6/CO--Unit%206.md)
 - **2_Assignment**
 	- **[Assignment_Notes](./2_Assignment/Assignment_Notes/Assignment_Notes.md)**
 	- [Assignment](./2_Assignment/Assignment.md)

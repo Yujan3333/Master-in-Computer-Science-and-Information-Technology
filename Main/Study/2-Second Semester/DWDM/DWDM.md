@@ -1,36 +1,33 @@
 %% Begin Waypoint %%
 - **1-Units**
 	- **U1**
-		- [Unit 1](./1-Units/U1/Unit%201.md)
-		- **Unit1-Notes**
-			- [Multidimensional Database Schemas](./1-Units/U1/Unit1-Notes/Multidimensional%20Database%20Schemas.md)
-			- [Overview of DWDM Unit 1](./1-Units/U1/Unit1-Notes/Overview%20of%20DWDM%20Unit%201.md)
+		- **[DWDM-u1](./1-Units/U1/DWDM-u1/DWDM-u1.md)**
+		- [DWDM-Unit 1](./1-Units/U1/DWDM-Unit%201.md)
 	- **U2**
-		- [Unit 2](./1-Units/U2/Unit%202.md)
-		- **Unit2-Notes**
-			- [Overview of DWDM Unit 2](./1-Units/U2/Unit2-Notes/Overview%20of%20DWDM%20Unit%202.md)
+		- **[DWDM-u2](./1-Units/U2/DWDM-u2/DWDM-u2.md)**
+		- [DWDM-Unit 2](./1-Units/U2/DWDM-Unit%202.md)
 	- **U3**
-		- [Unit 3](./1-Units/U3/Unit%203.md)
-		- **Unit3-notes**
+		- **[DWDM-u3](./1-Units/U3/DWDM-u3/DWDM-u3.md)**
+		- [DWDM-Unit 3](./1-Units/U3/DWDM-Unit%203.md)
 	- **U4**
 	- **U5**
 	- **U6**
-		- [Unit 6](./1-Units/U6/Unit%206.md)
-		- **Unit6-notes**
+		- **[DWDM-u2](./1-Units/U6/DWDM-u2/DWDM-u2.md)**
+		- [DWDM-Unit 6](./1-Units/U6/DWDM-Unit%206.md)
 	- **U7**
 	- **U8**
 	- **U9**
-		- [Unit 9](./1-Units/U9/Unit%209.md)
+		- **[DWDM-u9](./1-Units/U9/DWDM-u9/DWDM-u9.md)**
+		- [DWDM-Unit 9](./1-Units/U9/DWDM-Unit%209.md)
 - **2-Assignments**
+	- **[A-Notes](./2-Assignments/A-Notes/A-Notes.md)**
 	- [Assignment 1](./2-Assignments/Assignment%201.md)
 	- [Assignment 2](./2-Assignments/Assignment%202.md)
 	- [Assignment 3](./2-Assignments/Assignment%203.md)
-	- **[Assignments - Notes](./2-Assignments/Assignments%20-%20Notes/Assignments%20-%20Notes.md)**
 	- [Class Assignment 1](./2-Assignments/Class%20Assignment%201.md)
 - **3-Old Question**
-	- **Notes**
-	- **Que**
-		- [2082](./3-Old%20Question/Que/2082.md)
+	- **[Que](./3-Old%20Question/Que/Que.md)**
+	- **que-ans**
 - [DMQL](./DMQL.md)
 - [Research Paper for DWDM](./Research%20Paper%20for%20DWDM.md)
 

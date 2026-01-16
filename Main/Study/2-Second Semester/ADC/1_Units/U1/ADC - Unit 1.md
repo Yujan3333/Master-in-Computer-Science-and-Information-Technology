@@ -12,7 +12,7 @@
 ### [Indexing](ADC%20-%20u1-notes/Indexing.md)
 
 ---
-### [RAID](../../../../1-First%20Semester/Subjects/Advanced%20Operating%20System%20(AOS)/1-Units/Unit2/Unit%202%20-%20Notes/RAID.md)
+### [RAID](../../../../1-First%20Semester/Subjects/Advanced%20Operating%20System%20(AOS)/1-Units/Unit2/AOS-u2/RAID.md)
 
 ---
 ### [Storage Area Network(SAN)](ADC%20-%20u1-notes/Storage%20Area%20Network(SAN).md)

@@ -6,7 +6,7 @@
 ---
 ### 2081 Preboard
 ![](../../../../../Images/Second_Sem_Images/To%20Search-14.png)
-- [ Answer for Classification matrix](%20Answer%20for%20Classification%20matrix.md)
+- [Answer for Classification matrix](Notes/Answer%20for%20Classification%20matrix.md)
 
 ---
 ### 2080

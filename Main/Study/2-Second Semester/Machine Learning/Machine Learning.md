@@ -1,30 +1,30 @@
 %% Begin Waypoint %%
 - **1-Units**
 	- **U1**
-		- [Unit 1](./1-Units/U1/Unit%201.md)
-		- **[Unit1_Notes](./1-Units/U1/Unit1_Notes/Unit1_Notes.md)**
+		- **[ML--u1](./1-Units/U1/ML--u1/ML--u1.md)**
+		- [ML--Unit 1](./1-Units/U1/ML--Unit%201.md)
 	- **U2**
-		- [Unit 2](./1-Units/U2/Unit%202.md)
-		- **[Unit2 - Notes](./1-Units/U2/Unit2%20-%20Notes/Unit2%20-%20Notes.md)**
+		- **[ML--u2](./1-Units/U2/ML--u2/ML--u2.md)**
+		- [ML--Unit 2](./1-Units/U2/ML--Unit%202.md)
 	- **U3**
-		- **[u3-notes](./1-Units/U3/u3-notes/u3-notes.md)**
-		- [Unit 3 - Learning Theory and Model Evaluation](./1-Units/U3/Unit%203%20-%20Learning%20Theory%20and%20Model%20Evaluation.md)
+		- **[ML--u3](./1-Units/U3/ML--u3/ML--u3.md)**
+		- [ML--Unit 3 - Learning Theory and Model Evaluation](./1-Units/U3/ML--Unit%203%20-%20Learning%20Theory%20and%20Model%20Evaluation.md)
 	- **U4**
-		- **[u4-notes](./1-Units/U4/u4-notes/u4-notes.md)**
-		- [Unit 4  Unsupervised Learning](./1-Units/U4/Unit%204%20%20Unsupervised%20Learning.md)
+		- **[ML--u4](./1-Units/U4/ML--u4/ML--u4.md)**
+		- [ML--Unit 4  Unsupervised Learning](./1-Units/U4/ML--Unit%204%20%20Unsupervised%20Learning.md)
 	- **U5**
-		- **[u5-notes](./1-Units/U5/u5-notes/u5-notes.md)**
-		- [Unit 5 - Reinforcement Learning](./1-Units/U5/Unit%205%20-%20Reinforcement%20Learning.md)
+		- **[ML--u5](./1-Units/U5/ML--u5/ML--u5.md)**
+		- [ML--Unit 5 - Reinforcement Learning](./1-Units/U5/ML--Unit%205%20-%20Reinforcement%20Learning.md)
 - **[2-Assignments](./2-Assignments/2-Assignments.md)**
 	- **Assignment_notes**
 		- [Lab1-Contd Explanation](./2-Assignments/Assignment_notes/Lab1-Contd%20Explanation.md)
 		- [Lab1-Explanation](./2-Assignments/Assignment_notes/Lab1-Explanation.md)
 		- [Why was Library giving better result when Learning rate was less](./2-Assignments/Assignment_notes/Why%20was%20Library%20giving%20better%20result%20when%20Learning%20rate%20was%20less.md)
 - **3-Old Question**
-	- [Answer for Classification matrix](./3-Old%20Question/Answer%20for%20Classification%20matrix.md)
 	- **[ML Que](./3-Old%20Question/ML%20Que/ML%20Que.md)**
 	- [ML Que Collection](./3-Old%20Question/ML%20Que%20Collection.md)
 	- **Notes**
+		- [Answer for Classification matrix](./3-Old%20Question/Notes/Answer%20for%20Classification%20matrix.md)
 		- [Functional margin in SVM + derive geometric margin + Lagrange duality & KKT conditions](./3-Old%20Question/Notes/Functional%20margin%20in%20SVM%20+%20derive%20geometric%20margin%20+%20Lagrange%20duality%20&%20KKT%20conditions.md)
 		- [SVD-2080](./3-Old%20Question/Notes/SVD-2080.md)
 	- [To Search](./3-Old%20Question/To%20Search.md)

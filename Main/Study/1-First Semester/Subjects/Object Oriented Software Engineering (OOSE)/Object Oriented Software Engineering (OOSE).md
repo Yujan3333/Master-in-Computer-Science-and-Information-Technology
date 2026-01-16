@@ -2,18 +2,17 @@
 - **1-Units**
 	- [OOOSE and Subjectory](./1-Units/OOOSE%20and%20Subjectory.md)
 	- **Unit1**
-		- [Unit-1](./1-Units/Unit1/Unit-1.md)
-		- **[Unit1-Notes](./1-Units/Unit1/Unit1-Notes/Unit1-Notes.md)**
+		- **[OOSE--u1](./1-Units/Unit1/OOSE--u1/OOSE--u1.md)**
+		- [OOSE--Unit-1](./1-Units/Unit1/OOSE--Unit-1.md)
 	- **Unit2**
-		- [Unit 2](./1-Units/Unit2/Unit%202.md)
-		- **[Unit2-Notes](./1-Units/Unit2/Unit2-Notes/Unit2-Notes.md)**
+		- **[OOSE--u2](./1-Units/Unit2/OOSE--u2/OOSE--u2.md)**
+		- [OOSE--Unit 2](./1-Units/Unit2/OOSE--Unit%202.md)
 	- **Unit3**
-		- [Unit 3](./1-Units/Unit3/Unit%203.md)
-		- **[Unit3-Notes](./1-Units/Unit3/Unit3-Notes/Unit3-Notes.md)**
-	- **Unit4**
+		- **[OOSE--u3](./1-Units/Unit3/OOSE--u3/OOSE--u3.md)**
+		- [OOSE--Unit 3](./1-Units/Unit3/OOSE--Unit%203.md)
 	- **Unit5**
-		- [Unit 5](./1-Units/Unit5/Unit%205.md)
-		- **[Unit5-Notes](./1-Units/Unit5/Unit5-Notes/Unit5-Notes.md)**
+		- **[OOSE--u5](./1-Units/Unit5/OOSE--u5/OOSE--u5.md)**
+		- [OOSE--Unit 5](./1-Units/Unit5/OOSE--Unit%205.md)
 - **2-Assignments**
 	- **OOSE A1**
 
