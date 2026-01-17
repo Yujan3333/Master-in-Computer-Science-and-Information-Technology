@@ -22,7 +22,6 @@
 	- **[Assignment_Notes](./2_Assignment/Assignment_Notes/Assignment_Notes.md)**
 	- [Assignment](./2_Assignment/Assignment.md)
 - **3_Old Questions**
-	- **[3_Old Questions](./3_Old%20Questions/3_Old%20Questions/3_Old%20Questions.md)**
 	- [2070](./3_Old%20Questions/2070.md)
 	- [2071](./3_Old%20Questions/2071.md)
 	- [2072](./3_Old%20Questions/2072.md)
@@ -34,6 +33,7 @@
 	- [2079](./3_Old%20Questions/2079.md)
 	- [2081](./3_Old%20Questions/2081.md)
 	- [2082-My](./3_Old%20Questions/2082-My.md)
+	- **[CO-OldQueAns](./3_Old%20Questions/CO-OldQueAns/CO-OldQueAns.md)**
 	- [Questions And Answer](./3_Old%20Questions/Questions%20And%20Answer.md)
 
 %% End Waypoint %%
