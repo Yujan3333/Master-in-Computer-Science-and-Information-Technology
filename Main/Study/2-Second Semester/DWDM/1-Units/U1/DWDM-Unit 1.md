@@ -1,14 +1,16 @@
 ## [Overview of DWDM Unit 1](DWDM-u1/Overview%20of%20DWDM%20Unit%201.md)
 ---
-### Evolution of Database Technology
+### [Evolution of Database Technology](DWDM-u1/Evolution%20of%20Database%20Technology.md)
 1. Data Collection and Database Creation
-2. Data Management
-3. Data Analysis and Understanding
+2. Database Management Systems (1970s – early 1980s)
+3. Advanced Database Systems (Mid-1980s – Present)
+4. Advanced Data Analysis (Late-1980s – Present)
+5. Future Generation of Information Systems (Present – Future)
 
 - Example : *Transition from traditional OLTP systems to OLAP*
 
 ---
-###  Data Warehouse
+###  [Data Warehouse](DWDM-u1/Data%20Warehouse.md)
 - Multiple heterogeneous data sources -> unified schema
 - OLAP (*Specialization and Generalization*)operations supported
 
@@ -24,7 +26,7 @@
 - Drill Down - **Generalization -> Specialization**
 - Roll Up - **Specialization -> Generalization**
 
-#### Architecture of Data Warehouse
+#### [Architecture of Data Warehouse](DWDM-u1/Architecture%20of%20Data%20Warehouse.md)
 1. Top-Tier
 2. Middle Tier
 3. Bottom Tier
@@ -36,8 +38,13 @@
 
 
 ---
+### [Inman Approach](DWDM-u1/Inman%20Approach.md)
+### [Kimbell Approach](DWDM-u1/Kimbell%20Approach.md)
+
+### [Inman VS Kimbell](DWDM-u1/Inman%20VS%20Kimbell.md)
 ---
-### Data Mining
+---
+### [Data Mining](DWDM-u1/Data%20Mining.md)
 - extracting or mining knowledge from large datasets.
 - Also Known as
 	- **Knowledge Extraction**
