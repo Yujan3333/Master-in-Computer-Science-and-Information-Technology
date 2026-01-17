@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2b380bfc02c17c7f",
+        "id": "f0924c4fd682f35f",
         "type": "tabs",
         "children": [
           {
-            "id": "40021a6f08ede81f",
+            "id": "b83a3edc54529dec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/2-Second Semester/DWDM/3-Old Question/TO SEARCH.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TO SEARCH"
             }
           }
         ]
@@ -177,8 +182,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40021a6f08ede81f",
+  "active": "b83a3edc54529dec",
   "lastOpenFiles": [
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/DWDM-Old Questions.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/TO SEARCH.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/DMQL.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2075.md",
+    "Images/Second_Sem_Images/2075-7.png",
+    "Images/Second_Sem_Images/2075-6.png",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2076.md",
+    "Images/Second_Sem_Images/2076-8.png",
+    "Images/Second_Sem_Images/2076-7.png",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2077.md",
+    "Images/Second_Sem_Images/2077-9.png",
+    "Images/Second_Sem_Images/2077-8.png",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2079.md",
+    "Images/Second_Sem_Images/2079-7.png",
+    "Images/Second_Sem_Images/Pasted image 20260117141100.png",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2080.md",
+    "Images/Second_Sem_Images/2080-5.png",
+    "Images/Second_Sem_Images/2080-4.png",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2081.md",
     "Main/Study/2-Second Semester/Compiler Optimization/Compiler Optimization.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/Questions And Answer.md",
     "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/CO-OldQueAns/CO-OldQueAns.md",
@@ -196,32 +220,13 @@
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/1-Units/Unit 4/NN-u4/Unit4-Notes-Folder.md",
     "Main/Study/2-Second Semester/WSA/WSA.md",
     "Main/Study/2-Second Semester/WSA/1_Units/U7/WSA--u7/WSA--u7.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/WSA--u3/WSA--u3.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U7/WSA--Unit 7 Semantic Web.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U6/WSA--u6/WSA--u6.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U6/WSA--Unit 6 - Combining Classifiers.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U5/WSA--u5/WSA--u5.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U5/WSA--Unit 5 - Classification.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/WSA--u4/WSA--u4.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/WSA--Unit 4.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/WSA--Unit 3.md",
     "Main/Study/1-First Semester/Old Questions/passed year question .pdf",
     "Main/Study/1-First Semester/Old Questions/Csit_oldquestions.pdf",
     "Main/Study/1-First Semester/Untitled.base",
     "Main/Study/2-Second Semester/DWDM/1-Units/U9/DWDM-u9",
-    "Images/Second_Sem_Images/2082-1.jpeg",
-    "Images/Second_Sem_Images/2082.jpeg",
     "Main/Study/2-Second Semester/DWDM/3-Old Question/Que",
     "Main/Study/2-Second Semester/DWDM/3-Old Question/que-ans",
     "Main/Study/2-Second Semester/DWDM/3-Old Question",
-    "Images/Second_Sem_Images/2082-My board.jpeg",
-    "Images/Second_Sem_Images/Overview of Unit 1.png",
-    "Images/Second_Sem_Images/Overview of Unit 1-buffering of blocks.png",
-    "Images/Second_Sem_Images/Overview of Unit 1-double buffer.png",
-    "Images/Second_Sem_Images/Disk Architecture-3.png",
-    "Images/Second_Sem_Images/Disk Architecture-2.png",
-    "Images/Second_Sem_Images/Disk Architecture-1.png",
-    "Images/Second_Sem_Images/Disk Architecture.png",
     "Main/Study/2-Second Semester/ADC/1_Units/U5/ADC - u5-notes/Untitled.base",
     "Excalidraw",
     "Main/Study/2-Second Semester/ADC/2_Old Questions/Que-Ans",

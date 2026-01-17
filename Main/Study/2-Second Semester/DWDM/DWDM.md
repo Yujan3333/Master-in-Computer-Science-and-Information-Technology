@@ -26,12 +26,21 @@
 	- [Assignment 3](./2-Assignments/Assignment%203.md)
 	- [Class Assignment 1](./2-Assignments/Class%20Assignment%201.md)
 - **3-Old Question**
-	- **[Que](./3-Old%20Question/Que/Que.md)**
+	- [DMQL](./3-Old%20Question/DMQL.md)
+	- [DWDM-Old Questions](./3-Old%20Question/DWDM-Old%20Questions.md)
+	- **Que**
+		- [2075](./3-Old%20Question/Que/2075.md)
+		- [2076](./3-Old%20Question/Que/2076.md)
+		- [2077](./3-Old%20Question/Que/2077.md)
+		- [2079](./3-Old%20Question/Que/2079.md)
+		- [2080](./3-Old%20Question/Que/2080.md)
+		- [2081](./3-Old%20Question/Que/2081.md)
+		- [2082](./3-Old%20Question/Que/2082.md)
 	- **que-ans**
-- [DMQL](./DMQL.md)
+	- [TO SEARCH](./3-Old%20Question/TO%20SEARCH.md)
 - [Research Paper for DWDM](./Research%20Paper%20for%20DWDM.md)
 
 %% End Waypoint %%
 
 ---
-[DMQL](DMQL.md)
+[DMQL](3-Old%20Question/DMQL.md)
