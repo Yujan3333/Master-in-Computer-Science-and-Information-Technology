@@ -162,8 +162,7 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,10 +183,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b83a3edc54529dec",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Data Mining.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Multidimensional Model Definition.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-Unit 1.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/In what scenarios you would recommend a HOLAP.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Obstacles while implementing Data Warehouse in large enterprise.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Data Mining.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Why Separate Data Warehouse.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/ROLAP VS MOLAP.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Star Schema vs Snowflake Schema.md",
@@ -206,7 +208,6 @@
     "Images/Second_Sem_Images/OLAP Operations-rollup.png",
     "Images/Second_Sem_Images/OLAP Operations.png",
     "Images/Second_Sem_Images/OLAP Operations-slice.png",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Multidimensional Model Definition.md",
     "Main/Study/2-Second Semester/DWDM/3-Old Question/que-ans/Techniques to handle noise data during data cleaning.md",
     "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2082-My.md",
     "Main/Study/2-Second Semester/DWDM/3-Old Question/TO SEARCH.md",
@@ -220,8 +221,6 @@
     "Main/Study/2-Second Semester/DWDM/2-Assignments/A-Notes/Database Vs Data Warehouse.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Virtual Warehouse.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Data Mart.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Enterprise Warehouse.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Architecture of Data Warehouse.md",
     "Main/Study/1-First Semester/Old Questions/passed year question .pdf",
     "Main/Study/1-First Semester/Old Questions/Csit_oldquestions.pdf",
     "Main/Study/1-First Semester/Untitled.base",

@@ -24,7 +24,11 @@
 3. Time Variant
 4. Non Volatile
 
+---
 #### [Why Separate Data Warehouse](DWDM-u1/Why%20Separate%20Data%20Warehouse.md)
+#### [Obstacles while implementing Data Warehouse in large enterprise](DWDM-u1/Obstacles%20while%20implementing%20Data%20Warehouse%20in%20large%20enterprise.md)
+#### [In what scenarios you would recommend a HOLAP](DWDM-u1/In%20what%20scenarios%20you%20would%20recommend%20a%20HOLAP.md)
+---
 #### Data Marts
 - Subset of Data Warehouse
 
@@ -96,7 +100,7 @@
 ==Data Rich But Knowledge Poor==
 
 ---
-#### Knowledge Discovery Process (KDD)
+### Knowledge Discovery Process (KDD)
 1. Data Cleaning
 2. Data Integration
 3. Data Selection
@@ -107,10 +111,8 @@
 
 ![](../../../../../../Images/Second_Sem_Images/Architecture%20of%20a%20typical%20data%20mining%20system.png)
 
----
 
 ---
-
 ---
 ## Data
 #### [Lifecycle of data](DWDM-u1/Lifecycle%20of%20data.md)
