@@ -1,3 +1,5 @@
+![](../../../../../../../Images/Second_Sem_Images/Architecture%20of%20Data%20Warehouse-1.png)
+
 ![](../../../../../../../Images/Second_Sem_Images/Architecture%20of%20Data%20Warehouse.png)
 
 ## Architecture of a Data Warehouse

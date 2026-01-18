@@ -24,7 +24,7 @@
 2. Unsupervised learning
 3. Reinforcement Learning
 
-### [Types of Attributes](ML--u1/Types%20of%20Attributes.md)
+### [Types of Attributes (Nominal Ordinal Interval Ratio)](ML--u1/Types%20of%20Attributes%20(Nominal%20Ordinal%20Interval%20Ratio).md)
 1. Nominal Attributes
 2. Ordinal Attributes
 3. Interval-Scaled Attributes

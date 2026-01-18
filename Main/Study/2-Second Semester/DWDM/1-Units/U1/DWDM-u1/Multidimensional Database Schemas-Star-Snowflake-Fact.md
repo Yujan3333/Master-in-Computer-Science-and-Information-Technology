@@ -1,3 +1,5 @@
+- [Multidimensional Model Definition](Multidimensional%20Model%20Definition.md)
+
 # 1️⃣ STAR SCHEMA ⭐ (Easiest)
 
 ### 👉 Idea
@@ -22,6 +24,8 @@ Product --- FACT_SALES --- Customer
             |
           Store
 ```
+![](../../../../../../../Images/Second_Sem_Images/Multidimensional%20Database%20Schemas-Star.png)
+
 
 ---
 
@@ -80,6 +84,8 @@ Category
    |
 Subcategory
 ```
+![](../../../../../../../Images/Second_Sem_Images/Multidimensional%20Database%20Schemas-Star-Snowflake-Fact.png)
+
 
 ---
 
@@ -148,6 +154,8 @@ Product --- FACT_INVENTORY --- Store
                  |
                Supplier
 ```
+![](../../../../../../../Images/Second_Sem_Images/Multidimensional%20Database%20Schemas-Fact.png)
+
 
 ---
 
