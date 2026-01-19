@@ -99,8 +99,15 @@
 
 ==Data Rich But Knowledge Poor==
 
+### Data Mining Functionalities
+- Class / concept description
+- Mining frequent patterns, Association rules and Correlations
+- Classification and Regression for Predictive analysis
+- Cluster Analysis for clustering
+- Outlier Analysis
+
 ---
-### Knowledge Discovery Process (KDD)
+### [Knowledge Discovery Process (KDD)](DWDM-u1/Knowledge%20Discovery%20Process%20(KDD).md)
 1. Data Cleaning
 2. Data Integration
 3. Data Selection
@@ -109,8 +116,36 @@
 6. Pattern Evaluation
 7. Knowledge Presentation
 
+### [Architecture of Data Mining System](DWDM-u1/Architecture%20of%20Data%20Mining%20System.md)
 ![](../../../../../../Images/Second_Sem_Images/Architecture%20of%20a%20typical%20data%20mining%20system.png)
 
+### [Types of Data Mining Architecture](DWDM-u1/Types%20of%20Data%20Mining%20Architecture.md)
+
+### [Data Mining Primitives](../../3-Old%20Question/que-ans/Data%20Mining%20Primitives.md)
+
+### [Data Mining Issues](DWDM-u1/Data%20Mining%20Issues.md)
+
+### [Data Preprocessing](DWDM-u1/Data%20Preprocessing.md)
+
+### [Data Discretization](DWDM-u1/Data%20Discretization.md)
+
+### [Concept Hierarchy](DWDM-u1/Concept%20Hierarchy.md)
+
+### [Computation of Data Cubes](DWDM-u1/Computation%20of%20Data%20Cubes.md)
+
+### [Types of Cube - Cube Materialization](DWDM-u1/Types%20of%20Cube%20-%20Cube%20Materialization.md)
+
+### [General Strategies (Heuristics) for Cube Computation](DWDM-u1/General%20Strategies%20(Heuristics)%20for%20Cube%20Computation.md)
+
+### [Data Cube Computation Method](DWDM-u1/Data%20Cube%20Computation%20Method.md)
+
+### [Attribute Oriented Induction Approach (AOI)](DWDM-u1/Attribute%20Oriented%20Induction%20Approach%20(AOI).md)
+
+### [Mining Class Comparison](../U5/dwdm-u5/Mining%20Class%20Comparison.md)
+
+### [DMQL](DMQL.md)
+
+### [Constraint Based Association Mining](../U6/DWDM-u2/Constraint%20Based%20Association%20Mining.md)
 
 ---
 ---
@@ -151,4 +186,4 @@
 	- Genetic Sequence
 
 ---
-
+---

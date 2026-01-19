@@ -21,7 +21,7 @@
 ### Remaining Iterations
 - Find the distance from `a` to every other points in $C_i$ and also subtract from Cluster of $C_j$
 ![](../../../../../../../Images/Second_Sem_Images/Divisive%20Hierarchical%20Clustering-4.png)
-- `b` is added to the second cluster
+- `d` is added to the second cluster as `d` is positive and biggest
 
 ---
 ### Again repeating in Cluster $C_j$

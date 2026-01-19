@@ -1,4 +1,4 @@
-- [Single Linkage](https://www.youtube.com/watch?v=tXYAdGn-SuM&t=18s)
+- [Single Linkage- YouTube](https://www.youtube.com/watch?v=tXYAdGn-SuM&t=18s)
 ## Question
 ![](../../../../../../../Images/Second_Sem_Images/Single%20linkage%20hierarchical%20clustering.png)
 
