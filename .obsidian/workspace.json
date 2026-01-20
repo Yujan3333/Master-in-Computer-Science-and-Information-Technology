@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "96d64aa2bb888a15",
+        "id": "ea2dc9162427e576",
         "type": "tabs",
         "children": [
           {
-            "id": "5594a7de1c34c782",
+            "id": "d5988647b50a6267",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/2-Second Semester/DWDM/1-Units/U9/DWDM-Unit 9.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "DWDM-Unit 9"
+              "title": "New tab"
             }
           }
         ]
@@ -134,13 +129,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/2-Second Semester/DWDM/1-Units/U9/DWDM-Unit 9.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of DWDM-Unit 9"
+              "title": "Outline"
             }
           },
           {
@@ -162,8 +156,7 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,37 +177,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5594a7de1c34c782",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
     "Main/Study/2-Second Semester/DWDM/1-Units/U8/DWDM-Unit 8.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/ML--Unit 4  Unsupervised Learning.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U8/dwdm-u8/DWDM-Unit 8 Overview.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U8/dwdm-u8/Constraint Based Clustering.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U8/dwdm-u8/Fuzzy.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U8/dwdm-u8/OPTICS.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U8/dwdm-u8/Grid Based.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U8/dwdm-u8/Model Based.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/ML--u4/Gaussian Mixture Model (GMM).md",
-    "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/WSA--u4/DBSCAN Numerical.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U9/DWDM-Unit 9.md",
     "Main/Study/2-Second Semester/WSA/1_Units/U3/WSA--u3/Divisive Hierarchical Clustering.md",
     "Main/Study/2-Second Semester/WSA/1_Units/U3/WSA--u3/Single Linkage Agglomerative Hierarchical clustering.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U4/ML--u4/Model Based Method.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U8/dwdm-u8/Partitioning Around Medoids (PAM).md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/WSA--u4/K Medoid.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U8/dwdm-u8/dwdm-u8.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U8/dwdm-u8",
-    "Main/Study/2-Second Semester/WSA/1_Units/U4/WSA--u4/K Mean.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U7/DWDM-Unit 7.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U7/dwdm-u7/Backpropagation Algorithm.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U7/dwdm-u7/SVM.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U7/dwdm-u7/Laplacian Correction.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U6/DWDM-Unit 6.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U6/DWDM-u2/DWDM-U6 Overview of Syllabus.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U5/DWDM-Unit 5.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-Unit 1.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2076.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/DWDM-Old Questions.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2077.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2079.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2080.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2081.md",
+    "Main/Study/2-Second Semester/DWDM/Research Paper for DWDM.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/que-ans/using DMQL to specify the task relevant data.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/TO SEARCH.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U6/DWDM-u2/Constraint Based Association Mining.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/que-ans/DMQL.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/General Strategies (Heuristics) for Cube Computation.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Data Mining Issues.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/que-ans/Data Mining Primitives.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Lifecycle of data.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U8/dwdm-u8",
     "Images/Second_Sem_Images/Backpropagation Algorithm-1.png",
     "Images/Second_Sem_Images/Backpropagation Algorithm.png",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U7/dwdm-u7/Rule Based Classifier.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U7/dwdm-u7/SVM.md",
-    "Main/Study/2-Second Semester/Machine Learning/1-Units/U2/ML--u2/SVM Derivation.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U7/dwdm-u7/DWDM-Unit 7 Overview.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U7/dwdm-u7/Random Forest.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U5/WSA--u5/Ensemble Technique.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U7/dwdm-u7",
     "Images/Second_Sem_Images/2080-TO SEARCH.png",
     "Images/Second_Sem_Images/2081-TO SEARCH.png",

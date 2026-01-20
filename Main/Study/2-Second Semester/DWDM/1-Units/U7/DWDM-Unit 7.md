@@ -9,7 +9,7 @@
 
 ---
 ### [Bayes Theorem](../../../Machine%20Learning/1-Units/U2/ML--u2/Bayes%20Theorem.md)
-
+#### [Laplacian Correction](dwdm-u7/Laplacian%20Correction.md)
 
 ---
 ### Artificial Neural Network
