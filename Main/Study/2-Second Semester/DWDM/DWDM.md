@@ -35,6 +35,7 @@
 	- [Class Assignment 1](./2-Assignments/Class%20Assignment%201.md)
 - **3-Old Question**
 	- [DWDM-Old Questions](./3-Old%20Question/DWDM-Old%20Questions.md)
+	- [DWDM-TO SEARCH](./3-Old%20Question/DWDM-TO%20SEARCH.md)
 	- **Que**
 		- [2075](./3-Old%20Question/Que/2075.md)
 		- [2076](./3-Old%20Question/Que/2076.md)
@@ -48,12 +49,12 @@
 		- [Concept Hierarchies in datamining](./3-Old%20Question/que-ans/Concept%20Hierarchies%20in%20datamining.md)
 		- [Correlation Technique](./3-Old%20Question/que-ans/Correlation%20Technique.md)
 		- [Data Mining Primitives](./3-Old%20Question/que-ans/Data%20Mining%20Primitives.md)
+		- [Datamining system intrudes the privacy of individuals](./3-Old%20Question/que-ans/Datamining%20system%20intrudes%20the%20privacy%20of%20individuals.md)
 		- [DMQL](./3-Old%20Question/que-ans/DMQL.md)
 		- [Generate Association rule from a freq itemset](./3-Old%20Question/que-ans/Generate%20Association%20rule%20from%20a%20freq%20itemset.md)
 		- [Techniques to handle noise data during data cleaning](./3-Old%20Question/que-ans/Techniques%20to%20handle%20noise%20data%20during%20data%20cleaning.md)
 		- [using DMQL to specify the task relevant data](./3-Old%20Question/que-ans/using%20DMQL%20to%20specify%20the%20task%20relevant%20data.md)
 		- [Why the above exact subset](./3-Old%20Question/que-ans/Why%20the%20above%20exact%20subset.md)
-	- [TO SEARCH](./3-Old%20Question/TO%20SEARCH.md)
 - [Research Paper for DWDM](./Research%20Paper%20for%20DWDM.md)
 
 %% End Waypoint %%

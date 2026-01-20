@@ -17,28 +17,40 @@
 
 ---
 Data Cleaning Process
+[Techniques to handle noise data during data cleaning](que-ans/Techniques%20to%20handle%20noise%20data%20during%20data%20cleaning.md)
+
 
 ---
 Cube Computation
+[Data Cube Computation Method](../1-Units/U1/DWDM-u1/Data%20Cube%20Computation%20Method.md)
+[Computation of Data Cubes](../1-Units/U1/DWDM-u1/Computation%20of%20Data%20Cubes.md)
 
 ---
 Attribute Oriented Induction 
+[Attribute Oriented Induction Approach (AOI)](../1-Units/U1/DWDM-u1/Attribute%20Oriented%20Induction%20Approach%20(AOI).md)
 
 ---
 Data Discretization
+[Data Discretization](../1-Units/U1/DWDM-u1/Data%20Discretization.md)
 
 ---
-Datamining system intrudes the privacy of individuals
+[Datamining system intrudes the privacy of individuals](que-ans/Datamining%20system%20intrudes%20the%20privacy%20of%20individuals.md)
+
 
 ---
 PAM Method
+[Partitioning Around Medoids (PAM)](../1-Units/U8/dwdm-u8/Partitioning%20Around%20Medoids%20(PAM).md)
 
 ---
 Bottom Up Computation (BUC)
+[Data Cube Computation Method](../1-Units/U1/DWDM-u1/Data%20Cube%20Computation%20Method.md)
+
 
 ---
 - Q4. Explain the logical architecture of a data warehouse.
 	- TOP BOTTOM MID tier
+	- [Architecture of Data Warehouse](../1-Units/U1/DWDM-u1/Architecture%20of%20Data%20Warehouse.md)
+
 
 ---
 - Q1. Discuss the various techniques used to handle noisy data during the data cleaning process. Explain the binning method for data smoothing with a suitable example. 
