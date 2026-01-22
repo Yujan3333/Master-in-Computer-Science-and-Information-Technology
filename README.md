@@ -1,4 +1,4 @@
-## Made from obsidian note taking app.
+## Made from [Obsidian](https://obsidian.md/) Note Taking App.
 
 ---
 ## Syllabus
@@ -34,3 +34,8 @@
 - [Compiler Optimization (CO)](Main/Study/2-Second%20Semester/Compiler%20Optimization/Compiler%20Optimization.md)
 - [Data Warehouse and Data Mining (DWDM)](Main/Study/2-Second%20Semester/DWDM/DWDM.md)
 - [Advance Database Concepts (ADC)](Main/Study/2-Second%20Semester/ADC/ADC.md)
+
+---
+### Third Semester
+
+- 
