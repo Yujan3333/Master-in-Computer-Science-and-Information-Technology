@@ -51,6 +51,8 @@
 		- [Data Mining Primitives](./3-Old%20Question/que-ans/Data%20Mining%20Primitives.md)
 		- [Datamining system intrudes the privacy of individuals](./3-Old%20Question/que-ans/Datamining%20system%20intrudes%20the%20privacy%20of%20individuals.md)
 		- [DMQL](./3-Old%20Question/que-ans/DMQL.md)
+		- [DWDM board qno2 - Class Conditional Independence in Naive Bayes](./3-Old%20Question/que-ans/DWDM%20board%20qno2%20-%20Class%20Conditional%20Independence%20in%20Naive%20Bayes.md)
+		- [DWDM Board qno3 dissimilarity in interval scaled and partitioning method](./3-Old%20Question/que-ans/DWDM%20Board%20qno3%20dissimilarity%20in%20interval%20scaled%20and%20partitioning%20method.md)
 		- [Generate Association rule from a freq itemset](./3-Old%20Question/que-ans/Generate%20Association%20rule%20from%20a%20freq%20itemset.md)
 		- [Techniques to handle noise data during data cleaning](./3-Old%20Question/que-ans/Techniques%20to%20handle%20noise%20data%20during%20data%20cleaning.md)
 		- [using DMQL to specify the task relevant data](./3-Old%20Question/que-ans/using%20DMQL%20to%20specify%20the%20task%20relevant%20data.md)

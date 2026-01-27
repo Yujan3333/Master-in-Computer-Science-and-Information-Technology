@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "668315ef32fc7a98",
+        "id": "cba9b8f641a74251",
         "type": "tabs",
         "children": [
           {
-            "id": "09c34e1eaf7547f1",
+            "id": "80cd31bc083e08fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -178,15 +183,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09c34e1eaf7547f1",
+  "active": "80cd31bc083e08fc",
   "lastOpenFiles": [
-    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2082-My.md",
-    "Images/Second_Sem_Images/2082-My-11.jpeg",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-Unit 1.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U9/DWDM-Unit 9.md",
-    "Main/Study/2-Second Semester/DWDM/DWDM.md",
-    "Main/Study/_index.md",
+    "Main/Research/Expansion on Seminar I.md",
+    "Main/Research/Seminar 1/Seminar - Folder/Seminar Web App.md",
+    "Main/LATEX/LATEX.md",
+    "Main/Research/Seminar 1/Seminar - Folder/Untitled.md",
+    "Main/Research/Seminar 1/Seminar 1.md",
+    "Main/Research/Seminar 1/Paper Quality.md",
+    "Main/Research/Seminar 1/Paper Used in Seminar.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/DWDM-TO SEARCH.md",
     "Main/Study/2-Second Semester/DWDM/3-Old Question/que-ans/DMQL.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/que-ans/Concept Hierarchies in datamining.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/DWDM-Old Questions.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2082-My.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/que-ans/DWDM Board qno3 dissimilarity in interval scaled and partitioning method.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/que-ans/DWDM board qno2 - Class Conditional Independence in Naive Bayes.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-Unit 1.md",
+    "Main/Study/2-Second Semester/Machine Learning/1-Units/U1/ML--u1/Types of Attributes (Nominal Ordinal Interval Ratio).md",
+    "Main/Study/2-Second Semester/DWDM/DWDM.md",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/DWDM-u1.md",
+    "Images/Second_Sem_Images/2082-My-11.jpeg",
+    "Main/Study/2-Second Semester/DWDM/1-Units/U9/DWDM-Unit 9.md",
+    "Main/Study/_index.md",
     "Untitled.base",
     "Images/Second_Sem_Images/2079-2.png",
     "Images/First_Sem_Images/2076-2-1.png",
@@ -198,22 +217,8 @@
     "Main/Study/1-First Semester/Subjects/Object Oriented Software Engineering (OOSE)/2-Assignments/OOSE A3-Case Study/~$jan_Case Study on Online Food Delivery System.docx",
     "Main/Study/2-Second Semester/Compiler Optimization/1_Units/U2/CO--u2/ZIV Test.md",
     "Main/Study/2-Second Semester/DWDM/3-Old Question/que-ans/Datamining system intrudes the privacy of individuals.md",
-    "Main/Study/2-Second Semester/DWDM/3-Old Question/DWDM-TO SEARCH.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Computation of Data Cubes.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-u1/Data Cube Computation Method.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U8/DWDM-Unit 8.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/WSA--u3/Divisive Hierarchical Clustering.md",
-    "Main/Study/2-Second Semester/WSA/1_Units/U3/WSA--u3/Single Linkage Agglomerative Hierarchical clustering.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U7/DWDM-Unit 7.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U7/dwdm-u7/SVM.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U7/dwdm-u7/Laplacian Correction.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U6/DWDM-Unit 6.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U6/DWDM-u2/DWDM-U6 Overview of Syllabus.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U5/DWDM-Unit 5.md",
-    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2076.md",
-    "Main/Study/2-Second Semester/DWDM/3-Old Question/DWDM-Old Questions.md",
-    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2077.md",
-    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2079.md",
     "Main/Study/2-Second Semester/DWDM/1-Units/U8/dwdm-u8",
     "Images/Second_Sem_Images/Backpropagation Algorithm-1.png",
     "Images/Second_Sem_Images/Backpropagation Algorithm.png",
