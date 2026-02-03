@@ -24,5 +24,3 @@ $$\sigma(z) = \frac{1}{1 + e^{-z}}$$
 ## Reference
 - [Sigmoid Function Explanation Youtube](https://www.youtube.com/watch?v=TPqr8t919YM)
 
-## Tag
-#2nd-sem

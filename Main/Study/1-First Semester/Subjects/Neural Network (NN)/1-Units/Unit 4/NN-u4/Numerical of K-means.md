@@ -85,6 +85,3 @@ Check if cluster assignments change using new centroids.
 - **Cluster 1**: (1,1), (2,1)
 - **Cluster 2**: (4,3), (5,4)
 
-
-## Tag
-#numerical

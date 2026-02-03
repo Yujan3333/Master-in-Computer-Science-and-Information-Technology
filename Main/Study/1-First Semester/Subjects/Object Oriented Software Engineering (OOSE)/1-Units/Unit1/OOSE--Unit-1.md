@@ -71,6 +71,3 @@
 - [Questions and Answer of Notes](OOSE--u1/Questions%20and%20Answer%20of%20Notes.md)
 - List down and compare software life cycle modal that supports object oriented software development - [Software model that support OO](OOSE--u1/Software%20model%20that%20support%20OO.md)
 
-
-## Tag
-#OOSE

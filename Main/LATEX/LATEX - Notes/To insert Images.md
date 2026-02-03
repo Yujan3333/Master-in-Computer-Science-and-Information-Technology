@@ -19,3 +19,6 @@ on a large scale, everywhere we look.
 There's a picture of a galaxy above.
 \end{document}
 ```
+
+#### Visualize
+![](../../../Images/Second_Sem_Images/To%20insert%20Images-latex.png)
