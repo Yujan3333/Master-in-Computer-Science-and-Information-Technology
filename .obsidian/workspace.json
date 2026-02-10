@@ -53,6 +53,18 @@
             }
           },
           {
+            "id": "5c074138d77f2d7f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
+          },
+          {
             "id": "3d4e5802871ec2ef",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b13a5ca7d4d6cc59",
+  "active": "5c074138d77f2d7f",
   "lastOpenFiles": [
     "Main/LATEX/LATEX - Notes/Further Expanding on this.md",
     "Main/LATEX/LATEX - Notes/Making the Document Part By Part.md",
