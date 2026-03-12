@@ -1,6 +1,7 @@
 - [Titlepage](titlepage.md)
 - [Supervisor Recommendation - Letter of Approval - Acknowledgement](Supervisor%20Recommendation%20-%20Letter%20of%20Approval%20-%20Acknowledgement.md)
 - [Abstract Page](Abstract%20Page.md)
+- [Table Of Contents](Table%20Of%20Contents.md)
 
 
 
