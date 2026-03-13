@@ -193,6 +193,45 @@
                     }
                   ],
                   "title": "2-Second Semester"
+                },
+                {
+                  "type": "group",
+                  "ctime": 1773282952896,
+                  "items": [
+                    {
+                      "type": "file",
+                      "ctime": 1773282952897,
+                      "path": "Main/Study/3-Third Semester/3-Third Semester.md",
+                      "subpath": "#^-"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1773283031103,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1773283031104,
+                          "path": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/Image Processing and Pattern Recognitation.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "Image Processing and Pattern Recognitation"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1773283555505,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1773283555505,
+                          "path": "Main/Study/3-Third Semester/Advanced Cyptography/Advanced Cyptography.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "Advanced Cyptography"
+                    }
+                  ],
+                  "title": "3-Third Semester"
                 }
               ],
               "title": "\\\\Study"
