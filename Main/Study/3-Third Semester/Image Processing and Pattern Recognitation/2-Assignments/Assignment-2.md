@@ -1,3 +1,5 @@
+#ippr #assignment #third-semester 
+
 ![](../../../../../Images/Second_Sem_Images/Assignment-2.png)
 
 1. **What is Digital Image Processing?** Explain the **key stages** in detail **with diagram**.
