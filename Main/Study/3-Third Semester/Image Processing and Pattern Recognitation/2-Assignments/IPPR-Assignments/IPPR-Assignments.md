@@ -9,5 +9,6 @@
 - [Explain about image sampling and quantization process](./Explain%20about%20image%20sampling%20and%20quantization%20process.md)
 - [Explain the labeling of 4 connected components with example](./Explain%20the%20labeling%20of%204%20connected%20components%20with%20example.md)
 - [Numerical of 4-Connected Components](./Numerical%20of%204-Connected%20Components.md)
+- [What is actually happening](./What%20is%20actually%20happening.md)
 
 %% End Waypoint %%

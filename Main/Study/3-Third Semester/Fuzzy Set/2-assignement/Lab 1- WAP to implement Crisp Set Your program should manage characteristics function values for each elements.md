@@ -211,3 +211,7 @@ Element   χA   χB
 5         0    0
 ```
 
+
+
+# Tag
+#assignment #third-semester #fuzzy-system

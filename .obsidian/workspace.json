@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "9ca7ebb6e0b55f06",
+        "id": "9c58ee06306dd432",
         "type": "tabs",
         "children": [
           {
-            "id": "7e294de45a589681",
+            "id": "acb7a0eb30fb4cc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Explain the labeling of 4 connected components with example.md",
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Explain the labeling of 4 connected components with example"
+              "title": "Assignment-4"
+            }
+          },
+          {
+            "id": "8e0deccad7c5bced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/What is actually happening.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "What is actually happening"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,14 +199,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e294de45a589681",
+  "active": "71c075a01e4cfe4e",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Numerical of 4-Connected Components.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Explain the labeling of 4 connected components with example.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/What is actually happening.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-4.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-3.md",
+    "Images/Third_Sem_Images/Assignment-4-que.png",
+    "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/Lab 2- WAP implementation of fuzzy sets and  operations.md",
+    "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/Lab 1- WAP to implement Crisp Set Your program should manage characteristics function values for each elements.md",
+    "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/Lab.md",
+    "Images/Third_Sem_Images/Lab-FS.png",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Explain the labeling of 4 connected components with example.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Numerical of 4-Connected Components.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-1.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-2.md",
-    "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/Lab 1- WAP to implement Crisp Set Your program should manage characteristics function values for each elements.md",
     "Main/Study/3-Third Semester/Fuzzy Set/Fuzzy Set.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Confusion in Numerical of 4-Connected Components.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Explain about image sampling and quantization process.md",
@@ -219,18 +241,12 @@
     "Main/Study/3-Third Semester/3-Third Semester.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/Advanced Cyptography.md",
     "Images/Second_Sem_Images/Assignment-2.png",
-    "Main/Study/1-First Semester/Subjects/Advanced Operating System (AOS)/Advanced Operating System (AOS).md",
-    "Main/Study/1-First Semester/1-First Semester.md",
-    "Main/Study/2-Second Semester/DWDM/1-Units/U1/DWDM-Unit 1.md",
     "Images/Second_Sem_Images/Assignment-1-1.png",
     "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments",
     "Main/Study/3-Third Semester/Advanced Cyptography",
     "Images/Second_Sem_Images/Assignment-1.png",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments",
-    "Main/Study/2-Second Semester/Machine Learning/Machine Learning.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation",
-    "Images/Second_Sem_Images/To insert Images-latex.png",
-    "Images/Second_Sem_Images/2082-My-11.jpeg",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
