@@ -66,9 +66,9 @@ def get_valid_input(element):
             if 0 <= val <= 1:
                 return val
             else:
-                print("⚠ Enter value between 0 and 1 only.")
+                print("Enter value between 0 and 1 only.")
         except ValueError:
-            print("⚠ Invalid input. Enter a number.")
+            print("Invalid input. Enter a number.")
 
 
 # -------- MAIN PROGRAM --------
@@ -106,9 +106,9 @@ while True:
         if 0 <= alpha <= 1:
             break
         else:
-            print("⚠ Enter value between 0 and 1.")
+            print("Enter value between 0 and 1.")
     except ValueError:
-        print("⚠ Invalid input.")
+        print("Invalid input.")
 
 print("Alpha-cut of A:", A.alpha_cut(alpha))
 
