@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - [Basic Relationships and distance measures between pixels](./Basic%20Relationships%20and%20distance%20measures%20between%20pixels.md)
+- [Complete Answer](./Complete%20Answer.md)
 - [Components of Image Processing System with Diagram](./Components%20of%20Image%20Processing%20System%20with%20Diagram.md)
 - [Confusion in Numerical of 4-Connected Components](./Confusion%20in%20Numerical%20of%204-Connected%20Components.md)
 - [Digital Image and its application](./Digital%20Image%20and%20its%20application.md)

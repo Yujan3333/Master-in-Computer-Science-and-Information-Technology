@@ -1,6 +1,7 @@
 ![](../../../../../Images/Third_Sem_Images/Assignment-4-que.png)
 
 ### [What is actually happening](IPPR-Assignments/What%20is%20actually%20happening.md)
+- [Complete Answer](IPPR-Assignments/Complete%20Answer.md)
 ---
 ### ✅ Given
 
