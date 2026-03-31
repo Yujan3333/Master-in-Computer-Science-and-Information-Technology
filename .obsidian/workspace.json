@@ -11,10 +11,15 @@
             "id": "05a1ba3a64a68e6f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/Lab 3 -.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lab 3 -"
             }
           }
         ]
@@ -180,6 +185,8 @@
   },
   "active": "05a1ba3a64a68e6f",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/3-Third Semester.md",
+    "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/Lab 3 -.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/AC-Assignments/Assignment-2.md",
     "Main/Study/3-Third Semester/Fuzzy Set/1-Units/U1/FS-Unit1.md",
     "Main/Study/3-Third Semester/Fuzzy Set/1-Units/U1/FS-U1-notes/Subsets - Proper and Improper.md",
@@ -216,9 +223,7 @@
     "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/Assignment-1.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/Image Processing and Pattern Recognitation.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/AC-Assignments",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Components of Image Processing System with Diagram.md",
     "Images/Third_Sem_Images/Components of Image Processing System with Diagram.png",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Digital Image and its application.md",
     "Images/Third_Sem_Images/011.png",
     "Images/Second_Sem_Images/01.png",
     "Images/Second_Sem_Images/DIP - Key Stages with diagram.png",
