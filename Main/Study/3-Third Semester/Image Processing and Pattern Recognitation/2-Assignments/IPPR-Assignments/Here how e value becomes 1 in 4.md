@@ -1,0 +1,1 @@
+![](../../../../../../Images/Third_Sem_Images/Here%20how%20e%20value%20becomes%201%20in%204.png)

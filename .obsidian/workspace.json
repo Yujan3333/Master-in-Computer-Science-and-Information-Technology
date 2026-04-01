@@ -4,25 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "25a9fc832ee0fc49",
+        "id": "5e1aff802f0f9978",
         "type": "tabs",
         "children": [
           {
-            "id": "05a1ba3a64a68e6f",
+            "id": "e19de87fbc7095d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/Lab.md",
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lab"
+              "title": "Assignment-5"
+            }
+          },
+          {
+            "id": "948170ebdae00d95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Expanded for this part.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Expanded for this part"
+            }
+          },
+          {
+            "id": "518cd15535d5b6ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Expanded for this part.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Expanded for this part"
+            }
+          },
+          {
+            "id": "e1b50a122ebc7083",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Expanded u=4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Expanded u=4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +229,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05a1ba3a64a68e6f",
+  "active": "948170ebdae00d95",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-5.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Expanded for this part.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Expanded u=4.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/HOW.md",
+    "Images/Third_Sem_Images/Expanded for this part-u3.png",
+    "Images/Third_Sem_Images/Assignment-5-expo.png",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Here how e value becomes 1 in 4.md",
+    "Images/Third_Sem_Images/Here how e value becomes 1 in 4.png",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-4.md",
+    "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/Lab.md",
     "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/Lab 3 -.md",
     "Main/Study/3-Third Semester/3-Third Semester.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/AC-Assignments/Assignment-2.md",
@@ -196,8 +252,6 @@
     "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/Lab 2- WAP implementation of fuzzy sets and  operations.md",
     "Main/Study/3-Third Semester/Fuzzy Set/1-Units",
     "Main/Study/3-Third Semester/Fuzzy Set/Fuzzy Set.md",
-    "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/Lab.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-4.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Complete Answer.md",
     "Images/Third_Sem_Images/Complete Answer-3.png",
     "Images/Third_Sem_Images/Complete Answer-2.png",
@@ -214,21 +268,13 @@
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Confusion in Numerical of 4-Connected Components.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Explain about image sampling and quantization process.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Explain a simple imaging model.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Elements of Visual Perception-human eyes-image formation-brigthness-adaption.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/Basic Relationships and distance measures between pixels.md",
     "Main/Study/3-Third Semester/Fuzzy Set/2-assignement/FS-assignments",
     "Main/Study/3-Third Semester/Fuzzy Set/2-assignement",
-    "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/AC-Assignments/Stream Cipher-LFSR-Autokey Cipher.md",
     "Main/Study/3-Third Semester/Fuzzy Set",
-    "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/Assignment-1.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/Image Processing and Pattern Recognitation.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/AC-Assignments",
     "Images/Third_Sem_Images/Components of Image Processing System with Diagram.png",
     "Images/Third_Sem_Images/011.png",
-    "Images/Second_Sem_Images/01.png",
-    "Images/Second_Sem_Images/DIP - Key Stages with diagram.png",
     "Images/Third_Sem_Images",
-    "Images/Second_Sem_Images/DIP - Fundamentals steps in digital image processing.png",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments",
     "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",

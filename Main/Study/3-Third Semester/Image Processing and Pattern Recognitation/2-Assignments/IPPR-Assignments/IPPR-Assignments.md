@@ -6,9 +6,13 @@
 - [Digital Image and its application](./Digital%20Image%20and%20its%20application.md)
 - [DIP - Key Stages with diagram](./DIP%20-%20Key%20Stages%20with%20diagram.md)
 - [Elements of Visual Perception-human eyes-image formation-brigthness-adaption](./Elements%20of%20Visual%20Perception-human%20eyes-image%20formation-brigthness-adaption.md)
+- [Expanded for this part](./Expanded%20for%20this%20part.md)
+- [Expanded u=4](./Expanded%20u=4.md)
 - [Explain a simple imaging model](./Explain%20a%20simple%20imaging%20model.md)
 - [Explain about image sampling and quantization process](./Explain%20about%20image%20sampling%20and%20quantization%20process.md)
 - [Explain the labeling of 4 connected components with example](./Explain%20the%20labeling%20of%204%20connected%20components%20with%20example.md)
+- [Here how e value becomes 1 in 4](./Here%20how%20e%20value%20becomes%201%20in%204.md)
+- [HOW](./HOW.md)
 - [Numerical of 4-Connected Components](./Numerical%20of%204-Connected%20Components.md)
 - [What is actually happening](./What%20is%20actually%20happening.md)
 
