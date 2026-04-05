@@ -38,4 +38,6 @@
 ---
 ### Third Semester
 
-- 
+- [Image Processing and Pattern Recognitation](Main/Study/3-Third%20Semester/Image%20Processing%20and%20Pattern%20Recognitation/Image%20Processing%20and%20Pattern%20Recognitation.md)
+- [Advanced Cyptography](Main/Study/3-Third%20Semester/Advanced%20Cyptography/Advanced%20Cyptography.md)
+- [Fuzzy Systems](Main/Study/3-Third%20Semester/Fuzzy%20Systems/Fuzzy%20Systems.md)

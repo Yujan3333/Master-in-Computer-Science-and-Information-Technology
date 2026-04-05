@@ -1,5 +1,7 @@
 Got it — I’ll **complete the missing detailed steps for $u=3,4$ and clearly explain conjugate for $u=5,6,7$** in clean Obsidian format 👇
 
+- [🔹 Conjugate Property (VERY IMPORTANT)](#🔹%20Conjugate%20Property%20(VERY%20IMPORTANT))
+
 ---
 
 # ✅ Given
