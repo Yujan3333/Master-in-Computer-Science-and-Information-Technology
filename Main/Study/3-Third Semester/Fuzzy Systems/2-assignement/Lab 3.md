@@ -1,0 +1,1 @@
+Implementation Height, normal or subnormal, Convex or Non-Convex, Prototype, alpha-cut, strict alpha-cut, Core, Boundary and Support of Fuzzy Sets
