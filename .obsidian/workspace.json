@@ -13,58 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/Lab4- Fuzzy relation.md",
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-Unit2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lab4- Fuzzy relation"
+              "title": "FS-Unit2"
             }
           },
           {
-            "id": "d4fb4e36aa3518f1",
+            "id": "e47ced98e2518a00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/Example- Fuzzy relation program.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Example- Fuzzy relation program"
-            }
-          },
-          {
-            "id": "2c157b29fa8be696",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/Given Example for this Program.md",
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-U2-notes/Finding Tolerance or Non Tolerance in Fuzzy Relation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Given Example for this Program"
-            }
-          },
-          {
-            "id": "315263fc420d3496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/FS-assignments/Explanation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Explanation"
+              "title": "Finding Tolerance or Non Tolerance in Fuzzy Relation"
             }
           }
         ],
@@ -180,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-3.md",
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-U2-notes/Finding Tolerance or Non Tolerance in Fuzzy Relation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Assignment-3"
+              "title": "Outline of Finding Tolerance or Non Tolerance in Fuzzy Relation"
             }
           },
           {
@@ -229,26 +199,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4fb4e36aa3518f1",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/Example- Fuzzy relation program.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/Fuzzy Systems.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/Lab-All Que.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-U2-notes/Finding Tolerance or Non Tolerance in Fuzzy Relation.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-Unit2.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3",
     "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/Lab4- Fuzzy relation.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/Given Example for this Program.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/FS-assignments/Explanation.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/FS-assignments/Given Example for this Program.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/FS-assignments/Example- Fuzzy relation program.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/Lab 3.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/Lab 2- WAP implementation of fuzzy sets and  operations.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/Lab 1- WAP to implement Crisp Set Your program should manage characteristics function values for each elements.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/Assignment-1.md",
     "README.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/Fuzzy Systems.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/Image Processing and Pattern Recognitation.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignement/Lab.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-Unit2.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-U2-notes/Numerical of Relation in CRISP SET - Fuzzy Set.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-U1-notes/FS-U1-notes.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-U2-notes/FS-U2-notes.md",
     "Untitled.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-U2-notes",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-5.md",
@@ -261,7 +233,6 @@
     "Images/Third_Sem_Images/Here how e value becomes 1 in 4.png",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-4.md",
     "Main/Study/3-Third Semester/3-Third Semester.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/AC-Assignments/Assignment-2.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-U1-notes",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units",
@@ -276,7 +247,6 @@
     "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/AC-Assignments",
     "Images/Third_Sem_Images/Components of Image Processing System with Diagram.png",
     "Images/Third_Sem_Images/011.png",
-    "Images/Third_Sem_Images",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"

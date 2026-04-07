@@ -1,7 +1,7 @@
 
 - [Explanation](FS-assignments/Explanation.md)
-- [Given Example for this Program](Given%20Example%20for%20this%20Program.md)
-- [Example- Fuzzy relation program](Example-%20Fuzzy%20relation%20program.md)
+- [Given Example for this Program](FS-assignments/Given%20Example%20for%20this%20Program.md)
+- [Example- Fuzzy relation program](FS-assignments/Example-%20Fuzzy%20relation%20program.md)
 # ✅ 1. Fuzzy Relation – Definition
 
 A fuzzy relation $R$ from $X$ to $Y$ is:
