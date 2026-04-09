@@ -17,3 +17,5 @@ relation are
 
 ---
 ## [Finding Tolerance or Non Tolerance in Fuzzy Relation](FS-U2-notes/Finding%20Tolerance%20or%20Non%20Tolerance%20in%20Fuzzy%20Relation.md)
+
+---
