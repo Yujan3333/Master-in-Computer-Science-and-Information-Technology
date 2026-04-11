@@ -229,6 +229,19 @@
                         }
                       ],
                       "title": "Advanced Cyptography"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1775884289743,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1775884289743,
+                          "path": "Main/Study/3-Third Semester/Remote Sensing and GIS/Remote Sensing and GIS.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "Remote Sensing and GIS"
                     }
                   ],
                   "title": "3-Third Semester"
