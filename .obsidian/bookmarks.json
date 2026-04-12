@@ -242,6 +242,19 @@
                         }
                       ],
                       "title": "Remote Sensing and GIS"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1775884725211,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1775884725211,
+                          "path": "Main/Study/3-Third Semester/Fuzzy Systems/Fuzzy Systems.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "Fuzzy Systems"
                     }
                   ],
                   "title": "3-Third Semester"

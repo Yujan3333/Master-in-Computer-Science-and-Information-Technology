@@ -28,3 +28,5 @@ d.	Create attribute tables and add at least 5 fields
 e.	Prepare a map layout showing all layers
 
 ![](../../../../../Images/Third_Sem_Images/RGIS-Assignment.pdf)
+
+---

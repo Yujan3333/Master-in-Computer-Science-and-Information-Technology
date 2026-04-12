@@ -5,6 +5,7 @@
 	- [Assignment-3](./2-Assignments/Assignment-3.md)
 	- [Assignment-4](./2-Assignments/Assignment-4.md)
 	- [Assignment-5](./2-Assignments/Assignment-5.md)
+	- [Assignment-6  and Lab](./2-Assignments/Assignment-6%20%20and%20Lab.md)
 	- **[IPPR-Assignments](./2-Assignments/IPPR-Assignments/IPPR-Assignments.md)**
 
 %% End Waypoint %%

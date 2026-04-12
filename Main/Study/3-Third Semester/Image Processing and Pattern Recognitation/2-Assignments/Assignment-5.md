@@ -115,3 +115,7 @@ $$F(u)={2.5,,-0.302-j0.021,,0.5+j0.25,,0.052+j0.728,,0,,0.052-j0.728,,0.5-j0.25,
 “DFT converts a discrete signal into frequency components using complex exponentials. Each coefficient is obtained by multiplying input samples with complex exponentials and summing real and imaginary parts.”
 
 ---
+
+
+# Tag
+#ippr #assignment #third-semester 
