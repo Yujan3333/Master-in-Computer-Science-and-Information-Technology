@@ -23,33 +23,18 @@
             }
           },
           {
-            "id": "fb3381bf035f1f71",
+            "id": "eaf3f1d91a9784ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-1.md",
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR-Whole Lab what is being done.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RGIS-Assignment-1"
-            }
-          },
-          {
-            "id": "a5b562e1f321bd99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "RGIS-Assignment-2"
+              "title": "IPPR-Whole Lab what is being done"
             }
           }
         ],
@@ -165,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-1.md",
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR-Whole Lab what is being done.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RGIS-Assignment-1"
+              "title": "Outline of IPPR-Whole Lab what is being done"
             }
           },
           {
@@ -193,8 +178,7 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,41 +199,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb3381bf035f1f71",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR-Lab- Detailed Explanation.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-2.md",
+    "Images/Third_Sem_Images/IPPR-Whole Lab what is being done.pdf",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR-Whole Lab what is being done.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-6  and Lab.md",
-    "Images/Third_Sem_Images/RGIS Assignment-2.pdf",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR-Lab-4.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR-Lab-5.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR-Lab-5-problem-sol.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR - Answer Plus.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR-Lab-3.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR-Lab-2.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR - Lab Code.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-2.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/RGIS-LAB-1-Outline.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-1.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/IPPR-Assignments/IPPR-Lab- Detailed Explanation.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Steps in Remote Sensing and Diff bet active and passive sensor.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Raster vs Vector Data Model + Raster Overlay Operations.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Difference Raster and Vector Model.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Point-in-Polygon and Line in polygon.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Point in polygon and line in polygon in figure.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Q2. Map Scale and Spatial Resolution + Numerical.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Core Functions of GIS + GPS & Remote Sensing + Data Integration.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Q1-GIS -More Detailed answer.md",
+    "Images/Third_Sem_Images/RGIS Assignment-2.pdf",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/Remote Sensing and GIS.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-2.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-1.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-3.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-4.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/2-Assignments/Assignment-5.md",
     "Images/Third_Sem_Images/Assignment and Lab -6.pdf",
     "Images/Third_Sem_Images/RGIS-Assignment.pdf",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/RGIS-assignment-notes.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments",
     "Main/Study/3-Third Semester/Remote Sensing and GIS",
-    "Main/Study/3-Third Semester/Untitled.md",
     "Images/First_Sem_Images/courses.pdf",
-    "README.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/Assignment-2.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-Unit2.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-U2-notes/Finding Tolerance or Non Tolerance in Fuzzy Relation.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/Fuzzy Systems.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/Lab-All Que.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3",
-    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/Lab4- Fuzzy relation.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/FS-assignments/Explanation.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/FS-assignments/Given Example for this Program.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/FS-assignments/Example- Fuzzy relation program.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/Lab 3.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-U2-notes",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2",
     "Images/Third_Sem_Images/Expanded for this part-u3.png",

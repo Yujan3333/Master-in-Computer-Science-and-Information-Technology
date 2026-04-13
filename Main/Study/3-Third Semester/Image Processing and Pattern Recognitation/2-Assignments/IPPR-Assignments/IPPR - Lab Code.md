@@ -9,76 +9,232 @@ pip install opencv-python numpy matplotlib scikit-image
 # ✅ LAB 1: Image Fundamentals
 
 ```python
-import cv2
-import numpy as np
-import matplotlib.pyplot as plt
-
-# Load image (change path if needed)
-img = cv2.imread('image.jpg')
-
-# Convert BGR → RGB (OpenCV loads in BGR)
-img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
-
-# -------------------------------
-# 1. IMAGE STATISTICS
-# -------------------------------
-print("Shape:", img.shape)
-print("Datatype:", img.dtype)
-print("Min pixel:", img.min())
-print("Max pixel:", img.max())
-print("Mean pixel:", img.mean())
-
-# -------------------------------
-# 2. DOWNSAMPLING
-# -------------------------------
-down2 = img_rgb[::2, ::2]   # every 2nd pixel
-down4 = img_rgb[::4, ::4]   # every 4th pixel
-
-# -------------------------------
-# 3. QUANTIZATION
-# -------------------------------
-def quantize(image, levels):
-    step = 256 // levels
-    return (image // step) * step
-
-q4 = quantize(img_rgb, 4)
-q8 = quantize(img_rgb, 8)
-q16 = quantize(img_rgb, 16)
-
-# -------------------------------
-# 4. RGB CHANNELS
-# -------------------------------
-r, g, b = img_rgb[:,:,0], img_rgb[:,:,1], img_rgb[:,:,2]
-
-# Correlation between channels
-print("R-G correlation:", np.corrcoef(r.flatten(), g.flatten())[0,1])
-print("R-B correlation:", np.corrcoef(r.flatten(), b.flatten())[0,1])
-
-# -------------------------------
-# 5. TRANSFORMATIONS
-# -------------------------------
-
-# Rotation
-h, w = img.shape[:2]
-M = cv2.getRotationMatrix2D((w//2, h//2), 30, 1)
-rotated = cv2.warpAffine(img_rgb, M, (w, h))
-
-# Scaling
-scaled = cv2.resize(img_rgb, None, fx=0.6, fy=0.6)
-
-# Translation
-M = np.float32([[1, 0, 50], [0, 1, 30]])
-translated = cv2.warpAffine(img_rgb, M, (w, h))
-
-# -------------------------------
-# DISPLAY
-# -------------------------------
-plt.figure(figsize=(10,8))
-plt.subplot(2,2,1); plt.imshow(img_rgb); plt.title("Original")
-plt.subplot(2,2,2); plt.imshow(down2); plt.title("Downsample x2")
-plt.subplot(2,2,3); plt.imshow(q4); plt.title("Quantized (4 levels)")
-plt.subplot(2,2,4); plt.imshow(rotated); plt.title("Rotated")
-plt.show()
+# ==========================================
+   # LAB 1: IMAGE FUNDAMENTALS
+   # ==========================================
+   
+   # Step 0: Upload image from local system (Google Colab)
+   from google.colab import files
+   uploaded = files.upload()
+   
+   # Import required libraries
+   import cv2                  # OpenCV for image processing
+   import numpy as np         # Numerical operations
+   import matplotlib.pyplot as plt   # For displaying images
+   
+   # ==========================================
+   # LOAD IMAGE
+   # ==========================================
+   
+   # Load the uploaded image (takes first uploaded file)
+   img = cv2.imread(list(uploaded.keys())[0])
+   
+   # OpenCV loads image in BGR format, so convert it to RGB
+   img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
+   
+   # Display the original image
+   plt.imshow(img_rgb)
+   plt.title("Original Image")
+   plt.axis('off')   # Hide axis for better visualization
+   plt.show()
+   
+   
+   # ==========================================
+   # 1. IMAGE STATISTICS
+   # ==========================================
+   
+   # Display basic properties of the image
+   print("---- IMAGE STATISTICS ----")
+   
+   # Shape gives (height, width, channels)
+   print("Shape (H, W, C):", img.shape)
+   
+   # Data type usually uint8 (0–255 pixel values)
+   print("Data Type:", img.dtype)
+   
+   # Minimum pixel value in the image
+   print("Minimum Pixel Value:", img.min())
+   
+   # Maximum pixel value in the image
+   print("Maximum Pixel Value:", img.max())
+   
+   # Mean pixel value (average brightness)
+   print("Mean Pixel Value:", img.mean())
+   
+   # Show image again for reference
+   plt.imshow(img_rgb)
+   plt.title("Original Image (Reference)")
+   plt.axis('off')
+   plt.show()
+   
+   
+   # ==========================================
+   # 2. SAMPLING (DOWNSAMPLING)
+   # ==========================================
+   
+   # Downsampling reduces image resolution by skipping pixels
+   
+   # Take every 2nd pixel → reduces size by factor of 2
+   img_down2 = img_rgb[::2, ::2]
+   
+   # Take every 4th pixel → reduces size by factor of 4
+   img_down4 = img_rgb[::4, ::4]
+   
+   # Display original and downsampled images
+   plt.figure(figsize=(10,4))
+   
+   plt.subplot(1,3,1)
+   plt.imshow(img_rgb)
+   plt.title("Original Image")
+   plt.axis('off')
+   
+   plt.subplot(1,3,2)
+   plt.imshow(img_down2)
+   plt.title("Downsampled (Factor 2)")
+   plt.axis('off')
+   
+   plt.subplot(1,3,3)
+   plt.imshow(img_down4)
+   plt.title("Downsampled (Factor 4)")
+   plt.axis('off')
+   
+   plt.show()
+   
+   
+   # ==========================================
+   # 3. QUANTIZATION (GRAY LEVEL REDUCTION)
+   # ==========================================
+   
+   # Convert color image to grayscale
+   gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+   
+   # Function to reduce number of gray levels
+   def quantize(image, levels):
+       """
+       image  : input grayscale image
+       levels : number of gray levels required (e.g., 4, 8, 16)
+       """
+       step = 256 // levels   # size of each intensity interval
+       return (image // step) * step   # map pixels to nearest level
+   
+   # Apply quantization with different levels
+   q4 = quantize(gray, 4)
+   q8 = quantize(gray, 8)
+   q16 = quantize(gray, 16)
+   
+   # Display quantized images
+   plt.figure(figsize=(10,4))
+   
+   plt.subplot(1,4,1)
+   plt.imshow(gray, cmap='gray')
+   plt.title("Original Gray")
+   plt.axis('off')
+   
+   plt.subplot(1,4,2)
+   plt.imshow(q4, cmap='gray')
+   plt.title("4 Levels")
+   plt.axis('off')
+   
+   plt.subplot(1,4,3)
+   plt.imshow(q8, cmap='gray')
+   plt.title("8 Levels")
+   plt.axis('off')
+   
+   plt.subplot(1,4,4)
+   plt.imshow(q16, cmap='gray')
+   plt.title("16 Levels")
+   plt.axis('off')
+   
+   plt.show()
+   
+   
+   # ==========================================
+   # 4. RGB CHANNEL EXTRACTION + CORRELATION
+   # ==========================================
+   
+   # Extract individual color channels
+   R = img_rgb[:, :, 0]   # Red channel
+   G = img_rgb[:, :, 1]   # Green channel
+   B = img_rgb[:, :, 2]   # Blue channel
+   
+   # Display each channel as grayscale image
+   plt.figure(figsize=(10,4))
+   
+   plt.subplot(1,3,1)
+   plt.imshow(R, cmap='gray')
+   plt.title("Red Channel")
+   plt.axis('off')
+   
+   plt.subplot(1,3,2)
+   plt.imshow(G, cmap='gray')
+   plt.title("Green Channel")
+   plt.axis('off')
+   
+   plt.subplot(1,3,3)
+   plt.imshow(B, cmap='gray')
+   plt.title("Blue Channel")
+   plt.axis('off')
+   
+   plt.show()
+   
+   # Flatten channels into 1D arrays for correlation computation
+   R_flat = R.flatten()
+   G_flat = G.flatten()
+   B_flat = B.flatten()
+   
+   # Compute correlation between channels
+   print("---- CHANNEL CORRELATION ----")
+   print("R-G Correlation:", np.corrcoef(R_flat, G_flat)[0,1])
+   print("R-B Correlation:", np.corrcoef(R_flat, B_flat)[0,1])
+   print("G-B Correlation:", np.corrcoef(G_flat, B_flat)[0,1])
+   
+   
+   # ==========================================
+   # 5. GEOMETRIC TRANSFORMATIONS
+   # ==========================================
+   
+   # Get image dimensions
+   h, w = img.shape[:2]
+   
+   # -------- Rotation --------
+   # Rotate image by 30 degrees around center
+   center = (w//2, h//2)
+   rot_matrix = cv2.getRotationMatrix2D(center, 30, 1)
+   rotated = cv2.warpAffine(img_rgb, rot_matrix, (w, h))
+   
+   # -------- Scaling --------
+   # Resize image to 60% of original size
+   scaled = cv2.resize(img_rgb, None, fx=0.6, fy=0.6)
+   
+   # -------- Translation --------
+   # Shift image by (50, 30) pixels
+   trans_matrix = np.float32([[1, 0, 50], [0, 1, 30]])
+   translated = cv2.warpAffine(img_rgb, trans_matrix, (w, h))
+   
+   # Display transformed images
+   plt.figure(figsize=(10,4))
+   
+   plt.subplot(1,4,1)
+   plt.imshow(img_rgb)
+   plt.title("Original")
+   plt.axis('off')
+   
+   plt.subplot(1,4,2)
+   plt.imshow(rotated)
+   plt.title("Rotated 30°")
+   plt.axis('off')
+   
+   plt.subplot(1,4,3)
+   plt.imshow(scaled)
+   plt.title("Scaled (0.6)")
+   plt.axis('off')
+   
+   plt.subplot(1,4,4)
+   plt.imshow(translated)
+   plt.title("Translated (50,30)")
+   plt.axis('off')
+   
+   plt.show()
 ```
 
 ---
