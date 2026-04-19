@@ -9,6 +9,7 @@
 - [Q1-GIS -More Detailed answer](./Q1-GIS%20-More%20Detailed%20answer.md)
 - [Q2. Map Scale and Spatial Resolution + Numerical](./Q2.%20Map%20Scale%20and%20Spatial%20Resolution%20+%20Numerical.md)
 - [Raster vs Vector Data Model + Raster Overlay Operations](./Raster%20vs%20Vector%20Data%20Model%20+%20Raster%20Overlay%20Operations.md)
+- [RGIS - Background map](./RGIS%20-%20Background%20map.md)
 - [RGIS-LAB-1-Outline](./RGIS-LAB-1-Outline.md)
 - [Scale in satellite  image Interpretation](./Scale%20in%20satellite%20%20image%20Interpretation.md)
 - [Steps in Remote Sensing and Diff bet active and passive sensor](./Steps%20in%20Remote%20Sensing%20and%20Diff%20bet%20active%20and%20passive%20sensor.md)

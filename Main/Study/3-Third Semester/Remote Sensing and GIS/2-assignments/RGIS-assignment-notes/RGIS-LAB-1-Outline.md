@@ -1,196 +1,172 @@
-
-# ✅ **A. Study Area Selection**
-
-Choose:
-
-* **Tribhuvan University, Kirtipur** (recommended)
-  OR
-* Any small area (your college, ward, etc.)
+Good question — this is a **full practical QGIS assignment**, and the best way is to follow **step-by-step videos** for each part (a → e). I’ll give you **exact YouTube tutorials + how each matches your question** so you don’t get confused.
 
 ---
 
-# ✅ **B. Data Acquisition (3 Sources REQUIRED)**
+# 🎥 1. Full Beginner QGIS Workflow (START HERE)
 
-## 🔹 1. GPS / Google Earth Points
+This covers basics like importing data, layers, attribute tables, and map layout.
 
-👉 Open **Google Earth**
+[QGIS Full Course for Beginners](https://www.youtube.com/watch?v=SovdBaus7pM&utm_source=chatgpt.com)
 
-* Mark points:
+👉 Why this is important:
 
-  * Gate
-  * Library
-  * Canteen
-  * Playground
-  * Department
-* Save as **KML file**
+* Shows **adding vector layers + basemap**
+* Shows **attribute tables + editing**
+* Shows **map layout (your part e)** ([YouTube][1])
 
 ---
 
-## 🔹 2. Remote Sensing Image
+# 🎥 2. GPS / Google Earth Point Collection (Part a – Points)
 
-Options:
+[Using Google Earth Images in QGIS](https://www.youtube.com/watch?v=DvuTUtmpPU4&utm_source=chatgpt.com)
 
-* Use satellite basemap directly in QGIS
-  OR
-* Download from:
+👉 What you learn:
 
-  * Sentinel Hub
-  * Landsat
-  * Google Satellite
-
-👉 Easiest: Use **XYZ Tiles (Google Satellite in QGIS)**
+* How to take points from Google Earth (placemarks)
+* Import into QGIS (KML → shapefile)
+* This satisfies:
+  ✔ GPS / Google Earth digitized points
 
 ---
 
-## 🔹 3. Existing Vector Data (OSM)
+# 🎥 3. Satellite Data (Sentinel / Landsat) (Part a – Remote Sensing)
 
-👉 In QGIS:
+[Download Sentinel/Landsat Data in QGIS (SCP Plugin)](https://www.youtube.com/watch?v=lP0gb4dS1Fg&utm_source=chatgpt.com)
 
-* Go to **Plugins → Manage Plugins**
-* Install: **QuickOSM**
-* Search:
+👉 What you learn:
 
-  * Key: `highway` (for roads)
-  * Area: Kirtipur
-
----
-
-# ✅ **C. Import Data into QGIS**
-
-### Steps:
-
-1. Open QGIS
-2. Drag and drop:
-
-   * KML file (points)
-3. Add basemap:
-
-   * Browser → XYZ Tiles → OpenStreetMap / Google
-4. Add OSM data (roads)
+* Download Sentinel/Landsat imagery
+* Load into QGIS as raster
+  ✔ This is your **remote sensing data source** ([YouTube][2])
 
 ---
 
-# ✅ **D. Create Vector Layers**
+# 🎥 4. Adding Google Satellite Basemap (Easy Alternative)
 
-## 🔹 1. Point Layer
+[Add Google Satellite Layer in QGIS](https://www.youtube.com/watch?v=mVVcxtBFZkA&utm_source=chatgpt.com)
 
-* Layer → Create Layer → New Shapefile Layer
-* Geometry: **Point**
-* Add fields:
+👉 Why useful:
 
-  * Name
-  * Type
-  * Description
-  * Latitude
-  * Longitude
-
-👉 Add points manually using **Toggle Editing**
+* Faster than downloading satellite data
+* Can use as **background layer**
+  ✔ Good for visualization and digitizing
 
 ---
 
-## 🔹 2. Line Layer (Road Network)
+# 🎥 5. Creating Point, Line, Polygon Layers (Part c)
 
-* Geometry: **Line**
-* Draw roads in your area
+[Create Point, Line and Polygon Layers in QGIS](https://www.youtube.com/watch?v=a-h5sbkX1nc&utm_source=chatgpt.com)
 
----
+👉 This directly matches:
 
-## 🔹 3. Polygon Layer (Boundary / Land Use)
-
-* Geometry: **Polygon**
-* Draw:
-
-  * University boundary
-    OR
-  * Land use areas
+* ✔ Points → important locations
+* ✔ Lines → road network
+* ✔ Polygon → boundary / land use
 
 ---
 
-# ✅ **E. Attribute Table (VERY IMPORTANT)**
+# 🎥 6. Create Study Area Boundary (Polygon)
 
-Each layer must have **at least 5 fields**
+[Create Study Area Shapefile in QGIS](https://www.youtube.com/watch?v=Y2WoZmNs-kI&utm_source=chatgpt.com)
 
-### Example (Point Layer):
+👉 Helps with:
 
-| Name    | Type     | Category  | Description  | ID |
-| ------- | -------- | --------- | ------------ | -- |
-| Library | Building | Education | Main library | 1  |
-
-👉 Open attribute table → Add values
+* Drawing **Tribhuwan University / Kirtipur boundary**
+* Creating polygon layer
 
 ---
 
-# ✅ **F. Styling (Make Map Attractive)**
+# 🎥 7. Final Map Layout (Part e)
 
-* Points → Different icons
-* Roads → Colored lines
-* Polygon → Transparent fill
+[How to Make a Map in QGIS 3 (Layout, Legend, Scale)](https://www.youtube.com/watch?v=OlDGEVhpmo0&utm_source=chatgpt.com)
 
----
+👉 Covers:
 
-# ✅ **G. Create Map Layout (FINAL OUTPUT)**
-
-👉 Go to:
-
-* **Project → New Print Layout**
-
-Add:
-
-* Map
-* Title → *“GIS Map of Tribhuvan University”*
+* Print layout
 * Legend
-* Scale bar
 * North arrow
+* Export map
+  ✔ This is your final output
 
 ---
 
-# ✅ **H. Export**
+# 🧠 How to Combine Everything (Your Assignment Flow)
 
-* Export as **PDF or Image**
-* Take screenshots of:
+Follow this exact order 👇
 
-  * Layers panel
-  * Attribute table
-  * Map layout
+### ✅ Step a: Data Collection
 
----
-
-# 📄 **What to Submit in PDF**
-
-### Include:
-
-1. Title page
-2. Short description (5–6 lines)
-3. Screenshots:
-
-   * Data sources
-   * Layers
-   * Attribute table
-   * Final map
-4. Final map layout
+* Points → Google Earth (video 2)
+* Satellite → Sentinel or Google (video 3 or 4)
+* Vector → OpenStreetMap (can download from Geofabrik)
 
 ---
 
-# ⚠️ **Common Mistakes (Avoid These)**
+### ✅ Step b: Import into QGIS
 
-❌ Less than 3 data sources
-❌ No attribute fields
-❌ Missing legend/scale/north arrow
-❌ No map title
-❌ No screenshots
+* Add:
 
----
-
-# 🎯 **Simple Workflow (Write in Assignment)**
-
-```
-Data Collection → Data Import → Layer Creation → Attribute Table → Analysis → Map Layout → Output
-```
+  * Raster (satellite)
+  * Vector (roads)
+  * KML (points)
 
 ---
 
-# ✅ **Conclusion (Write this)**
+### ✅ Step c: Create Layers
 
-QGIS helps in integrating spatial data from different sources, creating layers, performing analysis, and producing maps for visualization.
+* New shapefile:
+
+  * Point layer → locations
+  * Line layer → roads
+  * Polygon → boundary
 
 ---
+
+### ✅ Step d: Attribute Table (VERY IMPORTANT)
+
+Add fields like:
+
+* Name
+* Type
+* ID
+* Description
+* Area/Length
+
+(You’ll see this in Video 1)
+
+---
+
+### ✅ Step e: Map Layout
+
+* Add:
+
+  * Title
+  * Legend
+  * Scale bar
+  * North arrow
+* Export as PDF/PNG
+
+---
+
+# 💡 Pro Tip (Important for Exam/Submission)
+
+Your teacher expects:
+
+* ✔ 3 data sources used
+* ✔ 3 geometry types (point, line, polygon)
+* ✔ Attribute table with ≥5 fields
+* ✔ Final map layout
+
+---
+
+# 🚀 If you want
+
+I can give you:
+
+* A **ready-made step-by-step (click-by-click) guide**
+* Or a **sample project for Tribhuwan University area**
+
+Just tell me 👍
+
+[1]: https://www.youtube.com/watch?v=SovdBaus7pM&utm_source=chatgpt.com "Learn GIS - QGIS Full Course for Beginners"
+[2]: https://www.youtube.com/watch?v=lP0gb4dS1Fg&utm_source=chatgpt.com "Step-by-Step Guide: How to download Sentinel, Landsat ..."

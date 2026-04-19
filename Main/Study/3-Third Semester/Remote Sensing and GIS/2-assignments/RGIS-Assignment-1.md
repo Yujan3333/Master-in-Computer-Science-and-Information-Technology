@@ -33,7 +33,7 @@ d.	Create attribute tables and add at least 5 fields
 e.	Prepare a map layout showing all layers
 
 - [RGIS-LAB-1-Outline](RGIS-assignment-notes/RGIS-LAB-1-Outline.md)
-
+- [RGIS - Background map](RGIS-assignment-notes/RGIS%20-%20Background%20map.md)
 ![](../../../../../Images/Third_Sem_Images/RGIS-Assignment.pdf)
 
 ---
