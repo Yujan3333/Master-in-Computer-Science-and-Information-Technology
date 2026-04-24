@@ -46,7 +46,7 @@ Two theme display (point and poly).
 Convert poly to point using geometry tool - Centroid (will get center point of each poly)
 Merge intial point feature and new point from poly using merge tool
 To solve above questions, please use municipal boundary map and road network map.)
-
+- [RGIS-Lab-2](RGIS-assignment-notes/RGIS-Lab-2.md)
 
 
 ![](../../../../../Images/Third_Sem_Images/RGIS%20Assignment-2.pdf)
