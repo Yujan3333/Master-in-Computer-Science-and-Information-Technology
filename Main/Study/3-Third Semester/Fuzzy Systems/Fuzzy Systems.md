@@ -7,6 +7,14 @@
 		- **[FS-U2-notes](./1-Units/U2/FS-U2-notes/FS-U2-notes.md)**
 		- [FS-Unit2](./1-Units/U2/FS-Unit2.md)
 	- **U3**
+		- **FS-U3-notes**
+			- [Actual Gaussian Formula- Numerical in detail](./1-Units/U3/FS-U3-notes/Actual%20Gaussian%20Formula-%20Numerical%20in%20detail.md)
+			- [Bell Function - Numerical in detail](./1-Units/U3/FS-U3-notes/Bell%20Function%20-%20Numerical%20in%20detail.md)
+			- [How are parameters chosen here](./1-Units/U3/FS-U3-notes/How%20are%20parameters%20chosen%20here.md)
+			- [More detailed solution](./1-Units/U3/FS-U3-notes/More%20detailed%20solution.md)
+			- [Numerical for Gaussian function - Bell function - Sigmoid function](./1-Units/U3/FS-U3-notes/Numerical%20for%20Gaussian%20function%20-%20Bell%20function%20-%20Sigmoid%20function.md)
+			- [Sigmoid Function - Numerical in detail](./1-Units/U3/FS-U3-notes/Sigmoid%20Function%20-%20Numerical%20in%20detail.md)
+		- [FS-Unit 3](./1-Units/U3/FS-Unit%203.md)
 - **2-assignments**
 	- **FS-assignments**
 		- [Example- Fuzzy relation program](./2-assignments/FS-assignments/Example-%20Fuzzy%20relation%20program.md)
