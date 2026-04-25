@@ -50,3 +50,7 @@ To solve above questions, please use municipal boundary map and road network map
 
 
 ![](../../../../../Images/Third_Sem_Images/RGIS%20Assignment-2.pdf)
+
+---
+## Answer
+![](../../../../../Images/Third_Sem_Images/Answer-RGIS-Assignment-2.pdf)

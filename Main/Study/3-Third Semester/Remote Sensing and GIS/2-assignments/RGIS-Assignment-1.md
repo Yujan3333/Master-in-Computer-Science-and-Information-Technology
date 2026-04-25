@@ -37,3 +37,6 @@ e.	Prepare a map layout showing all layers
 ![](../../../../../Images/Third_Sem_Images/RGIS-Assignment.pdf)
 
 ---
+
+## Answer
+![](../../../../../Images/Third_Sem_Images/Answer-RGIS-Assignment-1.pdf)
