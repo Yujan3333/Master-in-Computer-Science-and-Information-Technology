@@ -255,6 +255,19 @@
                         }
                       ],
                       "title": "Fuzzy Systems"
+                    },
+                    {
+                      "type": "group",
+                      "ctime": 1777179672112,
+                      "items": [
+                        {
+                          "type": "file",
+                          "ctime": 1777179672112,
+                          "path": "Main/Study/3-Third Semester/Principles of Programming Languages/Principles of Programming Languages.md",
+                          "subpath": "#^-"
+                        }
+                      ],
+                      "title": "Principles of Programming Languages"
                     }
                   ],
                   "title": "3-Third Semester"
