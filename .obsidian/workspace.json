@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "76c2c042035f6c9b",
+        "id": "b796907dd104918f",
         "type": "tabs",
         "children": [
           {
-            "id": "46cacfefaf039f9c",
+            "id": "0f6f30b1c9761f18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "FS-Unit1"
+              "title": "New tab"
             }
           }
         ]
@@ -134,13 +129,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FS-Unit1"
+              "title": "Outline"
             }
           },
           {
@@ -184,8 +178,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46cacfefaf039f9c",
+  "active": "0f6f30b1c9761f18",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-U1-notes/Cylindrical Extension.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/FS-Unit 3.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-U1-notes/Characteristics function vs Membership Function.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-Unit2.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/FS-U3-notes/Numerical for Gaussian function - Bell function - Sigmoid function.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/ACrypto-Unit-1 Overview.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/ACrypto-Unit-2 Overview.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
@@ -211,12 +211,6 @@
     "Main/Study/2-Second Semester/WSA/WSA.md",
     "Main/Study/2-Second Semester/WSA/2_Old Question/WSA Que.md",
     "Main/Study/2-Second Semester/WSA/2_Old Question/WSA Que Folder/2082-My.md",
-    "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2082-My.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Programming Paradigms.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Attributes of a Good Language.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/PPL-U4-notes.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-U3-notes.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/PPL-U2-notes.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U2-notes",
