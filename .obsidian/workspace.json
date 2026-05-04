@@ -11,10 +11,15 @@
             "id": "0f6f30b1c9761f18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-Unit-1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "IPPR-Unit-1"
             }
           }
         ]
@@ -129,12 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-Unit-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of IPPR-Unit-1"
             }
           },
           {
@@ -180,6 +186,19 @@
   },
   "active": "0f6f30b1c9761f18",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-U1-notes/IPPR-U1-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U2-notes/IPPR-U2-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-Unit-2.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U2-notes/IPPR-U1-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U2-notes",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-Unit-1.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U1-notes/IPPR-U1-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U1-notes",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-Unit-1.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-U1-notes",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-U1-notes/Cylindrical Extension.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/FS-Unit 3.md",
@@ -203,19 +222,6 @@
     "Main/Study/3-Third Semester/Advanced Cyptography/Advanced Cyptography.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Language Standardization.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.2 Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.1-Overview.md",
-    "Main/Study/2-Second Semester/WSA/WSA.md",
-    "Main/Study/2-Second Semester/WSA/2_Old Question/WSA Que.md",
-    "Main/Study/2-Second Semester/WSA/2_Old Question/WSA Que Folder/2082-My.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U2-notes",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U1-notes",
     "Images/Third_Sem_Images/Expanded for this part-u3.png",
     "Images/Third_Sem_Images/Assignment-5-expo.png",
     "Images/Third_Sem_Images/Here how e value becomes 1 in 4.png",
