@@ -13,16 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-Unit-1.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IPPR-Unit-1"
+              "title": "RGIS-U1"
+            }
+          },
+          {
+            "id": "78a4e2324ed09b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n/Supervised vs Unsupervised in Image.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Supervised vs Unsupervised in Image"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-Unit-1.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n/Supervised vs Unsupervised in Image.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IPPR-Unit-1"
+              "title": "Outline of Supervised vs Unsupervised in Image"
             }
           },
           {
@@ -184,8 +200,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f6f30b1c9761f18",
+  "active": "78a4e2324ed09b7a",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n/Supervised vs Unsupervised in Image.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-Unit-1.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-U1-notes/IPPR-U1-notes.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U2-notes/IPPR-U2-notes.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-Unit-2.md",
@@ -194,7 +216,6 @@
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-Unit-1.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U1-notes/IPPR-U1-notes.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U1-notes",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-Unit-1.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-U1-notes",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1",
@@ -212,16 +233,11 @@
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/ACrypto-U-2-notes.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Permutation Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Hill Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Substitution Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Affine Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/One-Time Pad.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/ACrypto-U-1-notes.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/Advanced Cyptography.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1",
     "Images/Third_Sem_Images/Expanded for this part-u3.png",
     "Images/Third_Sem_Images/Assignment-5-expo.png",
     "Images/Third_Sem_Images/Here how e value becomes 1 in 4.png",
