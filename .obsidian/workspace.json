@@ -4,41 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "b796907dd104918f",
+        "id": "6b94f30bdf719bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "0f6f30b1c9761f18",
+            "id": "2df1b33ed2037da2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/Format-1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RGIS-U1"
+              "title": "Format-1"
             }
           },
           {
-            "id": "78a4e2324ed09b7a",
+            "id": "5361a5b2c5cac428",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n/Supervised vs Unsupervised in Image.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/Border or marginal Information.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Supervised vs Unsupervised in Image"
+              "title": "Border or marginal Information"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n/Supervised vs Unsupervised in Image.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/Format-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Supervised vs Unsupervised in Image"
+              "title": "Outline of Format-1"
             }
           },
           {
@@ -200,10 +199,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78a4e2324ed09b7a",
+  "active": "2df1b33ed2037da2",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n/Supervised vs Unsupervised in Image.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/Presentation.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/Border or marginal Information.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/Format-1.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/RGIS-ppt-n/RGIS-ppt-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/RGIS-ppt-n",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n/Supervised vs Unsupervised in Image.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-Unit-1.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1",
@@ -219,7 +224,6 @@
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-U1-notes",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-U1-notes/Cylindrical Extension.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/FS-Unit 3.md",
@@ -232,12 +236,7 @@
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-Unit-2.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/ACrypto-U-2-notes.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Permutation Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Hill Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Substitution Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Affine Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/One-Time Pad.md",
     "Images/Third_Sem_Images/Expanded for this part-u3.png",
     "Images/Third_Sem_Images/Assignment-5-expo.png",
     "Images/Third_Sem_Images/Here how e value becomes 1 in 4.png",

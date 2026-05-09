@@ -8,5 +8,10 @@
 	- [RGIS-Assignment-1](./2-assignments/RGIS-Assignment-1.md)
 	- [RGIS-Assignment-2](./2-assignments/RGIS-Assignment-2.md)
 	- **[RGIS-assignment-notes](./2-assignments/RGIS-assignment-notes/RGIS-assignment-notes.md)**
+- **3-Presentation**
+	- [Border or marginal Information](./3-Presentation/Border%20or%20marginal%20Information.md)
+	- [Format-1](./3-Presentation/Format-1.md)
+	- [Presentation](./3-Presentation/Presentation.md)
+	- **[RGIS-ppt-n](./3-Presentation/RGIS-ppt-n/RGIS-ppt-n.md)**
 
 %% End Waypoint %%
