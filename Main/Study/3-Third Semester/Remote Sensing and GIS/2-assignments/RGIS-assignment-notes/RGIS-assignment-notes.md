@@ -1,7 +1,9 @@
 %% Begin Waypoint %%
 - [Core Functions of GIS + GPS & Remote Sensing + Data Integration](./Core%20Functions%20of%20GIS%20+%20GPS%20&%20Remote%20Sensing%20+%20Data%20Integration.md)
 - [Difference Raster and Vector Model](./Difference%20Raster%20and%20Vector%20Model.md)
+- [Differences Between SAR and RAR in RGIS](./Differences%20Between%20SAR%20and%20RAR%20in%20RGIS.md)
 - [Digital Image Processing Functions](./Digital%20Image%20Processing%20Functions.md)
+- [Hyperspectral Image vs Multispectral Image in RGIS](./Hyperspectral%20Image%20vs%20Multispectral%20Image%20in%20RGIS.md)
 - [Image Enhancement Techniques in Digital Image Processing](./Image%20Enhancement%20Techniques%20in%20Digital%20Image%20Processing.md)
 - [Image preprocessing Techniques](./Image%20preprocessing%20Techniques.md)
 - [Point in polygon and line in polygon in figure](./Point%20in%20polygon%20and%20line%20in%20polygon%20in%20figure.md)
