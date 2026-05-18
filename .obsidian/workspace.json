@@ -134,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Differences Between SAR and RAR in RGIS.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Differences Between SAR and RAR in RGIS"
+              "title": "Outline of RGIS-Assignment-3"
             }
           },
           {
@@ -162,7 +162,8 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,8 +186,9 @@
   },
   "active": "b917cdb16b0e1572",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/DN-Radiance-Reflectance.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Role of Remote Sensing to monitor land use.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-3.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/DN-Radiance-Reflectance.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Histogram of Image data- focal cell in neighborhood operation.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-2.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-1.md",
@@ -220,7 +222,6 @@
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-U1-notes/Cylindrical Extension.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/FS-Unit 3.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-U1-notes/Characteristics function vs Membership Function.md",
     "Images/Third_Sem_Images/Expanded for this part-u3.png",
     "Images/Third_Sem_Images/Assignment-5-expo.png",
     "Images/Third_Sem_Images/Here how e value becomes 1 in 4.png",

@@ -20,6 +20,7 @@
 - [RGIS-Lab-2-Further-PLUS](./RGIS-Lab-2-Further-PLUS.md)
 - [RGIS-Lab-2-Futher](./RGIS-Lab-2-Futher.md)
 - [RGIS-Lab-2](./RGIS-Lab-2.md)
+- [Role of Remote Sensing to monitor land use](./Role%20of%20Remote%20Sensing%20to%20monitor%20land%20use.md)
 - [Scale in satellite  image Interpretation](./Scale%20in%20satellite%20%20image%20Interpretation.md)
 - [Steps in Remote Sensing and Diff bet active and passive sensor](./Steps%20in%20Remote%20Sensing%20and%20Diff%20bet%20active%20and%20passive%20sensor.md)
 - [Visual Image Interpretation](./Visual%20Image%20Interpretation.md)

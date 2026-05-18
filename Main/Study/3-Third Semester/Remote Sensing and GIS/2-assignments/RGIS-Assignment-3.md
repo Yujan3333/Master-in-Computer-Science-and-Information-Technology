@@ -18,3 +18,21 @@
 
 6. What do you understand by digital number, radiance and reflectance? How can we convert the DNs into radiance and radiance into reflectance?
 - [DN-Radiance-Reflectance](RGIS-assignment-notes/DN-Radiance-Reflectance.md) 
+
+7.	Explain role of remote sensing to monitor land-use changes. How can we use remote sensing for flood monitoring?
+- [Role of Remote Sensing to monitor land use](RGIS-assignment-notes/Role%20of%20Remote%20Sensing%20to%20monitor%20land%20use.md)
+
+8.	Download a free 30 m spatial resolution satellite image (e.g., Landsat data) for a selected study area and perform basic image processing and classification using QGIS. The task should include image enhancement, spatial filtering, and land cover classification.
+Tasks to Perform:
+	i.	Download a 30 m resolution Landsat image (e.g., Landsat 8/9) from USGS EarthExplorer or any open data source for your chosen area. 
+	ii.	Load the bands in QGIS and create a False Color Composite (FCC). 
+	iii.	Apply at least two image enhancement techniques (e.g., contrast stretching, histogram equalization). 
+	iv.	Apply spatial filters (e.g., smoothing/low-pass and edge detection/high-pass filter) and compare the outputs. 
+	v.	Perform supervised or unsupervised classification to generate land use/land cover classes. 
+	vi.	Create a final map layout showing: 
+		o	Original image 
+		o	Enhanced image 
+		o	Filtered image 
+		o	Classified map 
+	vii.	Briefly interpret the results and discuss how filtering affected spatial frequency and classification accuracy.
+
