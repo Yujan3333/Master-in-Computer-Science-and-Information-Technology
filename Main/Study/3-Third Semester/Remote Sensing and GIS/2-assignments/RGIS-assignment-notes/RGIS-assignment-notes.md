@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - [Airborne radars- Airborne radars vs Space born radars](./Airborne%20radars-%20Airborne%20radars%20vs%20Space%20born%20radars.md)
+- [Assignment3-Lab](./Assignment3-Lab.md)
 - [Core Functions of GIS + GPS & Remote Sensing + Data Integration](./Core%20Functions%20of%20GIS%20+%20GPS%20&%20Remote%20Sensing%20+%20Data%20Integration.md)
 - [Difference Raster and Vector Model](./Difference%20Raster%20and%20Vector%20Model.md)
 - [Differences Between SAR and RAR in RGIS](./Differences%20Between%20SAR%20and%20RAR%20in%20RGIS.md)
@@ -23,6 +24,8 @@
 - [Role of Remote Sensing to monitor land use](./Role%20of%20Remote%20Sensing%20to%20monitor%20land%20use.md)
 - [Scale in satellite  image Interpretation](./Scale%20in%20satellite%20%20image%20Interpretation.md)
 - [Steps in Remote Sensing and Diff bet active and passive sensor](./Steps%20in%20Remote%20Sensing%20and%20Diff%20bet%20active%20and%20passive%20sensor.md)
+- [Understanding the flow of the lab](./Understanding%20the%20flow%20of%20the%20lab.md)
 - [Visual Image Interpretation](./Visual%20Image%20Interpretation.md)
+- [What is bands](./What%20is%20bands.md)
 
 %% End Waypoint %%
