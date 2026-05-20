@@ -24,7 +24,6 @@
 - [Role of Remote Sensing to monitor land use](./Role%20of%20Remote%20Sensing%20to%20monitor%20land%20use.md)
 - [Scale in satellite  image Interpretation](./Scale%20in%20satellite%20%20image%20Interpretation.md)
 - [Steps in Remote Sensing and Diff bet active and passive sensor](./Steps%20in%20Remote%20Sensing%20and%20Diff%20bet%20active%20and%20passive%20sensor.md)
-- [Understanding the flow of the lab](./Understanding%20the%20flow%20of%20the%20lab.md)
 - [Visual Image Interpretation](./Visual%20Image%20Interpretation.md)
 - [What is bands](./What%20is%20bands.md)
 

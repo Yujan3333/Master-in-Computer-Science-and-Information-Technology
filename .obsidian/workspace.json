@@ -8,52 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "98616bb2f39c6b20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/Lab Done By Me-Lab4.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lab Done By Me-Lab4"
-            }
-          },
-          {
-            "id": "851ce6765940179c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Understanding the flow of the lab.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Understanding the flow of the lab"
-            }
-          },
-          {
             "id": "63a845d8550c4e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Assignment3-Lab.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Assignment3-Lab"
+              "title": "RGIS-Assignment-3"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Assignment3-Lab.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Assignment3-Lab"
+              "title": "Outline of RGIS-Assignment-3"
             }
           },
           {
@@ -217,6 +186,7 @@
   },
   "active": "63a845d8550c4e20",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Assignment3-Lab.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Understanding the flow of the lab.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/Lab Done By Me-Lab4.md",
     "Images/Third_Sem_Images/Lab Done By Me-Lab4-2.png",
@@ -224,7 +194,6 @@
     "Images/Third_Sem_Images/Lab Done By Me-Lab4-blue.png",
     "Images/Third_Sem_Images/Lab Done By Me-Lab4-green.png",
     "Images/Third_Sem_Images/Lab Done By Me-Lab4.png",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Assignment3-Lab.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-3.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-4.md",
     "Images/Third_Sem_Images/Lab Done By Me.png",

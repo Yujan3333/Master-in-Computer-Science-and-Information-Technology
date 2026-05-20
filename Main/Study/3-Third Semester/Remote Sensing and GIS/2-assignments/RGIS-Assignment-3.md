@@ -37,5 +37,6 @@ Tasks to Perform:
 	vii.	Briefly interpret the results and discuss how filtering affected spatial frequency and classification accuracy.
 
 - [Assignment3-Lab](RGIS-assignment-notes/Assignment3-Lab.md)
+- 
 - [What is bands](RGIS-assignment-notes/What%20is%20bands.md)
 - Landsat 8/9 is satellite here!
