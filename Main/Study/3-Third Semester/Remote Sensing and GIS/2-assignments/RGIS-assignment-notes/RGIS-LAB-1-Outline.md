@@ -1,4 +1,3 @@
-Good question — this is a **full practical QGIS assignment**, and the best way is to follow **step-by-step videos** for each part (a → e). I’ll give you **exact YouTube tutorials + how each matches your question** so you don’t get confused.
 
 ---
 

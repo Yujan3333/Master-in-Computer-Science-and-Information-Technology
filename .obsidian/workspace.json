@@ -4,37 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1724cefb220a362b",
+        "id": "9e9175cc3eaf09ad",
         "type": "tabs",
         "children": [
           {
-            "id": "acdf04104d23e3e1",
+            "id": "63a929e489a3c170",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/FS-Numerical.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "FS-Numerical"
-            }
-          },
-          {
-            "id": "02f2d3a36844fc8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/FS-assignments/Scaling and Clipping Part Explained.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Scaling and Clipping Part Explained"
+              "title": "New tab"
             }
           }
         ]
@@ -120,12 +100,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Study/2-Second Semester/Compiler Optimization/3_Old Questions/2081.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2081"
+              "title": "Outgoing links"
             }
           },
           {
@@ -149,13 +128,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/FS-Numerical.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FS-Numerical"
+              "title": "Outline"
             }
           },
           {
@@ -198,10 +176,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "63a929e489a3c170",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/FS-assignments/Scaling and Clipping Part Explained.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Diff types of image resolutions.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-5.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Electromagnetic Spectrum in Remote Sensing.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Relief Displacement.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-1.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/RGIS-Lab-5.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/RGIS-LAB-1-Outline.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/RGIS - Background map.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/FS-Numerical.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/FS-assignments/Scaling and Clipping Part Explained.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-4.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Thermal Remote Sensing-Adv microwave.md",
     "Main/Template/Emoji/7.md",
@@ -228,14 +214,6 @@
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/What is bands.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Role of Remote Sensing to monitor land use.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/DN-Radiance-Reflectance.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Histogram of Image data- focal cell in neighborhood operation.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-2.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-1.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Airborne radars- Airborne radars vs Space born radars.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Differences Between SAR and RAR in RGIS.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Hyperspectral Image vs Multispectral Image in RGIS.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/Presentation.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/RGIS-ppt-n/Format-1.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/RGIS-ppt-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n",

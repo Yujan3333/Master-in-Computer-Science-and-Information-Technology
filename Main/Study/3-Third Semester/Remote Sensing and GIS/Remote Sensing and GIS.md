@@ -9,6 +9,7 @@
 	- [RGIS-Assignment-2](./2-assignments/RGIS-Assignment-2.md)
 	- [RGIS-Assignment-3](./2-assignments/RGIS-Assignment-3.md)
 	- [RGIS-Assignment-4](./2-assignments/RGIS-Assignment-4.md)
+	- [RGIS-Assignment-5](./2-assignments/RGIS-Assignment-5.md)
 	- **[RGIS-assignment-notes](./2-assignments/RGIS-assignment-notes/RGIS-assignment-notes.md)**
 - **3-Presentation**
 	- [Presentation](./3-Presentation/Presentation.md)
