@@ -11,13 +11,64 @@
             "id": "63a929e489a3c170",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ACrypto-Unit-1"
+            }
+          },
+          {
+            "id": "e4b5e7b09c38e8cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Affine Cipher.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Affine Cipher"
+            }
+          },
+          {
+            "id": "3bee8b66fd57a23c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Vigenere Cipher"
+            }
+          },
+          {
+            "id": "10430b8d06d02ccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "AC-Midterm"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,12 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Affine Cipher.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Affine Cipher"
             }
           },
           {
@@ -155,7 +207,8 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,8 +229,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63a929e489a3c170",
+  "active": "e4b5e7b09c38e8cd",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Substitution Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Affine Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Decryption Part - Multiplicative Inverse of affine cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/coprime.md",
+    "Images/Third_Sem_Images/Affine Cipher.png",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Permutation in Substitution Cipher.md",
+    "Images/Third_Sem_Images/Substitution Cipher.png",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/ACrypto-Unit-1 Overview.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Shanon Theory.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Evaluation of Cryptosystems and Entropy.md",
+    "Images/Third_Sem_Images/Shanon Theory-Diffusion.png",
+    "Images/Third_Sem_Images/Shanon Theory-confusion.png",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Playfair Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Decipher Process.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC - Old Questions.md",
+    "Images/Third_Sem_Images/AC-Midterm.jpeg",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Old Que.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que",
+    "Main/Study/3-Third Semester/Advanced Cyptography/Advanced Cyptography.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Diff types of image resolutions.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-5.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Electromagnetic Spectrum in Remote Sensing.md",
@@ -188,32 +264,11 @@
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/RGIS - Background map.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/FS-Numerical.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/2-assignments/FS-assignments/Scaling and Clipping Part Explained.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-4.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Thermal Remote Sensing-Adv microwave.md",
-    "Main/Template/Emoji/7.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Vertical aerial photograph Numerical.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Diff bet Photograph and Image- Num.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Techniques available for 3D viewing in digital photogrammetry.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Diff bet Photogrammetry and Lidar- DEM DTM.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Image Resolutions types-IFOV Swaths Nadir.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-3.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Assignment3-Lab.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Understanding the flow of the lab.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/Lab Done By Me-Lab4.md",
     "Images/Third_Sem_Images/Lab Done By Me-Lab4-2.png",
     "Images/Third_Sem_Images/Lab Done By Me-Lab4-1.png",
     "Images/Third_Sem_Images/Lab Done By Me-Lab4-blue.png",
     "Images/Third_Sem_Images/Lab Done By Me-Lab4-green.png",
     "Images/Third_Sem_Images/Lab Done By Me-Lab4.png",
-    "Images/Third_Sem_Images/Lab Done By Me.png",
-    "Images/Third_Sem_Images/Assignment3-Lab-3.png",
-    "Images/Third_Sem_Images/Assignment3-Lab.png",
-    "Images/Third_Sem_Images/Assignment3-Lab-2.png",
-    "Images/Third_Sem_Images/Assignment3-Lab-1.png",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/RADAR working and Diff between range resolution and azimuth resolution of radar.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/What is bands.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Role of Remote Sensing to monitor land use.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/DN-Radiance-Reflectance.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/RGIS-ppt-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n",
@@ -222,8 +277,6 @@
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U2-notes",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U1-notes",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-U1-notes",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"

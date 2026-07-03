@@ -14,5 +14,8 @@
 		- [Stream Cipher-LFSR-Autokey Cipher](./2-Assignments/AC-Assignments/Stream%20Cipher-LFSR-Autokey%20Cipher.md)
 	- [Assignment-1](./2-Assignments/Assignment-1.md)
 	- [Assignment-2](./2-Assignments/Assignment-2.md)
+- **3-Questions**
+	- [AC - Old Questions](./3-Questions/AC%20-%20Old%20Questions.md)
+	- **[AC-Old Que](./3-Questions/AC-Old%20Que/AC-Old%20Que.md)**
 
 %% End Waypoint %%

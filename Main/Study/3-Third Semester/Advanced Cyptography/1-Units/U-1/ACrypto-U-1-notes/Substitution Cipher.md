@@ -1,8 +1,12 @@
+#advanced-cryptography 
 ## Substitution Cipher (Detailed Explanation)
 
 A **substitution cipher** is an encryption technique where each letter (or symbol) in the plaintext is **replaced by another letter/symbol** according to a fixed rule.
 
 The positions of letters stay the same, only identities change.
+
+![](../../../../../../../Images/Third_Sem_Images/Substitution%20Cipher.png)
+- [Permutation in Substitution Cipher](Permutation%20in%20Substitution%20Cipher.md)
 
 ---
 
@@ -51,6 +55,8 @@ So:
 # Types of Substitution Cipher
 
 ## 1. Monoalphabetic Substitution Cipher
+
+- Each letter is always replaced by the same unique letter.
 
 Uses **one fixed alphabet mapping** for entire message.
 
@@ -103,6 +109,8 @@ Each letter replaced mathematically.
 ---
 
 ## 4. Polyalphabetic Substitution Cipher
+
+- A plaintext letter may be replaced by different letters depending on its position or the key.
 
 Uses multiple substitution alphabets.
 

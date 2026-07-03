@@ -1,8 +1,11 @@
+#advanced-cryptography 
 ## Affine Cipher (Detailed Explanation)
 
 The **Affine Cipher** is a **monoalphabetic substitution cipher** where each plaintext letter is converted into ciphertext using a mathematical formula.
 
 It is stronger than simple Caesar cipher because it uses **multiplication + addition**.
+
+![](../../../../../../../Images/Third_Sem_Images/Affine%20Cipher.png)
 
 ---
 
@@ -10,11 +13,11 @@ It is stronger than simple Caesar cipher because it uses **multiplication + addi
 
 ## Encryption
 
-C=(aP+b)\bmod 26
+$$C=(aP+b)\bmod 26$$
 
 ## Decryption
 
-P=a^{-1}(C-b)\bmod 26
+$$P=a^{-1}(C-b)\bmod 26$$
 
 Where:
 
@@ -41,7 +44,7 @@ multiply by $a$, then add $b$.
 
 # Important Condition on Key $a$
 
-$a$ must be **coprime with 26**, otherwise decryption fails.
+$a$ must be **[coprime](coprime.md) with 26**, otherwise decryption fails.
 
 Valid values:
 
@@ -66,7 +69,7 @@ Encrypt plaintext: `H`
 
 Apply formula:
 
-C=(5\cdot7+8)\bmod26
+$$C=(5\cdot7+8)\bmod26$$
 
 $35+8=43$
 
@@ -124,7 +127,7 @@ So inverse of 5 is 21.
 
 Now decrypt:
 
-P=21(17-8)\bmod26
+$$P=21(17-8)\bmod26$$
 
 $=21×9=189$
 
@@ -201,3 +204,5 @@ Very weak by modern standards.
 * mod 26
 
 ---
+# CONFUSION?????????
+- [Decryption Part - Multiplicative Inverse of affine cipher](Decryption%20Part%20-%20Multiplicative%20Inverse%20of%20affine%20cipher.md)
