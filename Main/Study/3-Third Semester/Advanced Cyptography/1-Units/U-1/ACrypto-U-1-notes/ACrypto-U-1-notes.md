@@ -1,17 +1,23 @@
 %% Begin Waypoint %%
 - [ACrypto-Unit-1 Overview](./ACrypto-Unit-1%20Overview.md)
 - [Affine Cipher](./Affine%20Cipher.md)
+- [Complete EX Columnar Transposition](./Complete%20EX%20Columnar%20Transposition.md)
+- [Complete Example 2x2 Matrix Hill Cipher](./Complete%20Example%202x2%20Matrix%20Hill%20Cipher.md)
 - [coprime](./coprime.md)
 - [Decipher Process](./Decipher%20Process.md)
 - [Decryption Part - Multiplicative Inverse of affine cipher](./Decryption%20Part%20-%20Multiplicative%20Inverse%20of%20affine%20cipher.md)
+- [Detailed understanding of ex of Columnar Transposition](./Detailed%20understanding%20of%20ex%20of%20Columnar%20Transposition.md)
 - [Evaluation of Cryptosystems and Entropy](./Evaluation%20of%20Cryptosystems%20and%20Entropy.md)
+- [Further explanation of how inverse in Permutation Cipher works](./Further%20explanation%20of%20how%20inverse%20in%20Permutation%20Cipher%20works.md)
 - [Hill Cipher](./Hill%20Cipher.md)
+- [Is vernam cipher and One time pad same](./Is%20vernam%20cipher%20and%20One%20time%20pad%20same.md)
 - [One-Time Pad](./One-Time%20Pad.md)
 - [Permutation Cipher](./Permutation%20Cipher.md)
 - [Permutation in Substitution Cipher](./Permutation%20in%20Substitution%20Cipher.md)
 - [Playfair Cipher](./Playfair%20Cipher.md)
 - [Shanon Theory](./Shanon%20Theory.md)
 - [Substitution Cipher](./Substitution%20Cipher.md)
+- [Types of Permutation Ciphers](./Types%20of%20Permutation%20Ciphers.md)
 - [Vigenere Cipher](./Vigenere%20Cipher.md)
 
 %% End Waypoint %%

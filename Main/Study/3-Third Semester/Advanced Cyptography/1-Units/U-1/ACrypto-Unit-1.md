@@ -15,6 +15,16 @@
 - [Hill Cipher](ACrypto-U-1-notes/Hill%20Cipher.md)
 - [Permutation Cipher](ACrypto-U-1-notes/Permutation%20Cipher.md)
 
+---
+Symmetric Encryption are known as Conventional Encryption and is of 2 types
+- Substitution Techniques
+	- [Substitution Cipher](ACrypto-U-1-notes/Substitution%20Cipher.md)
 - Transposition Techniques
+
+
 ---
 - [Playfair Cipher](ACrypto-U-1-notes/Playfair%20Cipher.md)
+- One time pad
+- Vernam Cipher
+- [Fiestal Cipher Structure](Fiestal%20Cipher%20Structure.md)
+- [Is vernam cipher and One time pad same](ACrypto-U-1-notes/Is%20vernam%20cipher%20and%20One%20time%20pad%20same.md)

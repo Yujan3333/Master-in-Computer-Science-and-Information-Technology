@@ -6,6 +6,8 @@ A **permutation cipher** (also called a **transposition cipher**) is a classical
 
 So unlike substitution ciphers, the alphabet stays the same — only order changes.
 
+![](../../../../../../../Images/Third_Sem_Images/Permutation%20Cipher.png)
+
 ---
 
 # Core Idea
@@ -18,6 +20,9 @@ Example:
 Plaintext: `HELLO`
 After permutation: `LHOEL` (same letters, different order)
 
+![](../../../../../../../Images/Third_Sem_Images/Permutation%20Cipher-ex.png)
+- Here in inverse permutation the *1 is replaced by 3 so in 3 there is 1*
+- [Further explanation of how inverse in Permutation Cipher works](Further%20explanation%20of%20how%20inverse%20in%20Permutation%20Cipher%20works.md)
 ---
 
 # Basic Principle
@@ -41,37 +46,8 @@ Let’s encrypt:
 Plaintext: `ATTACKATDAWN`
 
 ---
+- [Detailed understanding of ex of Columnar Transposition](Detailed%20understanding%20of%20ex%20of%20Columnar%20Transposition.md)
 
-## Step 1: Write in rows
-
-Assume key length = 4
-
-```text id="v3k9p2"
-A T T A
-C K A T
-D A W N
-```
-
----
-
-## Step 2: Assign key order
-
-Key: `3 1 4 2`
-
-So columns are read in order: **1 → 2 → 3 → 4**
-
----
-
-## Step 3: Read column-wise
-
-Column 1 → K A A
-Column 2 → T T A
-Column 3 → A C D
-Column 4 → A T N
-
-Ciphertext:
-
-**KAA TTA ACD ATN → KAATTAACDATN**
 
 ---
 
@@ -116,32 +92,11 @@ Since letters are not changed:
 
 ---
 
-# Types of Permutation Ciphers
+# [Types of Permutation Ciphers](Types%20of%20Permutation%20Ciphers.md)
 
-## 1. Rail Fence Cipher
-
-Writes text in zig-zag pattern:
-
-Example (2 rails):
-
-```
-H   L   O
- E L L
-```
-
-Ciphertext: `HLOELL`
-
----
-
-## 2. Columnar Transposition Cipher
-
-Most common exam type (like example above)
-
----
-
-## 3. Double Transposition
-
-Apply permutation twice (more secure than single pass)
+##### 1. Rail Fence Cipher
+##### 2. Columnar Transposition Cipher
+##### 3. Double Transposition
 
 ---
 

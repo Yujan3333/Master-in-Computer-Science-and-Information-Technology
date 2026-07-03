@@ -14,6 +14,7 @@ Unlike Caesar or Vigenère (one letter at a time), Hill cipher encrypts **multip
 
 Take letters in groups (usually 2 or 3), convert to numbers, multiply by a key matrix, then take mod 26.
 
+- If exact group of letters **cannot be taken then** [Padding Rule](#Padding%20Rule)
 This mixes letters strongly.
 
 ---
@@ -27,6 +28,9 @@ A=0 B=1 C=2 ... Z=25
 ---
 
 # 2×2 Hill Cipher Formula
+
+- [Complete Example 2x2 Matrix Hill Cipher](Complete%20Example%202x2%20Matrix%20Hill%20Cipher.md)
+- [Example 3x3 Matrix In Youtube](https://www.youtube.com/watch?v=qU1kcpuJXaw&list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8&index=16)
 
 ## Encryption
 

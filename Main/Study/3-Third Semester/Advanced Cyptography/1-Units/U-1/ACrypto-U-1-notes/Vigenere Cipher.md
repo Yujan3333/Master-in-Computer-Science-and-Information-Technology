@@ -7,6 +7,8 @@ Unlike Caesar cipher (same shift every letter), Vigenère uses **different shift
 
 This makes it stronger than monoalphabetic ciphers.
 
+![](../../../../../../../Images/Third_Sem_Images/Vigenere%20Cipher.png)
+
 ---
 
 # Main Idea
