@@ -8,6 +8,7 @@
 - [Decryption Part - Multiplicative Inverse of affine cipher](./Decryption%20Part%20-%20Multiplicative%20Inverse%20of%20affine%20cipher.md)
 - [Detailed understanding of ex of Columnar Transposition](./Detailed%20understanding%20of%20ex%20of%20Columnar%20Transposition.md)
 - [Evaluation of Cryptosystems and Entropy](./Evaluation%20of%20Cryptosystems%20and%20Entropy.md)
+- [Fiestal Cipher Structure](./Fiestal%20Cipher%20Structure.md)
 - [Further explanation of how inverse in Permutation Cipher works](./Further%20explanation%20of%20how%20inverse%20in%20Permutation%20Cipher%20works.md)
 - [Hill Cipher](./Hill%20Cipher.md)
 - [Is vernam cipher and One time pad same](./Is%20vernam%20cipher%20and%20One%20time%20pad%20same.md)

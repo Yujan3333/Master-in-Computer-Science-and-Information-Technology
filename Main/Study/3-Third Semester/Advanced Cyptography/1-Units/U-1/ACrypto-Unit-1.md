@@ -26,5 +26,6 @@ Symmetric Encryption are known as Conventional Encryption and is of 2 types
 - [Playfair Cipher](ACrypto-U-1-notes/Playfair%20Cipher.md)
 - One time pad
 - Vernam Cipher
-- [Fiestal Cipher Structure](Fiestal%20Cipher%20Structure.md)
+- [Fiestal Cipher Structure](ACrypto-U-1-notes/Fiestal%20Cipher%20Structure.md)
+- Autokey Cipher
 - [Is vernam cipher and One time pad same](ACrypto-U-1-notes/Is%20vernam%20cipher%20and%20One%20time%20pad%20same.md)
