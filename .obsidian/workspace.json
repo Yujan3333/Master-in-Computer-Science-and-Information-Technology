@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "ACrypto-Unit-1"
             }
-          },
-          {
-            "id": "2c06e57163b461d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "PPL-Unit-1"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PPL-Unit-1"
+              "title": "Outline of ACrypto-Unit-1"
             }
           },
           {
@@ -200,14 +184,19 @@
   },
   "active": "09b920776c3dde42",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Non-Linear Feedback Shift Register (NLFSR).md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Example of NLFSR.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/XOR-NAND-NOR-Table.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Linear Feedback Shift Register (LFSR).md",
+    "Images/Third_Sem_Images/Linear Feedback Shift Register (LFSR).png",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.3 Overview.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Overall Program - Subprogram Structure.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/Principles of Programming Languages.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Syntatic Elements of a Language.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/General Syntactic Criteria.md",
     "Images/Third_Sem_Images/General Syntactic Criteria- ex.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/Old Questions.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/Untitled.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
@@ -227,17 +216,12 @@
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Autokey Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/One time pad.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/One TIme Pad using XOR.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/One Time Pad using Alphabets not XOR.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Fiestal Cipher Structure.md",
     "Images/Third_Sem_Images/Fiestal Cipher Structure-Secure.png",
     "Images/Third_Sem_Images/Fiestal Cipher Structure.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Is vernam cipher and One time pad same.md",
     "Images/Third_Sem_Images/Permutation Cipher-ex.png",
     "Images/Third_Sem_Images/Permutation Cipher.png",
     "Images/Third_Sem_Images/Vigenere Cipher.png",
     "Images/Third_Sem_Images/Affine Cipher.png",
-    "Images/Third_Sem_Images/Substitution Cipher.png",
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que",
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/RGIS-ppt-n",

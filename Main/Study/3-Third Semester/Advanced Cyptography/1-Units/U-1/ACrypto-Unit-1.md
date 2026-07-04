@@ -16,6 +16,11 @@
 - [Permutation Cipher](ACrypto-U-1-notes/Permutation%20Cipher.md)
 
 ---
+### Cryptoanalysis
+
+
+---
+### Substitution Cipher and Transposition Cipher Techniques
 Symmetric Encryption are known as Conventional Encryption and is of 2 types
 - Substitution Techniques
 	- [Substitution Cipher](ACrypto-U-1-notes/Substitution%20Cipher.md)
@@ -23,6 +28,7 @@ Symmetric Encryption are known as Conventional Encryption and is of 2 types
 
 
 ---
+### Extra
 - [Playfair Cipher](ACrypto-U-1-notes/Playfair%20Cipher.md)
 - [One time pad](ACrypto-U-1-notes/One%20time%20pad.md)
 - Vernam Cipher (*Can be described by One Time Pad*)
@@ -33,8 +39,9 @@ Symmetric Encryption are known as Conventional Encryption and is of 2 types
 ---
 - [Stream Cipher](ACrypto-U-1-notes/Stream%20Cipher.md)
 	- [Synchronous Stream Cipher](ACrypto-U-1-notes/Synchronous%20Stream%20Cipher.md)
-		- Linear Feedback Shift Register (LFSR)
-		- Non-Linear Feedback Shift Register (NLFSR)
+		- [Linear Feedback Shift Register (LFSR)](ACrypto-U-1-notes/Linear%20Feedback%20Shift%20Register%20(LFSR).md)
+		- [Non-Linear Feedback Shift Register (NLFSR)](ACrypto-U-1-notes/Non-Linear%20Feedback%20Shift%20Register%20(NLFSR).md)
+
 	- [Self-Synchronizing (Asynchronous) Stream Cipher](ACrypto-U-1-notes/Self-Synchronizing%20(Asynchronous)%20Stream%20Cipher.md)
 - RC4
 - RC5 
