@@ -31,7 +31,14 @@ Symmetric Encryption are known as Conventional Encryption and is of 2 types
 - [Is vernam cipher and One time pad same](ACrypto-U-1-notes/Is%20vernam%20cipher%20and%20One%20time%20pad%20same.md)
 
 ---
-- Stream Cipher
-- Synchronous Stream Cipher
-- Asynchronous Stream Cipher
-- Linear Feedback Shift Register (LFSR)
+- [Stream Cipher](ACrypto-U-1-notes/Stream%20Cipher.md)
+	- [Synchronous Stream Cipher](ACrypto-U-1-notes/Synchronous%20Stream%20Cipher.md)
+		- Linear Feedback Shift Register (LFSR)
+		- Non-Linear Feedback Shift Register (NLFSR)
+	- [Self-Synchronizing (Asynchronous) Stream Cipher](ACrypto-U-1-notes/Self-Synchronizing%20(Asynchronous)%20Stream%20Cipher.md)
+- RC4
+- RC5 
+
+---
+- [Block Cipher](ACrypto-U-1-notes/Block%20Cipher.md)
+- [Block Cipher VS Stream Cipher](ACrypto-U-1-notes/Block%20Cipher%20VS%20Stream%20Cipher.md)

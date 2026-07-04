@@ -23,21 +23,22 @@
             }
           },
           {
-            "id": "10430b8d06d02ccb",
+            "id": "2c06e57163b461d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AC-Midterm"
+              "title": "PPL-Unit-1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ACrypto-Unit-1"
+              "title": "Outline of PPL-Unit-1"
             }
           },
           {
@@ -176,8 +177,7 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,11 +198,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "63a929e489a3c170",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.3 Overview.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Overall Program - Subprogram Structure.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/Principles of Programming Languages.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Syntatic Elements of a Language.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/General Syntactic Criteria.md",
+    "Images/Third_Sem_Images/General Syntactic Criteria- ex.png",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/Old Questions.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/Untitled.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/PPL-Old Que/PPL-Old Que.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/PPL-Old Que",
+    "Images/Third_Sem_Images/Old Questions-ppl-mid.jpeg",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions",
+    "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/Assignment-2.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/AC-Assignments/Stream Cipher-LFSR-Autokey Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/2-Assignments/Assignment-1.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Block Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Block Cipher VS Stream Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Stream Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Self-Synchronizing (Asynchronous) Stream Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Synchronous Stream Cipher.md",
+    "Images/Third_Sem_Images/Synchronous Stream Cipher.png",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Autokey Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/One time pad.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/One TIme Pad using XOR.md",
@@ -211,31 +233,11 @@
     "Images/Third_Sem_Images/Fiestal Cipher Structure-Secure.png",
     "Images/Third_Sem_Images/Fiestal Cipher Structure.png",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Is vernam cipher and One time pad same.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Types of Permutation Ciphers.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Permutation Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Detailed understanding of ex of Columnar Transposition.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Complete EX Columnar Transposition.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Further explanation of how inverse in Permutation Cipher works.md",
     "Images/Third_Sem_Images/Permutation Cipher-ex.png",
     "Images/Third_Sem_Images/Permutation Cipher.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Complete Example 2x2 Matrix Hill Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Hill Cipher.md",
     "Images/Third_Sem_Images/Vigenere Cipher.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Decryption Part - Multiplicative Inverse of affine cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Affine Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Substitution Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/coprime.md",
     "Images/Third_Sem_Images/Affine Cipher.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Permutation in Substitution Cipher.md",
     "Images/Third_Sem_Images/Substitution Cipher.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/ACrypto-Unit-1 Overview.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Shanon Theory.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Evaluation of Cryptosystems and Entropy.md",
-    "Images/Third_Sem_Images/Shanon Theory-Diffusion.png",
-    "Images/Third_Sem_Images/Shanon Theory-confusion.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Playfair Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Decipher Process.md",
-    "Images/Third_Sem_Images/AC-Midterm.jpeg",
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que",
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/RGIS-ppt-n",
@@ -244,8 +246,6 @@
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U2-notes",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U1-notes",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-U1-notes",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
