@@ -176,7 +176,8 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -200,8 +201,15 @@
   "active": "63a929e489a3c170",
   "lastOpenFiles": [
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Autokey Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/One time pad.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/One TIme Pad using XOR.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/One Time Pad using Alphabets not XOR.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Fiestal Cipher Structure.md",
+    "Images/Third_Sem_Images/Fiestal Cipher Structure-Secure.png",
+    "Images/Third_Sem_Images/Fiestal Cipher Structure.png",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Is vernam cipher and One time pad same.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Types of Permutation Ciphers.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Permutation Cipher.md",
@@ -212,7 +220,6 @@
     "Images/Third_Sem_Images/Permutation Cipher.png",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Complete Example 2x2 Matrix Hill Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Hill Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
     "Images/Third_Sem_Images/Vigenere Cipher.png",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Decryption Part - Multiplicative Inverse of affine cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Affine Cipher.md",
@@ -228,15 +235,9 @@
     "Images/Third_Sem_Images/Shanon Theory-confusion.png",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Playfair Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Decipher Process.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC - Old Questions.md",
     "Images/Third_Sem_Images/AC-Midterm.jpeg",
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Old Que.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que",
-    "Main/Study/3-Third Semester/Advanced Cyptography/Advanced Cyptography.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Diff types of image resolutions.md",
-    "Images/Third_Sem_Images/Lab Done By Me-Lab4-2.png",
-    "Images/Third_Sem_Images/Lab Done By Me-Lab4-1.png",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/RGIS-ppt-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n",

@@ -36,7 +36,7 @@ A=0 B=1 C=2 ... Z=25
 
 # Encryption Formula
 
-C=(P+K)\bmod26
+$$C=(P+K)\bmod26$$
 
 Where:
 
@@ -48,7 +48,7 @@ Where:
 
 # Decryption Formula
 
-P=(C-K)\bmod26
+$$P=(C-K)\bmod26$$
 
 ---
 

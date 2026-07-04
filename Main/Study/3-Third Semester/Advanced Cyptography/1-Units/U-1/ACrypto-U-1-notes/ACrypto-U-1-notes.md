@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - [ACrypto-Unit-1 Overview](./ACrypto-Unit-1%20Overview.md)
 - [Affine Cipher](./Affine%20Cipher.md)
+- [Autokey Cipher](./Autokey%20Cipher.md)
 - [Complete EX Columnar Transposition](./Complete%20EX%20Columnar%20Transposition.md)
 - [Complete Example 2x2 Matrix Hill Cipher](./Complete%20Example%202x2%20Matrix%20Hill%20Cipher.md)
 - [coprime](./coprime.md)
@@ -12,6 +13,9 @@
 - [Further explanation of how inverse in Permutation Cipher works](./Further%20explanation%20of%20how%20inverse%20in%20Permutation%20Cipher%20works.md)
 - [Hill Cipher](./Hill%20Cipher.md)
 - [Is vernam cipher and One time pad same](./Is%20vernam%20cipher%20and%20One%20time%20pad%20same.md)
+- [One Time Pad using Alphabets not XOR](./One%20Time%20Pad%20using%20Alphabets%20not%20XOR.md)
+- [One TIme Pad using XOR](./One%20TIme%20Pad%20using%20XOR.md)
+- [One time pad](./One%20time%20pad.md)
 - [One-Time Pad](./One-Time%20Pad.md)
 - [Permutation Cipher](./Permutation%20Cipher.md)
 - [Permutation in Substitution Cipher](./Permutation%20in%20Substitution%20Cipher.md)
