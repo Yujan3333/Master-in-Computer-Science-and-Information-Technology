@@ -9,6 +9,7 @@
 - [coprime](./coprime.md)
 - [Cryptanalysis of shift cipher](./Cryptanalysis%20of%20shift%20cipher.md)
 - [Cryptoanalysis of hill cipher](./Cryptoanalysis%20of%20hill%20cipher.md)
+- [Cryptoanalysis of LFSR](./Cryptoanalysis%20of%20LFSR.md)
 - [Cryptoanalysis of permutation cipher](./Cryptoanalysis%20of%20permutation%20cipher.md)
 - [Cryptoanalysis of vigenere cipher](./Cryptoanalysis%20of%20vigenere%20cipher.md)
 - [Cryptoanalysis](./Cryptoanalysis.md)

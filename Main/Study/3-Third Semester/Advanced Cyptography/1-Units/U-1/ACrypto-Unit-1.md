@@ -10,7 +10,7 @@
 - [Affine Cipher](ACrypto-U-1-notes/Affine%20Cipher.md)
 - [Vigenere Cipher](ACrypto-U-1-notes/Vigenere%20Cipher.md)
 	- Cryptoanalysis of Vigenere Cipher
-		- Kasiski Test
+		- [Kasiski Test](ACrypto-U-1-notes/Cryptoanalysis%20of%20vigenere%20cipher.md)
 		- Index of Coincidence
 - [Hill Cipher](ACrypto-U-1-notes/Hill%20Cipher.md)
 - [Permutation Cipher](ACrypto-U-1-notes/Permutation%20Cipher.md)
@@ -26,13 +26,12 @@ Steganography is the art of hiding secret information inside another medium (ima
 ###### [Kerckhoff principle](ACrypto-U-1-notes/Kerckhoff%20principle.md)
 **A cryptographic system should remain secure even if everything about the system is known except the secret key.**
 
----
 #### [Cryptanalysis of shift cipher](ACrypto-U-1-notes/Cryptanalysis%20of%20shift%20cipher.md)
 #### [Cryptoanalysis of vigenere cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20vigenere%20cipher.md)
 #### [Cryptoanalysis of hill cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20hill%20cipher.md)
 #### [Cryptoanalysis of permutation cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20permutation%20cipher.md)
 
-#### Cryptoanalysis of LFSR
+#### [Cryptoanalysis of LFSR](ACrypto-U-1-notes/Cryptoanalysis%20of%20LFSR.md)
 
 
 ---

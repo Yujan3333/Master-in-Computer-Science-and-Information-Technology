@@ -2,6 +2,9 @@
 
 # Cryptanalysis of Vigenère Cipher ⭐⭐⭐⭐⭐ 
 
+[Method 1: Kasiski Examination ⭐⭐⭐⭐⭐ (Most Important)](#Method%201%20Kasiski%20Examination%20⭐⭐⭐⭐⭐%20(Most%20Important))
+
+
 
 # What is the Vigenère Cipher?
 
