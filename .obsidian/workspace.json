@@ -23,22 +23,36 @@
             }
           },
           {
-            "id": "0aced19c6379ac2f",
+            "id": "927ad71c8f9bba0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptanalysis of shift cipher.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of permutation cipher.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cryptanalysis of shift cipher"
+              "title": "Cryptoanalysis of permutation cipher"
+            }
+          },
+          {
+            "id": "0e0673f23a33a380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "AC-Midterm"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptanalysis of shift cipher.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cryptanalysis of shift cipher"
+              "title": "Outline of ACrypto-Unit-1"
             }
           },
           {
@@ -177,8 +191,7 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,14 +212,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0aced19c6379ac2f",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Advanced Cyptography/Advanced Cyptography.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of permutation cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of hill cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Example Frequency Analysis - Vigenere Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of vigenere cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Example of Kasiski.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptanalysis of shift cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Kerckhoff principle.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC - Old Questions.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-Unit-2.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/Passive VS Active Attacks.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Passive VS Active Attacks.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Security attacks that threaten Security Goals.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/ACrypto-Unit-2 Overview.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptanalysis of shift cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Steganography.md",
     "Images/Third_Sem_Images/Security attacks that threaten Security Goals.png",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis.md",
@@ -222,17 +244,8 @@
     "Main/Untitled.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Non-Linear Feedback Shift Register (NLFSR).md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Example of NLFSR.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/XOR-NAND-NOR-Table.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Linear Feedback Shift Register (LFSR).md",
     "Images/Third_Sem_Images/Linear Feedback Shift Register (LFSR).png",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.3 Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Overall Program - Subprogram Structure.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/Principles of Programming Languages.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Syntatic Elements of a Language.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/General Syntactic Criteria.md",
     "Images/Third_Sem_Images/General Syntactic Criteria- ex.png",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/Old Questions.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/Untitled.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/PPL-Old Que",
     "Images/Third_Sem_Images/Old Questions-ppl-mid.jpeg",
     "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions",

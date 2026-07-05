@@ -23,12 +23,16 @@
 ###### [Steganography](ACrypto-U-1-notes/Steganography.md)
 Steganography is the art of hiding secret information inside another medium (image, audio, video, or text) so that the existence of the message is concealed.
 
+###### [Kerckhoff principle](ACrypto-U-1-notes/Kerckhoff%20principle.md)
+**A cryptographic system should remain secure even if everything about the system is known except the secret key.**
+
 ---
 #### [Cryptanalysis of shift cipher](ACrypto-U-1-notes/Cryptanalysis%20of%20shift%20cipher.md)
-#### Cryptoanalysis of vigenere cipher
-#### Cryptoanalysis of hill cipher
-#### Cryptoanalysis of permutation cipher
+#### [Cryptoanalysis of vigenere cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20vigenere%20cipher.md)
+#### [Cryptoanalysis of hill cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20hill%20cipher.md)
+#### [Cryptoanalysis of permutation cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20permutation%20cipher.md)
 
+#### Cryptoanalysis of LFSR
 
 
 ---
@@ -72,6 +76,6 @@ Symmetric Encryption are known as Conventional Encryption and is of 2 types
 	- Attacks threatening Confidentiality
 	- Attacks threatening Integrity
 	- Attacks threatening Availability
-	- [Passive VS Active Attacks](Passive%20VS%20Active%20Attacks.md)
+	- [Passive VS Active Attacks](ACrypto-U-1-notes/Passive%20VS%20Active%20Attacks.md)
 
 ---
