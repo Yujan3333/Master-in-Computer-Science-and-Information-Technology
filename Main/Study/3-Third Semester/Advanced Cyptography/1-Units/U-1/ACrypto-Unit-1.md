@@ -16,7 +16,19 @@
 - [Permutation Cipher](ACrypto-U-1-notes/Permutation%20Cipher.md)
 
 ---
-### Cryptoanalysis
+### [Cryptoanalysis](ACrypto-U-1-notes/Cryptoanalysis.md)
+- It is a technique of decoding ciphertext to plaintext without knowing the secret key
+###### Cryptology
+- Cryptography + Cryptoanalysis
+###### [Steganography](ACrypto-U-1-notes/Steganography.md)
+Steganography is the art of hiding secret information inside another medium (image, audio, video, or text) so that the existence of the message is concealed.
+
+---
+#### [Cryptanalysis of shift cipher](ACrypto-U-1-notes/Cryptanalysis%20of%20shift%20cipher.md)
+#### Cryptoanalysis of vigenere cipher
+#### Cryptoanalysis of hill cipher
+#### Cryptoanalysis of permutation cipher
+
 
 
 ---
@@ -49,3 +61,17 @@ Symmetric Encryption are known as Conventional Encryption and is of 2 types
 ---
 - [Block Cipher](ACrypto-U-1-notes/Block%20Cipher.md)
 - [Block Cipher VS Stream Cipher](ACrypto-U-1-notes/Block%20Cipher%20VS%20Stream%20Cipher.md)
+
+
+---
+- Three Security Goals
+	- Confidentiality
+	- Integrity
+	- Availability
+- [Security attacks that threaten Security Goals](ACrypto-U-1-notes/Security%20attacks%20that%20threaten%20Security%20Goals.md)
+	- Attacks threatening Confidentiality
+	- Attacks threatening Integrity
+	- Attacks threatening Availability
+	- [Passive VS Active Attacks](Passive%20VS%20Active%20Attacks.md)
+
+---

@@ -11,7 +11,15 @@
 ---
 ### Unit 1.3
 - [PPL-Unit-1.3 Overview](PPL-U1-notes/PPL-Unit-1.3%20Overview.md)
-
+- [PPL-Unit-1.3 Overview Sir Slides](PPL-U1-notes/PPL-Unit-1.3%20Overview%20Sir%20Slides.md)
+- -blank-
 - [General Syntactic Criteria](PPL-U1-notes/General%20Syntactic%20Criteria.md)
 - [Syntatic Elements of a Language](PPL-U1-notes/Syntatic%20Elements%20of%20a%20Language.md)
 - [Overall Program - Subprogram Structure](PPL-U1-notes/Overall%20Program%20-%20Subprogram%20Structure.md)
+- [Stages in Translation](Stages%20in%20Translation.md)
+- Formal  Translation Model
+	- BNF
+	- Parse Tree
+	- Ambiguous Grammar
+	- Syntax Chart
+- 
