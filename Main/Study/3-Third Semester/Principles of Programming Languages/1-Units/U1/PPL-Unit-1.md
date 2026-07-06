@@ -3,6 +3,7 @@
 - [Attributes of a Good Language](PPL-U1-notes/Attributes%20of%20a%20Good%20Language.md)
 - [Programming Paradigms](PPL-U1-notes/Programming%20Paradigms.md)
 - [Language Standardization](PPL-U1-notes/Language%20Standardization.md)
+- [Programming Environments](PPL-U1-notes/Programming%20Environments.md)
 
 ---
 # Unit 1.2
@@ -27,3 +28,12 @@
 - [Regular Grammars](PPL-U1-notes/Regular%20Grammars.md)
 - [Regular Expressions](PPL-U1-notes/Regular%20Expressions.md)
 - [Push Down Automata - PDA](PPL-U1-notes/Push%20Down%20Automata%20-%20PDA.md)
+- [Parsing Algorithm](PPL-U1-notes/Parsing%20Algorithm.md)
+	- Universal
+	- Top Down
+	- Bottom Up
+- [Attribute Grammars](PPL-U1-notes/Attribute%20Grammars.md)
+  - [Denotational Semantics](Denotational%20Semantics.md)
+  - [Denotational Semantics - PPL](PPL-U1-notes/Denotational%20Semantics%20-%20PPL.md)
+
+---

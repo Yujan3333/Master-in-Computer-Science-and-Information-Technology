@@ -1,3 +1,4 @@
+#PDC #PPL 
 
 ## 📐 **Denotational Semantics**
 
@@ -6,6 +7,10 @@
 **Denotational semantics** assigns **mathematical meaning** to each construct (expression, statement, etc.) of a programming language.
 
 > It maps every syntactic element to a **mathematical object** (like a number, function, or domain).
+
+
+![](../../../../../../../../Images/Third_Sem_Images/Denotational%20Semantics.png)
+\
 
 ---
 

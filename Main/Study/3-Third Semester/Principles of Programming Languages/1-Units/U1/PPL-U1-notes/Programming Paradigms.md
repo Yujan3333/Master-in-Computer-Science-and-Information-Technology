@@ -1,3 +1,4 @@
+#PPL #third-semester 
 ## Programming Paradigms (Summary)
 
 A **programming paradigm** is a style or method of programming. It provides principles and concepts for organizing code and solving problems.

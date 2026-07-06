@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "PPL-Unit-1"
             }
-          },
-          {
-            "id": "fb3023f9d1e62235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Push Down Automata - PDA.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Push Down Automata - PDA"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Push Down Automata - PDA.md",
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Push Down Automata - PDA"
+              "title": "Outline of PPL-Unit-1"
             }
           },
           {
@@ -177,8 +161,7 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,10 +182,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb3023f9d1e62235",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Push Down Automata - PDA.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Programming Environments.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Programming Paradigms.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.2 Overview.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Language Standardization.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Attributes of a Good Language.md",
+    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit-1/PDC--u1/Denotational Semantics.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Denotational Semantics - PPL.md",
+    "Images/Third_Sem_Images/Denotational Semantics.png",
+    "Images/Third_Sem_Images/Denotational Semantics - PPL.png",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Attribute Grammars.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/Drawing 2026-07-06 16.48.41.excalidraw.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/Principles of Programming Languages.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Parsing Algorithm.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Push Down Automata - PDA.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Regular Grammars.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Regular Expressions.md",
     "Images/Third_Sem_Images/Regular Expressions-fig.png",
@@ -218,27 +214,14 @@
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Parse Tree.md",
     "Images/Third_Sem_Images/Parse Tree-fig.png",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/BNF.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/Principles of Programming Languages.md",
     "Main/Study/3-Third Semester/3-Third Semester.md",
     "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2082-My.md",
     "Main/Study/2-Second Semester/DWDM/3-Old Question/DWDM-Old Questions.md",
     "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2081.md",
     "Main/Study/2-Second Semester/DWDM/DWDM.md",
     "Main/Study/2-Second Semester/ADC/2_Old Questions/2082-My.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of affine cipher.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/Fuzzy Systems - Old Questions.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-MidTerm.md",
-    "Images/Third_Sem_Images/Fuzzy Systems - Mid Term.jpeg",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Old Que.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que",
     "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Index of Coincidence.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of LFSR.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/Advanced Cyptography.md",
-    "README.md",
-    "Images/Third_Sem_Images/Security attacks that threaten Security Goals.png",
     "Main/Study/4-General-Note/General-Notes",
     "Main/Study/4-General-Note",
     "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/PPL-Old Que",
