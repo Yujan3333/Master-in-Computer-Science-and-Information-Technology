@@ -4,40 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "9e9175cc3eaf09ad",
+        "id": "0975d2caefefc52f",
         "type": "tabs",
         "children": [
           {
-            "id": "63a929e489a3c170",
+            "id": "9629fc5cc20b663d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ACrypto-Unit-1"
+              "title": "PPL-Unit-1"
             }
           },
           {
-            "id": "0e0673f23a33a380",
+            "id": "9b82712b8b8d7387",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/BNF.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AC-Midterm"
+              "title": "BNF"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,13 +149,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ACrypto-Unit-1"
+              "title": "Outline"
             }
           },
           {
@@ -197,38 +197,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "71c075a01e4cfe4e",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of LFSR.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/BNF.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/Principles of Programming Languages.md",
+    "Main/Study/3-Third Semester/3-Third Semester.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2082-My.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/DWDM-Old Questions.md",
+    "Main/Study/2-Second Semester/DWDM/3-Old Question/Que/2081.md",
+    "Main/Study/2-Second Semester/DWDM/DWDM.md",
+    "Main/Study/2-Second Semester/ADC/2_Old Questions/2082-My.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of affine cipher.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/Fuzzy Systems - Old Questions.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-MidTerm.md",
+    "Images/Third_Sem_Images/Fuzzy Systems - Mid Term.jpeg",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Old Que.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Midterm.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Index of Coincidence.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of LFSR.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/Advanced Cyptography.md",
+    "README.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/Remote Sensing and GIS.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/ACrypto-U2-notes.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of permutation cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of vigenere cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/Advanced Cyptography.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of hill cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Example Frequency Analysis - Vigenere Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Example of Kasiski.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptanalysis of shift cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Kerckhoff principle.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC - Old Questions.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-Unit-2.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Passive VS Active Attacks.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Security attacks that threaten Security Goals.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/ACrypto-Unit-2 Overview.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Steganography.md",
     "Images/Third_Sem_Images/Security attacks that threaten Security Goals.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.3 Overview Sir Slides.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/Stages in Translation.md",
     "Images/Third_Sem_Images/Stages in Translation-fig.png",
-    "Main/Study/4-General-Note/Index.md",
-    "Main/Study/4-General-Note/General-Notes/Compiler-Interpreter-Assembler.md",
-    "Main/Study/4-General-Note/General-Notes/General-Notes.md",
     "Main/Study/4-General-Note/General-Notes",
     "Main/Study/4-General-Note",
-    "Main/Untitled.md",
     "Images/Third_Sem_Images/Linear Feedback Shift Register (LFSR).png",
     "Images/Third_Sem_Images/General Syntactic Criteria- ex.png",
     "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/PPL-Old Que",
@@ -238,13 +241,10 @@
     "Images/Third_Sem_Images/Fiestal Cipher Structure-Secure.png",
     "Images/Third_Sem_Images/Fiestal Cipher Structure.png",
     "Images/Third_Sem_Images/Permutation Cipher-ex.png",
-    "Images/Third_Sem_Images/Permutation Cipher.png",
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que",
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/RGIS-ppt-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1/RGIS-U1-n",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U1",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"

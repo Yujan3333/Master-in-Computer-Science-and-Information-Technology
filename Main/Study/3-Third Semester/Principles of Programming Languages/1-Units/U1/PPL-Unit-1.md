@@ -16,9 +16,9 @@
 - [General Syntactic Criteria](PPL-U1-notes/General%20Syntactic%20Criteria.md)
 - [Syntatic Elements of a Language](PPL-U1-notes/Syntatic%20Elements%20of%20a%20Language.md)
 - [Overall Program - Subprogram Structure](PPL-U1-notes/Overall%20Program%20-%20Subprogram%20Structure.md)
-- [Stages in Translation](Stages%20in%20Translation.md)
+- [Stages in Translation](PPL-U1-notes/Stages%20in%20Translation.md)
 - Formal  Translation Model
-	- BNF
+	- [BNF](PPL-U1-notes/BNF.md)
 	- Parse Tree
 	- Ambiguous Grammar
 	- Syntax Chart

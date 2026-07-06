@@ -6,15 +6,23 @@
 - [ACrypto-Unit-1 Overview](ACrypto-U-1-notes/ACrypto-Unit-1%20Overview.md)
 - [Shanon Theory](ACrypto-U-1-notes/Shanon%20Theory.md)
 - [Evaluation of Cryptosystems and Entropy](ACrypto-U-1-notes/Evaluation%20of%20Cryptosystems%20and%20Entropy.md)
-- [Substitution Cipher](ACrypto-U-1-notes/Substitution%20Cipher.md)
-- [Affine Cipher](ACrypto-U-1-notes/Affine%20Cipher.md)
-- [Vigenere Cipher](ACrypto-U-1-notes/Vigenere%20Cipher.md)
-	- Cryptoanalysis of Vigenere Cipher
-		- [Kasiski Test](ACrypto-U-1-notes/Cryptoanalysis%20of%20vigenere%20cipher.md)
-		- Index of Coincidence
-- [Hill Cipher](ACrypto-U-1-notes/Hill%20Cipher.md)
-- [Permutation Cipher](ACrypto-U-1-notes/Permutation%20Cipher.md)
 
+- [Substitution Cipher](ACrypto-U-1-notes/Substitution%20Cipher.md)
+
+- [Affine Cipher](ACrypto-U-1-notes/Affine%20Cipher.md)
+	- [Cryptoanalysis of affine cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20affine%20cipher.md)
+
+- [Vigenere Cipher](ACrypto-U-1-notes/Vigenere%20Cipher.md)
+	- [Cryptoanalysis of vigenere cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20vigenere%20cipher.md)
+		- [Kasiski Test](ACrypto-U-1-notes/Cryptoanalysis%20of%20vigenere%20cipher.md)
+		- [Index of Coincidence](ACrypto-U-1-notes/Index%20of%20Coincidence.md)
+
+- [Hill Cipher](ACrypto-U-1-notes/Hill%20Cipher.md)
+	- [Cryptoanalysis of hill cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20hill%20cipher.md)
+
+
+- [Permutation Cipher](ACrypto-U-1-notes/Permutation%20Cipher.md)
+	- [Cryptoanalysis of permutation cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20permutation%20cipher.md)
 ---
 ### [Cryptoanalysis](ACrypto-U-1-notes/Cryptoanalysis.md)
 - It is a technique of decoding ciphertext to plaintext without knowing the secret key
@@ -27,6 +35,7 @@ Steganography is the art of hiding secret information inside another medium (ima
 **A cryptographic system should remain secure even if everything about the system is known except the secret key.**
 
 #### [Cryptanalysis of shift cipher](ACrypto-U-1-notes/Cryptanalysis%20of%20shift%20cipher.md)
+#### [Cryptoanalysis of affine cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20affine%20cipher.md)
 #### [Cryptoanalysis of vigenere cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20vigenere%20cipher.md)
 #### [Cryptoanalysis of hill cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20hill%20cipher.md)
 #### [Cryptoanalysis of permutation cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20permutation%20cipher.md)

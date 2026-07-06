@@ -21,5 +21,8 @@
 	- [Lab 3](./2-assignments/Lab%203.md)
 	- [Lab-All Que](./2-assignments/Lab-All%20Que.md)
 	- [Lab4- Fuzzy relation](./2-assignments/Lab4-%20Fuzzy%20relation.md)
+- **3-Old Que**
+	- **[FS-Old Que](./3-Old%20Que/FS-Old%20Que/FS-Old%20Que.md)**
+	- [Fuzzy Systems - Old Questions](./3-Old%20Que/Fuzzy%20Systems%20-%20Old%20Questions.md)
 
 %% End Waypoint %%

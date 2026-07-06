@@ -3,7 +3,7 @@
 
 - Two major parts: *Analysis and synthesis*
 
-![](../../../../../../Images/Third_Sem_Images/Stages%20in%20Translation-fig.png)
+![](../../../../../../../Images/Third_Sem_Images/Stages%20in%20Translation-fig.png)
 
 
 # Stages in Translation (Exam Summary)

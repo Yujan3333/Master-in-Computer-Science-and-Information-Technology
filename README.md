@@ -41,3 +41,5 @@
 - [Image Processing and Pattern Recognitation](Main/Study/3-Third%20Semester/Image%20Processing%20and%20Pattern%20Recognitation/Image%20Processing%20and%20Pattern%20Recognitation.md)
 - [Advanced Cyptography](Main/Study/3-Third%20Semester/Advanced%20Cyptography/Advanced%20Cyptography.md)
 - [Fuzzy Systems](Main/Study/3-Third%20Semester/Fuzzy%20Systems/Fuzzy%20Systems.md)
+- [Principles of Programming Languages](Main/Study/3-Third%20Semester/Principles%20of%20Programming%20Languages/Principles%20of%20Programming%20Languages.md)
+- [Remote Sensing and GIS](Main/Study/3-Third%20Semester/Remote%20Sensing%20and%20GIS/Remote%20Sensing%20and%20GIS.md)
