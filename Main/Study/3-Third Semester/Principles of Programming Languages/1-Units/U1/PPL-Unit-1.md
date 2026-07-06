@@ -19,7 +19,11 @@
 - [Stages in Translation](PPL-U1-notes/Stages%20in%20Translation.md)
 - Formal  Translation Model
 	- [BNF](PPL-U1-notes/BNF.md)
-	- Parse Tree
+	- [Parse Tree](PPL-U1-notes/Parse%20Tree.md)
 	- Ambiguous Grammar
-	- Syntax Chart
-- 
+	- [EBNF](PPL-U1-notes/EBNF.md)
+	- [Syntax Chart](PPL-U1-notes/Syntax%20Chart.md)
+- [Finite State Machine - FSA](PPL-U1-notes/Finite%20State%20Machine%20-%20FSA.md)
+- [Regular Grammars](PPL-U1-notes/Regular%20Grammars.md)
+- [Regular Expressions](PPL-U1-notes/Regular%20Expressions.md)
+- [Push Down Automata - PDA](PPL-U1-notes/Push%20Down%20Automata%20-%20PDA.md)
