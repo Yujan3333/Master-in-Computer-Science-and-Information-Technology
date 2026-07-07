@@ -1,3 +1,4 @@
+#PPL #third-semester 
 # Unit 1.1
 - [PPL-Unit-1.1-Overview](PPL-U1-notes/PPL-Unit-1.1-Overview.md)
 - [Attributes of a Good Language](PPL-U1-notes/Attributes%20of%20a%20Good%20Language.md)
@@ -8,6 +9,7 @@
 ---
 # Unit 1.2
 - [PPL-Unit-1.2 Overview](PPL-U1-notes/PPL-Unit-1.2%20Overview.md)
+- [Binding Time](PPL-U1-notes/Binding%20Time.md)
 
 ---
 ### Unit 1.3

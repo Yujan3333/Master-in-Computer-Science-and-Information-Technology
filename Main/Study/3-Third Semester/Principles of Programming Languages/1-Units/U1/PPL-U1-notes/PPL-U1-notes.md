@@ -1,6 +1,7 @@
 %% Begin Waypoint %%
 - [Attribute Grammars](./Attribute%20Grammars.md)
 - [Attributes of a Good Language](./Attributes%20of%20a%20Good%20Language.md)
+- [Binding Time](./Binding%20Time.md)
 - [BNF](./BNF.md)
 - [Denotational Semantics - PPL](./Denotational%20Semantics%20-%20PPL.md)
 - [EBNF](./EBNF.md)
