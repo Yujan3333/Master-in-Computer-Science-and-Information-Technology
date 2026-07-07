@@ -37,7 +37,8 @@
               "title": "PPL-Unit-4-Slides Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/PPL-Unit-4-Slides Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PPL-Unit-3-Overview-From-Slides"
+              "title": "Outline of PPL-Unit-4-Slides Overview"
             }
           },
           {
@@ -176,7 +177,8 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "180ddc87e9cb7c94",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-Unit-3.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/PPL-Unit-4-Slides Overview.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-Unit-4.md",
