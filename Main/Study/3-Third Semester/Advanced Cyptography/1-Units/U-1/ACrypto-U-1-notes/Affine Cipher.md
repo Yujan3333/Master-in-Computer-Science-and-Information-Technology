@@ -1,4 +1,4 @@
-#advanced-cryptography 
+#advanced-cryptography #third-semester 
 ## Affine Cipher (Detailed Explanation)
 
 The **Affine Cipher** is a **monoalphabetic substitution cipher** where each plaintext letter is converted into ciphertext using a mathematical formula.

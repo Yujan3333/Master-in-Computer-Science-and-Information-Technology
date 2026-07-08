@@ -1,4 +1,4 @@
-#advanced-cryptography #one-time-pad
+#third-semester #advanced-cryptography #one-time-pad
 
 key is given as **BAXYC**, the easiest exam method is to use the **letter-to-number method** ($A=0$, $B=1$, ..., $Z=25$).
 

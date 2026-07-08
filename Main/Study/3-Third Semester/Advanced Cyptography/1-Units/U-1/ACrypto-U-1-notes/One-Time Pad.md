@@ -1,3 +1,4 @@
+#third-semester #advanced-cryptography 
 ## How Decryption Works in One-Time Pad
 
 Decryption uses the **same secret key** that was used for encryption.

@@ -1,4 +1,4 @@
-#advanced-cryptography 
+#third-semester #advanced-cryptography 
 ## Substitution Cipher (Detailed Explanation)
 
 A **substitution cipher** is an encryption technique where each letter (or symbol) in the plaintext is **replaced by another letter/symbol** according to a fixed rule.

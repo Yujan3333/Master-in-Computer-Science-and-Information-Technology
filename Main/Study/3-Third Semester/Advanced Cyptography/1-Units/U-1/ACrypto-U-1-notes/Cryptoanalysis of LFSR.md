@@ -1,4 +1,4 @@
-#advanced-cryptography 
+#advanced-cryptography #third-semester 
 
 # Cryptanalysis of LFSR (Linear Feedback Shift Register) ⭐⭐⭐⭐⭐ (Exam-Focused)
 

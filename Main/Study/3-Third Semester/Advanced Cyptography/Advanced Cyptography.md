@@ -6,6 +6,18 @@
 	- **U-2**
 		- **[ACrypto-U2-notes](./1-Units/U-2/ACrypto-U2-notes/ACrypto-U2-notes.md)**
 		- [ACrypto-Unit-2](./1-Units/U-2/ACrypto-Unit-2.md)
+	- **U-3**
+		- **[ACrypto-U3-notes](./1-Units/U-3/ACrypto-U3-notes/ACrypto-U3-notes.md)**
+		- [ACrypto-Unit-3](./1-Units/U-3/ACrypto-Unit-3.md)
+	- **U-4**
+		- **[ACrypto-U4-notes](./1-Units/U-4/ACrypto-U4-notes/ACrypto-U4-notes.md)**
+		- [ACrypto-Unit-4](./1-Units/U-4/ACrypto-Unit-4.md)
+	- **U-5**
+		- **[ACrypto-U5-notes](./1-Units/U-5/ACrypto-U5-notes/ACrypto-U5-notes.md)**
+		- [ACrypto-Unit-5](./1-Units/U-5/ACrypto-Unit-5.md)
+	- **U-6**
+		- **[ACrypto-U6-notes](./1-Units/U-6/ACrypto-U6-notes/ACrypto-U6-notes.md)**
+		- [ACrypto-Unit-6](./1-Units/U-6/ACrypto-Unit-6.md)
 - **2-Assignments**
 	- **AC-Assignments**
 		- [Assignment-2](./2-Assignments/AC-Assignments/Assignment-2.md)

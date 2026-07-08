@@ -1,4 +1,4 @@
-#advanced-cryptography 
+#advanced-cryptography #third-semester 
 ## Playfair Cipher Decryption
 
 **Decryption** is the process of converting the **ciphertext** back into the **original plaintext** using the **same 5 × 5 key matrix** that was used for encryption. The receiver must know the secret key to decrypt the message correctly.

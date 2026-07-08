@@ -1,4 +1,4 @@
-#advanced-cryptography 
+#third-semester #advanced-cryptography 
 ## Vigenère Cipher (Detailed Explanation)
 
 The **Vigenère Cipher** is a **polyalphabetic substitution cipher** that uses a **keyword** to encrypt plaintext.

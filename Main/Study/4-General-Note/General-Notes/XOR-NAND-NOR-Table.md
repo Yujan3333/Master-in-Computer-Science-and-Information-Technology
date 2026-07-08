@@ -1,4 +1,4 @@
-#XOR-gate #NAND-gate #NOR-gate
+#third-semester  #XOR-gate #NAND-gate #NOR-gate
 
 # XOR ($\oplus$)
 

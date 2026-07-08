@@ -1,4 +1,4 @@
-#advanced-cryptography 
+#advanced-cryptography #third-semester 
 ## Unit 1: Shannon Theory and Classical Cryptography (Summary)
 
 ### 1. Cryptosystems

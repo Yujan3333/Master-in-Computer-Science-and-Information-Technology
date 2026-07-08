@@ -1,4 +1,4 @@
-#advanced-cryptography #synchronous-stream-cipher
+#advanced-cryptography #synchronous-stream-cipher #third-semester 
 
 ## LFSR (Linear Feedback Shift Register) – Easy Explanation
 

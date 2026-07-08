@@ -1,4 +1,4 @@
-#advanced-cryptography 
+#advanced-cryptography #third-semester 
 
 Here's a **correct, exam-friendly, copy-friendly example** of **Kasiski Examination** that you can write directly in your notes.
 

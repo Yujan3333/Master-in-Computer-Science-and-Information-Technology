@@ -4,41 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "0975d2caefefc52f",
+        "id": "b181b3730601b61b",
         "type": "tabs",
         "children": [
           {
-            "id": "1593982caee0478e",
+            "id": "59120301a8939fed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Index of Coincidence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PPL-Unit-3-Overview-From-Slides"
+              "title": "Index of Coincidence"
             }
           },
           {
-            "id": "180ddc87e9cb7c94",
+            "id": "55a7ff11fa9580c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/PPL-Unit-4-Slides Overview.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/ACrypto-Unit-4-Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PPL-Unit-4-Slides Overview"
+              "title": "ACrypto-Unit-4-Overview"
+            }
+          },
+          {
+            "id": "4f9c72407d2d1b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-Unit-5-Overview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ACrypto-Unit-5-Overview"
+            }
+          },
+          {
+            "id": "bc056669727ac427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-Unit-6-Overview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ACrypto-Unit-6-Overview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#third-semester",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/PPL-Unit-4-Slides Overview.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Index of Coincidence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PPL-Unit-4-Slides Overview"
+              "title": "Outline of Index of Coincidence"
             }
           },
           {
@@ -177,8 +206,7 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,54 +227,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "180ddc87e9cb7c94",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-Unit-3.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/PPL-Unit-4-Slides Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-Unit-4.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3.2-Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3.1-Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/PPL-Unit-2.3-Overview-From-Slides.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-Unit-2.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/PPL-Unit-2.2-Overview-From-Slides.md",
-    "Main/Study/4-General-Note/Index.md",
-    "Main/Study/4-General-Note/General-Notes/Encapsulation vs abstraction.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/PPL-Unit-2.1-Overview-From-Slides.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Stages in Translation.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/Old Questions.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/PPL-Old Que/Message Bind in compile time polymorphism and run time polymorphism.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Binding Time.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.2 Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Programming Environments.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Programming Paradigms.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Language Standardization.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Attributes of a Good Language.md",
-    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit-1/PDC--u1/Denotational Semantics.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Denotational Semantics - PPL.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of vigenere cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Example Frequency Analysis - Vigenere Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Kerckhoff principle.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Passive VS Active Attacks.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Security attacks that threaten Security Goals.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Block Cipher VS Stream Cipher.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/ACrypto-Unit-4-Overview.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-Unit-4.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-Unit-5-Overview.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-5.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-Unit-6.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-Unit-6-Overview.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-U5-notes.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-U4-notes.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-U6-notes.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-U4-notes.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U4-notes/ACrypto-U4-notes.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-Unit-4.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U4-notes",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5 - Copy/ACrypto-U4-notes/ACrypto-U4-notes.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5 - Copy/ACrypto-U4-notes",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5 - Copy/ACrypto-Unit-4.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5 - Copy",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U4-notes/ACrypto-U4-notes.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-4.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U4-notes",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4 - Copy/ACrypto-U4-notes/ACrypto-U4-notes.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4 - Copy/ACrypto-U4-notes",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4 - Copy/ACrypto-Unit-4.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4 - Copy",
+    "Images/Third_Sem_Images/EL Gamal Cryptographic System.png",
+    "Images/Third_Sem_Images/RSA.png",
+    "Images/Third_Sem_Images/Blowfish2.png",
+    "Images/Third_Sem_Images/Blowfish-fig.png",
+    "Images/Third_Sem_Images/Blowfish-1.png",
+    "Images/Third_Sem_Images/IDEA-fig.png",
     "Images/Third_Sem_Images/Denotational Semantics.png",
     "Images/Third_Sem_Images/Denotational Semantics - PPL.png",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Attribute Grammars.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/Drawing 2026-07-06 16.48.41.excalidraw.md",
     "Images/Third_Sem_Images/Regular Expressions-fig.png",
     "Images/Third_Sem_Images/Finite State Machine - FSA-nfa.png",
-    "Images/Third_Sem_Images/Finite State Machine - FSA-dfa.png",
-    "Images/Third_Sem_Images/Pasted image 20260706151913.png",
-    "Images/Third_Sem_Images/Finite State Machine - FSA-diag.png",
-    "Images/Third_Sem_Images/Syntax Chart.png",
-    "Images/Third_Sem_Images/Syntax Chart-ebnf.png",
-    "Images/Third_Sem_Images/Parse Tree-fig.png",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que",
-    "Main/Study/4-General-Note/General-Notes",
-    "Main/Study/4-General-Note",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/PPL-Old Que",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions",
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que",
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation/RGIS-ppt-n",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/3-Presentation",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"

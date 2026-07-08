@@ -37,6 +37,8 @@
 - [Permutation Cipher](./Permutation%20Cipher.md)
 - [Permutation in Substitution Cipher](./Permutation%20in%20Substitution%20Cipher.md)
 - [Playfair Cipher](./Playfair%20Cipher.md)
+- [RC4](./RC4.md)
+- [RC5 ](./RC5%20.md)
 - [Security attacks that threaten Security Goals](./Security%20attacks%20that%20threaten%20Security%20Goals.md)
 - [Self-Synchronizing (Asynchronous) Stream Cipher](./Self-Synchronizing%20(Asynchronous)%20Stream%20Cipher.md)
 - [Shanon Theory](./Shanon%20Theory.md)
@@ -46,6 +48,5 @@
 - [Synchronous Stream Cipher](./Synchronous%20Stream%20Cipher.md)
 - [Types of Permutation Ciphers](./Types%20of%20Permutation%20Ciphers.md)
 - [Vigenere Cipher](./Vigenere%20Cipher.md)
-- [XOR-NAND-NOR-Table](./XOR-NAND-NOR-Table.md)
 
 %% End Waypoint %%

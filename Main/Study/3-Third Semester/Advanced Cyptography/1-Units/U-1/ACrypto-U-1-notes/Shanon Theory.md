@@ -1,4 +1,4 @@
-#advanced-cryptography 
+#third-semester #advanced-cryptography 
 
  **Shannon's Information Theory** and **Shannon's Cryptography Theory** are related, but they focus on different things.
 

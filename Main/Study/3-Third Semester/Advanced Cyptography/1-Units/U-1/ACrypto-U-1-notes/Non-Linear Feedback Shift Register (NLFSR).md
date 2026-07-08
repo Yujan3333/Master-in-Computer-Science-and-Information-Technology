@@ -1,4 +1,4 @@
-#advanced-cryptography 
+#advanced-cryptography #third-semester 
 
 # NLFSR (Non-Linear Feedback Shift Register) – Easy Explanation
 
@@ -6,7 +6,7 @@
 
 **NLFSR (Non-Linear Feedback Shift Register)** is a type of shift register that generates a **pseudo-random keystream**, but unlike an LFSR, the new bit is produced using a **non-linear feedback function** (such as AND, OR, XOR, etc.).
 
-- [XOR-NAND-NOR-Table](XOR-NAND-NOR-Table.md)
+- [XOR-NAND-NOR-Table](../../../../../4-General-Note/General-Notes/XOR-NAND-NOR-Table.md)
 
 It is more secure than an LFSR because its output is much harder to predict.
 

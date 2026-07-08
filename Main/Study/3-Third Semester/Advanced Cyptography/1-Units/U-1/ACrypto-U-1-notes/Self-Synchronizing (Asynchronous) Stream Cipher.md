@@ -1,4 +1,4 @@
-#advanced-cryptography 
+#third-semester #advanced-cryptography 
 
 # Self-Synchronizing (Asynchronous) Stream Cipher
 

@@ -1,4 +1,4 @@
-#advanced-cryptography #example #permutation-cipher 
+#advanced-cryptography #example #permutation-cipher #third-semester 
 - [Complete EX Columnar Transposition](Complete%20EX%20Columnar%20Transposition.md)
 
 ## Suppose the key is

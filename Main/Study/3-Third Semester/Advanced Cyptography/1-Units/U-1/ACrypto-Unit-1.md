@@ -1,4 +1,4 @@
- #advanced-cryptography 
+#third-semester  #advanced-cryptography 
  
  - [Playlist for Cryptography](https://www.youtube.com/watch?v=9X1rSWLFhLY&list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8)
 
@@ -67,8 +67,8 @@ Symmetric Encryption are known as Conventional Encryption and is of 2 types
 		- [Non-Linear Feedback Shift Register (NLFSR)](ACrypto-U-1-notes/Non-Linear%20Feedback%20Shift%20Register%20(NLFSR).md)
 
 	- [Self-Synchronizing (Asynchronous) Stream Cipher](ACrypto-U-1-notes/Self-Synchronizing%20(Asynchronous)%20Stream%20Cipher.md)
-- RC4
-- RC5 
+- [RC4](ACrypto-U-1-notes/RC4.md)
+- [RC5 ](ACrypto-U-1-notes/RC5%20.md)
 
 ---
 - [Block Cipher](ACrypto-U-1-notes/Block%20Cipher.md)

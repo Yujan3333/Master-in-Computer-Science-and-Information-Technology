@@ -1,3 +1,4 @@
+#third-semester #advanced-cryptography 
 ## Permutation Cipher (Transposition Cipher) — Detailed Explanation
 
 A **permutation cipher** (also called a **transposition cipher**) is a classical cipher where:
