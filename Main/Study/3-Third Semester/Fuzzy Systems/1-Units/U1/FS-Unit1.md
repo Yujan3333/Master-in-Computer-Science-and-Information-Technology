@@ -1,16 +1,32 @@
-#fuzzy-system 
+#fuzzy-system #third-semester 
 
 - [Subsets - Proper and Improper](FS-U1-notes/Subsets%20-%20Proper%20and%20Improper.md)
 - [Characteristics function vs Membership Function](FS-U1-notes/Characteristics%20function%20vs%20Membership%20Function.md)
 - Membership Graph
 
+### Principal of facet of Fuzzy Logic
+- [FL/E - Epistemic facet](FL/E%20-%20Epistemic%20facet.md)
+
+
+
+
 ### Properties of Fuzzy Set
+
+
+
 
 ### Operations on Fuzzy Set
 
+
+
+
 ### Concentration and Dilation
 
+
+
 ### Composition Operator
+
+
 
 ### [Cylindrical Extension](FS-U1-notes/Cylindrical%20Extension.md) 
 - From X-Projection

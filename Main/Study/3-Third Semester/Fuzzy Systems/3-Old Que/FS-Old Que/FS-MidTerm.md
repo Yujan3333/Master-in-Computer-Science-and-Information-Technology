@@ -1,6 +1,5 @@
-#exam-paper-answer #mid-term #fuzzy-system 
+#exam-paper-answer #mid-term #fuzzy-system #third-semester 
 
-Yes. I’ll solve all 3 questions clearly.
 
 ---
 

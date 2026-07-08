@@ -4,67 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b181b3730601b61b",
+        "id": "a130c10d9f24a3c9",
         "type": "tabs",
         "children": [
           {
-            "id": "59120301a8939fed",
+            "id": "0196d43b3dccf38d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Index of Coincidence.md",
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Index of Coincidence"
-            }
-          },
-          {
-            "id": "55a7ff11fa9580c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/ACrypto-Unit-4-Overview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ACrypto-Unit-4-Overview"
-            }
-          },
-          {
-            "id": "4f9c72407d2d1b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-Unit-5-Overview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ACrypto-Unit-5-Overview"
-            }
-          },
-          {
-            "id": "bc056669727ac427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-Unit-6-Overview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ACrypto-Unit-6-Overview"
+              "title": "FS-Unit1"
             }
           }
         ]
@@ -178,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Index of Coincidence.md",
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Index of Coincidence"
+              "title": "Outline of FS-Unit1"
             }
           },
           {
@@ -227,8 +182,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "0196d43b3dccf38d",
   "lastOpenFiles": [
+    "FL/E - Epistemic facet.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
+    "FL",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/FS-Unit 3.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-Unit2.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-U1-notes/Characteristics function vs Membership Function.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-MidTerm.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/Fuzzy Systems - Old Questions.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/Fuzzy Systems.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-Unit-6-Overview.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-Unit-5-Overview.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/ACrypto-Unit-4-Overview.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Index of Coincidence.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of vigenere cipher.md",
@@ -237,34 +205,21 @@
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Passive VS Active Attacks.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Security attacks that threaten Security Goals.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Block Cipher VS Stream Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/ACrypto-Unit-4-Overview.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-Unit-4.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-Unit-5-Overview.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-5.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-Unit-6.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-Unit-6-Overview.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-U5-notes.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-U4-notes.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-U6-notes.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-U4-notes.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U4-notes/ACrypto-U4-notes.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-Unit-4.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U4-notes",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5 - Copy/ACrypto-U4-notes/ACrypto-U4-notes.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5 - Copy/ACrypto-U4-notes",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5 - Copy/ACrypto-Unit-4.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5 - Copy",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U4-notes/ACrypto-U4-notes.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-4.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U4-notes",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4 - Copy/ACrypto-U4-notes/ACrypto-U4-notes.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4 - Copy/ACrypto-U4-notes",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4 - Copy/ACrypto-Unit-4.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4 - Copy",
     "Images/Third_Sem_Images/EL Gamal Cryptographic System.png",
     "Images/Third_Sem_Images/RSA.png",
     "Images/Third_Sem_Images/Blowfish2.png",
