@@ -7,6 +7,7 @@
 		- **[FS-U2-notes](./1-Units/U2/FS-U2-notes/FS-U2-notes.md)**
 		- [FS-Unit2](./1-Units/U2/FS-Unit2.md)
 	- **U3**
+		- [Defuzzification](./1-Units/U3/Defuzzification.md)
 		- **[FS-U3-notes](./1-Units/U3/FS-U3-notes/FS-U3-notes.md)**
 		- [FS-Unit 3](./1-Units/U3/FS-Unit%203.md)
 - **2-assignments**
