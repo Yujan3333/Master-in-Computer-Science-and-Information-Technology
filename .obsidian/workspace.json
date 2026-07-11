@@ -4,41 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "a130c10d9f24a3c9",
+        "id": "bffe6b6252359b2b",
         "type": "tabs",
         "children": [
           {
-            "id": "0196d43b3dccf38d",
+            "id": "5558cf857821f090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/FS-Unit 3.md",
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-U5-notes/IPPR-Unit-5-Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "FS-Unit 3"
-            }
-          },
-          {
-            "id": "23e55bb4ab934c19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/Defuzzification.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Defuzzification"
+              "title": "IPPR-Unit-5-Overview"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,13 +133,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/Defuzzification.md",
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-U5-notes/IPPR-Unit-5-Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Defuzzification"
+              "title": "Outline of IPPR-Unit-5-Overview"
             }
           },
           {
@@ -199,44 +183,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23e55bb4ab934c19",
+  "active": "5558cf857821f090",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/Defuzzification.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/FS-Unit 3.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/FS-U3-notes/Numerical for Gaussian function - Bell function - Sigmoid function.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U2/FS-Unit2.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-Unit1.md",
-    "FL/E - Epistemic facet.md",
-    "FL",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U1/FS-U1-notes/Characteristics function vs Membership Function.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-MidTerm.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/Fuzzy Systems - Old Questions.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/Fuzzy Systems.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-Unit-6-Overview.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-Unit-5-Overview.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/ACrypto-Unit-4-Overview.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Index of Coincidence.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Vigenere Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of vigenere cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Example Frequency Analysis - Vigenere Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Kerckhoff principle.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Passive VS Active Attacks.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Security attacks that threaten Security Goals.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Block Cipher VS Stream Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-Unit-4.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-5.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-Unit-6.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-U5-notes.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U4-notes",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5 - Copy/ACrypto-U4-notes",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5 - Copy",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U4-notes",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4 - Copy/ACrypto-U4-notes",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-Unit-5.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U4/IPPR-U4-notes/IPPR-Unit-4-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U4/IPPR-Unit-4.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3/IPPR-U3-notes/IPPR-Unit-3-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3/IPPR-Unit-3.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U2-notes/IPPR-Unit-2-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-Unit-2.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/3-Old Que/IPPR Old Questions.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/3-Old Que/IPPR-Old Que/IPPR-Midterm-2083.md",
+    "Images/Third_Sem_Images/IPPR Old Questions-midterm.jpeg",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/3-Old Que/IPPR-Old Que/IPPR-Old Que.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/3-Old Que/IPPR-Old Que",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/3-Old Que",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-U1-notes/IPPR-Unit-1-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-Unit-1.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-U5-notes/IPPR-Unit-5-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U7/IPPR-Unit-7.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U7/IPPR-U7-notes/IPPR-Unit-7-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U6/IPPR-Unit-6.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-U5-notes/IPPR-U5-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U4/IPPR-U4-notes/IPPR-U4-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3/IPPR-U3-notes/IPPR-U3-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U7/IPPR-U7-notes/IPPR-U2-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U7/IPPR-U7-notes",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U7",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3 - Copy/IPPR-U2-notes/IPPR-U2-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3 - Copy/IPPR-U2-notes",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3 - Copy/IPPR-Unit-2.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3 - Copy",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U6/IPPR-U6-notes/IPPR-U2-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U6/IPPR-U6-notes",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U6",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-U5-notes",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/uU3/IPPR-U2-notes/IPPR-U2-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/uU3/IPPR-Unit-2.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2 - Copy/IPPR-U2-notes/IPPR-U2-notes.md",
     "Images/Third_Sem_Images/EL Gamal Cryptographic System.png",
     "Images/Third_Sem_Images/RSA.png",
     "Images/Third_Sem_Images/Blowfish2.png",
@@ -246,7 +231,6 @@
     "Images/Third_Sem_Images/Denotational Semantics.png",
     "Images/Third_Sem_Images/Denotational Semantics - PPL.png",
     "Images/Third_Sem_Images/Regular Expressions-fig.png",
-    "Images/Third_Sem_Images/Finite State Machine - FSA-nfa.png",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
