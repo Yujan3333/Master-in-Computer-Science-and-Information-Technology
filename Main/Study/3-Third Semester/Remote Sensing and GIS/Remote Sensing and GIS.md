@@ -1,9 +1,45 @@
 %% Begin Waypoint %%
 - **1-Units**
 	- **U1**
-		- **RGIS-U1-n**
-			- [Supervised vs Unsupervised in Image](./1-Units/U1/RGIS-U1-n/Supervised%20vs%20Unsupervised%20in%20Image.md)
+		- **[RGIS-U1-n](./1-Units/U1/RGIS-U1-n/RGIS-U1-n.md)**
 		- [RGIS-U1](./1-Units/U1/RGIS-U1.md)
+	- **U2**
+		- **[RGIS-U2-n](./1-Units/U2/RGIS-U2-n/RGIS-U2-n.md)**
+		- [RGIS-UNIT-2](./1-Units/U2/RGIS-UNIT-2.md)
+	- **U3**
+		- **[RGIS-U3-n](./1-Units/U3/RGIS-U3-n/RGIS-U3-n.md)**
+		- [RGIS-UNIT-3](./1-Units/U3/RGIS-UNIT-3.md)
+	- **U4**
+		- **[RGIS-U4-n](./1-Units/U4/RGIS-U4-n/RGIS-U4-n.md)**
+		- [RGIS-UNIT-4](./1-Units/U4/RGIS-UNIT-4.md)
+	- **U5**
+		- **[RGIS-U5-n](./1-Units/U5/RGIS-U5-n/RGIS-U5-n.md)**
+		- [RGIS-UNIT-5](./1-Units/U5/RGIS-UNIT-5.md)
+	- **U6**
+		- **[RGIS-U6-n](./1-Units/U6/RGIS-U6-n/RGIS-U6-n.md)**
+		- [RGIS-UNIT-6](./1-Units/U6/RGIS-UNIT-6.md)
+	- **U7**
+		- **[RGIS-U7-n](./1-Units/U7/RGIS-U7-n/RGIS-U7-n.md)**
+		- [RGIS-UNIT-7](./1-Units/U7/RGIS-UNIT-7.md)
+	- **U8**
+		- **[RGIS-U8-n](./1-Units/U8/RGIS-U8-n/RGIS-U8-n.md)**
+		- [RGIS-UNIT-8](./1-Units/U8/RGIS-UNIT-8.md)
+	- **U9**
+		- **[RGIS-U9-n](./1-Units/U9/RGIS-U9-n/RGIS-U9-n.md)**
+		- [RGIS-UNIT-9](./1-Units/U9/RGIS-UNIT-9.md)
+	- **U10**
+		- **[RGIS-U10-n](./1-Units/U10/RGIS-U10-n/RGIS-U10-n.md)**
+		- [RGIS-UNIT-10](./1-Units/U10/RGIS-UNIT-10.md)
+	- **U11**
+		- **[RGIS-U11-n](./1-Units/U11/RGIS-U11-n/RGIS-U11-n.md)**
+		- [RGIS-UNIT-11](./1-Units/U11/RGIS-UNIT-11.md)
+	- **U12**
+		- **[RGIS-U12-n](./1-Units/U12/RGIS-U12-n/RGIS-U12-n.md)**
+		- [RGIS-UNIT-12](./1-Units/U12/RGIS-UNIT-12.md)
+	- **U13**
+		- **RGIS-U213-n**
+			- [RGIS-U13-n](./1-Units/U13/RGIS-U213-n/RGIS-U13-n.md)
+		- [RGIS-UNIT-13](./1-Units/U13/RGIS-UNIT-13.md)
 - **2-assignments**
 	- [RGIS-Assignment-1](./2-assignments/RGIS-Assignment-1.md)
 	- [RGIS-Assignment-2](./2-assignments/RGIS-Assignment-2.md)

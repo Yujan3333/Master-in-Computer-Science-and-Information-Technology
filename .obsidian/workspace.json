@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bffe6b6252359b2b",
+        "id": "1d004134115c251e",
         "type": "tabs",
         "children": [
           {
-            "id": "5558cf857821f090",
+            "id": "2da9021987de597d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-U5-notes/IPPR-Unit-5-Overview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "IPPR-Unit-5-Overview"
+              "title": "New tab"
             }
           }
         ]
@@ -133,13 +128,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-U5-notes/IPPR-Unit-5-Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of IPPR-Unit-5-Overview"
+              "title": "Outline"
             }
           },
           {
@@ -183,45 +177,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5558cf857821f090",
+  "active": "2da9021987de597d",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-Unit-5.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U4/IPPR-U4-notes/IPPR-Unit-4-Overview.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U4/IPPR-Unit-4.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3/IPPR-U3-notes/IPPR-Unit-3-Overview.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3/IPPR-Unit-3.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-U2-notes/IPPR-Unit-2-Overview.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2/IPPR-Unit-2.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/3-Old Que/IPPR Old Questions.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/3-Old Que/IPPR-Old Que/IPPR-Midterm-2083.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U13/RGIS-UNIT-13.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U13/RGIS-U213-n/RGIS-U13-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U12/RGIS-UNIT-12.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U12/RGIS-U12-n/RGIS-U12-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U11/RGIS-U11-n/RGIS-U11-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U11/RGIS-UNIT-11.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U10/RGIS-UNIT-10.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U10/RGIS-U10-n/RGIS-U10-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U9/RGIS-U9-n/RGIS-U9-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U9/RGIS-UNIT-9.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U8/RGIS-U8-n/RGIS-U8-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U8/RGIS-UNIT-8.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U7/RGIS-UNIT-7.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U7/RGIS-U7-n/RGIS-U7-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U6/RGIS-U6-n/RGIS-U6-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U6/RGIS-UNIT-6.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U5/RGIS-UNIT-5.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U5/RGIS-U5-n/RGIS-U5-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U4/RGIS-U4-n/RGIS-U4-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U4/RGIS-UNIT-4.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U2/RGIS-UNIT-2.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3/RGIS-UNIT-3.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3/RGIS-U3-n/RGIS-U3-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U2/RGIS-U2-n/RGIS-U2-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3/RGIS-U3-n",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U4/RGIS-U4-n",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U4",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U5/RGIS-U5-n",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U5",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U6/RGIS-U6-n",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U6",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U7/RGIS-U7-n",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U7",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/u13/RGIS-U2-n/RGIS-U2-n.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/u13/RGIS-UNIT-2.md",
     "Images/Third_Sem_Images/IPPR Old Questions-midterm.jpeg",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/3-Old Que/IPPR-Old Que/IPPR-Old Que.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/3-Old Que/IPPR-Old Que",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/3-Old Que",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-U1-notes/IPPR-Unit-1-Overview.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U1/IPPR-Unit-1.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-U5-notes/IPPR-Unit-5-Overview.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U7/IPPR-Unit-7.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U7/IPPR-U7-notes/IPPR-Unit-7-Overview.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U6/IPPR-Unit-6.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-U5-notes/IPPR-U5-notes.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U4/IPPR-U4-notes/IPPR-U4-notes.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3/IPPR-U3-notes/IPPR-U3-notes.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U7/IPPR-U7-notes/IPPR-U2-notes.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U7/IPPR-U7-notes",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U7",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3 - Copy/IPPR-U2-notes/IPPR-U2-notes.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3 - Copy/IPPR-U2-notes",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3 - Copy/IPPR-Unit-2.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U3 - Copy",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U6/IPPR-U6-notes/IPPR-U2-notes.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U6/IPPR-U6-notes",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U6",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5/IPPR-U5-notes",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U5",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/uU3/IPPR-U2-notes/IPPR-U2-notes.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/uU3/IPPR-Unit-2.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognitation/1-Units/U2 - Copy/IPPR-U2-notes/IPPR-U2-notes.md",
     "Images/Third_Sem_Images/EL Gamal Cryptographic System.png",
     "Images/Third_Sem_Images/RSA.png",
     "Images/Third_Sem_Images/Blowfish2.png",
