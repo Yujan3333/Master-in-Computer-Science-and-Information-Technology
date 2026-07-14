@@ -1,4 +1,4 @@
-#assignment #RBFNN #third-semester 
+#assignment #third-semester #RGIS 
 
 1.	How hyperspectral image is different from multispectral image? Explain with illustrations. If the spectral range of the 288 channels of the CASI (Compact Airborne Spectrographic Imager) is exactly 0.40 µm to 0.90 µm and each band covers a wavelength of 1.8 nanometres (nm), will there be any overlap between the bands? 
 - [Hyperspectral Image vs Multispectral Image in RGIS](RGIS-assignment-notes/Hyperspectral%20Image%20vs%20Multispectral%20Image%20in%20RGIS.md)
