@@ -12,4 +12,4 @@
 
 
 ---
-[Defuzzification](Defuzzification.md)
+[Defuzzification](FS-U3-notes/Defuzzification.md)
