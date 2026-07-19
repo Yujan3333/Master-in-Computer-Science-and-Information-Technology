@@ -1,6 +1,5 @@
 #fuzzy-system #third-semester 
 
-Based on your textbook, the three inference models are **Mamdani**, **Sugeno (TSK)**, and **Tsukamoto**. Since you asked about **Mamdani, Sugeno, and TSK**, note that **Sugeno and TSK are the same model**. Your book states that:
 
 > "The second inference method, generally referred to as the **Sugeno method, or the TSK method (Takagi, Sugeno, and Kang)**..." 
 

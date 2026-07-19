@@ -1,14 +1,7 @@
 %% Begin Waypoint %%
 - **1-Units**
-	- **U1**
-		- **[FS-U1-notes](./1-Units/U1/FS-U1-notes/FS-U1-notes.md)**
-		- [FS-Unit1](./1-Units/U1/FS-Unit1.md)
-	- **U2**
-		- **[FS-U2-notes](./1-Units/U2/FS-U2-notes/FS-U2-notes.md)**
-		- [FS-Unit2](./1-Units/U2/FS-Unit2.md)
-	- **U3**
-		- **[FS-U3-notes](./1-Units/U3/FS-U3-notes/FS-U3-notes.md)**
-		- [FS-Unit 3](./1-Units/U3/FS-Unit%203.md)
+	- **[FS-notes Combo](./1-Units/FS-notes%20Combo/FS-notes%20Combo.md)**
+	- [FS-Units](./1-Units/FS-Units.md)
 - **2-assignments**
 	- **FS-assignments**
 		- [Example- Fuzzy relation program](./2-assignments/FS-assignments/Example-%20Fuzzy%20relation%20program.md)

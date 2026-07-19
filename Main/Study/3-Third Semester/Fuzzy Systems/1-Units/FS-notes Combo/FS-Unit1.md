@@ -1,7 +1,7 @@
 #fuzzy-system #third-semester 
 
-- [Subsets - Proper and Improper](FS-U1-notes/Subsets%20-%20Proper%20and%20Improper.md)
-- [Characteristics function vs Membership Function](FS-U1-notes/Characteristics%20function%20vs%20Membership%20Function.md)
+- [Subsets - Proper and Improper](FS-notes%20Combo/Subsets%20-%20Proper%20and%20Improper.md)
+- [Characteristics function vs Membership Function](FS-notes%20Combo/Characteristics%20function%20vs%20Membership%20Function.md)
 - Membership Graph
 
 ### Principal of facet of Fuzzy Logic
@@ -47,6 +47,6 @@
 
 
 
-### [Cylindrical Extension](FS-U1-notes/Cylindrical%20Extension.md) 
+### [Cylindrical Extension](FS-notes%20Combo/Cylindrical%20Extension.md) 
 - From X-Projection
 - From Y-Projection

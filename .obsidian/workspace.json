@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "4c1515b9037c04bb",
+        "id": "7b84693bd79643a4",
         "type": "tabs",
         "children": [
           {
-            "id": "a8c195b85d868921",
+            "id": "5553476ae9afe627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/FS-U3-notes/Defuzzification.md",
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-Units.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Defuzzification"
+              "title": "FS-Units"
+            }
+          },
+          {
+            "id": "92ecf51c18eb526c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Unit4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "FS-Unit4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/U3/FS-U3-notes/Defuzzification.md",
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Unit4.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Defuzzification"
+              "title": "Outline of FS-Unit4"
             }
           },
           {
@@ -162,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,8 +199,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8c195b85d868921",
+  "active": "b3ed38c5d7242a79",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/Fuzzy Systems - Old Questions.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Mamdani Inference method.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Unit4.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-Units.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Preboard Answer.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Short Questions.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Qno3.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Qno2.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/Proper Example fan speed.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Qno1.md",
+    "Images/Third_Sem_Images/Fuzzy Systems - Preboard.jpeg",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Unit3.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Defuzzification.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Unit2.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Unit1.md",
+    "Untitled.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-notes Combo.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-5.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-4.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Diff bet Photogrammetry and Lidar- DEM DTM.md",
@@ -195,22 +229,6 @@
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Hyperspectral Image vs Multispectral Image in RGIS.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Digital Image Processing Functions.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Visual Image Interpretation.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Steps in Remote Sensing and Diff bet active and passive sensor.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Point-in-Polygon and Line in polygon.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Core Functions of GIS + GPS & Remote Sensing + Data Integration.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Q1-GIS -More Detailed answer.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U13/RGIS-UNIT-13.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U13/RGIS-U213-n/RGIS-U13-n.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U12/RGIS-UNIT-12.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U12/RGIS-U12-n/RGIS-U12-n.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U11/RGIS-U11-n/RGIS-U11-n.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U11/RGIS-UNIT-11.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U10/RGIS-UNIT-10.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U10/RGIS-U10-n/RGIS-U10-n.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U9/RGIS-U9-n/RGIS-U9-n.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U9/RGIS-UNIT-9.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U8/RGIS-U8-n/RGIS-U8-n.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U8/RGIS-UNIT-8.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3/RGIS-U3-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U4/RGIS-U4-n",
@@ -220,7 +238,6 @@
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U6/RGIS-U6-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U6",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U7/RGIS-U7-n",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U7",
     "Images/Third_Sem_Images/IPPR Old Questions-midterm.jpeg",
     "Images/Third_Sem_Images/EL Gamal Cryptographic System.png",
     "Images/Third_Sem_Images/RSA.png",
@@ -230,7 +247,6 @@
     "Images/Third_Sem_Images/IDEA-fig.png",
     "Images/Third_Sem_Images/Denotational Semantics.png",
     "Images/Third_Sem_Images/Denotational Semantics - PPL.png",
-    "Images/Third_Sem_Images/Regular Expressions-fig.png",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"

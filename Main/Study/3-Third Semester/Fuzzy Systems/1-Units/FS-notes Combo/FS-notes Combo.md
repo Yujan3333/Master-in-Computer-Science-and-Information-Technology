@@ -1,0 +1,21 @@
+%% Begin Waypoint %%
+- [Actual Gaussian Formula- Numerical in detail](./Actual%20Gaussian%20Formula-%20Numerical%20in%20detail.md)
+- [Bell Function - Numerical in detail](./Bell%20Function%20-%20Numerical%20in%20detail.md)
+- [Characteristics function vs Membership Function](./Characteristics%20function%20vs%20Membership%20Function.md)
+- [Cylindrical Extension](./Cylindrical%20Extension.md)
+- [Defuzzification](./Defuzzification.md)
+- [Finding Tolerance or Non Tolerance in Fuzzy Relation](./Finding%20Tolerance%20or%20Non%20Tolerance%20in%20Fuzzy%20Relation.md)
+- [FS-U3-notes](./FS-U3-notes.md)
+- [FS-Unit1](./FS-Unit1.md)
+- [FS-Unit2](./FS-Unit2.md)
+- [FS-Unit3](./FS-Unit3.md)
+- [FS-Unit4](./FS-Unit4.md)
+- [How are parameters chosen here](./How%20are%20parameters%20chosen%20here.md)
+- [Mamdani Inference method](./Mamdani%20Inference%20method.md)
+- [More detailed solution](./More%20detailed%20solution.md)
+- [Numerical for Gaussian function - Bell function - Sigmoid function](./Numerical%20for%20Gaussian%20function%20-%20Bell%20function%20-%20Sigmoid%20function.md)
+- [Numerical of Relation in CRISP SET - Fuzzy Set](./Numerical%20of%20Relation%20in%20CRISP%20SET%20-%20Fuzzy%20Set.md)
+- [Sigmoid Function - Numerical in detail](./Sigmoid%20Function%20-%20Numerical%20in%20detail.md)
+- [Subsets - Proper and Improper](./Subsets%20-%20Proper%20and%20Improper.md)
+
+%% End Waypoint %%
