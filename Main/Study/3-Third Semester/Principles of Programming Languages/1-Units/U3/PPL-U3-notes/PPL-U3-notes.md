@@ -1,6 +1,5 @@
 %% Begin Waypoint %%
 - [PPL-Unit-3-Overview-From-Slides](./PPL-Unit-3-Overview-From-Slides.md)
-- [PPL-Unit-3.1-Overview](./PPL-Unit-3.1-Overview.md)
-- [PPL-Unit-3.2-Overview](./PPL-Unit-3.2-Overview.md)
+- [Sequence Control with basic statement](./Sequence%20Control%20with%20basic%20statement.md)
 
 %% End Waypoint %%

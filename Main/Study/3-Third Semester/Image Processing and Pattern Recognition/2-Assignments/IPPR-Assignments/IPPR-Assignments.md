@@ -5,7 +5,6 @@
 - [Confusion in Numerical of 4-Connected Components](./Confusion%20in%20Numerical%20of%204-Connected%20Components.md)
 - [Digital Image and its application](./Digital%20Image%20and%20its%20application.md)
 - [DIP - Key Stages with diagram](./DIP%20-%20Key%20Stages%20with%20diagram.md)
-- [Elements of Visual Perception-human eyes-image formation-brigthness-adaption](./Elements%20of%20Visual%20Perception-human%20eyes-image%20formation-brigthness-adaption.md)
 - [Expanded for this part](./Expanded%20for%20this%20part.md)
 - [Expanded u=4](./Expanded%20u=4.md)
 - [Explain a simple imaging model](./Explain%20a%20simple%20imaging%20model.md)

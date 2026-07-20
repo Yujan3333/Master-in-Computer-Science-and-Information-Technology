@@ -1,11 +1,13 @@
-
+#old-que #third-semester #PPL 
 ### 2083 My
 
 #### MidTerm
 ![](../../../../../Images/Third_Sem_Images/Old%20Questions-ppl-mid.jpeg)
 
 #### Preboard
+![](../../../../../Images/Third_Sem_Images/Old%20Questions%20-%20preboard-1.jpeg)
 
+- [PPL- Preboard Questions](PPL-Old%20Que/PPL-%20Preboard%20Questions.md)
 
 #### Board
 
