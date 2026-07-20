@@ -1,71 +1,27 @@
 #PPL #third-semester 
 
-# Unit 6(2.3): Inheritance (Exam-Focused Summary)
 
-This unit mainly covers:
-
-1. Inheritance
-2. Derived Classes
-3. Abstract Classes
-4. Objects and Messages
-5. Polymorphism
-
----
+# Unit 2.3: Inheritance 
 
 # 1. Inheritance
 
 ## Definition
 
-**Inheritance** is the mechanism by which one class acquires the properties (data) and methods (functions) of another class.
+**Inheritance** is the mechanism by which one class acquires the **properties (data members)** and **methods (functions)** of another class. It promotes **code reuse** and establishes an **"is-a" relationship** between classes.
 
-Simply,
-
-> **Inheritance = Child class gets properties and methods from Parent class.**
-
-It promotes **code reuse** because you don't have to rewrite common code.
+According to your slides, inheritance means **receiving in one program component the properties or characteristics of another program component because of a special relationship between them.**
 
 ---
 
-## General Idea
+## Inheritance in Block Structure
 
-Suppose every student has:
-
-* Name
-* Age
-* Address
-
-Instead of writing these in every class, create a parent class.
-
-```text
-          Person
-      ----------------
-      Name
-      Age
-      Address
-             ▲
-      ----------------
-      |              |
-   Student        Teacher
-```
-
-Student and Teacher automatically inherit:
-
-* Name
-* Age
-* Address
-
----
-
-# Early Form of Inheritance (Scope Rules)
-
-Before OOP, inheritance could be seen in **block-structured languages** like C through scope rules.
+Inheritance is not limited to OOP. An early form of inheritance appears in **block-structured programming languages** through **scope rules**.
 
 Example:
 
 ```c
 {
     int i, j;
-
     {
         float j, k;
         k = i + j;
@@ -75,58 +31,81 @@ Example:
 
 Here:
 
-* `i` is **not declared** in the inner block, so it is inherited from the outer block.
-* `j` is declared again in the inner block (`float j`), so the outer `int j` is **hidden (shadowed)**.
+* `i` is **inherited** from the outer block.
+* `j` of the outer block is **hidden** because the inner block declares another `j`.
+* `k` and inner `j` are local to the inner block.
 
-Thus:
-
-* `i` → inherited.
-* Outer `j` → blocked by inner `j`.
+This demonstrates **scope-based inheritance**.
 
 ---
 
-# Parent and Child Class
+## Inheritance in Object-Oriented Programming
+
+Inheritance is mainly used between **classes**.
 
 If
 
-```text
-A → B
+```
+A ⇒ B
 ```
 
 then
 
-* **A = Parent (Superclass/Base Class)**
-* **B = Child (Subclass/Derived Class)**
+* **A** = Parent class (Superclass/Base class)
+* **B** = Child class (Subclass/Derived class)
+
+Objects and methods of **A** become available in **B** unless they are redefined.
 
 Example:
 
 ```cpp
-class Animal      // Parent
+class Animal
 {
+public:
+    void eat(){}
 };
 
-class Dog : public Animal   // Child
+class Dog : public Animal
 {
+public:
+    void bark(){}
 };
 ```
 
-Dog automatically inherits members of Animal (subject to access rules).
+`Dog` inherits the method `eat()` from `Animal`.
+
+---
+
+## Parent and Child Class
+
+If
+
+```
+A ⇒ B
+```
+
+then
+
+* A = Parent (Superclass/Base class)
+* B = Child (Subclass/Derived class)
+
+A is called the **immediate ancestor** of B.
 
 ---
 
 # Types of Inheritance
 
-## A. Single Inheritance
+## Single Inheritance
 
-One child has only one parent.
+A child class has **only one parent class**.
 
-```text
+```
 Animal
    │
-  Dog
+ Dog
 ```
 
-Example:
+**Example**
 
 ```cpp
 class Dog : public Animal
@@ -134,42 +113,28 @@ class Dog : public Animal
 
 ---
 
-## B. Multiple Inheritance
+## Multiple Inheritance
 
-One child has multiple parents.
+A child class inherits from **more than one parent class**.
 
-```text
-Teacher      Researcher
-      \      /
-       \    /
-     Professor
+```
+      A
+     / \
+    B   C
+     \ /
+      D
 ```
 
-Example:
+Example
 
 ```cpp
-class Professor : public Teacher, public Researcher
+class D : public B, public C
 ```
 
-* Supported in **C++**.
-* **Not supported in Java** (Java uses interfaces instead).
+**Note**
 
----
-
-# Family Relationships
-
-```text
-         A
-       /   \
-      B     C
-       \
-        D
-```
-
-* A = Ancestor of B, C, D
-* B and C = Siblings
-* B = Immediate descendant of A
-* D = Descendant of A
+* Supported in **C++**
+* **Not supported directly in Java**
 
 ---
 
@@ -177,84 +142,44 @@ class Professor : public Teacher, public Researcher
 
 ## Definition
 
-A **Derived Class** (or Child/Subclass) is a class created from an existing class (Base Class).
+A **derived class** is a class created from an existing **base class**.
 
-It inherits properties and methods of the base class.
+It inherits:
 
-Example:
+* Data members
+* Member functions
 
-```cpp
-class Animal
-{
-public:
-    void eat() {}
-};
+It is also called
 
-class Dog : public Animal
-{
-public:
-    void bark() {}
-};
-```
-
-Dog inherits `eat()` and adds its own `bark()`.
+* Child class
+* Subclass
 
 ---
 
-## Characteristics
+### Characteristics
 
 * Reuses code from the base class.
 * Can add new members.
-* Can override inherited methods.
-* Public inherited members remain accessible to users (depending on inheritance mode).
+* Can redefine inherited functions.
+* Only **public inherited members** are visible to users.
 
 ---
 
-# Approaches to Inheritance
+## Inheritance Approaches
 
-## A. Copy-Based Approach
+### a) Copy-Based Inheritance
 
-Each object has its **own copy** of inherited data.
-
-```text
-Animal Object
--------------
-name
-age
-
-Dog Object
--------------
-name
-age
-breed
-```
-
-The inherited data is duplicated in each derived object.
+* Derived object stores **its own copy** of inherited data.
+* Every object has separate storage.
+* No sharing between base and derived objects.
 
 ---
 
-## B. Delegation-Based Approach
+### b) Delegation-Based Inheritance
 
-Derived objects **share** the base object's data instead of copying it.
-
-```text
-Dog
- │
- ▼
-Animal Data
-```
-
-Changes in the shared base data are reflected in derived objects.
-
----
-
-# Difference
-
-| Copy-Based              | Delegation-Based                   |
-| ----------------------- | ---------------------------------- |
-| Copies inherited data   | Shares inherited data              |
-| More memory used        | Less memory used                   |
-| Objects are independent | Objects depend on shared base data |
+* Derived object uses the **base object's storage**.
+* Data is **shared** instead of copied.
+* Changes in the base object may affect the derived object.
 
 ---
 
@@ -262,87 +187,50 @@ Changes in the shared base data are reflected in derived objects.
 
 ## Definition
 
-An **Abstract Class** is a class that **cannot be instantiated** (you cannot create objects directly from it).
+An **abstract class** is a class that **cannot be instantiated** (cannot create objects).
 
-It acts as a **template** for other classes.
-
-Simply,
-
-> **Abstract Class = Incomplete class used only for inheritance.**
+It serves only as a **template** or **base class** for other classes.
 
 ---
 
-## Example
+### Java
 
-```cpp
-class Animal
-{
-public:
-    virtual void sound() = 0;
-};
-```
-
-You cannot write:
-
-```cpp
-Animal a;   // Error
-```
-
-Instead,
-
-```cpp
-class Dog : public Animal
-{
-public:
-    void sound()
-    {
-        cout << "Bark";
-    }
-};
-```
-
-Now:
-
-```cpp
-Dog d;
-```
-
-is allowed.
-
----
-
-## Java
-
-Declared using:
+Declared using
 
 ```java
-abstract class Animal
+abstract class Shape
 ```
 
-Can contain:
+It may contain
 
-* Abstract methods (no body)
-* Normal methods (with body)
+* Abstract methods
+* Normal methods
 
 ---
 
-## C++
+### C++
 
-An abstract class contains **at least one pure virtual function**.
+Contains at least one **pure virtual function**.
 
-Example:
+Example
 
 ```cpp
-virtual void display() = 0;
+class Shape
+{
+public:
+    virtual void draw() = 0;
+};
 ```
+
+The `=0` indicates a **pure virtual function**.
 
 ---
 
-# Why Use Abstract Classes?
+## Why Abstract Class?
 
-* Define a common interface.
-* Force child classes to implement required methods.
-* Prevent creating incomplete objects.
+* Provides common structure.
+* Forces subclasses to implement required methods.
+* Prevents creation of incomplete objects.
 
 ---
 
@@ -350,74 +238,54 @@ virtual void display() = 0;
 
 ## Object
 
-An **Object** is an **instance of a class**.
+An **object** is an **instance of a class**.
 
-Example:
+Objects are created through **instantiation**.
+
+Example
 
 ```cpp
-Student s;
+Student s1;
 ```
 
-Here:
-
-* Class = Student
-* Object = s
+`s1` is an object.
 
 ---
 
 ## Instantiation
 
-The process of creating an object from a class.
-
-Example:
-
-```cpp
-Student s;
-```
-
-Instantiation creates the object `s`.
+Instantiation is the **process of creating an object** from a class.
 
 ---
 
 ## Message
 
-A **Message** is a **request sent to an object to execute one of its methods**.
+A **message** is a **request sent to an object** asking it to execute one of its methods.
 
-Example:
+A message contains:
+
+* Method name
+* Arguments
+
+Example
 
 ```cpp
-s.display();
+student.display();
+```
+
+Object:
+
+```
+student
 ```
 
 Message:
 
-```text
+```
 display()
 ```
 
-Receiver:
-
-```text
-s
-```
-
----
-
-## Message Contains
-
-1. Method name
-2. Arguments (if any)
-
-Example:
-
-```cpp
-student.calculateMarks(80);
-```
-
-Message contains:
-
-* Method: `calculateMarks`
-* Argument: `80`
+When the object receives the message, it invokes the corresponding method.
 
 ---
 
@@ -425,178 +293,170 @@ Message contains:
 
 ## Definition
 
-**Polymorphism** means **one interface, many forms**.
+**Polymorphism** means **"many forms."**
 
-The same function or operator behaves differently depending on the object or arguments.
-
-Simply,
-
-> **Same name, different behavior.**
+It allows the **same operator or function name** to perform **different operations** depending on the object or data type.
 
 ---
 
-# Types of Polymorphism
+## Types of Polymorphism
 
-```text
-          Polymorphism
-               │
-     ┌─────────┴─────────┐
-     │                   │
-Compile-Time        Run-Time
-```
+### A. Compile-Time Polymorphism (Static)
 
----
+Resolved by the compiler before execution.
 
-# A. Compile-Time Polymorphism (Static Polymorphism)
+Achieved through:
 
-The compiler decides **which function to call** during compilation.
+### Function Overloading
 
-Achieved by:
+Same function name
 
-1. Function Overloading
-2. Operator Overloading
-3. Templates
+Different parameter lists
 
----
-
-## Function Overloading
+Example
 
 ```cpp
-void show();
-void show(int);
+sum(int,int)
+sum(float,float)
 ```
-
-Compiler chooses the correct version based on the arguments.
 
 ---
 
-## Operator Overloading
+### Operator Overloading
 
-Operators gain new meanings for user-defined types.
+Operators receive new meanings for user-defined classes.
 
-Example:
+Example
+
+```
++
+-
+*
+```
+
+```md
+Complex1 + Complex2 = Complex3
+```
+
+---
+
+### Templates
+
+Templates allow writing **generic functions and classes**.
+
+Example
 
 ```cpp
-Complex c3 = c1 + c2;
+template<class T>
 ```
 
-The `+` operator is overloaded to add `Complex` objects.
+One function works for multiple data types.
 
 ---
 
-## Templates
+### B. Runtime Polymorphism (Dynamic)
 
-Templates let you write generic code.
+Resolved during program execution.
 
-Example:
+Achieved through
 
-```cpp
-template<typename T>
-T add(T a, T b)
-{
-    return a + b;
-}
-```
+### Method Overriding
 
-The same function works for `int`, `float`, `double`, etc.
+A derived class provides its **own implementation** of a base class method.
 
----
-
-# B. Run-Time Polymorphism (Dynamic Polymorphism)
-
-The method to execute is determined **during program execution**.
-
-Achieved by:
-
-* Method Overriding
-* Virtual Functions
-
----
-
-## Method Overriding
-
-The child class provides its own implementation of a parent method.
-
-Example:
+Example
 
 ```cpp
 class Animal
 {
 public:
-    virtual void sound()
-    {
-        cout << "Animal";
-    }
+    virtual void sound();
 };
 
 class Dog : public Animal
 {
 public:
-    void sound()
-    {
-        cout << "Bark";
-    }
+    void sound();
 };
 ```
 
-At runtime:
-
-```cpp
-Animal* a = new Dog();
-a->sound();
-```
-
-Output:
-
-```text
-Bark
-```
-
-The program decides at runtime that the object is a `Dog`.
+The correct method is selected **at runtime**.
 
 ---
 
-# Comparison of Compile-Time and Run-Time Polymorphism
+# Advantages of Inheritance
 
-| Compile-Time Polymorphism | Run-Time Polymorphism   |
-| ------------------------- | ----------------------- |
-| Static (Early Binding)    | Dynamic (Late Binding)  |
-| Decision at compile time  | Decision at runtime     |
-| Function overloading      | Method overriding       |
-| Operator overloading      | Virtual functions       |
-| Templates                 | Dynamic method dispatch |
-| Faster                    | Slightly slower         |
+* Code reuse
+* Easy maintenance
+* Extensibility
+* Supports hierarchical classification
+* Reduces code duplication
 
 ---
 
-# One-Page Exam Revision
+# Advantages of Polymorphism
 
-| Topic                        | Key Point                                                                           |
-| ---------------------------- | ----------------------------------------------------------------------------------- |
-| Inheritance                  | Mechanism by which a child class acquires properties and methods of a parent class. |
-| Parent/Superclass            | The class that provides inherited members.                                          |
-| Child/Subclass/Derived Class | The class that inherits from the parent.                                            |
-| Single Inheritance           | One parent and one child relationship.                                              |
-| Multiple Inheritance         | One child inherits from multiple parents (supported in C++, not Java).              |
-| Derived Class                | Reuses base class members and can add or override functionality.                    |
-| Copy-Based Inheritance       | Each derived object stores its own copy of inherited data.                          |
-| Delegation-Based Inheritance | Derived objects share the base object's data.                                       |
-| Abstract Class               | A class that cannot be instantiated and is meant to be inherited.                   |
-| Java Abstract Class          | Declared using the `abstract` keyword.                                              |
-| C++ Abstract Class           | Contains at least one pure virtual function (`= 0`).                                |
-| Object                       | An instance of a class.                                                             |
-| Instantiation                | The process of creating an object.                                                  |
-| Message                      | A request sent to an object to invoke one of its methods.                           |
-| Polymorphism                 | One interface with many implementations or behaviors.                               |
-| Compile-Time Polymorphism    | Achieved using function overloading, operator overloading, and templates.           |
-| Run-Time Polymorphism        | Achieved using method overriding and virtual functions.                             |
+* Flexibility
+* Easy code extension
+* Reusability
+* Dynamic behavior
+* Better maintainability
 
-## Memory Tricks
+---
 
-* **Inheritance** → *Child gets Parent's properties.*
-* **Derived Class** → *New class built from an existing class.*
-* **Abstract Class** → *Template class; no objects can be created directly.*
-* **Object** → *Instance of a class.*
-* **Message** → *Method call sent to an object.*
-* **Compile-Time Polymorphism** → *Overloading + Templates (compiler decides).*
-* **Run-Time Polymorphism** → *Overriding + Virtual Functions (runtime decides).*
+# Important Differences
+
+## Base Class vs Derived Class
+
+| Base Class       | Derived Class         |
+| ---------------- | --------------------- |
+| Parent class     | Child class           |
+| Provides members | Inherits members      |
+| Independent      | Depends on base class |
+
+---
+
+## Single vs Multiple Inheritance
+
+| Single        | Multiple         |
+| ------------- | ---------------- |
+| One parent    | Multiple parents |
+| Simple        | Complex          |
+| Java supports | C++ supports     |
+
+---
+
+## Compile-Time vs Runtime Polymorphism
+
+| **Compile-Time Polymorphism**                                                      | **Runtime Polymorphism**                                                  |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| ✅ Also called **Static Polymorphism** / *early binding*.                           | Also called **Dynamic Polymorphism**. / *late binding*                    |
+| ✅ The method/function is selected **before the program starts running**.           | The method/function is selected **while the program is running**.         |
+| ✅The **compiler** decides which function to call.                                  | The **program (runtime system)** decides which method to call.            |
+| ✅ Based on the **number and type of parameters**.                                  | Based on the **actual type of the object** at runtime.                    |
+| ✅ Achieved through **function overloading, operator overloading, and templates**.  | Achieved through **method overriding** (using virtual methods).           |
+| ✅ Faster because no decision is needed during execution.                           | Slightly slower because the decision is made during execution.            |
+| Example: `add(2,3)` → calls integer version; `add(2.5,3.5)` → calls float version. | Example: `Animal a = Dog`; `a.sound()` executes `Dog`'s `sound()` method. |
+| ✅ Less flexible                                                                    | More Flexible                                                             |
+
+
+
+---
+
+# Exam Tips (Very Important)
+
+Remember these one-line definitions:
+
+* **Inheritance:** Mechanism of acquiring properties of another class.
+* **Base Class:** Parent class that provides members.
+* **Derived Class:** Child class that inherits members.
+* **Abstract Class:** Class that cannot be instantiated.
+* **Object:** Instance of a class.
+* **Instantiation:** Process of creating an object.
+* **Message:** Request to invoke an object's method.
+* **Polymorphism:** One interface, many forms.
+* **Function Overloading:** Same function name with different parameters.
+* **Operator Overloading:** Giving new meaning to operators.
+* **Method Overriding:** Redefining a base class method in a derived class.
+
+This summary covers essentially all the examinable points from your Unit 2.3 slides while keeping the explanations concise and suitable for **5-mark and 10-mark TU exam answers**.
