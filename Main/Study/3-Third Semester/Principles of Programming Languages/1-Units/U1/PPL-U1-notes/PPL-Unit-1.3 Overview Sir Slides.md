@@ -1,8 +1,5 @@
-#PPL 
+#PPL #third-semester 
 
-Here's an **exam-focused summary** of **Unit 3: Language Translation Issues** based on your notes. I have highlighted the **most important definitions, comparisons, compiler phases, grammars, automata, and likely exam questions**. 
-
----
 
 # UNIT 3 – LANGUAGE TRANSLATION ISSUES (Exam Notes)
 
@@ -788,7 +785,7 @@ Accepted if **any path reaches final state.**
 
 ---
 
-# DFA vs NFA ⭐⭐⭐⭐
+# [DFA vs NFA](DFA%20vs%20NFA.md) ⭐⭐⭐⭐
 
 | DFA            | NFA                  |
 | -------------- | -------------------- |

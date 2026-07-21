@@ -1,8 +1,5 @@
 #PPL  #third-semester 
 
-This is the **second half of Unit 7**. It mainly covers **Subprogram Sequence Control**, **Recursion**, **Exception Handling**, **Coroutines**, and **Subprogram Scheduling**. These topics are often asked as **3–8 mark questions**. Here's an exam-focused, easy-to-understand summary.
-
----
 
 # Unit 7 (Part 2)- U4: Subprogram Sequence Control
 

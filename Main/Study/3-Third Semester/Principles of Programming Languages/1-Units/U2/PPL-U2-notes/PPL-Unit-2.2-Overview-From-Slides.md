@@ -280,6 +280,7 @@ Encapsulation.
 ---
 
 ## Benefits
+- [More Benefits of Encapsulation](More%20Benefits%20of%20Encapsulation.md)
 
 ### Better organization
 
@@ -307,12 +308,29 @@ Only affected modules need changes.
 
 # Difference Between Abstraction and Encapsulation
 
-| Abstraction                    | Encapsulation                   |
-| ------------------------------ | ------------------------------- |
-| Hides unnecessary details      | Wraps data and methods together |
-| Focuses on **what**            | Focuses on **how to organize**  |
-| Achieved using interfaces/ADTs | Achieved using classes/modules  |
-| Simplifies usage               | Improves organization           |
+| **Abstraction**                                                                     | **Encapsulation**                                                                                          |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| 1. Hides **implementation details**.                                                | Hides **data (internal state)**.                                                                           |
+| 2. Focuses on **what** an object does.                                              | Focuses on **how** data is protected.                                                                      |
+| 3. Provides only the **essential features** to the user.                            | Restricts **direct access** to data.                                                                       |
+| 4. Achieved using **Abstract Data Types (ADTs), abstract classes, and interfaces**. | Achieved using **classes** and **access modifiers** (`private`, `protected`, `public`).                    |
+| 5. Reduces the **complexity** of a system.                                          | Improves **security** and data integrity.                                                                  |
+| 6. Concerned with **design level** (interface).                                     | Concerned with **implementation level** (data protection).                                                 |
+| 7. Users know **what operations are available**, not how they work internally.      | Users access data only through **public methods** such as getters, setters, or other member functions.     |
+| 8. Example: A driver uses a car without knowing how the engine works.               | Example: A bank account's balance is private and can only be modified through `deposit()` or `withdraw()`. |
+
+
+
+### **Easy Memory Trick**
+
+| **Abstraction**         | **Encapsulation**     |
+| ----------------------- | --------------------- |
+| **What**                | **How**               |
+| Hide **implementation** | Hide **data**         |
+| Reduce **complexity**   | Increase **security** |
+| Interface               | Access control        |
+
+
 
 ---
 

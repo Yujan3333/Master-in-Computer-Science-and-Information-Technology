@@ -12,7 +12,7 @@
 
 ---
 
-### 🔹 2. Operation of a Computer
+### 🔹 2. [Operation of a Computer](Operation%20of%20a%20Computer.md)
 
 * A computer executes programs using **data + instructions**.
 * Key components:
@@ -44,7 +44,7 @@
 
 ### 🔹 4. Computer Architectures
 
-* **Von Neumann architecture**: programs + data stored in memory.
+* **[Von Neumann architecture](Von%20Neumann%20architecture.md)**: programs + data stored in memory.
 * **Multiprocessors**: multiple CPUs improve performance.
 
 ---
@@ -56,7 +56,7 @@
 
 ---
 
-### 🔹 6. Translators & Language Execution
+### 🔹 6. [Translators & Language Execution](Translators%20&%20Language%20Execution.md)
 
 Two main ways to run programs:
 
@@ -80,9 +80,19 @@ Two main ways to run programs:
 * **Interpreted** (Python-like): slower, executed step-by-step
 * **Java**: hybrid (bytecode + JVM)
 
+
+| Compiled Languages                             | Interpreted Languages                                                               |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Entire program is translated before execution. | Program is executed line by line.                                                   |
+| Produces machine code/executable.              | Produces intermediate code or executes directly.                                    |
+| Faster execution.                              | Slower execution.                                                                   |
+| Errors are reported after compilation.         | Errors are reported during execution.                                               |
+| Example: C, C++, Pascal, FORTRAN, Ada          | Example: Python, JavaScript (traditional model). Java uses a hybrid model with JVM. |
+
+
 ---
 
-### 🔹 8. Virtual Computer Hierarchy
+### 🔹 8. [Virtual Computer Hierarchy](Virtual%20Computer%20Hierarchy.md)
 
 * Programs run on layered systems:
 

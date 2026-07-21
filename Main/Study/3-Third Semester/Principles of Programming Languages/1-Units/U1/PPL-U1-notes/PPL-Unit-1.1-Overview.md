@@ -183,6 +183,10 @@ Ensures same behavior across compilers.
 * **Proprietary Standard** → Owned by company
 * **Consensus Standard** → Approved by groups like ANSI and ISO
 
+#### [3 issues in language standardization](3%20issues%20in%20language%20standardization.md)
+TCO
+
+
 ### Internationalization
 
 Supports global use:
@@ -205,15 +209,19 @@ A programming environment contains tools for software development.
 * Debugger
 * Verifier
 
-### Separate Compilation
+### [Effects on Language Design](Effects%20on%20Language%20Design.md)
+
+#### Separate Compilation
 
 Large programs are divided into modules and compiled separately.
 
-### Debugging Features
+#### Debugging Features
 
 * **Execution Trace** → Track variable changes
 * **Breakpoints** → Pause execution
 * **Assertions** → Conditions that must remain true
+
+### [Environmental Framework and JCL](Environmental%20Framework%20and%20JCL.md)
 
 ### Job Control Language (JCL)
 

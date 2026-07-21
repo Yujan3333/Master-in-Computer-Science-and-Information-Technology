@@ -245,6 +245,10 @@ A language that supports persistent data directly.
 
 A **Data Type** is a class of data objects together with the operations that can be performed on them.
 
+> [!info] A data type defines the type of data a variable can hold and the operations that can be performed on that data.
+
+
+
 Examples:
 
 * Integer
@@ -466,7 +470,7 @@ Uses global variables.
 
 ---
 
-### 3. Side Effects
+### 3. Side Effects (implicit results)
 
 Operation changes something outside itself.
 
@@ -601,6 +605,20 @@ Example (Perl):
 ```perl
 $x = 5;
 ```
+
+
+## Explicit vs Implicit
+
+| **Explicit Declaration**                                                  | **Implicit Declaration**                                                                           |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| 1. The **programmer explicitly specifies** the data type of the variable. | 1. The **compiler/interpreter automatically determines** the data type.                            |
+| 2. The variable **must be declared before use**.                          | 2. The variable can often be **used without prior declaration** (language-dependent).              |
+| 3. Gives the programmer **full control** over the variable's type.        | 3. The language **infers the type** from the assigned value or context.                            |
+| 4. Common in **C, C++, Java, C#**.                                        | 4. Common in **Python, Perl, JavaScript**, and languages with type inference (e.g., `var`/`auto`). |
+| 5. Reduces ambiguity and catches type-related errors early.               | 5. Makes code shorter but may hide type-related issues.                                            |
+| 6. Example: `int x = 5;`                                                  | 6. Example (Perl): `$x = 5;` or Python: `x = 5`                                                    |
+
+
 
 ---
 

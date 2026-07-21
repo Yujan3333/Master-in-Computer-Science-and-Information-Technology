@@ -5,17 +5,23 @@
 - [Programming Paradigms](PPL-U1-notes/Programming%20Paradigms.md)
 - [Language Standardization](PPL-U1-notes/Language%20Standardization.md)
 - [Programming Environments](PPL-U1-notes/Programming%20Environments.md)
-
+- [Imperative vs Declarative Paradigms](PPL-U1-notes/Imperative%20vs%20Declarative%20Paradigms.md)
+### [1.1 Imp Questions from slide](PPL-U1-notes/1.1%20Imp%20Questions%20from%20slide.md)
 ---
 # Unit 1.2
 - [PPL-Unit-1.2 Overview](PPL-U1-notes/PPL-Unit-1.2%20Overview.md)
+- [Impact of machine architecture on language design](PPL-U1-notes/Impact%20of%20machine%20architecture%20on%20language%20design.md)
+- [Operation of a Computer](PPL-U1-notes/Operation%20of%20a%20Computer.md)
+- [Different ways to construct a computer](PPL-U1-notes/Different%20ways%20to%20construct%20a%20computer.md)
+- [Differences in implementation of the same programming language](PPL-U1-notes/Differences%20in%20implementation%20of%20the%20same%20programming%20language.md)
+- [Virtual Computer Hierarchy](PPL-U1-notes/Virtual%20Computer%20Hierarchy.md)
 - [Binding Time](PPL-U1-notes/Binding%20Time.md)
 
 ---
 ### Unit 1.3
 - [PPL-Unit-1.3 Overview](PPL-U1-notes/PPL-Unit-1.3%20Overview.md)
 - [PPL-Unit-1.3 Overview Sir Slides](PPL-U1-notes/PPL-Unit-1.3%20Overview%20Sir%20Slides.md)
-- -blank-
+- ==-blank-==
 - [General Syntactic Criteria](PPL-U1-notes/General%20Syntactic%20Criteria.md)
 - [Syntatic Elements of a Language](PPL-U1-notes/Syntatic%20Elements%20of%20a%20Language.md)
 - [Overall Program - Subprogram Structure](PPL-U1-notes/Overall%20Program%20-%20Subprogram%20Structure.md)
