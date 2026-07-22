@@ -21,6 +21,7 @@
 ### Unit 3.2
 
 #### [PPL-U-3-Syllabus Overview](PPL-U3-notes/PPL-U-3-Syllabus%20Overview.md)
+- [Local vs Non Local referencing env](Local%20vs%20Non%20Local%20referencing%20env.md)
 
 
 ---

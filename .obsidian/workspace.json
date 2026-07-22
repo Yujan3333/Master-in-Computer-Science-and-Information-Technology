@@ -13,58 +13,73 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-Unit-3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PPL-Unit-1"
+              "title": "PPL-Unit-3"
             }
           },
           {
-            "id": "79231165845333d9",
+            "id": "4bc2ede9e44607ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Attribute Grammars.md",
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/Local vs Non Local referencing env.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Attribute Grammars"
+              "title": "Local vs Non Local referencing env"
             }
           },
           {
-            "id": "b7a373ff35348311",
+            "id": "043e1fe0e569c174",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Parsing Algorithm.md",
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Sequence Control with basic statement.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Parsing Algorithm"
+              "title": "Sequence Control with basic statement"
             }
           },
           {
-            "id": "065db7c94e3b166e",
+            "id": "02193ca9d6a88df0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.3 Overview Sir Slides.md",
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PPL-Unit-1.3 Overview Sir Slides"
+              "title": "PPL-Unit-3-Overview-From-Slides"
+            }
+          },
+          {
+            "id": "3dd10415472a69e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-U-3-Syllabus Overview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "PPL-U-3-Syllabus Overview"
             }
           }
         ],
@@ -179,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Attribute Grammars.md",
+                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/Local vs Non Local referencing env.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Attribute Grammars"
+              "title": "Outline of Local vs Non Local referencing env"
             }
           },
           {
@@ -207,8 +222,7 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,9 +243,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79231165845333d9",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/Local vs Non Local referencing env.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-Unit-3.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-U-3-Syllabus Overview.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Sequence Control with basic statement.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Sequencing with Arithmetic Expressions - Semantics for Expressions.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Que-From-Slides.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/PPL-Unit-4-Slides Overview.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-Unit-4.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Attribute Grammars.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Parsing Algorithm.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.3 Overview Sir Slides.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Stages in Translation.md",
@@ -244,19 +268,9 @@
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/PPL-Unit-2.2-Overview-From-Slides.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/PPL-Unit-2.1-Overview-From-Slides.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/Type Conversion vs Coercion.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-Unit-3.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Structured Sequence Control.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Sequence Control with basic statement.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-U-3-Syllabus Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-Unit-4.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/PPL-Unit-4-Slides Overview.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/Implementation of Coroutine.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/PPL-Unit-4 Syllabus.md",
-    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit-1/PDC--u1/Denotational Semantics.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Attribute Grammars.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Push Down Automata - PDA.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Regular Expressions.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Regular Grammars.md",
     "Images/Third_Sem_Images/Old Questions - preboard-1.jpeg",
     "Images/Third_Sem_Images/Old Questions - preboard.jpeg",
     "Images/Third_Sem_Images/Schnorr Identification Protocol.png",

@@ -7,6 +7,7 @@
 		- **[PPL-U2-notes](./1-Units/U2/PPL-U2-notes/PPL-U2-notes.md)**
 		- [PPL-Unit-2](./1-Units/U2/PPL-Unit-2.md)
 	- **U3**
+		- [Local vs Non Local referencing env](./1-Units/U3/Local%20vs%20Non%20Local%20referencing%20env.md)
 		- **[PPL-U3-notes](./1-Units/U3/PPL-U3-notes/PPL-U3-notes.md)**
 		- [PPL-Unit-3](./1-Units/U3/PPL-Unit-3.md)
 	- **U4**
