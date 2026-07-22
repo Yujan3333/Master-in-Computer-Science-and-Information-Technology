@@ -683,6 +683,7 @@ Example Identifier
 
 Shows derivation of sentence.
 
+```
 If parse tree exists
 
 ↓
@@ -694,6 +695,7 @@ Otherwise
 ↓
 
 Syntax Error
+```
 
 ---
 

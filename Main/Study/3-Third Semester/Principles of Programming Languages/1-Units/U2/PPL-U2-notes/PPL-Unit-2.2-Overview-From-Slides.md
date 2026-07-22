@@ -1,4 +1,4 @@
-#PPL #third-semester 
+ #PPL #third-semester 
 
 # Unit 2.2: Abstract Data Types (ADT) – Exam-Focused Summary
 

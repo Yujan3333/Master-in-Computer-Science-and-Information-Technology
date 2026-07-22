@@ -13,10 +13,10 @@
 - [Impact of machine architecture on language design](PPL-U1-notes/Impact%20of%20machine%20architecture%20on%20language%20design.md)
 - [Operation of a Computer](PPL-U1-notes/Operation%20of%20a%20Computer.md)
 - [Different ways to construct a computer](PPL-U1-notes/Different%20ways%20to%20construct%20a%20computer.md)
+- [VM Vs Software simulation](../U2/PPL-U2-notes/VM%20Vs%20Software%20simulation.md)
 - [Differences in implementation of the same programming language](PPL-U1-notes/Differences%20in%20implementation%20of%20the%20same%20programming%20language.md)
 - [Virtual Computer Hierarchy](PPL-U1-notes/Virtual%20Computer%20Hierarchy.md)
 - [Binding Time](PPL-U1-notes/Binding%20Time.md)
-
 ---
 ### Unit 1.3
 - [PPL-Unit-1.3 Overview](PPL-U1-notes/PPL-Unit-1.3%20Overview.md)

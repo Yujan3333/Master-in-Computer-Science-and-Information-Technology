@@ -459,4 +459,4 @@ Remember these one-line definitions:
 * **Operator Overloading:** Giving new meaning to operators.
 * **Method Overriding:** Redefining a base class method in a derived class.
 
-This summary covers essentially all the examinable points from your Unit 2.3 slides while keeping the explanations concise and suitable for **5-mark and 10-mark TU exam answers**.
+
