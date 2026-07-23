@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "ACrypto-Unit-5"
             }
+          },
+          {
+            "id": "63cd99e9af37245b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Blom Key Distribution Scheme.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Blom Key Distribution Scheme"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,11 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Blom Key Distribution Scheme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Blom Key Distribution Scheme"
             }
           },
           {
@@ -133,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/Local vs Non Local referencing env.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Blom Key Distribution Scheme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Local vs Non Local referencing env"
+              "title": "Outline of Blom Key Distribution Scheme"
             }
           },
           {
@@ -184,6 +201,13 @@
   },
   "active": "09b920776c3dde42",
   "lastOpenFiles": [
+    "Images/Third_Sem_Images/Blom Key Distribution Scheme-5.png",
+    "Images/Third_Sem_Images/Blom Key Distribution Scheme-4.png",
+    "Images/Third_Sem_Images/Blom Key Distribution Scheme-3.png",
+    "Images/Third_Sem_Images/Blom Key Distribution Scheme-2.png",
+    "Images/Third_Sem_Images/Blom Key Distribution Scheme-1.png",
+    "Images/Third_Sem_Images/Blom Key Distribution Scheme.png",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Blom Key Distribution Scheme.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-5.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-U-3-Syllabus Overview.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
@@ -208,8 +232,6 @@
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/PPL-Unit-2.2-Overview-From-Slides.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/PPL-Unit-2.1-Overview-From-Slides.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/Type Conversion vs Coercion.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Structured Sequence Control.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/Implementation of Coroutine.md",
     "Images/Third_Sem_Images/Old Questions - preboard-1.jpeg",
     "Images/Third_Sem_Images/Old Questions - preboard.jpeg",
     "Images/Third_Sem_Images/Schnorr Identification Protocol.png",
@@ -225,11 +247,6 @@
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U6/RGIS-U6-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U6",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U7/RGIS-U7-n",
-    "Images/Third_Sem_Images/IPPR Old Questions-midterm.jpeg",
-    "Images/Third_Sem_Images/EL Gamal Cryptographic System.png",
-    "Images/Third_Sem_Images/RSA.png",
-    "Images/Third_Sem_Images/Blowfish2.png",
-    "Images/Third_Sem_Images/Blowfish-fig.png",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
