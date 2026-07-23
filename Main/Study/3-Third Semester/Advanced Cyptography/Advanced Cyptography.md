@@ -15,6 +15,9 @@
 	- **U-5**
 		- **[ACrypto-U5-notes](./1-Units/U-5/ACrypto-U5-notes/ACrypto-U5-notes.md)**
 		- [ACrypto-Unit-5](./1-Units/U-5/ACrypto-Unit-5.md)
+		- [Cryptographic Key Infrastructures](./1-Units/U-5/Cryptographic%20Key%20Infrastructures.md)
+		- [Key Generation](./1-Units/U-5/Key%20Generation.md)
+		- [Storing and Revoking of Keys](./1-Units/U-5/Storing%20and%20Revoking%20of%20Keys.md)
 	- **U-6**
 		- **[ACrypto-U6-notes](./1-Units/U-6/ACrypto-U6-notes/ACrypto-U6-notes.md)**
 		- [ACrypto-Unit-6](./1-Units/U-6/ACrypto-Unit-6.md)

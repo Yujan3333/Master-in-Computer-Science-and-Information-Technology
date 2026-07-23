@@ -23,18 +23,48 @@
             }
           },
           {
-            "id": "63cd99e9af37245b",
+            "id": "33ad7b921eab3f8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Blom Key Distribution Scheme.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Storing and Revoking of Keys.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Blom Key Distribution Scheme"
+              "title": "Storing and Revoking of Keys"
+            }
+          },
+          {
+            "id": "171a290cbf295b09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Cryptographic Key Infrastructures.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cryptographic Key Infrastructures"
+            }
+          },
+          {
+            "id": "9288937d8aae65d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Key Generation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Key Generation"
             }
           }
         ],
@@ -121,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Blom Key Distribution Scheme.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Storing and Revoking of Keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Blom Key Distribution Scheme"
+              "title": "Outgoing links from Storing and Revoking of Keys"
             }
           },
           {
@@ -150,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Blom Key Distribution Scheme.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Storing and Revoking of Keys.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Blom Key Distribution Scheme"
+              "title": "Outline of Storing and Revoking of Keys"
             }
           },
           {
@@ -201,14 +231,26 @@
   },
   "active": "09b920776c3dde42",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Cryptographic Key Infrastructures.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Key Generation.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-5.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Storing and Revoking of Keys.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-Unit-5-Overview.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Simple Key Exchange Protocol.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Kerberos.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Otway-Rees Protocol.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Timestamp Replaces Nonce in Denning sacco.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Needham-Schoedar Protocol.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Denning-Sacco Protocol.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Needham-Schroeder In terms of Video.md",
+    "Images/Third_Sem_Images/Needham-Schroeder In terms of Video.png",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Blom Key Distribution Scheme.md",
     "Images/Third_Sem_Images/Blom Key Distribution Scheme-5.png",
     "Images/Third_Sem_Images/Blom Key Distribution Scheme-4.png",
     "Images/Third_Sem_Images/Blom Key Distribution Scheme-3.png",
     "Images/Third_Sem_Images/Blom Key Distribution Scheme-2.png",
     "Images/Third_Sem_Images/Blom Key Distribution Scheme-1.png",
     "Images/Third_Sem_Images/Blom Key Distribution Scheme.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Blom Key Distribution Scheme.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-5.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-U-3-Syllabus Overview.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Sequence Control with basic statement.md",
@@ -222,21 +264,9 @@
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Attribute Grammars.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Parsing Algorithm.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.3 Overview Sir Slides.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Stages in Translation.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.2 Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/VM Vs Software simulation.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-Unit-2.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.1-Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/PPL-Unit-2.3-Overview-From-Slides.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/Abstract Datatypes.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/PPL-Unit-2.2-Overview-From-Slides.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/PPL-Unit-2.1-Overview-From-Slides.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/Type Conversion vs Coercion.md",
     "Images/Third_Sem_Images/Old Questions - preboard-1.jpeg",
     "Images/Third_Sem_Images/Old Questions - preboard.jpeg",
     "Images/Third_Sem_Images/Schnorr Identification Protocol.png",
-    "Images/Third_Sem_Images/Primitive Root.png",
-    "Images/Third_Sem_Images/Fuzzy Systems - Preboard.jpeg",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3/RGIS-U3-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3",
