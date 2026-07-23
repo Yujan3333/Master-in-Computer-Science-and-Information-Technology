@@ -4,86 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "ee11b279ee4f9bf2",
+        "id": "86db9324d4142e0b",
         "type": "tabs",
         "children": [
           {
-            "id": "adf8ca5c99ae8bdf",
+            "id": "612e70fec89d35bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-Unit-3.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "PPL-Unit-3"
-            }
-          },
-          {
-            "id": "4bc2ede9e44607ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/Local vs Non Local referencing env.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Local vs Non Local referencing env"
-            }
-          },
-          {
-            "id": "043e1fe0e569c174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Sequence Control with basic statement.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Sequence Control with basic statement"
-            }
-          },
-          {
-            "id": "02193ca9d6a88df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "PPL-Unit-3-Overview-From-Slides"
-            }
-          },
-          {
-            "id": "3dd10415472a69e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-U-3-Syllabus Overview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "PPL-U-3-Syllabus Overview"
+              "title": "ACrypto-Unit-5"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,11 +184,12 @@
   },
   "active": "09b920776c3dde42",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-5.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-U-3-Syllabus Overview.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Sequence Control with basic statement.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/Local vs Non Local referencing env.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-Unit-3.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-U-3-Syllabus Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Sequence Control with basic statement.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Sequencing with Arithmetic Expressions - Semantics for Expressions.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Que-From-Slides.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
@@ -270,7 +210,6 @@
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U2/PPL-U2-notes/Type Conversion vs Coercion.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Structured Sequence Control.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/Implementation of Coroutine.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/PPL-Unit-4 Syllabus.md",
     "Images/Third_Sem_Images/Old Questions - preboard-1.jpeg",
     "Images/Third_Sem_Images/Old Questions - preboard.jpeg",
     "Images/Third_Sem_Images/Schnorr Identification Protocol.png",
