@@ -6,7 +6,6 @@
 	- **U-2**
 		- **[ACrypto-U2-notes](./1-Units/U-2/ACrypto-U2-notes/ACrypto-U2-notes.md)**
 		- [ACrypto-Unit-2](./1-Units/U-2/ACrypto-Unit-2.md)
-		- [Group - Field - Ring](./1-Units/U-2/Group%20-%20Field%20-%20Ring.md)
 	- **U-3**
 		- **[ACrypto-U3-notes](./1-Units/U-3/ACrypto-U3-notes/ACrypto-U3-notes.md)**
 		- [ACrypto-Unit-3](./1-Units/U-3/ACrypto-Unit-3.md)
