@@ -26,5 +26,8 @@
 ![](../../../../../Images/Third_Sem_Images/AC%20-%20Old%20Questions-2080.png)
 ![](../../../../../Images/Third_Sem_Images/AC%20-%20Old%20Questions-2080-1.png)
 
+  5. $Z_6$ is not a field but $Z_7$, why? Explain your answer with the properties of a field.
+	  - [Z_6 is not a field but Z_7 is ](AC-Old%20Que/Z_6%20is%20not%20a%20field%20but%20Z_7%20is%20.md)
+
 ---
 

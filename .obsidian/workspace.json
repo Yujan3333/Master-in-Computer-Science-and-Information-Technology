@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "6a7cbdb2224b10fd",
+        "id": "3b6817942928861a",
         "type": "tabs",
         "children": [
           {
-            "id": "6c1a9526e5caf8f6",
+            "id": "67695a1c35b009b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-Unit-4.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-Unit-2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ACrypto-Unit-4"
-            }
-          },
-          {
-            "id": "efedd33d4264be00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/Random Oracle Method.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Random Oracle Method"
-            }
-          },
-          {
-            "id": "d13c274123d83b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/ACrypto-Unit-4-Overview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ACrypto-Unit-4-Overview"
+              "title": "ACrypto-Unit-2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -165,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/Random Oracle Method.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-Unit-2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Random Oracle Method"
+              "title": "Outline of ACrypto-Unit-2"
             }
           },
           {
@@ -193,8 +162,7 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,44 +183,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efedd33d4264be00",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/Random Oracle Method.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/Blowfish.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/Galios Field.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-Unit-2.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/Group - Field - Ring.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/Z_6 is not a field but Z_7 is .md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC - Old Questions.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/IDEA.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/Cryptanalysis of DES.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-Unit-3.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-Unit-4.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/Authenticated Encryption.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/DAA.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/Digital Signatures .md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/ACrypto-Unit-4-Overview.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/Digital Signatures .md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/HMAC.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/CBC‐MAC .md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/Nested MAC.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/Message Authentication Codes.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/SHA-512.md",
+    "Images/Third_Sem_Images/SHA TABLE.png",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/Iterated Hash Function Merkle–Damgård Construction.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/Random Oracle Method.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/Message Authentication.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/Hash Function and Data Integrity.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-Unit-3.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Digital Signatures using ECC.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Digital Signatures using ECC- shorter.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/El Gamal Digital Signature.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/El Gamal DS - Shorter.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/EL Gamal Cryptographic System.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/ACrypto-Unit-3-Overview.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Basic Fact of Elliptic Curves.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/zero point of an elliptic curve.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Elliptic Curves.md",
     "Images/Third_Sem_Images/Elliptic Curves-3.png",
     "Images/Third_Sem_Images/Elliptic Curves-encrp.png",
     "Images/Third_Sem_Images/Elliptic Curves-2.png",
     "Images/Third_Sem_Images/Elliptic Curves-1.png",
     "Images/Third_Sem_Images/Elliptic Curves.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Chinese Remainder Theorem.md",
     "Images/Third_Sem_Images/Chinese Remainder Theorem.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/The Discrete Logarithm Problem.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Log concept in Discrete Log Problem.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Rabin Cryptosystem.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/RSA.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC - Old Questions.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/Perfect Secrecy-Shift Cipher Achieves Perfect Secrecy.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/Old Questions.md",
     "Images/Third_Sem_Images/AC - Old Questions-2080-1.png",
     "Images/Third_Sem_Images/AC - Old Questions-2080.png",
     "Images/Third_Sem_Images/AC - Old Questions-2081-1.png",
-    "Images/Third_Sem_Images/AC - Old Questions-2081.png",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3/RGIS-U3-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3",

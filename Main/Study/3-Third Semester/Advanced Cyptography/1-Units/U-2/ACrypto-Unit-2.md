@@ -4,12 +4,15 @@
 
 ---
 - [Fiestal Cipher Structure](../U-1/ACrypto-U-1-notes/Fiestal%20Cipher%20Structure.md)
-
+- [Group - Field - Ring](Group%20-%20Field%20-%20Ring.md)
+- [Galios Field](ACrypto-U2-notes/Galios%20Field.md)
 ---
+
 ### DES
 - [Cryptanalysis of DES](ACrypto-U2-notes/Cryptanalysis%20of%20DES.md)
 - Linear Cryptoanalysis
 - Differential Cryptoanalysis
+
 
 ---
 ### AES

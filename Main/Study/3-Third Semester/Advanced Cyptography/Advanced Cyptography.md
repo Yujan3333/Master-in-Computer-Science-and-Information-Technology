@@ -6,14 +6,13 @@
 	- **U-2**
 		- **[ACrypto-U2-notes](./1-Units/U-2/ACrypto-U2-notes/ACrypto-U2-notes.md)**
 		- [ACrypto-Unit-2](./1-Units/U-2/ACrypto-Unit-2.md)
+		- [Group - Field - Ring](./1-Units/U-2/Group%20-%20Field%20-%20Ring.md)
 	- **U-3**
 		- **[ACrypto-U3-notes](./1-Units/U-3/ACrypto-U3-notes/ACrypto-U3-notes.md)**
 		- [ACrypto-Unit-3](./1-Units/U-3/ACrypto-Unit-3.md)
 	- **U-4**
 		- **[ACrypto-U4-notes](./1-Units/U-4/ACrypto-U4-notes/ACrypto-U4-notes.md)**
 		- [ACrypto-Unit-4](./1-Units/U-4/ACrypto-Unit-4.md)
-		- [Digital Signatures ](./1-Units/U-4/Digital%20Signatures%20.md)
-		- [Random Oracle Method](./1-Units/U-4/Random%20Oracle%20Method.md)
 	- **U-5**
 		- **[ACrypto-U5-notes](./1-Units/U-5/ACrypto-U5-notes/ACrypto-U5-notes.md)**
 		- [ACrypto-Unit-5](./1-Units/U-5/ACrypto-Unit-5.md)
