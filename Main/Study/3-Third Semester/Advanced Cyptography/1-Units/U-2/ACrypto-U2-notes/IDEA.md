@@ -1,5 +1,6 @@
 #advanced-cryptography #third-semester 
 
+- [IDEA](https://www.youtube.com/watch?v=iOE_3GW0njg)
 # IDEA (International Data Encryption Algorithm)
 
 **IDEA** stands for **International Data Encryption Algorithm**.
@@ -25,6 +26,7 @@ It is a **symmetric-key block cipher** designed to provide strong encryption and
 | Number of Rounds | 8 full rounds + 1 output transformation (half round) |
 | Developed        | 1991                                                 |
 | Designers        | Xuejia Lai and James Massey                          |
+![](../../../../../../../Images/Third_Sem_Images/IDEA.png)
 
 ---
 
@@ -66,6 +68,12 @@ Plaintext (64 bits)
         ▼
 Ciphertext (64 bits)
 ```
+
+# Single Round Details
+
+![](../../../../../../../Images/Third_Sem_Images/IDEA-single%20round.png)
+
+![](../../../../../../../Images/Third_Sem_Images/IDEA-halfround.png)
 
 ---
 
@@ -121,6 +129,7 @@ These subkeys are used throughout the encryption process.
 ---
 
 ## Step 3: Perform 8 Rounds
+
 
 Each round uses **6 subkeys** and performs several mathematical operations.
 
