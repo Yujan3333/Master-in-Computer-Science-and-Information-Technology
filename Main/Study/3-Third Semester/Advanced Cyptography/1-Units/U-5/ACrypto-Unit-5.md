@@ -42,6 +42,7 @@ Key Management
 
 ---
 ### Session Key Exchange Protocols 
+- [Mutual Authentication in key exchange](ACrypto-U5-notes/Mutual%20Authentication%20in%20key%20exchange.md)
 
 #### [Simple Key Exchange Protocol](ACrypto-U5-notes/Simple%20Key%20Exchange%20Protocol.md)
 
@@ -54,6 +55,6 @@ Key Management
 #### [Otway-Rees Protocol](ACrypto-U5-notes/Otway-Rees%20Protocol.md)
 ---
 
-### [Key Generation](Key%20Generation.md)
-### [Cryptographic Key Infrastructures](Cryptographic%20Key%20Infrastructures.md)
-### [Storing and Revoking of Keys](Storing%20and%20Revoking%20of%20Keys.md)
+### [Key Generation](ACrypto-U5-notes/Key%20Generation.md)
+### [Cryptographic Key Infrastructures](ACrypto-U5-notes/Cryptographic%20Key%20Infrastructures.md)
+### [Storing and Revoking of Keys](ACrypto-U5-notes/Storing%20and%20Revoking%20of%20Keys.md)

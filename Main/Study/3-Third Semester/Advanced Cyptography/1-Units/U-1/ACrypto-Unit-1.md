@@ -87,3 +87,6 @@ Symmetric Encryption are known as Conventional Encryption and is of 2 types
 	- [Passive VS Active Attacks](ACrypto-U-1-notes/Passive%20VS%20Active%20Attacks.md)
 
 ---
+
+- [Perfect Secrecy-Shift Cipher Achieves Perfect Secrecy](../../3-Questions/AC-Old%20Que/Perfect%20Secrecy-Shift%20Cipher%20Achieves%20Perfect%20Secrecy.md)
+

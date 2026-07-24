@@ -1,9 +1,5 @@
 #advanced-cryptography #third-semester 
 
-Below is an **exam-focused, easy-to-understand summary** of **Unit 3: Public Key Cryptography and Discrete Logarithms**. I've simplified each topic while keeping the important points for exams.
-
----
-
 # Unit 3: Public Key Cryptography and Discrete Logarithms
 
 ## 1. Principles of Public-Key Cryptosystems

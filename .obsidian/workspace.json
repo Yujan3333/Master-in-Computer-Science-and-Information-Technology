@@ -4,67 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "86db9324d4142e0b",
+        "id": "6a7cbdb2224b10fd",
         "type": "tabs",
         "children": [
           {
-            "id": "612e70fec89d35bd",
+            "id": "6c1a9526e5caf8f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-5.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-Unit-4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ACrypto-Unit-5"
+              "title": "ACrypto-Unit-4"
             }
           },
           {
-            "id": "33ad7b921eab3f8f",
+            "id": "efedd33d4264be00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Storing and Revoking of Keys.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/Random Oracle Method.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Storing and Revoking of Keys"
+              "title": "Random Oracle Method"
             }
           },
           {
-            "id": "171a290cbf295b09",
+            "id": "d13c274123d83b41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Cryptographic Key Infrastructures.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/ACrypto-Unit-4-Overview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cryptographic Key Infrastructures"
-            }
-          },
-          {
-            "id": "9288937d8aae65d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Key Generation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Key Generation"
+              "title": "ACrypto-Unit-4-Overview"
             }
           }
         ],
@@ -151,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Storing and Revoking of Keys.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Denning-Sacco Protocol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Storing and Revoking of Keys"
+              "title": "Outgoing links from Denning-Sacco Protocol"
             }
           },
           {
@@ -180,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Storing and Revoking of Keys.md",
+                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/Random Oracle Method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Storing and Revoking of Keys"
+              "title": "Outline of Random Oracle Method"
             }
           },
           {
@@ -208,7 +193,8 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -229,44 +215,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "efedd33d4264be00",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Cryptographic Key Infrastructures.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Key Generation.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-5.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/Storing and Revoking of Keys.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/ACrypto-Unit-5-Overview.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Simple Key Exchange Protocol.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Kerberos.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Otway-Rees Protocol.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Timestamp Replaces Nonce in Denning sacco.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Needham-Schoedar Protocol.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Denning-Sacco Protocol.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Needham-Schroeder In terms of Video.md",
-    "Images/Third_Sem_Images/Needham-Schroeder In terms of Video.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-U5-notes/Blom Key Distribution Scheme.md",
-    "Images/Third_Sem_Images/Blom Key Distribution Scheme-5.png",
-    "Images/Third_Sem_Images/Blom Key Distribution Scheme-4.png",
-    "Images/Third_Sem_Images/Blom Key Distribution Scheme-3.png",
-    "Images/Third_Sem_Images/Blom Key Distribution Scheme-2.png",
-    "Images/Third_Sem_Images/Blom Key Distribution Scheme-1.png",
-    "Images/Third_Sem_Images/Blom Key Distribution Scheme.png",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-U-3-Syllabus Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Overview-From-Slides.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Sequence Control with basic statement.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/Local vs Non Local referencing env.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-Unit-3.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/Sequencing with Arithmetic Expressions - Semantics for Expressions.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U3/PPL-U3-notes/PPL-Unit-3-Que-From-Slides.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/Random Oracle Method.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-Unit-4.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/ACrypto-Unit-4-Overview.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/Digital Signatures .md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/Message Authentication.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/Hash Function and Data Integrity.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-Unit-3.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Digital Signatures using ECC.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Digital Signatures using ECC- shorter.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/El Gamal Digital Signature.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/El Gamal DS - Shorter.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/EL Gamal Cryptographic System.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/ACrypto-Unit-3-Overview.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Basic Fact of Elliptic Curves.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/zero point of an elliptic curve.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Elliptic Curves.md",
+    "Images/Third_Sem_Images/Elliptic Curves-3.png",
+    "Images/Third_Sem_Images/Elliptic Curves-encrp.png",
+    "Images/Third_Sem_Images/Elliptic Curves-2.png",
+    "Images/Third_Sem_Images/Elliptic Curves-1.png",
+    "Images/Third_Sem_Images/Elliptic Curves.png",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Chinese Remainder Theorem.md",
+    "Images/Third_Sem_Images/Chinese Remainder Theorem.png",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/The Discrete Logarithm Problem.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Log concept in Discrete Log Problem.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Rabin Cryptosystem.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/RSA.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC - Old Questions.md",
     "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-Unit-1.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-U4-notes/PPL-Unit-4-Slides Overview.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U4/PPL-Unit-4.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Attribute Grammars.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/Parsing Algorithm.md",
-    "Main/Study/3-Third Semester/Principles of Programming Languages/1-Units/U1/PPL-U1-notes/PPL-Unit-1.3 Overview Sir Slides.md",
-    "Images/Third_Sem_Images/Old Questions - preboard-1.jpeg",
-    "Images/Third_Sem_Images/Old Questions - preboard.jpeg",
-    "Images/Third_Sem_Images/Schnorr Identification Protocol.png",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/Perfect Secrecy-Shift Cipher Achieves Perfect Secrecy.md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/Old Questions.md",
+    "Images/Third_Sem_Images/AC - Old Questions-2080-1.png",
+    "Images/Third_Sem_Images/AC - Old Questions-2080.png",
+    "Images/Third_Sem_Images/AC - Old Questions-2081-1.png",
+    "Images/Third_Sem_Images/AC - Old Questions-2081.png",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3/RGIS-U3-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3",

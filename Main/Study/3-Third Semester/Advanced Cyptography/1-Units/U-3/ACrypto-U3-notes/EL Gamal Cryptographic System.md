@@ -1,4 +1,4 @@
-#advanced-cryptography #third-semester 
+#advanced-cryptography #third-semester #el-gamal 
 
 # ElGamal Cryptographic System (Easy & Exam-Focused)
 

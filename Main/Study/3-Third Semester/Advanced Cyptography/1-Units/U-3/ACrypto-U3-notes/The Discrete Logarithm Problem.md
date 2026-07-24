@@ -1,4 +1,6 @@
-#advanced-cryptography #third-semester 
+#advanced-cryptography #third-semester #discrete-log-problem 
+
+- [ Log concept in Discrete Log Problem](%20Log%20concept%20in%20Discrete%20Log%20Problem.md)
 
 # Discrete Logarithm Problem (DLP) – Easy & Exam-Focused Explanation
 
