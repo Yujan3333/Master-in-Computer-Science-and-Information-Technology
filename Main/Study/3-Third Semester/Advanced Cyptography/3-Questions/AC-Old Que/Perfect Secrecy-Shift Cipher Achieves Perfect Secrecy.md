@@ -1,5 +1,6 @@
-#advanced-cryptography #third-semester #exam-paper-answer 
+#advanced-cryptography #third-semester #exam-paper-answer #perfect-secrecy 
 
+- [Perfect Secrecy in Shift Cipher - Shorter](Perfect%20Secrecy%20in%20Shift%20Cipher%20-%20Shorter.md)
 # Q. Define Perfect Secrecy. Prove that the Shift cipher achieves perfect secrecy for any plaintext probability distribution. **[4+6]**
 
 ## Answer

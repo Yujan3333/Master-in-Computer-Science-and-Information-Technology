@@ -2,11 +2,17 @@
  
  - [Playlist for Cryptography](https://www.youtube.com/watch?v=9X1rSWLFhLY&list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8)
 
+- [Cryptography](ACrypto-U-1-notes/Cryptography.md)
+- [Perfect Secrecy Numerical](../../3-Questions/AC-Old%20Que/Perfect%20Secrecy%20Numerical.md)
+- [Elementary Probability Theory](ACrypto-U-1-notes/Elementary%20Probability%20Theory.md)
+
 ---
 - [ACrypto-Unit-1 Overview](ACrypto-U-1-notes/ACrypto-Unit-1%20Overview.md)
 - [Shanon Theory](ACrypto-U-1-notes/Shanon%20Theory.md)
 - [Evaluation of Cryptosystems and Entropy](ACrypto-U-1-notes/Evaluation%20of%20Cryptosystems%20and%20Entropy.md)
 
+- Shift Cipher
+	- Caesar Cipher - Special condition where shift is 3
 - [Substitution Cipher](ACrypto-U-1-notes/Substitution%20Cipher.md)
 
 - [Affine Cipher](ACrypto-U-1-notes/Affine%20Cipher.md)
@@ -24,10 +30,10 @@
 - [Permutation Cipher](ACrypto-U-1-notes/Permutation%20Cipher.md)
 	- [Cryptoanalysis of permutation cipher](ACrypto-U-1-notes/Cryptoanalysis%20of%20permutation%20cipher.md)
 ---
-### [Cryptoanalysis](ACrypto-U-1-notes/Cryptoanalysis.md)
-- It is a technique of decoding ciphertext to plaintext without knowing the secret key
-###### Cryptology
+### Cryptology
 - Cryptography + Cryptoanalysis
+#### [Cryptoanalysis](ACrypto-U-1-notes/Cryptoanalysis.md)
+- It is a technique of decoding ciphertext to plaintext without knowing the secret key
 ###### [Steganography](ACrypto-U-1-notes/Steganography.md)
 Steganography is the art of hiding secret information inside another medium (image, audio, video, or text) so that the existence of the message is concealed.
 

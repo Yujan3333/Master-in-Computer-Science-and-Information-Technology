@@ -9,14 +9,14 @@
 - [Congruence](ACrypto-U2-notes/Congruence.md)
 ---
 
-### DES
+### [DES](ACrypto-U2-notes/DES.md)
 - [Cryptanalysis of DES](ACrypto-U2-notes/Cryptanalysis%20of%20DES.md)
 - Linear Cryptoanalysis
 - Differential Cryptoanalysis
 
 
 ---
-### AES
+### [AES](ACrypto-U2-notes/AES.md)
 
 
 ---
@@ -29,7 +29,7 @@
 
 
 ---
-- [Stream Cipher](../U-1/ACrypto-U-1-notes/Stream%20Cipher.md)
+### [Stream Cipher](../U-1/ACrypto-U-1-notes/Stream%20Cipher.md)
 
 - [Synchronous Stream Cipher](../U-1/ACrypto-U-1-notes/Synchronous%20Stream%20Cipher.md)
 	- [Linear Feedback Shift Register (LFSR)](../U-1/ACrypto-U-1-notes/Linear%20Feedback%20Shift%20Register%20(LFSR).md)
