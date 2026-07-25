@@ -10,6 +10,14 @@
 
 ---
 ### Previous Year
+2071
+- Q. Explain the importance of the probabilities of occurrence of the letters, digrams and trigrams with suitable examples. [10 Marks]
+- [Prob of occurence of letters digrams trigrams](AC-Old%20Que/Prob%20of%20occurence%20of%20letters%20digrams%20trigrams.md)
+
+2078
+7.How ELGamal Digital Signature Scheme generates signature?
+
+
 #### [ACrypto-2082](AC-Old%20Que/ACrypto-2082.md)
 ![](../../../../../Images/Third_Sem_Images/AC%20-%20Old%20Questions-2082.png)
 ![](../../../../../Images/Third_Sem_Images/AC%20-%20Old%20Questions-2082-2.png)
@@ -38,7 +46,12 @@
 	- [Log mod numerical](AC-Old%20Que/Log%20mod%20numerical.md)
 
 ---
+#### Acrypto-2078
+![](../../../../../Images/Third_Sem_Images/AC%20-%20Old%20Questions-2078.png)
+- 7. How ELGamal Digital Signature Scheme generates signature?
 
+
+---
 #### ACrypto-2074
 
 ![](../../../../../Images/Third_Sem_Images/AC%20-%20Old%20Questions.png)
@@ -49,3 +62,6 @@
 
 ![](../../../../../Images/Third_Sem_Images/AC%20-%20Old%20Questions-2083.png)
 - [Strong Vs Weak Collision](AC-Old%20Que/Strong%20Vs%20Weak%20Collision.md)
+
+
+---

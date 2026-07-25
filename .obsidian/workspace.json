@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5af04f011da56f9f",
+        "id": "769c510c4606bf84",
         "type": "tabs",
         "children": [
           {
-            "id": "ec7172252fc729ba",
+            "id": "07c5f226bd983e81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-Unit-6.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ACrypto-Unit-6"
-            }
-          },
-          {
-            "id": "a07d0e6ed9ea56e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-Unit-6-Overview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "ACrypto-Unit-6-Overview"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,13 +129,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-Unit-6-Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ACrypto-Unit-6-Overview"
+              "title": "Outline"
             }
           },
           {
@@ -199,13 +177,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a07d0e6ed9ea56e5",
+  "active": "09b920776c3dde42",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-Unit-3.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC - Old Questions.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/Prob of occurence of letters digrams trigrams.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Digital Signatures using ECC.md",
+    "Images/Third_Sem_Images/AC - Old Questions-2078.png",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/Strong Vs Weak Collision.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/El Gamal Digital Signature.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Digital Signatures using ECC- shorter.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/EL Gamal Cryptographic System.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/Chinese Remainder Theorem.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-Unit-4.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/Hash Function and Data Integrity.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-4/ACrypto-U4-notes/HMAC.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-5/ACrypto-Unit-5.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-Unit-6.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-6/ACrypto-U6-notes/ACrypto-Unit-6-Overview.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-Unit-1.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Elementary Probability Theory.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/Strong Vs Weak Collision.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC - Old Questions.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/PKI Trust Model.md",
     "Images/Third_Sem_Images/AC - Old Questions-2083.png",
     "Images/Third_Sem_Images/AC - Old Questions.png",
@@ -217,26 +208,13 @@
     "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/Substitution cipher vs Shift cipher.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/ACrypto-Unit-2 Overview.md",
     "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/ACrypto-Unit-1 Overview.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of vigenere cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/LFSR-Example.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptoanalysis of affine cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Example Frequency Analysis - Vigenere Cipher.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-1/ACrypto-U-1-notes/Cryptography.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-Unit-2.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/DES.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/AES.md",
     "Images/Third_Sem_Images/AES.png",
     "Images/Third_Sem_Images/DES-1.png",
     "Images/Third_Sem_Images/DES.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/IDEA.md",
     "Images/Third_Sem_Images/IDEA-halfround.png",
     "Images/Third_Sem_Images/IDEA-single round.png",
     "Images/Third_Sem_Images/IDEA.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/Blowfish.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/Congruence.md",
     "Images/Third_Sem_Images/Congruence-3.png",
-    "Images/Third_Sem_Images/Congruence-2.png",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-2/ACrypto-U2-notes/Galios Field.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3/RGIS-U3-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3",

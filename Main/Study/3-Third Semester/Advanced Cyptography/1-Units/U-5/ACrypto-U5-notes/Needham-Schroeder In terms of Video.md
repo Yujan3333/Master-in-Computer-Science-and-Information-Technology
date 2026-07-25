@@ -1,6 +1,6 @@
 #advanced-cryptography #needham-schroeder #third-semester 
 
-![](../../../../../../../Images/Third_Sem_Images/Needham-Schroeder%20In%20terms%20of%20Video.png)
+![](../../../../../../../../Images/Third_Sem_Images/Needham-Schroeder%20In%20terms%20of%20Video.png)
 ## **Entities Involved**
 
 * **Initiator A**

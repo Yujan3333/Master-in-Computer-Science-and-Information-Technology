@@ -27,13 +27,13 @@ The scheme enables secure communication in networks (especially sensor or wirele
 
 ## Algorithm BOOK
 
-![](../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme.png)
-![](../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme-1.png)
-![](../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme-2.png)
+![](../../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme.png)
+![](../../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme-1.png)
+![](../../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme-2.png)
 ### Example
-![](../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme-3.png)
-![](../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme-4.png)
-![](../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme-5.png)
+![](../../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme-3.png)
+![](../../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme-4.png)
+![](../../../../../../../../Images/Third_Sem_Images/Blom%20Key%20Distribution%20Scheme-5.png)
 
 
 

@@ -8,6 +8,7 @@
 - [Perfect Secrecy Numerical](./Perfect%20Secrecy%20Numerical.md)
 - [Perfect Secrecy-Shift Cipher Achieves Perfect Secrecy](./Perfect%20Secrecy-Shift%20Cipher%20Achieves%20Perfect%20Secrecy.md)
 - [PKI Trust Model](./PKI%20Trust%20Model.md)
+- [Prob of occurence of letters digrams trigrams](./Prob%20of%20occurence%20of%20letters%20digrams%20trigrams.md)
 - [Strong Vs Weak Collision](./Strong%20Vs%20Weak%20Collision.md)
 - [Substitution cipher vs Shift cipher](./Substitution%20cipher%20vs%20Shift%20cipher.md)
 - [Z_6 is not a field but Z_7 is ](./Z_6%20is%20not%20a%20field%20but%20Z_7%20is%20.md)
