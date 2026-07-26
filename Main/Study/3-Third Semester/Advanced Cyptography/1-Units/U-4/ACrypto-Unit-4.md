@@ -1,6 +1,7 @@
 #advanced-cryptography #third-semester 
 
 - [ACrypto-Unit-4-Overview](ACrypto-U4-notes/ACrypto-Unit-4-Overview.md)
+- [Strong Vs Weak Collision](../../3-Questions/AC-Old%20Que/Strong%20Vs%20Weak%20Collision.md)
 
 ---
 ### [Hash Function and Data Integrity](ACrypto-U4-notes/Hash%20Function%20and%20Data%20Integrity.md)

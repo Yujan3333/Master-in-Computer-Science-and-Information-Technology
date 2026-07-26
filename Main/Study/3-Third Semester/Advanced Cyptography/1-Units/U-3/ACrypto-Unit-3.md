@@ -33,7 +33,8 @@
 - [zero point of an elliptic curve](ACrypto-U3-notes/zero%20point%20of%20an%20elliptic%20curve.md)
 #### The Geometry of Elliptic Curves
 #### Line Through Two Distinct Points
-#### A Tangent Line, Addition of Points on Elliptic Curves
+#### A Tangent Line
+#### [Addition of Points on Elliptic Curves](Addition%20of%20Points%20on%20Elliptic%20Curves.md)
 #### Cryptosystems Defined over Elliptic Curves
 
 #### [Digital Signatures using ECC](ACrypto-U3-notes/Digital%20Signatures%20using%20ECC.md)

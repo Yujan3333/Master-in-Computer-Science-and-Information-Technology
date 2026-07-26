@@ -9,6 +9,7 @@
 	- **U-3**
 		- **[ACrypto-U3-notes](./1-Units/U-3/ACrypto-U3-notes/ACrypto-U3-notes.md)**
 		- [ACrypto-Unit-3](./1-Units/U-3/ACrypto-Unit-3.md)
+		- [Addition of Points on Elliptic Curves](./1-Units/U-3/Addition%20of%20Points%20on%20Elliptic%20Curves.md)
 	- **U-4**
 		- **[ACrypto-U4-notes](./1-Units/U-4/ACrypto-U4-notes/ACrypto-U4-notes.md)**
 		- [ACrypto-Unit-4](./1-Units/U-4/ACrypto-Unit-4.md)
