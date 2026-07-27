@@ -109,7 +109,7 @@ Automatically **retune themselves** to match the current process characteristics
 
 ### 4. Need for Adaptive FKBC
 
-The notes also state that ordinary **Fuzzy Knowledge-Based Controllers (FKBC)** cannot generally handle changes over time because their rules usually do not include a temporal component.
+The notes also state that ordinary **Fuzzy Knowledge-Based Controllers (FKBC)** cannot generally handle changes over time because their rules usually *do not include a temporal component.*
 
 Therefore, **Adaptive FKBC** is needed. 
 

@@ -493,6 +493,9 @@ That's all crossover is.
 
 It exchanges genes.
 
+
+![](../../../../../../Images/Third_Sem_Images/Numerical%20of%20GA-crossover.png)
+
 ---
 
 # Step 9 — Decode Again
@@ -556,6 +559,10 @@ $$
 Boom!
 
 Mutation accidentally created an even better solution.
+
+![](../../../../../../Images/Third_Sem_Images/Numerical%20of%20GA-mutation.png)
+
+
 
 ---
 

@@ -19,7 +19,7 @@ How Mamdani inference is used to infer result in the controller? Illustrate with
 ---
 [FS-Qno3](FS-Qno3.md)
 
-Consider a problem of minimizing x defined by a function $f(x) = x/2$, where x can vary from 1 to 15. Now show a single iteration of genetic algorithm with encoding, selection, crossover and mutation operations. You can start with a random initial population. Use your own assumptions as required. $[10]$
+Consider a problem of **minimizing** x defined by a function $f(x) = x/2$, where x can vary from 1 to 15. Now show a single iteration of genetic algorithm with encoding, selection, crossover and mutation operations. You can start with a random initial population. Use your own assumptions as required. $[10]$
 
 
 ---
