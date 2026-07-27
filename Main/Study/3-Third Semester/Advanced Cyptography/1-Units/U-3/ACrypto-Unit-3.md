@@ -34,7 +34,7 @@
 #### The Geometry of Elliptic Curves
 #### Line Through Two Distinct Points
 #### A Tangent Line
-#### [Addition of Points on Elliptic Curves](Addition%20of%20Points%20on%20Elliptic%20Curves.md)
+#### [Addition of Points on Elliptic Curves](ACrypto-U3-notes/Addition%20of%20Points%20on%20Elliptic%20Curves.md)
 #### Cryptosystems Defined over Elliptic Curves
 
 #### [Digital Signatures using ECC](ACrypto-U3-notes/Digital%20Signatures%20using%20ECC.md)

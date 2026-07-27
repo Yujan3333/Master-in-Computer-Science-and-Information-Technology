@@ -1,5 +1,6 @@
 %% Begin Waypoint %%
 - [ACrypto-Unit-3-Overview](./ACrypto-Unit-3-Overview.md)
+- [Addition of Points on Elliptic Curves](./Addition%20of%20Points%20on%20Elliptic%20Curves.md)
 - [Basic Fact of Elliptic Curves](./Basic%20Fact%20of%20Elliptic%20Curves.md)
 - [Chinese Remainder Theorem](./Chinese%20Remainder%20Theorem.md)
 - [Digital Signatures using ECC- shorter](./Digital%20Signatures%20using%20ECC-%20shorter.md)

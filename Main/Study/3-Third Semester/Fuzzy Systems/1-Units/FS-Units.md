@@ -1,5 +1,7 @@
 #fuzzy-system #third-semester 
 
+[FS-Sir Overview](FS-notes%20Combo/FS-Sir%20Overview.md)
+
 ---
 
 [FS-Unit1](FS-notes%20Combo/FS-Unit1.md)
