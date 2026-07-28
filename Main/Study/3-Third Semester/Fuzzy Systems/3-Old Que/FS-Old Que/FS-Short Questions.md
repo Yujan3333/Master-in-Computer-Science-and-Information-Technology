@@ -307,7 +307,7 @@ Let
 $$
 R=
 \begin{bmatrix}
-0.2 & 0.8\
+0.2 & 0.8\\
 0.6 & 0.4
 \end{bmatrix}
 $$
@@ -315,7 +315,7 @@ $$
 $$
 S=
 \begin{bmatrix}
-0.5 & 0.7\
+0.5 & 0.7\\
 0.9 & 0.3
 \end{bmatrix}
 $$
@@ -365,7 +365,7 @@ $$
 $$
 S\circ R=
 \begin{bmatrix}
-0.42 & 0.40\
+0.42 & 0.40\\
 0.18 & 0.72
 \end{bmatrix}
 $$
@@ -400,4 +400,3 @@ $$
 
 ---
 
-These answers are concise and appropriate for **5-mark university exam questions**, with definitions, formulas, worked examples, and conclusions.

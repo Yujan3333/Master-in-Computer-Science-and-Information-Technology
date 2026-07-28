@@ -8,10 +8,18 @@
 - [FL/E - Epistemic facet](FL/E%20-%20Epistemic%20facet.md)
 
 
+### [Kosko Cube](Kosko%20Cube.md)
+It represents the set of elements in the form of *hypercube* for **generalization**
+
+
+
+### Membership Graph
+#### [Discrete and Continous Mem Graph](Discrete%20and%20Continous%20Mem%20Graph.md)
+
 
 
 ### Properties of Fuzzy Set
-1. Normal FS
+1. [Normal FS](Normal%20FS.md)
 2. Height of FS
 3. Convex and Non-Convex
 4. Prototype
@@ -38,7 +46,8 @@
 
 
 ### Subset of FS
-
+#### In Relations
+- All elements of R should be in S for R to be subset of S 
 
 ### Set Difference
 

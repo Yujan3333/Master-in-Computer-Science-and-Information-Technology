@@ -26,18 +26,22 @@ relation are
 
 
 
-### Operation on Crisp Relation
+### [Operation on Crisp Relation](Operation%20on%20Crisp%20Relation.md)
 1. Union
 2. Intersection
 3. Complement
-4. Subset
+4. Subset / Containment
+5. Identity
+6. Distributivity
+7. Associativity
+8. Commutativity
+9. Demorgans Law
+10. Excluded Middle Axiom
 
-### Composition Operation
+### [Composition Operation](Composition%20Operation.md)
 `X -> Y -> Z` maps to `X -> Z`
-
-
-### Composition Operator
-1. Max-Min 
+#### Composition Operator
+1. [Max-Min](Max-Min.md) 
 2. Max-Product
 3. Min-Max
 4. Min-Min
@@ -47,9 +51,10 @@ relation are
 
 
 ### Fuzzy Relation
+#### In Relations
+- All elements of R should be in S for R to be subset of S 
 
-
-### Fuzzy Graph
+### [Fuzzy Graph](Fuzzy%20Graph.md)
 
 
 ### Operation on Fuzzy relation
@@ -71,8 +76,12 @@ relation are
 
 
 ### Tolerance and Equivalence relations
+[Finding Tolerance or Non Tolerance in Fuzzy Relation](Finding%20Tolerance%20or%20Non%20Tolerance%20in%20Fuzzy%20Relation.md)
+
 1. Reflective
+	1. [Anti-Reflective](Anti-Reflective.md)
 2. Symmetric
+	1. [Anti Symmetric](Anti%20Symmetric.md)
 3. Transitive
 
 ### Extension Principle
@@ -89,10 +98,13 @@ relation are
 
 
 ### Propagating Fuzziness in generalized relation
+- [Fuzzy Transform in generalized relation](Fuzzy%20Transform%20in%20generalized%20relation.md)
+
+### Alpha Cut in Fuzzy relation
 
 
 ### Appropriate Reasoning using Implication rule and Composition Operation
-
+- [Appropriate Reasoning using implication rule and Com op](Appropriate%20Reasoning%20using%20implication%20rule%20and%20Com%20op.md)
 
 
 ### Aggregate Operation on FS

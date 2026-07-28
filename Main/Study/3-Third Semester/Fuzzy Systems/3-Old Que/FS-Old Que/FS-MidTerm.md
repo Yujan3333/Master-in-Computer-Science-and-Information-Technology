@@ -2,7 +2,7 @@
 
 
 ---
-
+![](../../../../../../Images/Third_Sem_Images/Fuzzy%20Systems%20-%20Mid%20Term.jpeg)
 # 1(a) Mild Temperature using triangular membership
 
 Given:

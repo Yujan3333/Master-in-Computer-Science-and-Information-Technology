@@ -61,12 +61,15 @@ The central idea is:
 Probability deals with **chance**, while fuzzy logic deals with **vagueness**. Together, they enable intelligent systems to make decisions in uncertain, imprecise, and real-world environments. 
 
 ---
+# --
+# --
+---
 # ALL THE TOPICS
 **Main Headings**. 
 
 ---
 
-# Unit 1: Introduction to Fuzzy Set Theory
+# Unit 1: [Introduction to Fuzzy Set Theory](Introduction%20to%20Fuzzy%20Set%20Theory.md)
 
 1. [Probabilistic Reasoning](Probabilistic%20Reasoning.md)
 2. [Uncertain Knowledge](Uncertain%20Knowledge.md)
@@ -136,12 +139,12 @@ Probability deals with **chance**, while fuzzy logic deals with **vagueness**. T
 
 # Unit 6: Nonlinear Systems and Adaptive Fuzzy Controller
 
-1. Nonlinear Systems
+1. [Nonlinear Systems](Nonlinear%20Systems.md)
 2. The Nonlinearity of Controller
    * Additivity Property
    * Scaling (Homogeneity) Property
-3. Sliding Mode FKBC
-4. Sliding Mode Control 
+1. [Sliding Mode FKBC](Sliding%20Mode%20FKBC.md)
+2. Sliding Mode Control 
 
 ---
 
@@ -252,6 +255,7 @@ Probability deals with **chance**, while fuzzy logic deals with **vagueness**. T
 ---
 
 # Unit 7: Hybrid Systems
+ - [Fuzzy NN Overview](Fuzzy%20NN%20Overview.md)
 
 ### Fuzzy Systems and Neural Networks Integration:
 

@@ -26,12 +26,13 @@ Consider a problem of **minimizing** x defined by a function $f(x) = x/2$, where
 
 [FS-Short Questions](FS-Short%20Questions.md)
 
-FS-Qno4
+4.Create fuzzy sets that are of type convex, non-convex and sub-normal. [5]
 
-FS-Qno5
+5.Explain the dilation and concentration operations on fuzzy sets. [5]
 
-FS-Qno6
+6.Why defuzzification is needed? Consider a fuzzy set $A$, defining an integer 8 as; $A = \{0.1/2 + 0.4/4 + 0.77/5 + 0.77/6 + 0.78/7 + 0.78/8 + 0.78/9 + 0.55/10\}$. Which of the defuzzification among Mean/Max or Max Function will you use defuzzify the set? Justify your answer with proper computation and description. [2+3]
 
-FS-Qno7
+7.State and prove Bayes Theorem. What do you mean by marginalization, support your answer with an example? [2+3]
 
-FS-Qno8
+
+8.Create any two fuzzy relations and prove or disprove $R \circ S = S \circ R$ for Max-Product composition. [5]

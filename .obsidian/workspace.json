@@ -13,47 +13,77 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/Fuzzy Systems - Old Questions.md",
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Unit4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Fuzzy Systems - Old Questions"
+              "title": "FS-Unit4"
             }
           },
           {
-            "id": "cb2e1e73863516c5",
+            "id": "8621e385f498d838",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Sir Overview.md",
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Inference Method.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "FS-Sir Overview"
+              "title": "Inference Method"
             }
           },
           {
-            "id": "f2128bf7bb62b2ab",
+            "id": "b77499873ccfd7a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Types of controllers.md",
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Tsukamoto Inference method.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Types of controllers"
+              "title": "Tsukamoto Inference method"
+            }
+          },
+          {
+            "id": "0400ca98283c8c83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/TSK.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TSK"
+            }
+          },
+          {
+            "id": "f6cbce2d98fb97e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Mamdani Inference method.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Mamdani Inference method"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -165,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Sir Overview.md",
+                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Mamdani Inference method.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FS-Sir Overview"
+              "title": "Outline of Mamdani Inference method"
             }
           },
           {
@@ -193,7 +223,8 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,44 +245,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "f6cbce2d98fb97e9",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/Fuzzy Systems - Old Questions.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Types of controllers.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Adaptive Controllers.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Sir Overview.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Numerical of GA.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Qno3.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Preboard Answer.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/GA-Further Expanding on this part.md",
-    "Images/Third_Sem_Images/Numerical of GA-mutation.png",
-    "Images/Third_Sem_Images/Numerical of GA-crossover.png",
-    "Images/Third_Sem_Images/Numerical of GA-count.png",
-    "Images/Third_Sem_Images/Numerical of GA-selection.png",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Genetic Algorithm.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Mutation Probability.md",
-    "Images/Third_Sem_Images/Genetic Algorithm- Mutation.png",
-    "Images/Third_Sem_Images/Genetic Algorithm-multipoint.png",
-    "Images/Third_Sem_Images/Genetic Algorithm-1p crossover.png",
-    "Images/Third_Sem_Images/Genetic Algorithm- Selection Roulette.png",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/PID Controller.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/On-Off Controller.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Open-loop and closed-loop control.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Control theory.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Propositions.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Fuzzy control systems.md",
-    "Images/Third_Sem_Images/Fuzzy Systems - Old Questions-82-1.png",
-    "Images/Third_Sem_Images/Fuzzy Systems - Old Questions-82.png",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Inference Method.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Mamdani Inference method.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Unit4.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Tsukamoto Inference method.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/TSK.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-Units.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Atomic Event.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Random Variables.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Basic Statistical Methods – Probability.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Making Decisions under Uncertainty.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Handling Uncertainty.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Uncertain Knowledge.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Probabilistic Reasoning.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Preboard Answer.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Sir Overview.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Fuzzy NN Overview.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Inference using Joint Distribution.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Introduction to Fuzzy Set Theory.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Truth or Falsity (Classical Logic).md",
+    "Images/Third_Sem_Images/Introduction to Fuzzy Set Theory- bayes ex.png",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Marginalization (Summing Out).md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Propositions.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Sliding Mode FKBC.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Nonlinear Systems.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Qno2.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/Fuzzy Systems - Old Questions.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-MidTerm.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/Probabilistic Reasoning in Uncertain Knowledge.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Types of controllers.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-notes Combo.md",
-    "Main/Study/3-Third Semester/Advanced Cyptography/1-Units/U-3/ACrypto-U3-notes/El Gamal Digital Signature.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Defuzzification to scalar values.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Short Questions.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Unit3.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Defuzzification.md",
+    "Images/Third_Sem_Images/Anti Symmetric.png",
+    "Images/Third_Sem_Images/Anti-Reflective.png",
+    "Images/Third_Sem_Images/Max-Min-16.png",
+    "Images/Third_Sem_Images/Max-Min-15.png",
+    "Images/Third_Sem_Images/Max-Min-14.png",
+    "Images/Third_Sem_Images/Max-Min-13.png",
+    "Images/Third_Sem_Images/Max-Min-12.png",
+    "Images/Third_Sem_Images/Max-Min-11.png",
+    "Images/Third_Sem_Images/Max-Min-10.png",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3/RGIS-U3-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3",

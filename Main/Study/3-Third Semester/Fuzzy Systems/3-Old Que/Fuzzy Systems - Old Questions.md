@@ -28,7 +28,11 @@
 ### 2078
 ![](../../../../../Images/Third_Sem_Images/Fuzzy%20Systems%20-%20Old%20Questions-2078-1.png)
 ![](../../../../../Images/Third_Sem_Images/Fuzzy%20Systems%20-%20Old%20Questions-2078-2.png)
-
+- Qno 4
+	- What is uncertain Knowledge? How probabilistic reasoning is done in uncertain knowledge?
+		- [Uncertain Knowledge](../1-Units/FS-notes%20Combo/Uncertain%20Knowledge.md)
+		- [Probabilistic Reasoning](../1-Units/FS-notes%20Combo/Probabilistic%20Reasoning.md)
+		- [Probabilistic Reasoning in Uncertain Knowledge](FS-Old%20Que/Probabilistic%20Reasoning%20in%20Uncertain%20Knowledge.md)
 
 ---
 ### 2076
@@ -40,6 +44,8 @@
 ![](../../../../../Images/Third_Sem_Images/Fuzzy%20Systems%20-%20Old%20Questions-75-1.png)
 
 ![](../../../../../Images/Third_Sem_Images/Fuzzy%20Systems%20-%20Old%20Questions-75-2.png)
+- Qno-5
+- Qno 7
 
 ---
 ###  2075-2
