@@ -1,5 +1,6 @@
 #fuzzy-system #third-semester 
 ### [Inference Method](Inference%20Method.md)
+
 ### [Mamdani Inference method](Mamdani%20Inference%20method.md)
 
 ### [TSK](TSK.md)

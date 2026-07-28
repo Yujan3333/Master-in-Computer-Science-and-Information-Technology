@@ -1,6 +1,13 @@
 #fuzzy-system #third-semester #old-que #exam-paper-answer 
 
 # Question 1 (10 Marks)
+Consider a fuzzy spectrometer which generates different kinds of waves. Since the fuzzy spectrometer may not generate the accurate output as the SetPoint (SP), we may require a fuzzy controller. Consider the controller is TagakiSugeno Fuzzy Controller defined by the rules. 
+
+Rule 1: If $\text{error}$ is Negative or $\text{change\_error}$ is Positive then output is $$\text{error} - \frac{\text{change\_in\_error}}{\text{error}}$$
+
+Rule 2: If $\text{error}$ is Positive and $\text{change\_error}$ Zero then output is $$\text{error} + 0.3 \times \text{change\_in\_error s}$$
+
+Now define the linguistic variables Positive, Negative and Zero in the interval $[0.1, 1]$, $[-0.6, 0.6]$ and $[-1, 1]$ respectively using triangular membership function and find the output of the controller if error is 0.06 and change in error is 0.3.
 
 ### Consider a Takagi–Sugeno Fuzzy Controller
 

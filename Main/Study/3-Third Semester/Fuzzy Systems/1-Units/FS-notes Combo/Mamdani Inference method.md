@@ -10,8 +10,27 @@
 
 
 ---
+### Max-Min
+![](../../../../../../Images/Third_Sem_Images/Mamdani%20Inference%20method.png)
 
-Let's focus **only on the Mamdani Fuzzy Inference System** and understand **why each step exists**.
+#### Summary of the above figure
+
+* Each **Mamdani rule** has **two antecedents** (inputs) and **one consequent** (output fuzzy set).
+* Since the antecedents are connected by **AND**, the **minimum (min)** of their membership values is taken. This value is called the **firing strength**.
+* The firing strength is then **applied to the consequent**, **truncating (clipping)** its membership function. This is done **for every rule**.
+* After all rules are processed, their truncated consequent membership functions are **aggregated**.
+* Since the rules in Figure 5.10 are **disjunctive (OR between rules)**, aggregation is performed using the **maximum (max)** operator.
+* The result is a **single aggregated fuzzy output**, which is the **outer envelope** of all the truncated consequents.
+* Finally, if a numerical (crisp) output is required, **defuzzification** (e.g., centroid method) is applied to the aggregated fuzzy output to obtain the final value $y^*$.
+
+#### One-line exam answer
+
+**In Mamdani inference, the minimum membership value of each rule's antecedents determines the firing strength, which clips the consequent fuzzy set. The clipped outputs of all rules are then combined using the maximum operator to form one aggregated fuzzy output, which is finally defuzzified to obtain a crisp output.**
+
+
+### Max-Product
+![](../../../../../../Images/Third_Sem_Images/Mamdani%20Inference%20method-max%20prod.png)
+
 
 ---
 
