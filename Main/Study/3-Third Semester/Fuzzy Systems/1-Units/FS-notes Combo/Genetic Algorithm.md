@@ -266,7 +266,7 @@ Selection chooses individuals that will reproduce and pass their genes to the ne
 
 
 
-### Selection Methods
+### [Selection Methods](Selection%20Methods.md)
 
 * Roulette Wheel Selection
 * Stochastic Universal Sampling

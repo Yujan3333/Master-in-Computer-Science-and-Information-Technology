@@ -44,8 +44,8 @@
 ![](../../../../../Images/Third_Sem_Images/Fuzzy%20Systems%20-%20Old%20Questions-75-1.png)
 
 ![](../../../../../Images/Third_Sem_Images/Fuzzy%20Systems%20-%20Old%20Questions-75-2.png)
-- Qno-5
-- Qno 7
+- Question 5: What are fuzzy neural networks? What operators are used in fuzzy neural networks? [Fuzzy Neural Network and operators in it](FS-Old%20Que/Fuzzy%20Neural%20Network%20and%20operators%20in%20it.md)
+- 7. What is approximate reasoning? How composition operator can be used in approximate reasoning? [Approx Reasoning with Composition Operator](FS-Old%20Que/Approx%20Reasoning%20with%20Composition%20Operator.md)
 
 ---
 ###  2075-2

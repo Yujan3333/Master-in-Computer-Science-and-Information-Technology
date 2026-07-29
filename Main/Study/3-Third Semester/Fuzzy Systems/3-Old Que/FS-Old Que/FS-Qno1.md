@@ -378,13 +378,13 @@ w_2=\min(0,0.7)=0
 
 $$[
 y_1=0.06-\frac{0.3}{0.06}=-4.94
-]$
+]
 
-$$[
+$$$$[
 y_2=0.06+0.3(0.3)=0.15
 ]$$
 
-**Overall Sugeno Output**
+Overall Sugeno Output
 
 $$[
 \boxed{

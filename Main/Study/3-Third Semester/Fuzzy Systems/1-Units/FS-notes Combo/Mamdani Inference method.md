@@ -1,9 +1,9 @@
-#fuzzy-system #third-semester 
+#fuzzy-system #third-semester #mamdani-inference-method 
 
 > [!info]+ What is Inference?
 > Inference means to reach a particular conclusion based on some evidence associated with a logic
 
-
+- [Mamdani Inference method-simple example](Mamdani%20Inference%20method-simple%20example.md)
 ---
 ### References
 - [Example-Mamdani Inference](https://www.youtube.com/watch?v=THAk1O3HBDc)
