@@ -1,20 +1,8 @@
 %% Begin Waypoint %%
 - **1-Units**
-	- **U1**
-		- **[IPPR-U1-notes](./1-Units/U1/IPPR-U1-notes/IPPR-U1-notes.md)**
-		- [IPPR-Unit-1](./1-Units/U1/IPPR-Unit-1.md)
-	- **U2**
-		- **[IPPR-U2-notes](./1-Units/U2/IPPR-U2-notes/IPPR-U2-notes.md)**
-		- [IPPR-Unit-2](./1-Units/U2/IPPR-Unit-2.md)
-	- **U3**
-		- **[IPPR-U3-notes](./1-Units/U3/IPPR-U3-notes/IPPR-U3-notes.md)**
-		- [IPPR-Unit-3](./1-Units/U3/IPPR-Unit-3.md)
-	- **U4**
-		- **[IPPR-U4-notes](./1-Units/U4/IPPR-U4-notes/IPPR-U4-notes.md)**
-		- [IPPR-Unit-4](./1-Units/U4/IPPR-Unit-4.md)
-	- **U5**
-		- **[IPPR-U5-notes](./1-Units/U5/IPPR-U5-notes/IPPR-U5-notes.md)**
-		- [IPPR-Unit-5](./1-Units/U5/IPPR-Unit-5.md)
+	- [IPPR- IMP QUE](./1-Units/IPPR-%20IMP%20QUE.md)
+	- **[IPPR-u-note](./1-Units/IPPR-u-note/IPPR-u-note.md)**
+	- [IPPR-Units](./1-Units/IPPR-Units.md)
 - **2-Assignments**
 	- [Assignment-1](./2-Assignments/Assignment-1.md)
 	- [Assignment-2](./2-Assignments/Assignment-2.md)

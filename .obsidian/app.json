@@ -6,5 +6,6 @@
   "useMarkdownLinks": true,
   "readableLineLength": false,
   "strictLineBreaks": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "promptDelete": false
 }

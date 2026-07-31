@@ -316,6 +316,8 @@ Two types:
 
 Carries visual information to the brain.
 
+![](../../../../../../Images/Third_Sem_Images/eyes.png)
+
 ---
 
 # 5. Digital Image Fundamentals

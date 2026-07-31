@@ -4,25 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "da05e87b6e611dbc",
+        "id": "332c300c7747ec0d",
         "type": "tabs",
         "children": [
           {
-            "id": "9291efe7de1283b1",
+            "id": "f90bc62a8d629bc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-Units.md",
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-Units.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "FS-Units"
+              "title": "IPPR-Units"
+            }
+          },
+          {
+            "id": "06a013e922a05de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "IPPR-Unit-1"
+            }
+          },
+          {
+            "id": "a9e24836a2602be5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-1-Overview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "IPPR-Unit-1-Overview"
+            }
+          },
+          {
+            "id": "0724f47c43c389e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR- IMP QUE.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "IPPR- IMP QUE"
+            }
+          },
+          {
+            "id": "69f604fa50b7f6c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Summary from syllabus and old que.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "IPPR-Summary from syllabus and old que"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "right": {
     "id": "3097c2953960f235",
@@ -134,13 +196,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-Units.md",
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-1-Overview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of FS-Units"
+              "title": "Outline of IPPR-Unit-1-Overview"
             }
           },
           {
@@ -162,7 +224,8 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,54 +246,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "a9e24836a2602be5",
   "lastOpenFiles": [
+    "Images/Third_Sem_Images/eyes.png",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR- IMP QUE.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Summary from syllabus and old que.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-1.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-1-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-Units.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-1-Cl.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/3-Old Que/IPPR Old Questions.md",
+    "Images/Third_Sem_Images/IPPR Old Questions preboard.jpeg",
+    "Images/Third_Sem_Images/IPPR Old Questions73-1.png",
+    "Images/Third_Sem_Images/IPPR Old Questions73.png",
+    "Images/Third_Sem_Images/IPPR Old Questions76-2.png",
+    "Images/Third_Sem_Images/IPPR Old Questions76-1.png",
+    "Images/Third_Sem_Images/IPPR Old Questions76.png",
+    "Images/Third_Sem_Images/IPPR Old Questions75-1.png",
+    "Images/Third_Sem_Images/IPPR Old Questions75.png",
+    "Images/Third_Sem_Images/IPPR Old Questions-75.png",
+    "Images/Third_Sem_Images/IPPR Old Questions-74-3.png",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/3-Old Que/IPPR-Old Que/IPPR-Old Que.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/Image Processing and Pattern Recognition.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-4.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-4-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-5-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-5.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-3.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-3-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-2.md",
+    "U1/IPPR-Unit-1.md",
+    "U1",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-u-note.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/U3/IPPR-U3-notes/IPPR-U3-notes.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/U3/IPPR-U3-notes",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/U3",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/U1/IPPR-Unit-1.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/NN with Fuzzy vs Fuzzy with NN.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-Units.md",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/Fuzzy Neural Network and operators in it.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Fuzzy NN Overview.md",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/NN with Numerical.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-Units.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/NN with Fuzzy vs Fuzzy with NN.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/Approx Reasoning with Composition Operator.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/Fuzzy Systems - Old Questions.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/Fuzzy Neural Network and operators in it.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Qno3.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Preboard Answer.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/Probabilistic Reasoning in Uncertain Knowledge.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Uncertain Knowledge.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Probabilistic Reasoning.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Qno1.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/FS-Old Que/FS-Qno2.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Unit4.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Inference Method.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Mamdani Inference method.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Mamdani Inference method-simple example.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Defuzzification-Centroid.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Sir Overview.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Genetic Algorithm.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Selection Methods.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Introduction to Fuzzy Set Theory.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-Unit1.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Airplane Problem Soln.md",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/Airplane Problem.md",
-    "Images/Third_Sem_Images/Pasted image 20260729061138.png",
-    "Images/Third_Sem_Images/Pasted image 20260729061124.png",
     "FL",
-    "Images/Third_Sem_Images/Mamdani Inference method-max prod.png",
-    "Images/Third_Sem_Images/Mamdani Inference method.png",
-    "Images/Third_Sem_Images/Introduction to Fuzzy Set Theory- bayes ex.png",
-    "Images/Third_Sem_Images/Anti Symmetric.png",
-    "Images/Third_Sem_Images/Anti-Reflective.png",
-    "Images/Third_Sem_Images/Max-Min-16.png",
-    "Images/Third_Sem_Images/Max-Min-15.png",
-    "Images/Third_Sem_Images/Max-Min-14.png",
     "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3/RGIS-U3-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U4/RGIS-U4-n",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U4",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U5/RGIS-U5-n",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U5",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U6/RGIS-U6-n",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U6",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
