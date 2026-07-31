@@ -6,18 +6,18 @@
 
 ## UNIT 1: Introduction (Digital Image Fundamentals)
 
-| Year | Question |
-|---|---|
-| Midterm-83 | Describe the fundamental steps in digital image processing with a block diagram. |
-| Preboard-83 | Describe the fundamental steps in digital image processing with a block diagram. Explain the image acquisition process using a single sensor and sensor strips. [5+5=10] |
-| Preboard-83 | A 512×512 grayscale image is quantized using 8 bits. Calculate the storage space required. How would this change if quantized using 4 bits? Explain the impact on image quality. [6+4=10] |
-| 2081 | Define Digital image. Explain steps involved in digital image processing with diagram. [2+8] |
-| 2076 | Considering an image, explain neighborhood, adjacency and path between pixels with examples. [5] |
-| 2075 | Describe the relationship between the pixels with one another. [5] |
-| 2074 (new) | How many images of size 1200×800 with 256 gray levels can be stored in a 512 MB storage space? [3] |
-| 2074-old | What is a digital image? Draw only the block diagram of a typical digital image processing system. An image of dimension 1024×768 has 256 gray levels. Calculate number of bytes required to store the image. [1+2+3] |
-| 2074-old | What is zooming? A 3×3 size image has following intensity information — [zooming calculation]. [6] |
-| 2073 | Discuss the various steps in the digital image processing. An image of dimension 1024×768 has 256 gray levels. Calculate number of bytes required to store the image on a computer. [6] |
+| Year        | Question                                                                                                                                                                                                                                                       |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Midterm-83  | Describe the fundamental steps in digital image processing with a block diagram.                                                                                                                                                                               |
+| Preboard-83 | Describe the fundamental steps in digital image processing with a block diagram. Explain the image acquisition process using a single sensor and sensor strips. [5+5=10]                                                                                       |
+| Preboard-83 | A 512×512 grayscale image is quantized using 8 bits. Calculate the storage space required. How would this change if quantized using 4 bits? Explain the impact on image quality. [6+4=10]                                                                      |
+| 2081        | Define Digital image. Explain steps involved in digital image processing with diagram. [2+8]                                                                                                                                                                   |
+| 2076        | Considering an image, explain neighborhood, adjacency and path between pixels with examples. [5]                                                                                                                                                               |
+| 2075        | Describe the relationship between the pixels with one another. [5]                                                                                                                                                                                             |
+| 2074 (new)  | How many images of size 1200×800 with 256 gray levels can be stored in a 512 MB storage space? [3]                                                                                                                                                             |
+| 2074-old    | What is a digital image? Draw only the block diagram of a typical digital image processing system. An image of dimension 1024×768 has 256 gray levels. Calculate number of bytes required to store the image. [1+2+3]                                          |
+| 2074-old    | What is zooming? A 3×3 size image has following intensity information — [zooming calculation 3x3](IPPR-u-note/zooming%20calculation%203x3.md). [6]<br>$$<br>   \begin{bmatrix}<br>   1 & 7 & 6 \\<br>   4 & 6 & 2 \\<br>   1 & 5 & 3<br>   \end{bmatrix}<br>$$ |
+| 2073        | Discuss the various steps in the digital image processing. An image of dimension 1024×768 has 256 gray levels. Calculate number of bytes required to store the image on a computer. [6]                                                                        |
 
 ### 🎯 Important topics — Unit 1
 1. **Fundamental steps of DIP + block diagram** — appears in nearly *every single paper*. Memorize the diagram and one line for each stage.

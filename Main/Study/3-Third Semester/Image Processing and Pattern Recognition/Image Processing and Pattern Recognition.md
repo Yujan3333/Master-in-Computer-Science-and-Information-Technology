@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **1-Units**
-	- [IPPR- IMP QUE](./1-Units/IPPR-%20IMP%20QUE.md)
+	- [Contrast](./1-Units/Contrast.md)
 	- **[IPPR-u-note](./1-Units/IPPR-u-note/IPPR-u-note.md)**
 	- [IPPR-Units](./1-Units/IPPR-Units.md)
 - **2-Assignments**

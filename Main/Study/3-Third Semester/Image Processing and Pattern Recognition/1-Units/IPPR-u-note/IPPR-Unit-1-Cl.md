@@ -5,9 +5,17 @@
 ### Q1. Describe the fundamental steps in digital image processing with a block diagram. [Asked almost every year]
 **Solution:**
 ```
-Image Acquisition → Enhancement → Restoration → Color Image Processing →
-Wavelets/Compression → Morphological Processing → Segmentation →
-Representation & Description → Object Recognition
+
+Image Acquisition 
+→ Enhancement 
+→ Restoration 
+→ Color Image Processing 
+→ Wavelets/Compression 
+→ Morphological Processing 
+→ Segmentation 
+→ Representation & Description 
+→ Object Recognition
+
 ```
 (all connected to a central "Knowledge Base")
 - **Acquisition:** sensor converts scene into digital pixel array.
@@ -64,7 +72,7 @@ D8 = max(3,4) = 4
 **Solution:** Zooming (enlarging) = increasing spatial resolution by inserting new pixels (via nearest-neighbor, bilinear, or bicubic interpolation) between existing ones. Shrinking = reducing resolution by row/column deletion or averaging, done carefully to avoid aliasing.
 
 ---
-
+---
 # UNIT 2: Image Enhancement and Filtering
 
 ### Q1. Perform histogram equalization on the given image data (L=8 gray levels). [Asked almost every year — master this]
@@ -73,12 +81,12 @@ D8 = max(3,4) = 4
 
 | Gray level (k) | 0   | 1   | 2   | 3   | 4   | 5   | 6   | 7   |
 | -------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| n_k (count)    | 0   | 1   | 2   | 2   | 3   | 3   | 3   | 2   |
+| $n_k (count)$  | 0   | 1   | 2   | 2   | 3   | 3   | 3   | 2   |
 
 **Solution steps:**
-1. `p_k = n_k / total(16)`: 0, 0.0625, 0.125, 0.125, 0.1875, 0.1875, 0.1875, 0.125
-2. Cumulative `CDF_k`: 0, 0.0625, 0.1875, 0.3125, 0.5, 0.6875, 0.875, 1.0
-3. `s_k = round(7 × CDF_k)`:
+1. $p_k$ = $n_k$ / total(16) : 0, 0.0625, 0.125, 0.125, 0.1875, 0.1875, 0.1875, 0.125
+2. Cumulative $CDF_k$: 0, 0.0625, 0.1875, 0.3125, 0.5, 0.6875, 0.875, 1.0
+3. $s_k$ = round(7 × $CDF_k$):
 ```
 s0 = round(0)      = 0
 s1 = round(0.4375) = 0

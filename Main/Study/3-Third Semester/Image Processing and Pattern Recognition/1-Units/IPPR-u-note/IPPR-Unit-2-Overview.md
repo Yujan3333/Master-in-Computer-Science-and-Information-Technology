@@ -106,9 +106,9 @@ where:
 
 For an 8-bit image:
 
-[
-s=255-r
-]
+
+$$s=255-r$$
+
 
 **Use**
 

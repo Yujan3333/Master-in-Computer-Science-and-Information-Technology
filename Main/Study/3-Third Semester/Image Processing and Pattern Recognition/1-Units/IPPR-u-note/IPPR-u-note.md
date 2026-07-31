@@ -1,5 +1,9 @@
 %% Begin Waypoint %%
+- [Binary Image - Gray Level- Color Image](./Binary%20Image%20-%20Gray%20Level-%20Color%20Image.md)
+- [IIPR-U2-Slide Overview](./IIPR-U2-Slide%20Overview.md)
+- [IPPR- IMP QUE](./IPPR-%20IMP%20QUE.md)
 - [IPPR-Summary from syllabus and old que](./IPPR-Summary%20from%20syllabus%20and%20old%20que.md)
+- [IPPR-U2-Slide_Deepsk](./IPPR-U2-Slide_Deepsk.md)
 - [IPPR-Unit-1-Cl](./IPPR-Unit-1-Cl.md)
 - [IPPR-Unit-1-Overview](./IPPR-Unit-1-Overview.md)
 - [IPPR-Unit-1](./IPPR-Unit-1.md)
@@ -11,5 +15,8 @@
 - [IPPR-Unit-4](./IPPR-Unit-4.md)
 - [IPPR-Unit-5-Overview](./IPPR-Unit-5-Overview.md)
 - [IPPR-Unit-5](./IPPR-Unit-5.md)
+- [Morphological Processing](./Morphological%20Processing.md)
+- [Sampling Vs Quantization](./Sampling%20Vs%20Quantization.md)
+- [zooming calculation 3x3](./zooming%20calculation%203x3.md)
 
 %% End Waypoint %%

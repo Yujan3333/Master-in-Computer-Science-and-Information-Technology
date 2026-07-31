@@ -66,8 +66,8 @@ If quantized to 4 bits instead: half the storage (131,072 bytes = 128 KB), **but
 1. List symbols (gray levels) with their **probabilities** (freq ÷ total pixels).
 2. Repeatedly combine the two **lowest-probability** nodes into a new node (sum their probabilities) until one node (prob = 1) remains — this builds a binary tree.
 3. Assign 0/1 to branches going down from each merge; codeword = path from root to symbol.
-4. **Average code length** L = Σ(probability × code length) for each symbol.
-5. **Entropy** H = −Σ p·log₂(p) (theoretical minimum bits/symbol).
+4. **Average code length** L = $$\sum$$(probability × code length) for each symbol.
+5. **Entropy** H = $$-\sum p\cdot\log_2(p)$$ (theoretical minimum bits/symbol).
 6. **Compression ratio** = (original bits/pixel) ÷ (average Huffman code length).
 7. **Coding efficiency** = Entropy ÷ Average length (×100%).
 
@@ -82,16 +82,16 @@ If quantized to 4 bits instead: half the storage (131,072 bytes = 128 KB), **but
 **Histogram equalization** — spreads out pixel intensities to use the *full* range 0–(L−1), improving contrast in washed-out images.
 
 **Steps for an 8×8 image, gray levels 0–7 (L=8):**
-1. Count frequency `n_k` of each gray level k.
-2. `p_k = n_k / total pixels` (probability).
-3. Cumulative distribution: `CDF_k = p_0 + p_1 + ... + p_k`
-4. New gray level: `s_k = round((L−1) × CDF_k)`
-5. Replace every old gray level with its new `s_k`, redraw the image/histogram.
+1. Count frequency $$n_k$$ of each gray level k.
+2. $$p_k = n_k / \text{total pixels}$$ (probability).
+3. Cumulative distribution: $$\text{CDF}_k = p_0 + p_1 + ... + p_k$$
+4. New gray level: $$s_k = \text{round}((L-1) \times \text{CDF}_k)$$
+5. Replace every old gray level with its new $$s_k$$, redraw the image/histogram.
 
 **Histogram matching (specification)** — same as above, but instead of matching to a *uniform* histogram, you match to a **reference image's histogram**:
-1. Equalize the input image (get s_k as above).
-2. Equalize the reference image the same way (get G(z_k)).
-3. For each s_k, find the z value where G(z) is closest to s_k → mapping table.
+1. Equalize the input image (get $$s_k$$ as above).
+2. Equalize the reference image the same way (get $$G(z_k)$$).
+3. For each $$s_k$$, find the z value where $$G(z)$$ is closest to $$s_k$$ → mapping table.
 4. Apply mapping to input image.
 
 Practice this exact steps on 2081's or 2075's 8×8 tables by hand — this is a guaranteed 10 marks in most years.
@@ -101,12 +101,12 @@ Practice this exact steps on 2081's or 2075's 8×8 tables by hand — this is a 
 ## 🔴 TOPIC 5: Fourier Transform / DFT / FFT (very frequent, both theory and small calculation)
 
 - **Why we need it:** converts image from spatial domain (pixel intensities) to frequency domain (rate of intensity change) — lets us design filters based on "how fast things change" rather than pixel-by-pixel.
-- **1D DFT formula:** F(u) = Σ f(x)·e^(−j2πux/N), x = 0 to N−1
-- **2D DFT formula:** F(u,v) = ΣΣ f(x,y)·e^(−j2π(ux/M + vy/N))
-- **FFT** = fast algorithm to compute DFT in O(N log N) instead of O(N²) — divide-and-conquer, splits sequence into even/odd indexed terms recursively.
+- **1D DFT formula:** $$F(u) = \sum f(x)\cdot e^{-j2\pi ux/N}, x = 0 \text{ to } N-1$$
+- **2D DFT formula:** $$F(u,v) = \sum\sum f(x,y)\cdot e^{-j2\pi(ux/M + vy/N)}$$
+- **FFT** = fast algorithm to compute DFT in $$O(N\log N)$$ instead of $$O(N^2)$$ — divide-and-conquer, splits sequence into even/odd indexed terms recursively.
 - **DFT vs FFT:** DFT is the mathematical transform itself (direct computation is slow); FFT is just an efficient *algorithm* to compute the same DFT result faster. Same output, different computation cost.
 - Low frequencies = smooth/slowly changing regions (backgrounds); high frequencies = edges, noise, fine detail.
-- Be ready to **sketch a simple periodic waveform and compute its Fourier series/transform** (2075-style, e.g. a rectangular pulse f(t)=3 for −2≤t≤2, else 0) — this uses the standard Fourier transform integral of a rectangular pulse, giving a **sinc function**.
+- Be ready to **sketch a simple periodic waveform and compute its Fourier series/transform** (2075-style, e.g. a rectangular pulse $$f(t)=3$$ for $$-2 \le t \le 2$$, else 0) — this uses the standard Fourier transform integral of a rectangular pulse, giving a **sinc function**.
 
 ---
 
@@ -120,13 +120,13 @@ General filtering process in frequency domain:
 ```
 
 **Smoothing (low-pass) filters** — pass low frequencies, block high (removes noise, blurs edges):
-- **Ideal LPF:** H=1 inside radius D₀ from center, 0 outside — causes ringing artifacts.
-- **Butterworth LPF:** H(u,v) = 1 / [1 + (D(u,v)/D₀)^(2n)] — smooth transition, n = filter order, no sharp cutoff → no ringing.
-- **Gaussian LPF:** H(u,v) = e^(−D²(u,v)/2D₀²) — smoothest of all, no ringing at all.
+- **Ideal LPF:** H=1 inside radius $$D_0$$ from center, 0 outside — causes ringing artifacts.
+- **Butterworth LPF:** $$H(u,v) = 1 / [1 + (D(u,v)/D_0)^{2n}]$$ — smooth transition, n = filter order, no sharp cutoff → no ringing.
+- **Gaussian LPF:** $$H(u,v) = e^{-D^2(u,v)/2D_0^2}$$ — smoothest of all, no ringing at all.
 
 **Sharpening (high-pass) filters** — opposite of above, pass high frequencies (edges), block low:
-- **Butterworth HPF:** H(u,v) = 1 / [1 + (D₀/D(u,v))^(2n)]
-- **Gaussian HPF:** H(u,v) = 1 − e^(−D²(u,v)/2D₀²)
+- **Butterworth HPF:** $$H(u,v) = 1 / [1 + (D_0/D(u,v))^{2n}]$$
+- **Gaussian HPF:** $$H(u,v) = 1 - e^{-D^2(u,v)/2D_0^2}$$
 
 **Answer template for "explain how to implement X filter":** (1) compute D(u,v) = distance of each frequency point from the center of the frequency rectangle, (2) plug into the filter's formula to build H(u,v), (3) multiply with F(u,v), (4) inverse transform.
 
@@ -137,7 +137,7 @@ Also know: **Bandpass/Bandreject filters** — pass/block only a *ring* of frequ
 ## 🟠 TOPIC 7: Image Restoration & Noise Models
 
 - **Restoration vs Enhancement:** Enhancement is subjective (make it "look better" — no ground truth). Restoration is objective (undo a *known/estimated degradation process* using a mathematical model — has a ground truth target).
-- **Degradation model:** g(x,y) = h(x,y)*f(x,y) + η(x,y) — degraded image = (original convolved with degradation function) + noise.
+- **Degradation model:** $$g(x,y) = h(x,y)*f(x,y) + \eta(x,y)$$ — degraded image = (original convolved with degradation function) + noise.
 - **Noise models to name with examples:** Gaussian noise (electronic/sensor noise), Salt-and-pepper/impulse noise (dead pixels, transmission errors), Rayleigh, Uniform, Erlang/Gamma noise.
 - **Restoration filters:** Mean filters (arithmetic, geometric), **Adaptive mean/median filters** (change behavior based on local statistics — median good for salt-and-pepper, adaptive versions change window size or weighting based on local noise variance), Inverse filtering, Wiener filtering (minimizes mean square error, accounts for noise + blur together — better than plain inverse filtering which amplifies noise).
 
@@ -146,7 +146,7 @@ Also know: **Bandpass/Bandreject filters** — pass/block only a *ring* of frequ
 ## 🟠 TOPIC 8: Image Segmentation Basics
 
 - **Point/Line/Edge detection:** all done using small spatial masks (kernels) convolved with the image; a point/line/edge is detected where the response exceeds a threshold. Edge detection uses **gradient operators** (Sobel, Prewitt, Roberts) — first derivative masks that highlight intensity change.
-- **Hough Transform:** used for detecting lines (or shapes) even with gaps/noise. Converts each edge point (x,y) into a **parameter space** (e.g., slope-intercept or ρ-θ space); points lying on the same line in image space produce curves that **intersect at one point** in parameter space — that intersection identifies the line's parameters.
+- **Hough Transform:** used for detecting lines (or shapes) even with gaps/noise. Converts each edge point (x,y) into a **parameter space** (e.g., slope-intercept or $$\rho-\theta$$ space); points lying on the same line in image space produce curves that **intersect at one point** in parameter space — that intersection identifies the line's parameters.
 - **Thresholding:** Global (single threshold for whole image), Local (different threshold per region), Adaptive (threshold varies based on local image statistics like local mean/variance — good for uneven illumination).
 - **Region-growing:** start from seed pixels, grow region by adding neighboring pixels with similar properties. Problem: choosing good seed points and stopping criteria; sensitive to noise.
 
@@ -182,5 +182,3 @@ Also know: **Bandpass/Bandreject filters** — pass/block only a *ring* of frequ
 **Section A pattern (10-mark questions, choose 2):** almost always includes: fundamental steps + block diagram, storage/quantization math, OR a full Huffman coding numerical.
 
 **Section B pattern (5-mark questions, attempt all/5):** mix of: one filter (Butterworth/Gaussian), one restoration/noise topic, one segmentation/detection topic, one short-note style topic (chain code, morphology, correlation vs convolution, bit-plane slicing).
-
-Good luck — you've got this; the paper *really does* recycle the same core ~10 topics every year.
