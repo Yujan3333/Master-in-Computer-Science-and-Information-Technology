@@ -31,36 +31,36 @@
 
 ## UNIT 2: Image Enhancement and Filtering (Spatial + Frequency Domain, Fourier)
 
-| Year | Question |
-|---|---|
-| Midterm-83 | What is the difference between a low-pass filter and high-pass filter in the spatial domain? |
-| Midterm-83 | Differentiate between Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT). What is the purpose of using the Fourier transform in image processing? |
-| Midterm-83 | What is histogram equalization in image enhancement? Illustrate with example. |
-| Preboard-83 | Describe how you implement the Gaussian High Pass Frequency domain filter for image smoothing in the frequency domain. |
-| Preboard-83 | What is 2D Discrete Fourier Transform (DFT)? Explain. |
-| Preboard-83 | What is the difference between spatial correlation and spatial convolution? |
-| Preboard-83 | Describe the function of a high-boost filter. |
-| 2081 | Consider two 8×8 images. Perform histogram matching for the image on the left using the reference image on the right, and plot the resulting histogram. [10] |
-| 2081 | Explain in detail the procedure for implementing Butterworth High Pass filter in the Frequency domain. [5] |
-| 2081 | What is boundary? Explain spatial weighted averaging filter with suitable example. [1+4] |
-| 2076 | a) What do you understand by image processing? Draw the block diagram of image processing system and explain. b) Write expression for Discrete Fourier Transform for 1D and 2D signal. c) Explain importance of image enhancement in the Fourier Domain. |
-| 2076 | Explain: i) Contrast stretching ii) Bit plane slicing |
-| 2075 | Sketch the following periodic waveform in the time domain and calculate its Fourier transformation. f(t) = {3, −2≤t≤2; 0, otherwise} [10] |
-| 2075 | Equalize the histogram of the given 8×8 image (gray levels 0–7). [10] |
-| 2075 | Write short notes on (any two): a) Hough transform b) Bandpass Filter c) Smoothing vs Sharpening [2.5+2.5] |
-| 2074 (new) | Explain the FFT algorithm for the one-dimensional case. [7] |
-| 2074 (new) | Explain the Laplacian filter with an example. Derive the filter mask for hyperbolic filter and write the algorithm for its implementation. [2+6+2] |
-| 2074 (new) | How do you determine sequency in Hadamard transform from the natural order? Explain with example. |
-| 2074 (new) | Explain the Bit plane slicing technique for image enhancement. |
-| 2074 (new) | Describe in brief how you implement Gaussian High Pass Frequency domain filter for image smoothing in the frequency domain. |
-| 2074-old | Explain the intensity level slicing, the image negative and the power law transformation techniques for the purpose of image enhancement. [2+1+3] |
-| 2074-old | What is a Fourier Transform and how can you apply it in digital image processing? Explain the different properties of the Fourier Transform. [1+1+4] |
-| 2074-old | Derive the equation for hyperbolic filter and write the algorithm for its implementation. [3+3] |
-| 2074-old | Short notes: Butterworth High Pass Frequency domain filter. [3] |
-| 2073 | Explain the Haar transform and derive the Haar matrix for N = 4 case. [3+7] |
-| 2073 | What do you mean by histogram and histogram equalization in image processing? Given a gray-level histogram of an image, compute the gray levels after histogram equalization. [1+2+7] |
-| 2073 | Explain the first derivative filter with an example. Derive the filter mask for elliptical filter and write the algorithm for its implementation. [2+6+2] |
-| 2073 | Describe in brief how you implement Butterworth Low Pass Frequency domain filter for image smoothing. |
+| Year        | Question                                                                                                                                                                                                                                                 |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Midterm-83  | What is the difference between a low-pass filter and high-pass filter in the spatial domain? [Low-pass filter vs high pass filter](Low-pass%20filter%20vs%20high%20pass%20filter.md)                                                                     |
+| Midterm-83  | Differentiate between Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT). What is the purpose of using the Fourier transform in image processing? [DFT vs FFT](DFT%20vs%20FFT.md)                                                         |
+| Midterm-83  | What is histogram equalization in image enhancement? Illustrate with example. [Histogram equalization](Histogram%20equalization.md)                                                                                                                      |
+| Preboard-83 | Describe how you implement the Gaussian High Pass Frequency domain filter for image smoothing in the frequency domain. [Gaussian High Pass Freq Domain Filter](Gaussian%20High%20Pass%20Freq%20Domain%20Filter.md)                                       |
+| Preboard-83 | What is 2D Discrete Fourier Transform (DFT)? Explain. [2d DFT](2d%20DFT.md)                                                                                                                                                                              |
+| Preboard-83 | What is the difference between spatial correlation and spatial convolution? [Spatial Correlation vs spatial convolution](Spatial%20Correlation%20vs%20spatial%20convolution.md)                                                                          |
+| Preboard-83 | Describe the function of a high-boost filter.                                                                                                                                                                                                            |
+| 2081        | Consider two 8×8 images. Perform histogram matching for the image on the left using the reference image on the right, and plot the resulting histogram. [10] [ histogram matching 8x8 image](%20histogram%20matching%208x8%20image.md)                   |
+| 2081        | Explain in detail the procedure for implementing Butterworth High Pass filter in the Frequency domain. [5]                                                                                                                                               |
+| 2081        | What is boundary? Explain spatial weighted averaging filter with suitable example. [1+4]                                                                                                                                                                 |
+| 2076        | a) What do you understand by image processing? Draw the block diagram of image processing system and explain. b) Write expression for Discrete Fourier Transform for 1D and 2D signal. c) Explain importance of image enhancement in the Fourier Domain. |
+| 2076        | Explain: i) Contrast stretching ii) Bit plane slicing                                                                                                                                                                                                    |
+| 2075        | Sketch the following periodic waveform in the time domain and calculate its Fourier transformation. f(t) = {3, −2≤t≤2; 0, otherwise} [10]                                                                                                                |
+| 2075        | Equalize the histogram of the given 8×8 image (gray levels 0–7). [10]                                                                                                                                                                                    |
+| 2075        | Write short notes on (any two): a) Hough transform b) Bandpass Filter c) Smoothing vs Sharpening [2.5+2.5]                                                                                                                                               |
+| 2074 (new)  | Explain the FFT algorithm for the one-dimensional case. [7]                                                                                                                                                                                              |
+| 2074 (new)  | Explain the Laplacian filter with an example. Derive the filter mask for hyperbolic filter and write the algorithm for its implementation. [2+6+2]                                                                                                       |
+| 2074 (new)  | How do you determine sequency in Hadamard transform from the natural order? Explain with example.                                                                                                                                                        |
+| 2074 (new)  | Explain the Bit plane slicing technique for image enhancement.                                                                                                                                                                                           |
+| 2074 (new)  | Describe in brief how you implement Gaussian High Pass Frequency domain filter for image smoothing in the frequency domain.                                                                                                                              |
+| 2074-old    | Explain the intensity level slicing, the image negative and the power law transformation techniques for the purpose of image enhancement. [2+1+3]                                                                                                        |
+| 2074-old    | What is a Fourier Transform and how can you apply it in digital image processing? Explain the different properties of the Fourier Transform. [1+1+4]                                                                                                     |
+| 2074-old    | Derive the equation for hyperbolic filter and write the algorithm for its implementation. [3+3]                                                                                                                                                          |
+| 2074-old    | Short notes: Butterworth High Pass Frequency domain filter. [3]                                                                                                                                                                                          |
+| 2073        | Explain the Haar transform and derive the Haar matrix for N = 4 case. [3+7]                                                                                                                                                                              |
+| 2073        | What do you mean by histogram and histogram equalization in image processing? Given a gray-level histogram of an image, compute the gray levels after histogram equalization. [1+2+7]                                                                    |
+| 2073        | Explain the first derivative filter with an example. Derive the filter mask for elliptical filter and write the algorithm for its implementation. [2+6+2]                                                                                                |
+| 2073        | Describe in brief how you implement Butterworth Low Pass Frequency domain filter for image smoothing.                                                                                                                                                    |
 
 ### 🎯 Important topics — Unit 2 (the biggest, most-tested unit)
 1. **Histogram processing** — equalization (numerical, near-guaranteed) and histogram matching/specification (2081's worked 8×8 example is a great template).

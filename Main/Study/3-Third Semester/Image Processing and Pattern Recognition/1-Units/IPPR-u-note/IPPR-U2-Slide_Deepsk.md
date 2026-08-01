@@ -102,30 +102,30 @@ s = c * r^γ
 ## 5. Histogram Processing
 
 ### Definition
-```
-h(r_k) = n_k
-```
+
+$$h(r_k) = n_k$$
+
 - r_k = kth intensity value
 - n_k = number of pixels with intensity r_k
 
 ### Normalized Histogram
-```
-p(r_k) = n_k / MN
-```
+
+$$p(r_k) = n_k / MN$$
+
 - MN = total pixels
 - Sum of p(r_k) = 1 (probability distribution)
 
 ### Histogram Equalization
 
 **Continuous Form:**
-```
-s = T(r) = (L-1) ∫₀ʳ p_r(w) dw
-```
+
+$$s = T(r) = (L-1) ∫₀ʳ p_r(w) dw$$
+
 
 **Discrete Form:**
-```
-s_k = T(r_k) = ((L-1)/MN) * Σⱼ₌₀ᵏ n_j
-```
+
+$$s_k = T(r_k) = ((L-1)/MN) * Σⱼ₌₀ᵏ n_j$$
+
 
 **Properties:**
 - Spreads histogram uniformly

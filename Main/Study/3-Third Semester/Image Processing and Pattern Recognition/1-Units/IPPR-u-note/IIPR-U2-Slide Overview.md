@@ -139,6 +139,8 @@ $$ s_k = T(r_k) = (L-1)\sum_{j=0}^{k} \frac{n_j}{MN} = (L-1)\sum_{j=0}^{k} p_r(r
 
 Suppose the histogram of an 8-level (L=8), 64-pixel image is:
 
+- [how n_k is calculated](how%20n_k%20is%20calculated.md)
+
 | rₖ | nₖ | p(rₖ)=nₖ/64 |
 |----|----|----|
 | 0  | 8  | 0.125 |
@@ -162,13 +164,15 @@ Suppose the histogram of an 8-level (L=8), 64-pixel image is:
 | 5 | 0.125 | 0.906 | 6 |
 | 6 | 0.063 | 0.969 | 7 |
 | 7 | 0.031 | 1.000 | 7 |
-
+[CDF Calculation](CDF%20Calculation.md)
 **Mapping:** every pixel with old value 0→1, 1→2, 2→3, 3→4, 4→5, 5→6, 6→7, 7→7.
 Then rebuild the new histogram by summing `nₖ` for old levels that map to the same new level (here 6 and 7 both map to 7, so new histogram at level 7 = n₆+n₇).
 
 > **Exam tip:** This exact 8-value table format (rₖ, nₖ, p(rₖ), CDF, sₖ) is exactly how 2073, 2075, and Midterm-83 phrased the question. Memorize the table structure — you can fill in whatever histogram numbers are given.
 
 ### 3.3 Histogram Matching / Specification
+
+- [histogram matching 8x8 image](histogram%20matching%208x8%20image.md)
 
 **Goal:** Instead of forcing a uniform histogram (equalization), transform the image so its histogram matches a **given/specified** histogram (equalization is the special case where the target is uniform).
 

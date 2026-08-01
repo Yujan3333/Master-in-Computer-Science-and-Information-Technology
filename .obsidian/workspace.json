@@ -255,7 +255,8 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -276,17 +277,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "6bc2ad866994357f",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-2.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-Units.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-U2-Slide_Deepsk.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-1.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IIPR-U2-Slide Overview.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Summary from syllabus and old que.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-2-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/histogram matching 8x8 image.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR- IMP QUE.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-1-Cl.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-2-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-U2-Slide_Deepsk.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/how n_k is calculated.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/CDF Calculation.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Summary from syllabus and old que.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Spatial Correlation vs spatial convolution.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/2d DFT.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Gaussian High Pass Freq Domain Filter.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Histogram equalization.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/DFT vs FFT.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Low-pass filter vs high pass filter.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-Units.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-2.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-1.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/Contrast.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-1-Overview.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Magnification  or Zooming.md",
@@ -295,10 +305,6 @@
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/3-Old Que/IPPR Old Questions.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/2-Assignments/IPPR-Assignments/Explain the labeling of 4 connected components with example.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/2-Assignments/IPPR-Assignments/Numerical of 4-Connected Components.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/2-Assignments/Assignment-2.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Binary Image - Gray Level- Color Image.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Sampling Vs Quantization.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Morphological Processing.md",
     "Images/Third_Sem_Images/eyes.png",
     "Images/Third_Sem_Images/IPPR Old Questions preboard.jpeg",
     "Images/Third_Sem_Images/IPPR Old Questions73-1.png",
@@ -309,11 +315,6 @@
     "Images/Third_Sem_Images/IPPR Old Questions75-1.png",
     "Images/Third_Sem_Images/IPPR Old Questions75.png",
     "Images/Third_Sem_Images/IPPR Old Questions-75.png",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/3-Old Que/IPPR-Old Que/IPPR-Old Que.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/Image Processing and Pattern Recognition.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-4.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-4-Overview.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-5-Overview.md",
     "U1",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/U3/IPPR-U3-notes",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/U3",

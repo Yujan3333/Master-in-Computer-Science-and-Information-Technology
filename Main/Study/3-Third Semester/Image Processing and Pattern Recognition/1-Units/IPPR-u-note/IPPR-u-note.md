@@ -1,5 +1,12 @@
 %% Begin Waypoint %%
+- [2d DFT](./2d%20DFT.md)
 - [Binary Image - Gray Level- Color Image](./Binary%20Image%20-%20Gray%20Level-%20Color%20Image.md)
+- [CDF Calculation](./CDF%20Calculation.md)
+- [DFT vs FFT](./DFT%20vs%20FFT.md)
+- [Gaussian High Pass Freq Domain Filter](./Gaussian%20High%20Pass%20Freq%20Domain%20Filter.md)
+- [Histogram equalization](./Histogram%20equalization.md)
+- [histogram matching 8x8 image](./histogram%20matching%208x8%20image.md)
+- [how n_k is calculated](./how%20n_k%20is%20calculated.md)
 - [IIPR-U2-Slide Overview](./IIPR-U2-Slide%20Overview.md)
 - [IPPR- IMP QUE](./IPPR-%20IMP%20QUE.md)
 - [IPPR-Summary from syllabus and old que](./IPPR-Summary%20from%20syllabus%20and%20old%20que.md)
@@ -15,8 +22,10 @@
 - [IPPR-Unit-4](./IPPR-Unit-4.md)
 - [IPPR-Unit-5-Overview](./IPPR-Unit-5-Overview.md)
 - [IPPR-Unit-5](./IPPR-Unit-5.md)
+- [Low-pass filter vs high pass filter](./Low-pass%20filter%20vs%20high%20pass%20filter.md)
 - [Morphological Processing](./Morphological%20Processing.md)
 - [Sampling Vs Quantization](./Sampling%20Vs%20Quantization.md)
+- [Spatial Correlation vs spatial convolution](./Spatial%20Correlation%20vs%20spatial%20convolution.md)
 - [zooming calculation 3x3](./zooming%20calculation%203x3.md)
 
 %% End Waypoint %%
