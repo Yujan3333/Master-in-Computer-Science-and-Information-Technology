@@ -24,8 +24,8 @@ A **Low-Pass Filter** is used for **image smoothing (blurring)**. It allows **lo
 $$[
 \frac{1}{9}
 \begin{bmatrix}
-1&1&1\
-1&1&1\
+1&1&1\\
+1&1&1\\
 1&1&1
 \end{bmatrix}
 ]$$
@@ -35,8 +35,8 @@ $$[
 $$[
 \frac{1}{16}
 \begin{bmatrix}
-1&2&1\
-2&4&2\
+1&2&1\\
+2&4&2\\
 1&2&1
 \end{bmatrix}
 ]$$

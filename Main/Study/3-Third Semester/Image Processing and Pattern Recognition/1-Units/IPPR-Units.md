@@ -3,7 +3,7 @@
 
 - [IPPR-Summary from syllabus and old que](IPPR-u-note/IPPR-Summary%20from%20syllabus%20and%20old%20que.md)
 - [IPPR- IMP QUE](IPPR-u-note/IPPR-%20IMP%20QUE.md)
-- [Contrast](Contrast.md)
+- [Contrast](IPPR-u-note/Contrast.md)
 ---
 
 ### Unit 1

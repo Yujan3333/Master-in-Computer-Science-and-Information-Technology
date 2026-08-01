@@ -31,36 +31,36 @@
 
 ## UNIT 2: Image Enhancement and Filtering (Spatial + Frequency Domain, Fourier)
 
-| Year        | Question                                                                                                                                                                                                                                                 |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Midterm-83  | What is the difference between a low-pass filter and high-pass filter in the spatial domain? [Low-pass filter vs high pass filter](Low-pass%20filter%20vs%20high%20pass%20filter.md)                                                                     |
-| Midterm-83  | Differentiate between Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT). What is the purpose of using the Fourier transform in image processing? [DFT vs FFT](DFT%20vs%20FFT.md)                                                         |
-| Midterm-83  | What is histogram equalization in image enhancement? Illustrate with example. [Histogram equalization](Histogram%20equalization.md)                                                                                                                      |
-| Preboard-83 | Describe how you implement the Gaussian High Pass Frequency domain filter for image smoothing in the frequency domain. [Gaussian High Pass Freq Domain Filter](Gaussian%20High%20Pass%20Freq%20Domain%20Filter.md)                                       |
-| Preboard-83 | What is 2D Discrete Fourier Transform (DFT)? Explain. [2d DFT](2d%20DFT.md)                                                                                                                                                                              |
-| Preboard-83 | What is the difference between spatial correlation and spatial convolution? [Spatial Correlation vs spatial convolution](Spatial%20Correlation%20vs%20spatial%20convolution.md)                                                                          |
-| Preboard-83 | Describe the function of a high-boost filter.                                                                                                                                                                                                            |
-| 2081        | Consider two 8×8 images. Perform histogram matching for the image on the left using the reference image on the right, and plot the resulting histogram. [10] [ histogram matching 8x8 image](%20histogram%20matching%208x8%20image.md)                   |
-| 2081        | Explain in detail the procedure for implementing Butterworth High Pass filter in the Frequency domain. [5]                                                                                                                                               |
-| 2081        | What is boundary? Explain spatial weighted averaging filter with suitable example. [1+4]                                                                                                                                                                 |
-| 2076        | a) What do you understand by image processing? Draw the block diagram of image processing system and explain. b) Write expression for Discrete Fourier Transform for 1D and 2D signal. c) Explain importance of image enhancement in the Fourier Domain. |
-| 2076        | Explain: i) Contrast stretching ii) Bit plane slicing                                                                                                                                                                                                    |
-| 2075        | Sketch the following periodic waveform in the time domain and calculate its Fourier transformation. f(t) = {3, −2≤t≤2; 0, otherwise} [10]                                                                                                                |
-| 2075        | Equalize the histogram of the given 8×8 image (gray levels 0–7). [10]                                                                                                                                                                                    |
-| 2075        | Write short notes on (any two): a) Hough transform b) Bandpass Filter c) Smoothing vs Sharpening [2.5+2.5]                                                                                                                                               |
-| 2074 (new)  | Explain the FFT algorithm for the one-dimensional case. [7]                                                                                                                                                                                              |
-| 2074 (new)  | Explain the Laplacian filter with an example. Derive the filter mask for hyperbolic filter and write the algorithm for its implementation. [2+6+2]                                                                                                       |
-| 2074 (new)  | How do you determine sequency in Hadamard transform from the natural order? Explain with example.                                                                                                                                                        |
-| 2074 (new)  | Explain the Bit plane slicing technique for image enhancement.                                                                                                                                                                                           |
-| 2074 (new)  | Describe in brief how you implement Gaussian High Pass Frequency domain filter for image smoothing in the frequency domain.                                                                                                                              |
-| 2074-old    | Explain the intensity level slicing, the image negative and the power law transformation techniques for the purpose of image enhancement. [2+1+3]                                                                                                        |
-| 2074-old    | What is a Fourier Transform and how can you apply it in digital image processing? Explain the different properties of the Fourier Transform. [1+1+4]                                                                                                     |
-| 2074-old    | Derive the equation for hyperbolic filter and write the algorithm for its implementation. [3+3]                                                                                                                                                          |
-| 2074-old    | Short notes: Butterworth High Pass Frequency domain filter. [3]                                                                                                                                                                                          |
-| 2073        | Explain the Haar transform and derive the Haar matrix for N = 4 case. [3+7]                                                                                                                                                                              |
-| 2073        | What do you mean by histogram and histogram equalization in image processing? Given a gray-level histogram of an image, compute the gray levels after histogram equalization. [1+2+7]                                                                    |
-| 2073        | Explain the first derivative filter with an example. Derive the filter mask for elliptical filter and write the algorithm for its implementation. [2+6+2]                                                                                                |
-| 2073        | Describe in brief how you implement Butterworth Low Pass Frequency domain filter for image smoothing.                                                                                                                                                    |
+| Year        | Question                                                                                                                                                                                                                                                                |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Midterm-83  | What is the difference between a low-pass filter and high-pass filter in the spatial domain? [Low-pass filter vs high pass filter](Low-pass%20filter%20vs%20high%20pass%20filter.md)                                                                                    |
+| Midterm-83  | Differentiate between Discrete Fourier Transform (DFT) and Fast Fourier Transform (FFT). What is the purpose of using the Fourier transform in image processing? [DFT vs FFT](DFT%20vs%20FFT.md)                                                                        |
+| Midterm-83  | What is histogram equalization in image enhancement? Illustrate with example. [Histogram equalization](Histogram%20equalization.md)                                                                                                                                     |
+| Preboard-83 | Describe how you implement the Gaussian High Pass Frequency domain filter for image smoothing in the frequency domain. [Gaussian High Pass Freq Domain Filter](Gaussian%20High%20Pass%20Freq%20Domain%20Filter.md)                                                      |
+| Preboard-83 | What is 2D Discrete Fourier Transform (DFT)? Explain. [2d DFT](2d%20DFT.md)                                                                                                                                                                                             |
+| Preboard-83 | What is the difference between spatial correlation and spatial convolution? [Spatial Correlation vs spatial convolution](Spatial%20Correlation%20vs%20spatial%20convolution.md)                                                                                         |
+| Preboard-83 | Describe the function of a high-boost filter.                                                                                                                                                                                                                           |
+| 2081        | Consider two 8×8 images. Perform histogram matching for the image on the left using the reference image on the right, and plot the resulting histogram. [10] [ histogram matching 8x8 image](%20histogram%20matching%208x8%20image.md)                                  |
+| 2081        | Explain in detail the procedure for implementing Butterworth High Pass filter in the Frequency domain. [5] [Butterworth High Pass filter](Butterworth%20High%20Pass%20filter.md)                                                                                        |
+| 2081        | What is boundary? Explain spatial weighted averaging filter with suitable example. [1+4] [Boundary - Spatial weighted avg filter](Boundary%20-%20Spatial%20weighted%20avg%20filter.md)                                                                                  |
+| 2076        | a) What do you understand by image processing? Draw the block diagram of image processing system and explain. b) Write expression for Discrete Fourier Transform for 1D and 2D signal. c) Explain importance of image enhancement in the Fourier Domain.                |
+| 2076        | Explain: i) Contrast stretching ii) Bit plane slicing                                                                                                                                                                                                                   |
+| 2075        | Sketch the following periodic waveform in the time domain and calculate its Fourier transformation. f(t) = {3, −2≤t≤2; 0, otherwise} [10] [Foureir transform - periodic waveform](Foureir%20transform%20-%20periodic%20waveform.md)                                     |
+| 2075        | Equalize the histogram of the given 8×8 image (gray levels 0–7). [10]                                                                                                                                                                                                   |
+| 2075        | Write short notes on (any two): a) [Hough transform](Hough%20transform.md) b) [[Bandpass Filter]] c) [[Smoothing vs Sharpening]] [2.5+2.5]                                                                                                                              |
+| 2074 (new)  | Explain the FFT algorithm for the one-dimensional case. [7] [[FFT algo - one dimensional case]]                                                                                                                                                                         |
+| 2074 (new)  | Explain the Laplacian filter with an example. Derive the filter mask for hyperbolic filter and write the algorithm for its implementation. [2+6+2] [[Laplacian filter - hyperbolic filter algo]]                                                                        |
+| 2074 (new)  | How do you determine sequency in Hadamard transform from the natural order? Explain with example. [[Hadamard transform]]                                                                                                                                                |
+| 2074 (new)  | Explain the Bit plane slicing technique for image enhancement.                                                                                                                                                                                                          |
+| 2074 (new)  | Describe in brief how you implement Gaussian High Pass Frequency domain filter for image smoothing in the frequency domain.                                                                                                                                             |
+| 2074-old    | Explain the intensity level slicing, the image negative and the power law transformation techniques for the purpose of image enhancement. [2+1+3] [intensity level slicing - image neg - power law](intensity%20level%20slicing%20-%20image%20neg%20-%20power%20law.md) |
+| 2074-old    | What is a Fourier Transform and how can you apply it in digital image processing? Explain the different properties of the Fourier Transform. [1+1+4] [Fourier Transform and prop](Fourier%20Transform%20and%20prop.md)                                                  |
+| 2074-old    | Derive the equation for hyperbolic filter and write the algorithm for its implementation. [3+3] [Hyperbolic filter](Hyperbolic%20filter.md)                                                                                                                             |
+| 2074-old    | Short notes: Butterworth High Pass Frequency domain filter. [3]                                                                                                                                                                                                         |
+| 2073        | Explain the Haar transform and derive the Haar matrix for N = 4 case. [3+7] [Haar Transform](Haar%20Transform.md)                                                                                                                                                       |
+| 2073        | What do you mean by histogram and histogram equalization in image processing? Given a gray-level histogram of an image, compute the gray levels after histogram equalization. [1+2+7]                                                                                   |
+| 2073        | Explain the first derivative filter with an example. Derive the filter mask for elliptical filter and write the algorithm for its implementation. [2+6+2] [elliptical filter](elliptical%20filter.md)                                                                   |
+| 2073        | Describe in brief how you implement Butterworth Low Pass Frequency domain filter for image smoothing.                                                                                                                                                                   |
 
 ### 🎯 Important topics — Unit 2 (the biggest, most-tested unit)
 1. **Histogram processing** — equalization (numerical, near-guaranteed) and histogram matching/specification (2081's worked 8×8 example is a great template).
@@ -76,22 +76,23 @@
 
 ## UNIT 3: Image Restoration and Compression
 
-| Year | Question |
-|---|---|
-| Preboard-83 | Given a 6-symbol image segment with probabilities: 0.5, 0.3, 0.16, 0.1, 0.1, 0.06 — compute the Huffman code and average length. Also calculate the compression ratio. [5+5=10] |
-| Preboard-83 | What is image compression? Differentiate between Lossy and Lossless Compression with examples. |
-| 2081 | What is the model of image degradation or restoration process? Explain several restoration filters. [4+6] |
-| 2081 | Construct Huffman code for each gray level given and find the compression ratio and coding efficiency. [5] |
-| 2076 | What is noise in the context of image? Classify different types of noise models with examples. Explain four kinds of filtering mechanism to overcome the noise. |
-| 2076 | Calculate the entropy and the Huffman code for the given image data in the table. |
-| 2076 | What do you understand by image restoration? Explain how it is different from image enhancement. |
-| 2075 | Define image degradation and restoration. Explain the noise models with its effecting nature in degrading the image. [4+6] |
-| 2075 | Short note: Bandpass Filter (restoration context) [2.5] |
-| 2074 (new) | Given the frequency table from a histogram of a 16×16, 8-level image, construct Huffman code for each gray level. Calculate the compression ratio and the relative data redundancy assuming a 3-bit code is used instead of the Huffman code. [7+3] |
-| 2074 (new) | Explain how will you use the adaptive mean filters in image restoration? |
-| 2074-old | Given a frequency table from a 16×16, 8-level image histogram — Construct Huffman code for each gray level. [6] |
-| 2074-old | Explain how will you use the adaptive median filters in image restoration? [6] |
-| 2073 | Explain how will you use the band reject filters in image restoration. |
+
+| Year        | Question                                                                                                                                                                                                                                                                        |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Preboard-83 | Given a 6-symbol image segment with probabilities: 0.5, 0.3, 0.16, 0.1, 0.1, 0.06 — compute the Huffman code and average length. Also calculate the compression ratio. [5+5=10] [ Huffman Coding - Numerical](%20Huffman%20Coding%20-%20Numerical.md)<br>                       |
+| Preboard-83 | What is image compression? Differentiate between Lossy and Lossless <br>Compression with examples.<br> [lossless vs lossy](lossless%20vs%20lossy.md)                                                                                                                            |
+| 2081        | What is the model of image degradation or restoration process? Explain several restoration filters. [4+6] [model of image degradation or restoration - restoration filters](model%20of%20image%20degradation%20or%20restoration%20-%20restoration%20filters.md)                 |
+| 2081        | Construct Huffman code for each gray level given and find the compression ratio and coding efficiency. [5]                                                                                                                                                                      |
+| 2076        | What is noise in the context of image? Classify different types of noise models with examples. Explain four kinds of filtering mechanism to overcome the noise. [noise-noise model and filter to overcome noise](noise-noise%20model%20and%20filter%20to%20overcome%20noise.md) |
+| 2076        | Calculate the entropy and the Huffman code for the given image data in the table.                                                                                                                                                                                               |
+| 2076        | What do you understand by image restoration? Explain how it is different from image enhancement.                                                                                                                                                                                |
+| 2075        | Define image degradation and restoration. Explain the noise models with its effecting nature in degrading the image. [4+6]                                                                                                                                                      |
+| 2075        | Short note: [Bandpass Filter (restoration context)](Bandpass%20Filter%20(restoration%20context).md) [2.5]                                                                                                                                                                       |
+| 2074 (new)  | Given the frequency table from a histogram of a 16×16, 8-level image, construct Huffman code for each gray level. Calculate the compression ratio and the relative data redundancy assuming a 3-bit code is used instead of the Huffman code. [7+3]                             |
+| 2074 new)   |                                                                                                                                                                                                                                                                                 |
+| 2074-old    | Given a frequency table from a 16×16, 8-level image histogram — Construct Huffman code for each gray level. [6]![](../../../../../../Images/Third_Sem_Images/IPPR-%20IMP%20QUE-74.png)                                                                                          |
+| 2074-old    | Explain how will you use the adaptive median filters in image restoration? [6] [adaptive median filters](adaptive%20median%20filters.md)                                                                                                                                        |
+| 2073        | Explain how will you use the band reject filters in image restoration. [band reject filters](band%20reject%20filters.md)                                                                                                                                                        |
 
 ### 🎯 Important topics — Unit 3
 1. **Huffman coding numerical** (build code, average length, entropy, compression ratio, coding efficiency, relative data redundancy) — the **single most repeated question type across the entire course**. Appears in 6 of 8 papers. Master this cold.
@@ -105,20 +106,21 @@
 
 ## UNIT 4: Image Segmentation and Representation
 
-| Year | Question |
-|---|---|
-| 2081 | Explain Global, local, and Adaptive thresholding in segmentation. [5] |
-| 2081 | What is boundary? Explain spatial weighted averaging filter with suitable example. [1+4] |
-| 2081 | What is Hough transform? How is it useful in line detection? Explain with example. [1+4] |
-| 2076 | Explain how a point and edges can be detected in an image? |
-| 2075 | Define image segmentation. Explain the significance of image subtraction and image averaging. [1+4] |
-| 2075 | Define chain code. Find the 8-directional chain code for the given image in clockwise direction. Assume the starting position is the third pixel from the top starting position. [1+4] |
-| 2075 | Short note: Hough Transform [2.5] |
-| 2074 (new) | Explain how Hough transform is useful in line detection? |
-| 2074-old | Explain the region growing technique for image segmentation. What are the problems associated with it? [4+2] |
-| 2074-old | Short note: Global Thresholding Technique [3] |
-| 2073 | Explain the region growing technique for image segmentation. |
-| Preboard-83 | Define erosion and dilation in morphological image processing, and also explain the concept of pattern recognition. |
+| Year        | Question                                                                                                                                                                                                                                               |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2081        | Explain Global, local, and Adaptive thresholding in segmentation. [5] [Global - local - Adaptive thresholding in segmentation of img](Global%20-%20local%20-%20Adaptive%20thresholding%20in%20segmentation%20of%20img.md)                              |
+| 2081        | What is boundary? Explain spatial weighted averaging filter with suitable example. [1+4]                                                                                                                                                               |
+| 2081        | What is Hough transform? How is it useful in line detection? Explain with example. [1+4]                                                                                                                                                               |
+| 2076        | Explain how a point and edges can be detected in an image? [point-edge detection in image](point-edge%20detection%20in%20image.md)                                                                                                                     |
+| 2075        | Define image segmentation. Explain the significance of image subtraction and image averaging. [1+4] [img segmentation - img sub and img avg](img%20segmentation%20-%20img%20sub%20and%20img%20avg.md)                                                  |
+| 2075        | Define chain code. Find the 8-directional chain code for the given image in clockwise direction. Assume the starting position is the third pixel from the top starting position. [1+4] [chain code](chain%20code.md)                                   |
+| 2075        | Short note: Hough Transform [2.5]                                                                                                                                                                                                                      |
+| 2074 (new)  | Explain how Hough transform is useful in line detection?                                                                                                                                                                                               |
+| 2074-old    | Explain the region growing technique for image segmentation. What are the problems associated with it? [4+2] [Region growing tech for img segmentation and its problems](Region%20growing%20tech%20for%20img%20segmentation%20and%20its%20problems.md) |
+| 2074-old    | Short note: Global Thresholding Technique [3]                                                                                                                                                                                                          |
+| 2073        | Explain the region growing technique for image segmentation.                                                                                                                                                                                           |
+| Preboard-83 | Define erosion and dilation in morphological image processing, and also explain the concept of pattern recognition.                                                                                                                                    |
+|             |                                                                                                                                                                                                                                                        |
 
 ### 🎯 Important topics — Unit 4
 1. **Hough transform for line detection** — appears in almost every year, always with "explain with example" — know the parametrization (ρ, θ) and the accumulator-array procedure.
@@ -134,14 +136,15 @@
 
 ## UNIT 5: Pattern Recognition
 
-| Year | Question |
-|---|---|
-| Preboard-83 | ...also explain the concept of pattern recognition (paired with erosion/dilation question). |
-| 2076 | Explain sensitivity and specificity that is derived from confusion matrix and describe its use for pattern classification. |
-| 2075 | Distinguish between pattern and pattern class. Explain the strategy for pattern recognition. [2+3] |
-| 2074-old | What are the components of a pattern recognition system? Explain with relevant diagrams. [6] |
-| 2073 | What is a Neural Network? Explain Minimum Distance Classifier. |
+| Year        | Question                                                                                                                   |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Preboard-83 | ...also explain the concept of pattern recognition                                                                         |
+| 2076        | Explain sensitivity and specificity that is derived from confusion matrix and describe its use for pattern classification. |
+| 2075        | Distinguish between pattern and pattern class. Explain the strategy for pattern recognition. [2+3]                         |
+| 2074-old    | What are the components of a pattern recognition system? Explain with relevant diagrams. [6]                               |
+| 2073        | What is a Neural Network? Explain Minimum Distance Classifier.                                                             |
 
+[All Unit-5-pattern-answer](All%20Unit-5-pattern-answer.md)
 ### 🎯 Important topics — Unit 5
 1. **Components of a pattern recognition system** (sensing → segmentation → feature extraction → classification → post-processing) with block diagram.
 2. **Pattern vs pattern class**, and general PR strategies (statistical, structural, neural).
