@@ -62,8 +62,8 @@ The large value **70** indicates the location of the edge.
 
 $$
 \begin{bmatrix}
--1&0&1\
--1&0&1\
+-1&0&1\\
+-1&0&1\\
 -1&0&1
 \end{bmatrix}
 $$
@@ -72,8 +72,8 @@ $$
 
 $$
 \begin{bmatrix}
--1&-1&-1\
-0&0&0\
+-1&-1&-1\\
+0&0&0\\
 1&1&1
 \end{bmatrix}
 $$
@@ -150,8 +150,8 @@ A commonly used normalized elliptical mask is
 $$
 \frac{1}{16}
 \begin{bmatrix}
-1&2&1\
-2&4&2\
+1&2&1\\
+2&4&2\\
 1&2&1
 \end{bmatrix}
 $$
@@ -257,8 +257,8 @@ A commonly used mask is
 $$
 \frac{1}{16}
 \begin{bmatrix}
-1&2&1\
-2&4&2\
+1&2&1\\
+2&4&2\\
 1&2&1
 \end{bmatrix}
 $$

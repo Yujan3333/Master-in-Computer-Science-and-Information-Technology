@@ -4,7 +4,6 @@
 - [A1- Question2 - WAP to train AND Gate Using Perceptron Algo](./A1-%20Question2%20-%20WAP%20to%20train%20AND%20Gate%20Using%20Perceptron%20Algo.md)
 - [A1- Question3 -  WAP to Min-Max Scalar](./A1-%20Question3%20-%20%20WAP%20to%20Min-Max%20Scalar.md)
 - [A1- Question4 - WAP Standard Scalar](./A1-%20Question4%20-%20WAP%20Standard%20Scalar.md)
-- [A1- Question5 - WAP to predict the output of given Input using MaxMin Scalar and Perceptron Algo](./A1-%20Question5%20-%20WAP%20to%20predict%20the%20output%20of%20given%20Input%20using%20MaxMin%20Scalar%20and%20Perceptron%20Algo.md)
 - [A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and batch](./A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20sigmoid%20and%20batch.md)
 - [A2 - Backpropagation algo - 3bit input 3x2x2x1 using sigmoid and online](./A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20sigmoid%20and%20online.md)
 - [A2 - Backpropagation algo - 3bit input 3x2x2x1 using tanh and batch](./A2%20-%20Backpropagation%20algo%20-%203bit%20input%203x2x2x1%20using%20tanh%20and%20batch.md)
@@ -19,12 +18,10 @@
 - [A2-L1-Final Code with all the comments](./A2-L1-Final%20Code%20with%20all%20the%20comments.md)
 - [A3- Heart Disease Prediction Using MLP](./A3-%20Heart%20Disease%20Prediction%20Using%20MLP.md)
 - [Check the dataset for missing values and handle, if any](./Check%20the%20dataset%20for%20missing%20values%20and%20handle,%20if%20any.md)
-- [Construct an MLP with configuration 11x128x64x32x1. Use Adam optimizer and appropriate activation functions and train the model.](./Construct%20an%20MLP%20with%20configuration%2011x128x64x32x1.%20Use%20Adam%20optimizer%20and%20appropriate%20activation%20functions%20and%20train%20the%20model..md)
 - [Display input and output features of the dataset](./Display%20input%20and%20output%20features%20of%20the%20dataset.md)
 - [Encode non-numeric input attributes using Label Encoder](./Encode%20non-numeric%20input%20attributes%20using%20Label%20Encoder.md)
 - [Encode output attribute using one hot encoder](./Encode%20output%20attribute%20using%20one%20hot%20encoder.md)
 - [Online Vs Batch](./Online%20Vs%20Batch.md)
-- [Predict heart disease for test data and display confusion matrix, accuracy, recall, precision and F1-score](./Predict%20heart%20disease%20for%20test%20data%20and%20display%20confusion%20matrix,%20accuracy,%20recall,%20precision%20and%20F1-score.md)
 - [seed](./seed.md)
 
 %% End Waypoint %%

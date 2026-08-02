@@ -6,6 +6,7 @@
 
 ---
 - [zooming calculation 3x3](zooming%20calculation%203x3.md)
+
 - [unmask](unmask.md)
 - [Boundary - Spatial weighted avg filter](Boundary%20-%20Spatial%20weighted%20avg%20filter.md)
 - Contrast Streching
@@ -13,15 +14,27 @@
 - [Spatial Correlation vs spatial convolution](Spatial%20Correlation%20vs%20spatial%20convolution.md)
 - [Foureir transform - periodic waveform](Foureir%20transform%20-%20periodic%20waveform.md)
 - [intensity level slicing - image neg - power law](intensity%20level%20slicing%20-%20image%20neg%20-%20power%20law.md)
+
+
 - [Haar Transform](Haar%20Transform.md)
 - [elliptical filter](elliptical%20filter.md)
+
 - [laplacian filter](laplacian%20filter.md)
 - [sobel filter](sobel%20filter.md)
+
+- [laplacin - sobel - prewitt](laplacin%20-%20sobel%20-%20prewitt.md)
+
+- [Hadamard transform](Hadamard%20transform.md)
+- [Bandpass Filter](Bandpass%20Filter.md)
+- [Laplacian filter - hyperbolic filter algo](Laplacian%20filter%20-%20hyperbolic%20filter%20algo.md)
+- 
 
 
 
 
 - [Contrast streching vs histogram equilization](Contrast%20streching%20vs%20histogram%20equilization.md)
+- [Histogram equalization](Histogram%20equalization.md)
+- [histogram matching 8x8 image](histogram%20matching%208x8%20image.md)
 
 
 

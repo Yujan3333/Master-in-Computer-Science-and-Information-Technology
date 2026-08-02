@@ -70,8 +70,8 @@ Using the above equation, a commonly used normalized mask is approximately
 
 $$
 \begin{bmatrix}
-0.41 & 0.50 & 0.41\
-0.50 & 1.00 & 0.50\
+0.41 & 0.50 & 0.41\\
+0.50 & 1.00 & 0.50\\
 0.41 & 0.50 & 0.41
 \end{bmatrix}
 $$

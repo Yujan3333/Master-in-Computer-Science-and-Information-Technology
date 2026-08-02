@@ -356,9 +356,9 @@ $$
 
 where
 
-* $$H^*$$ = complex conjugate
-* $$S_n$$ = noise power spectrum
-* $$S_f$$ = image power spectrum
+* $H^*$ = complex conjugate
+* $S_n$ = noise power spectrum
+* $S_f$ = image power spectrum
 
 ### Advantages
 

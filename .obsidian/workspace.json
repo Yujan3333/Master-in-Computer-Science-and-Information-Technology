@@ -13,58 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-5.md",
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IPPR-Unit-5"
+              "title": "IPPR-Unit-4"
             }
           },
           {
-            "id": "4e4ee45bf5764161",
+            "id": "5719fc066c24bcd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-5-Overview.md",
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/line detection in img.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IPPR-Unit-5-Overview"
+              "title": "line detection in img"
             }
           },
           {
-            "id": "0724f47c43c389e0",
+            "id": "2bdd4cf1f76ed7b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR- IMP QUE.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "IPPR- IMP QUE"
-            }
-          },
-          {
-            "id": "31ed7cbc11029350",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/All Unit-5-pattern-answer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "All Unit-5-pattern-answer"
             }
           }
         ],
@@ -182,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-5-Overview.md",
+                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/line detection in img.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -233,34 +218,44 @@
   },
   "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR- IMP QUE.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-5.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/All Unit-5-pattern-answer.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-5-Overview.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-4-Overview.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-Units.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/line detection in img.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-4.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-Units.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-3.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR- IMP QUE.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/LZW.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Region growing tech for img segmentation and its problems.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/chain code.md",
-    "Images/Third_Sem_Images/chain code.png",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/img segmentation - img sub and img avg.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/point-edge detection in image.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Global - local - Adaptive thresholding in segmentation of img.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-3.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/LZW.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-3-Overview.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/weiner vs inverse filter.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/band reject filters.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/adaptive median filters.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Huffman Coding - Numerical.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Bandpass Filter (restoration context).md",
-    "Images/Third_Sem_Images/IPPR- IMP QUE-74.png",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/noise-noise model and filter to overcome noise.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Bandpass Filter (restoration context).md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Bandpass Filter.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/model of image degradation or restoration - restoration filters.md",
     "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/lossless vs lossy.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Huffman Coding - Numerical.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U1/ADC - Unit 1.md",
+    "Main/Study/2-Second Semester/ADC/1_Units/U1/ADC - u1-notes/Internal Hashing Vs External Hashing.md",
     "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/2-Assignment/Huffman Coding.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-2-Overview.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-U2-Slide_Deepsk.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-2.md",
+    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit-3/PDC--u3/PDC--u3.md",
+    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit-3/PDC--u3/Parallel Reduction Operations.md",
+    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit-3/PDC--u3/Models of Parallel Computation.md",
+    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit-3/PDC--u3/Mapping algorithm onto partition able machine.md",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/Slides-Lab Files/Lab 2/Program/Manjulneuron_layer.py",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/Slides-Lab Files/Lab 2/Program/Manjul-Q2-badawala-xor.ipynb",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/Slides-Lab Files/Lab 2/Program/Manjul-Q1.ipynb",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/NN_Lab3_3_Hosuing.ipynb",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/NN_Lab3_2_Iris.ipynb",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/NN_Lab3_1_Heart(Binary_Class_Classification).ipynb",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/Lab Assignment 3.docx.pdf",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/iris.csv",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/Housing.csv",
+    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/heart.csv",
+    "Images/Third_Sem_Images/chain code.png",
+    "Images/Third_Sem_Images/IPPR- IMP QUE-74.png",
     "Images/Third_Sem_Images/eyes.png",
     "Images/Third_Sem_Images/IPPR Old Questions preboard.jpeg",
     "Images/Third_Sem_Images/IPPR Old Questions73-1.png",
@@ -269,16 +264,6 @@
     "Images/Third_Sem_Images/IPPR Old Questions76-1.png",
     "Images/Third_Sem_Images/IPPR Old Questions76.png",
     "Images/Third_Sem_Images/IPPR Old Questions75-1.png",
-    "U1",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/U3/IPPR-U3-notes",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/U3",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note",
-    "FL",
-    "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3/RGIS-U3-n",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U3",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U4/RGIS-U4-n",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/U4",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"

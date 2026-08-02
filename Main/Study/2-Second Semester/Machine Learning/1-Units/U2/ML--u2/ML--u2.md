@@ -48,6 +48,5 @@
 - [Types of Gradient Descent](./Types%20of%20Gradient%20Descent.md)
 - [Value of w(i) in the LWR](./Value%20of%20w(i)%20in%20the%20LWR.md)
 - [Why are we needed to retrain everything in batch gradient to accumulate new data](./Why%20are%20we%20needed%20to%20retrain%20everything%20in%20batch%20gradient%20to%20accumulate%20new%20data.md)
-- [Why is the poor removed and what happens if there are multiple occurence of the same word in the likelihood finding](./Why%20is%20the%20poor%20removed%20and%20what%20happens%20if%20there%20are%20multiple%20occurence%20of%20the%20same%20word%20in%20the%20likelihood%20finding.md)
 
 %% End Waypoint %%

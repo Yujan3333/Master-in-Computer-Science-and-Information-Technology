@@ -1,5 +1,6 @@
 #ippr #third-semester 
 
+
 This is a **rectangular pulse Fourier Transform** problem. It appears frequently in DIP and Signals exams.
 
 ---
@@ -11,7 +12,7 @@ Sketch the following waveform in the time domain and calculate its Fourier Trans
 $$
 f(t)=
 \begin{cases}
-3, & -2\le t\le 2\
+3, & -2\le t\le 2\\
 0, & \text{otherwise}
 \end{cases}
 $$

@@ -25,7 +25,7 @@ Every pixel is classified as:
 
 $$g(x,y)=
 \begin{cases}
-1,&f(x,y)\ge T\
+1,&f(x,y)\ge T\\
 0,&f(x,y)<T
 \end{cases}$$
 

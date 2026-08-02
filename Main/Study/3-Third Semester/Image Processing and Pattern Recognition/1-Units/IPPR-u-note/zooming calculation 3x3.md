@@ -26,8 +26,8 @@ In replication, **each pixel is copied** into a $$2 \times 2$$ block.
 
 $$
 \begin{bmatrix}
-1 & 7 & 6 \
-4 & 6 & 2 \
+1 & 7 & 6 \\
+4 & 6 & 2 \\
 1 & 5 & 3
 \end{bmatrix}
 $$
@@ -115,8 +115,8 @@ Instead of copying pixels, we **calculate new pixel values** by averaging neighb
 
 $$
 \begin{bmatrix}
-1 & 7 & 6 \
-4 & 6 & 2 \
+1 & 7 & 6 \\
+4 & 6 & 2 \\
 1 & 5 & 3
 \end{bmatrix}
 $$
@@ -127,8 +127,8 @@ $$
 
 $$
 \begin{bmatrix}
-1 & ? & 7 & ? & 6 \
-4 & ? & 6 & ? & 2 \
+1 & ? & 7 & ? & 6 \\
+4 & ? & 6 & ? & 2 \\
 1 & ? & 5 & ? & 3
 \end{bmatrix}
 $$

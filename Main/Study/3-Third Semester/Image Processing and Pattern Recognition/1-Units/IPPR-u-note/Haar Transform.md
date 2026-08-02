@@ -116,9 +116,9 @@ Combining all rows,
 $$
 H_4=
 \begin{bmatrix}
-\frac12 & \frac12 & \frac12 & \frac12\
-\frac12 & \frac12 & -\frac12 & -\frac12\
-\frac1{\sqrt2} & -\frac1{\sqrt2} & 0 & 0\
+\frac12 & \frac12 & \frac12 & \frac12\\
+\frac12 & \frac12 & -\frac12 & -\frac12\\
+\frac1{\sqrt2} & -\frac1{\sqrt2} & 0 & 0\\
 0 & 0 & \frac1{\sqrt2} & -\frac1{\sqrt2}
 \end{bmatrix}
 $$
@@ -157,9 +157,9 @@ If
 $$
 X=
 \begin{bmatrix}
-x_1\
-x_2\
-x_3\
+x_1\\
+x_2\\
+x_3\\
 x_4
 \end{bmatrix},
 $$
@@ -212,9 +212,9 @@ The Haar matrix is
 $$
 H_4=
 \begin{bmatrix}
-\frac12 & \frac12 & \frac12 & \frac12\
-\frac12 & \frac12 & -\frac12 & -\frac12\
-\frac1{\sqrt2} & -\frac1{\sqrt2} & 0 & 0\
+\frac12 & \frac12 & \frac12 & \frac12\\
+\frac12 & \frac12 & -\frac12 & -\frac12\\
+\frac1{\sqrt2} & -\frac1{\sqrt2} & 0 & 0\\
 0 & 0 & \frac1{\sqrt2} & -\frac1{\sqrt2}
 \end{bmatrix}
 $$

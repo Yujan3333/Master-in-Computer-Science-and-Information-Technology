@@ -4,6 +4,7 @@
 
 ---
 - [Huffman Coding](../../../../1-First%20Semester/Subjects/Algorithm%20and%20Complexity%20(AC)/2-Assignment/Huffman%20Coding.md)
+- 
 - [Huffman Coding - Numerical](Huffman%20Coding%20-%20Numerical.md)
 
 - [lossless vs lossy](lossless%20vs%20lossy.md)
@@ -17,3 +18,5 @@
 - [adaptive median filters](adaptive%20median%20filters.md)
 
 - [LZW](LZW.md)
+
+- [weiner vs inverse filter](weiner%20vs%20inverse%20filter.md)

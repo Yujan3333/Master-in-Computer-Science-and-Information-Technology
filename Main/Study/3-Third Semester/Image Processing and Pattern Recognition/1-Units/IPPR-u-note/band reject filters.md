@@ -54,7 +54,7 @@ The Ideal Band Reject Filter is
 $$
 H(u,v)=
 \begin{cases}
-0, & D_0-\dfrac{W}{2}\le D(u,v)\le D_0+\dfrac{W}{2} \
+0, & D_0-\dfrac{W}{2}\le D(u,v)\le D_0+\dfrac{W}{2} \\
 1, & \text{otherwise}
 \end{cases}
 $$

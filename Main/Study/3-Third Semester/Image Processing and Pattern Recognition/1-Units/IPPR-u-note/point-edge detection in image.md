@@ -325,8 +325,4 @@ $$
 }
 $$
 
-I will use your preferred LaTeX style from now on:
 
-* Inline math with `$...$`
-* Display math with `$$...$$`
-* Never `\[...\]` or `\(...\)` unless you specifically ask for it.

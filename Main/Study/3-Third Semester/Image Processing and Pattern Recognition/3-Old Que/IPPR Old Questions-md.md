@@ -5,6 +5,7 @@
 
 ### Pre Board
 ![](../../../../../Images/Third_Sem_Images/IPPR%20Old%20Questions%20preboard.jpeg)
+- [IPPR-midterm](IPPR-Old%20Que/IPPR-midterm.md)
 
 ### Mid Term
 ![](../../../../../Images/Third_Sem_Images/IPPR%20Old%20Questions-midterm.jpeg)
