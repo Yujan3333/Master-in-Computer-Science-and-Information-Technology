@@ -4,56 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "332c300c7747ec0d",
+        "id": "f39dc437b9db66f1",
         "type": "tabs",
         "children": [
           {
-            "id": "f90bc62a8d629bc3",
+            "id": "9615311653a6c456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-4.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-units.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "IPPR-Unit-4"
-            }
-          },
-          {
-            "id": "5719fc066c24bcd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/line detection in img.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "line detection in img"
-            }
-          },
-          {
-            "id": "2bdd4cf1f76ed7b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR- IMP QUE.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "IPPR- IMP QUE"
+              "title": "RGIS-units"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/line detection in img.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-units.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -218,32 +187,45 @@
   },
   "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/line detection in img.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-4.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-Units.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR-Unit-3.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/IPPR- IMP QUE.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/LZW.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Region growing tech for img segmentation and its problems.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/chain code.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/point-edge detection in image.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Global - local - Adaptive thresholding in segmentation of img.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/weiner vs inverse filter.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/band reject filters.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/adaptive median filters.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/noise-noise model and filter to overcome noise.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Bandpass Filter (restoration context).md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Bandpass Filter.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/model of image degradation or restoration - restoration filters.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/lossless vs lossy.md",
-    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/1-Units/IPPR-u-note/Huffman Coding - Numerical.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U1/ADC - Unit 1.md",
-    "Main/Study/2-Second Semester/ADC/1_Units/U1/ADC - u1-notes/Internal Hashing Vs External Hashing.md",
-    "Main/Study/1-First Semester/Subjects/Algorithm and Complexity (AC)/2-Assignment/Huffman Coding.md",
-    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit-3/PDC--u3/PDC--u3.md",
-    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit-3/PDC--u3/Parallel Reduction Operations.md",
-    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit-3/PDC--u3/Models of Parallel Computation.md",
-    "Main/Study/1-First Semester/Subjects/Parallel and Distributed Computing (PDC)/1-Units/Unit-3/PDC--u3/Mapping algorithm onto partition able machine.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-IMP Questions.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-units.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/RGIS-Old Questions.md",
+    "Images/Third_Sem_Images/RGIS-Old Questions82-1.png",
+    "Images/Third_Sem_Images/RGIS-Old Questions82.png",
+    "Images/Third_Sem_Images/RGIS-Old Questions81-1.png",
+    "Images/Third_Sem_Images/RGIS-Old Questions81.png",
+    "Images/Third_Sem_Images/RGIS-Old Questions76-1.png",
+    "Images/Third_Sem_Images/RGIS-Old Questions76.png",
+    "Images/Third_Sem_Images/RGIS-Old Questions71.png",
+    "Images/Third_Sem_Images/RGIS-Old Questions.png",
+    "Images/Third_Sem_Images/RGIS-Old Questions78.png",
+    "Images/Third_Sem_Images/RGIS-Old Questions-preboard.jpeg",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/rgis-que-md/rgis-que-md.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/rgis-que-md",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/PPL-Old Questions.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 11 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 10 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 9 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-11.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-10.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-9.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-8.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 8 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 7 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-7.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-6.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 6 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-3.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 3 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-5.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 5 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-4.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 4 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-2.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 2 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 3 Overview.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/Slides-Lab Files/Lab 2/Program/Manjulneuron_layer.py",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/Slides-Lab Files/Lab 2/Program/Manjul-Q2-badawala-xor.ipynb",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/Slides-Lab Files/Lab 2/Program/Manjul-Q1.ipynb",
@@ -251,19 +233,6 @@
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/NN_Lab3_2_Iris.ipynb",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/NN_Lab3_1_Heart(Binary_Class_Classification).ipynb",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/Lab Assignment 3.docx.pdf",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/iris.csv",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/Housing.csv",
-    "Main/Study/1-First Semester/Subjects/Neural Network (NN)/2-Assignments/Assignments Docs and Program/Lab3/heart.csv",
-    "Images/Third_Sem_Images/chain code.png",
-    "Images/Third_Sem_Images/IPPR- IMP QUE-74.png",
-    "Images/Third_Sem_Images/eyes.png",
-    "Images/Third_Sem_Images/IPPR Old Questions preboard.jpeg",
-    "Images/Third_Sem_Images/IPPR Old Questions73-1.png",
-    "Images/Third_Sem_Images/IPPR Old Questions73.png",
-    "Images/Third_Sem_Images/IPPR Old Questions76-2.png",
-    "Images/Third_Sem_Images/IPPR Old Questions76-1.png",
-    "Images/Third_Sem_Images/IPPR Old Questions76.png",
-    "Images/Third_Sem_Images/IPPR Old Questions75-1.png",
     "Main/Study/First Sem/All Notes and Resources Combined/AC Notes/Untitled.canvas",
     "Main/Study/First Sem/All Notes and Resources Combined/Untitled.canvas",
     "Main/Study/First Sem/Subjects/Advanced Operating System (AOS)/Visual Connection.canvas"
