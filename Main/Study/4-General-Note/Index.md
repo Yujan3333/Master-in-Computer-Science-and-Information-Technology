@@ -7,6 +7,9 @@
 ### E
 - [Encapsulation vs abstraction](General-Notes/Encapsulation%20vs%20abstraction.md)
 
+### L
+- [Longitude vs Latitude](Longitude%20vs%20Latitude.md)
+
 ### P
 - [Primitive Root](General-Notes/Primitive%20Root.md)
 

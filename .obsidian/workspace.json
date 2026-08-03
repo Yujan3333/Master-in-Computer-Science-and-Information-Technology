@@ -13,13 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-units.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Core Functions of GIS + GPS & Remote Sensing + Data Integration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "RGIS-units"
+              "title": "Core Functions of GIS + GPS & Remote Sensing + Data Integration"
+            }
+          },
+          {
+            "id": "2c8d3a298249aed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/GPS VS GNSS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "GPS VS GNSS"
+            }
+          },
+          {
+            "id": "6d89a9744d3922d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-IMP Questions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "RGIS-IMP Questions"
             }
           }
         ]
@@ -136,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-units.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Core Functions of GIS + GPS & Remote Sensing + Data Integration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -164,7 +194,8 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -185,10 +216,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "9615311653a6c456",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-IMP Questions.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-units.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/GPS VS GNSS.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-IMP Questions.md",
+    "Main/Study/4-General-Note/Index.md",
+    "Main/Study/4-General-Note/Longitude vs Latitude.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/GPS.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Remote Sensing Definition.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Core Functions of GIS + GPS & Remote Sensing + Data Integration.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Q1-GIS -More Detailed answer.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-U1-overview.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-Unit-1.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/RGIS-Old Questions.md",
     "Images/Third_Sem_Images/RGIS-Old Questions82-1.png",
     "Images/Third_Sem_Images/RGIS-Old Questions82.png",
@@ -216,15 +256,6 @@
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-7.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-6.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 6 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-3.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 3 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-5.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 5 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-4.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 4 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-2.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 2 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 3 Overview.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/Slides-Lab Files/Lab 2/Program/Manjulneuron_layer.py",
     "Main/Study/1-First Semester/Subjects/Neural Network (NN)/Slides-Lab Files/Lab 2/Program/Manjul-Q2-badawala-xor.ipynb",

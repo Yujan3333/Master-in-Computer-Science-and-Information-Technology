@@ -1,7 +1,9 @@
 %% Begin Waypoint %%
 - **1-Units**
-	- [RGIS-IMP Questions](./1-Units/RGIS-IMP%20Questions.md)
+	- [GPS VS GNSS](./1-Units/GPS%20VS%20GNSS.md)
 	- **[RGIS-md-coll](./1-Units/RGIS-md-coll/RGIS-md-coll.md)**
+		- [GPS](./1-Units/RGIS-md-coll/GPS.md)
+		- [Remote Sensing Definition](./1-Units/RGIS-md-coll/Remote%20Sensing%20Definition.md)
 		- [RGIS Unit 2 Overview ](./1-Units/RGIS-md-coll/RGIS%20Unit%202%20Overview%20.md)
 		- [RGIS Unit 3 Overview ](./1-Units/RGIS-md-coll/RGIS%20Unit%203%20Overview%20.md)
 		- [RGIS Unit 3 Overview](./1-Units/RGIS-md-coll/RGIS%20Unit%203%20Overview.md)
@@ -13,6 +15,7 @@
 		- [RGIS Unit 9 Overview ](./1-Units/RGIS-md-coll/RGIS%20Unit%209%20Overview%20.md)
 		- [RGIS Unit 10 Overview ](./1-Units/RGIS-md-coll/RGIS%20Unit%2010%20Overview%20.md)
 		- [RGIS Unit 11 Overview ](./1-Units/RGIS-md-coll/RGIS%20Unit%2011%20Overview%20.md)
+		- [RGIS-IMP Questions](./1-Units/RGIS-md-coll/RGIS-IMP%20Questions.md)
 		- [RGIS-U1-overview](./1-Units/RGIS-md-coll/RGIS-U1-overview.md)
 		- [RGIS-Unit-1](./1-Units/RGIS-md-coll/RGIS-Unit-1.md)
 		- [RGIS-UNIT-2](./1-Units/RGIS-md-coll/RGIS-UNIT-2.md)
