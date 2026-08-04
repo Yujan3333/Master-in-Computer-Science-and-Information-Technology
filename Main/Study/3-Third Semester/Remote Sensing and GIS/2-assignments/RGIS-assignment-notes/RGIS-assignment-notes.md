@@ -15,6 +15,7 @@
 - [Image Enhancement Techniques in Digital Image Processing](./Image%20Enhancement%20Techniques%20in%20Digital%20Image%20Processing.md)
 - [Image preprocessing Techniques](./Image%20preprocessing%20Techniques.md)
 - [Image Resolutions types-IFOV Swaths Nadir](./Image%20Resolutions%20types-IFOV%20Swaths%20Nadir.md)
+- [parallax](./parallax.md)
 - [Point in polygon and line in polygon in figure](./Point%20in%20polygon%20and%20line%20in%20polygon%20in%20figure.md)
 - [Point-in-Polygon and Line in polygon](./Point-in-Polygon%20and%20Line%20in%20polygon.md)
 - [Q1-GIS -More Detailed answer](./Q1-GIS%20-More%20Detailed%20answer.md)

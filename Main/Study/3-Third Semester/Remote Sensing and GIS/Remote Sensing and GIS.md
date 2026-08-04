@@ -1,8 +1,12 @@
 %% Begin Waypoint %%
 - **1-Units**
-	- [GPS VS GNSS](./1-Units/GPS%20VS%20GNSS.md)
+	- [RGIS - Sir Slide Overview](./1-Units/RGIS%20-%20Sir%20Slide%20Overview.md)
 	- **[RGIS-md-coll](./1-Units/RGIS-md-coll/RGIS-md-coll.md)**
+		- [DEM-DTM](./1-Units/RGIS-md-coll/DEM-DTM.md)
+		- [GPS VS GNSS](./1-Units/RGIS-md-coll/GPS%20VS%20GNSS.md)
 		- [GPS](./1-Units/RGIS-md-coll/GPS.md)
+		- [local raster operation](./1-Units/RGIS-md-coll/local%20raster%20operation.md)
+		- [Model View](./1-Units/RGIS-md-coll/Model%20View.md)
 		- [Remote Sensing Definition](./1-Units/RGIS-md-coll/Remote%20Sensing%20Definition.md)
 		- [RGIS Unit 2 Overview ](./1-Units/RGIS-md-coll/RGIS%20Unit%202%20Overview%20.md)
 		- [RGIS Unit 3 Overview ](./1-Units/RGIS-md-coll/RGIS%20Unit%203%20Overview%20.md)

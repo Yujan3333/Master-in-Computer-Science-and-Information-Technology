@@ -82,7 +82,7 @@ Radiometric resolution refers to the sensor's sensitivity to detect slight diffe
 
 ## Formula
 
-2^n
+$$2^n$$
 
 where:
 

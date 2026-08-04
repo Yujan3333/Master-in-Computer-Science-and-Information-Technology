@@ -257,7 +257,7 @@ Focus:
 
 ---
 
-## C. Model View
+## C. [Model View](Model%20View.md)
 
 GIS performs analysis and modeling.
 
