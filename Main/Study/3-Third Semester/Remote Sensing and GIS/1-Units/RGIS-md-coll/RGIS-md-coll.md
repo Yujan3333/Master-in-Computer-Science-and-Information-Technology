@@ -1,12 +1,19 @@
 #rgis #third-semester 
 
 %% Begin Waypoint %%
+- [Active vs Passive Sensor](./Active%20vs%20Passive%20Sensor.md)
+- [Adv of Geometric Correction](./Adv%20of%20Geometric%20Correction.md)
 - [Ancillary Data](./Ancillary%20Data.md)
+- [Componenets of GPS](./Componenets%20of%20GPS.md)
 - [DEM-DTM](./DEM-DTM.md)
+- [Geographic Fields and Geographic Objects](./Geographic%20Fields%20and%20Geographic%20Objects.md)
 - [GPS VS GNSS](./GPS%20VS%20GNSS.md)
 - [GPS](./GPS.md)
+- [Image Interpretation keys](./Image%20Interpretation%20keys.md)
 - [local raster operation](./local%20raster%20operation.md)
+- [Map Elements](./Map%20Elements.md)
 - [Model View](./Model%20View.md)
+- [Polygon in Polygon](./Polygon%20in%20Polygon.md)
 - [Remote Sensing Definition](./Remote%20Sensing%20Definition.md)
 - [RGIS - Sir Slide Overview](./RGIS%20-%20Sir%20Slide%20Overview.md)
 - [RGIS Unit 2 Overview ](./RGIS%20Unit%202%20Overview%20.md)
@@ -29,11 +36,12 @@
 - [RGIS-UNIT-5](./RGIS-UNIT-5.md)
 - [RGIS-UNIT-6](./RGIS-UNIT-6.md)
 - [RGIS-UNIT-7](./RGIS-UNIT-7.md)
-- [RGIS-UNIT-8](./RGIS-UNIT-8.md)
+- [RGIS-UNIT-8 Visual Image Interpretation](./RGIS-UNIT-8%20Visual%20Image%20Interpretation.md)
 - [RGIS-UNIT-9](./RGIS-UNIT-9.md)
 - [RGIS-UNIT-10](./RGIS-UNIT-10.md)
 - [RGIS-UNIT-11](./RGIS-UNIT-11.md)
 - [Supervised vs Unsupervised in Image](./Supervised%20vs%20Unsupervised%20in%20Image.md)
+- [SWATH in resolution](./SWATH%20in%20resolution.md)
 - [Visual Image Interpretation vs Digital Interpretation](./Visual%20Image%20Interpretation%20vs%20Digital%20Interpretation.md)
 
 %% End Waypoint %%

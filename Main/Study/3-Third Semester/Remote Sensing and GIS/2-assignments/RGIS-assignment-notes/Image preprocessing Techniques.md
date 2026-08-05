@@ -77,7 +77,7 @@ It removes errors and distortions so that the image becomes more accurate and re
 ---
 
 # ✅ **Advantage of Geometric Correction**
-- [Adv of Geometric Correction](../../1-Units/Adv%20of%20Geometric%20Correction.md)
+- [Adv of Geometric Correction](../../1-Units/RGIS-md-coll/Adv%20of%20Geometric%20Correction.md)
 
 Geometric correction is very important before further analysis because:
 

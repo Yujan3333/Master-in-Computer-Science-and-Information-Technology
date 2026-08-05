@@ -172,13 +172,20 @@ Four categories of digital image processing functions:
 - *Space-borne radar*: stable, predictable orbital geometry, faster large-area coverage, but less flexible viewing geometry; narrower incidence-angle range (~5–15°) than airborne (~60–70°).
 - **Range and azimuth resolution**: Range = (c × t)/2; range resolution ΔR = c/(2B); azimuth resolution ≈ R × θ (depends on beamwidth).
 - **RAR vs SAR**:
-  | Feature | RAR (Real Aperture Radar) | SAR (Synthetic Aperture Radar) |
-  |---|---|---|
-  | Antenna | Physical/real | Synthesized via platform motion |
-  | Azimuth resolution | Lower, size/range-dependent | High, independent of range |
-  | Processing | Minimal/real-time | Advanced signal processing needed |
-  | Cost/complexity | Cheaper, simpler | More expensive, complex |
-  | Best use | Tactical surveillance, weather radar | Earth observation, terrain mapping, disaster monitoring |
+  
+| Feature                    | RAR (Real Aperture Radar)                             | SAR (Synthetic Aperture Radar)                                                 |
+| -------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Definition**             | Uses the physical antenna to determine resolution     | Uses platform motion to create a virtual (synthetic) antenna                   |
+| **Antenna**                | Real (physical)                                       | Synthetic (virtual)                                                            |
+| **Azimuth Resolution**     | Lower; depends on antenna length and range            | High; nearly independent of range                                              |
+| **Need for Large Antenna** | Yes                                                   | No                                                                             |
+| **Signal Processing**      | Minimal                                               | Advanced digital processing                                                    |
+| **Image Quality**          | Lower                                                 | Higher                                                                         |
+| **Cost**                   | Lower                                                 | Higher                                                                         |
+| **Complexity**             | Simple                                                | Complex                                                                        |
+| **Applications**           | Weather radar, air traffic control, marine navigation | Earth observation, terrain mapping, disaster monitoring, military surveillance |
+
+  
 - Slide deck also lists example research topics combining RS/GIS with AI/ML (forest fire prediction, land cover classification, urban growth change detection, flood risk mapping, air quality prediction, etc. — several Nepal/Kathmandu-focused).
 
 ---

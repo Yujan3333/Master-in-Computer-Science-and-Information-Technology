@@ -4,86 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f39dc437b9db66f1",
+        "id": "758ea95e459f1342",
         "type": "tabs",
         "children": [
           {
-            "id": "9615311653a6c456",
+            "id": "fd115ddacebeecdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-units.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "RGIS-units"
-            }
-          },
-          {
-            "id": "686abb188814266e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-8.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "RGIS-UNIT-8"
-            }
-          },
-          {
-            "id": "f84cd1fb97eeb173",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/Remote Sensing and GIS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Remote Sensing and GIS"
-            }
-          },
-          {
-            "id": "17cf376bcf4bc631",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/RGIS-Old Questions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "RGIS-Old Questions"
-            }
-          },
-          {
-            "id": "7a7728daf78c7f3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/rgis-que-md/RGIS-Preboard LQ.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "RGIS-Preboard LQ"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "longitude",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +102,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/Remote Sensing and GIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -197,7 +130,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/Remote Sensing and GIS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -248,32 +180,32 @@
   },
   "active": "09b920776c3dde42",
   "lastOpenFiles": [
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-md-coll.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/Remote Sensing and GIS.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-units.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/RADAR working and Diff between range resolution and azimuth resolution of radar.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/RGIS-Old Questions.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-Unit-1.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-U1-overview.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-2.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 2 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-3.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 3 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-4.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 4 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 5 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-5.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-6.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 6 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-7.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 7 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/Orthorectification.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-8 Visual Image Interpretation.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 8 Overview .md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Visual Image Interpretation vs Digital Interpretation.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-units.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-8.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/rgis-que-md/RGIS-Preboard LQ.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/RGIS-Old Questions.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-9.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 9 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Digital Image Processing Functions.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Steps in Digital Image Processing Function - COMPLETE.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-2.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/Adv of Geometric Correction.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Visual Image Interpretation.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Image preprocessing Techniques.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Scale in satellite  image Interpretation.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Site and Association.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-10.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 10 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Ancillary Data.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/DN-Radiance-Reflectance.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/rgis-que-md/RGIS-Preboard SQ.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/rgis-que-md/RGIS-2081 SQ.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/rgis-que-md/RGIS-2081LQ.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/rgis-que-md/RGIS-2082-SQ.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Image Interpretation keys.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Componenets of GPS.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Polygon in Polygon.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Geographic Fields and Geographic Objects.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Map Elements.md",
     "Images/Third_Sem_Images/Pasted image 20260805043340.png",
     "Images/Third_Sem_Images/RGIS-Old Questions82-1.png",
     "Images/Third_Sem_Images/RGIS-Old Questions82.png",

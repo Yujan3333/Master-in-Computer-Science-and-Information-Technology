@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **1-Units**
-	- [Adv of Geometric Correction](./1-Units/Adv%20of%20Geometric%20Correction.md)
+	- [Orthorectification](./1-Units/Orthorectification.md)
 	- **[RGIS-md-coll](./1-Units/RGIS-md-coll/RGIS-md-coll.md)**
 	- [RGIS-units](./1-Units/RGIS-units.md)
 - **2-assignments**
