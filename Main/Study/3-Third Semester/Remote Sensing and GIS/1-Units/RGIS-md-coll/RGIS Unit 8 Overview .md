@@ -365,7 +365,7 @@ Removes incorrect possibilities step by step until the correct object is identif
 
 # 8. Generation of Thematic Maps
 
-A thematic map shows the distribution of a specific feature.
+A thematic map shows the *distribution* of a **specific feature**.
 
 Examples:
 
@@ -444,14 +444,14 @@ The brightness depends on **backscatter**.
 
 * Buildings
 * Forests
-* Rough terrain
+* **Rough terrain**
 
 ---
 
 ## Dark Objects
 
 * Calm water
-* Smooth surfaces
+* **Smooth surfaces**
 
 ---
 

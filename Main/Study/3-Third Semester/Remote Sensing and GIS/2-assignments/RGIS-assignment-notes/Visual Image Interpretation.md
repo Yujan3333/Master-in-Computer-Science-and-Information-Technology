@@ -104,8 +104,12 @@ Visual image interpretation is the process of **examining satellite images using
 
 #### 🔗 Association
 
-* Association refers to the relationship between objects and nearby features.
+* Association refers to the relationship between objects and nearby objects.
 * For example, schools are often located near residential areas, and ports are found near water bodies.
+
+*Relation between one object and another *
+
+[Site and Association](Site%20and%20Association.md)
 
 ---
 

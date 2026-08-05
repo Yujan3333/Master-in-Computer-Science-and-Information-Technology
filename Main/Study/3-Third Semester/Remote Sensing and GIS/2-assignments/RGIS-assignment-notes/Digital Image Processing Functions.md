@@ -1,5 +1,6 @@
 # ✅ **Digital Image Processing Functions and Classification**
 
+- [Steps in Digital Image Processing Function - COMPLETE](Steps%20in%20Digital%20Image%20Processing%20Function%20-%20COMPLETE.md)
 ---
 
 ## 🔹 **Introduction**

@@ -306,8 +306,8 @@ Images can be displayed in different ways.
 ---
 
 ## A. Grayscale Display
-
-Uses shades of gray.
+- Single spectral band
+- Uses shades of gray.
 
 Example:
 
@@ -323,17 +323,30 @@ Combines three spectral bands.
 
 Examples:
 
-### True Color
+### True Color Composite
 
-* Red → Red
-* Green → Green
-* Blue → Blue
+In a True Color Composite, the visible bands are assigned to their natural display colors.
+
+| Spectral Band | Display Color |
+| ------------- | ------------- |
+| Red           | Red           |
+| Green         | Green         |
+| Blue          | Blue          |
+
 
 Produces natural-looking images.
 
 ---
 
 ### False Color Composite
+In a False Color Composite, spectral bands are assigned to different display colors.
+
+| Spectral Band       | Display Color |
+| ------------------- | ------------- |
+| Near Infrared (NIR) | Red           |
+| Red                 | Green         |
+| Green               | Blue          |
+
 
 Near-infrared is displayed as red.
 
