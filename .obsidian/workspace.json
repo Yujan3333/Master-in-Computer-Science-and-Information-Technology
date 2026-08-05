@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "758ea95e459f1342",
+        "id": "0bc4468d6fcbf1be",
         "type": "tabs",
         "children": [
           {
-            "id": "fd115ddacebeecdb",
+            "id": "6381c9396a9da371",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Techniques available for 3D viewing in digital photogrammetry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Techniques available for 3D viewing in digital photogrammetry"
             }
           }
         ]
@@ -130,6 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Techniques available for 3D viewing in digital photogrammetry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -157,7 +163,8 @@
               "title": "Backlinks for K Medoid"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -178,9 +185,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09b920776c3dde42",
+  "active": "6381c9396a9da371",
   "lastOpenFiles": [
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-4.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Diff bet Photogrammetry and Lidar- DEM DTM.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/parallax.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 7 Overview .md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-7.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-units.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Contour Map Generation.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS - Sir Slide Overview.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-5.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Electromagnetic Spectrum in Remote Sensing.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/RADAR working and Diff between range resolution and azimuth resolution of radar.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/RGIS-Old Questions.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-Unit-1.md",
@@ -195,17 +211,8 @@
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-5.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-6.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 6 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-7.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 7 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/Orthorectification.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Orthorectification.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-8 Visual Image Interpretation.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 8 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Visual Image Interpretation vs Digital Interpretation.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Image Interpretation keys.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Componenets of GPS.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Polygon in Polygon.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Geographic Fields and Geographic Objects.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Map Elements.md",
     "Images/Third_Sem_Images/Pasted image 20260805043340.png",
     "Images/Third_Sem_Images/RGIS-Old Questions82-1.png",
     "Images/Third_Sem_Images/RGIS-Old Questions82.png",

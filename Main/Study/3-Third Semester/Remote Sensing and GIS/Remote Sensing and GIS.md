@@ -1,6 +1,5 @@
 %% Begin Waypoint %%
 - **1-Units**
-	- [Orthorectification](./1-Units/Orthorectification.md)
 	- **[RGIS-md-coll](./1-Units/RGIS-md-coll/RGIS-md-coll.md)**
 	- [RGIS-units](./1-Units/RGIS-units.md)
 - **2-assignments**

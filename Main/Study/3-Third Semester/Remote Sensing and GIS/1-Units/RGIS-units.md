@@ -44,10 +44,10 @@
 - [DEM DTM Generation](../2-assignments/RGIS-assignment-notes/Diff%20bet%20Photogrammetry%20and%20Lidar-%20DEM%20DTM.md)
 
 ##### Contour Map Generation
-
+- [Contour Map Generation](RGIS-md-coll/Contour%20Map%20Generation.md)
 
 ##### Orthorectification
-- [Orthorectification](Orthorectification.md)
+- [Orthorectification](RGIS-md-coll/Orthorectification.md)
 
 ##### Techniques for 3d viewing in digital photogrammetry
 - [Techniques available for 3D viewing in digital photogrammetry](../2-assignments/RGIS-assignment-notes/Techniques%20available%20for%203D%20viewing%20in%20digital%20photogrammetry.md)
