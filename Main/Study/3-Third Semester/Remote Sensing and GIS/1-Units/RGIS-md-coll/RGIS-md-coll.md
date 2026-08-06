@@ -42,6 +42,7 @@
 - [RGIS-UNIT-9](./RGIS-UNIT-9.md)
 - [RGIS-UNIT-10](./RGIS-UNIT-10.md)
 - [RGIS-UNIT-11](./RGIS-UNIT-11.md)
+- [Spatial Filtering](./Spatial%20Filtering.md)
 - [Supervised vs Unsupervised in Image](./Supervised%20vs%20Unsupervised%20in%20Image.md)
 - [SWATH in resolution](./SWATH%20in%20resolution.md)
 - [Visual Image Interpretation vs Digital Interpretation](./Visual%20Image%20Interpretation%20vs%20Digital%20Interpretation.md)

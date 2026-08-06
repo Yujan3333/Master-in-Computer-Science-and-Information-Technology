@@ -251,7 +251,10 @@ Microwave signals are sensitive to:
 Therefore microwave remote sensing is highly suitable for tropical forest studies.
 
 ---
+# 6. Supports change detection
 
+
+---
 # Conclusion
 
 Thermal remote sensing is important for temperature-related environmental analysis, while microwave remote sensing offers major advantages such as all-weather capability, cloud penetration, and day-night operation. Because tropical rain forests are densely vegetated and continuously cloud-covered, microwave remote sensing is much more effective than optical remote sensing for monitoring forest structure, biomass, and environmental changes.
