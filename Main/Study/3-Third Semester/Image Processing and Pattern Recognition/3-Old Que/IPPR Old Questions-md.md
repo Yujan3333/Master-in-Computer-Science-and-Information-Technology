@@ -1,7 +1,7 @@
 #ippr #third-semester #old-que 
 
 ### Board
-
+![](../../../../../Images/Third_Sem_Images/IPPR%20Old%20Questions-md%20-%202083%20me.jpeg)
 
 ### Pre Board
 ![](../../../../../Images/Third_Sem_Images/IPPR%20Old%20Questions%20preboard.jpeg)

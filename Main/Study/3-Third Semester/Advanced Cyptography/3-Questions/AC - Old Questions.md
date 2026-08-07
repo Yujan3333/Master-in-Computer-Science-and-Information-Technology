@@ -6,7 +6,7 @@
 ### 2083
 - [AC-Midterm](AC-Old%20Que/AC-Midterm.md)
 - [AC-Preboard](AC-Old%20Que/AC-Preboard.md)
-- AC-Board
+- [AC-Board](AC-Old%20Que/AC-Board.md)
 
 ---
 ### Previous Year

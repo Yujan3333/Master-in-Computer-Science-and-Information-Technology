@@ -1,7 +1,7 @@
 #rgis #third-semester #old-que 
 
 ### Board
-
+![](../../../../../Images/Third_Sem_Images/RGIS-Old%20Questions-2083%20me.jpeg)
 
 
 ### Preboard

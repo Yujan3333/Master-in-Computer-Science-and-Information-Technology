@@ -1,5 +1,6 @@
 
 ### 2083-My
+![](../../../../../Images/Third_Sem_Images/Fuzzy%20Systems%20-%20Old%20Questions%202083%20me.jpeg)
 
 #### Mid Term
 ![](../../../../../Images/Third_Sem_Images/Fuzzy%20Systems%20-%20Mid%20Term.jpeg)

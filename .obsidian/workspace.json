@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0bc4468d6fcbf1be",
+        "id": "267de4dcc1048730",
         "type": "tabs",
         "children": [
           {
-            "id": "6381c9396a9da371",
+            "id": "8fc1c67bbb2663a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Geographic Fields and Geographic Objects.md",
+                "file": "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/RGIS-Old Questions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Geographic Fields and Geographic Objects"
+              "title": "RGIS-Old Questions"
             }
           }
         ]
@@ -184,9 +184,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6381c9396a9da371",
+  "active": "8fc1c67bbb2663a7",
   "lastOpenFiles": [
+    "Images/Third_Sem_Images/RGIS-Old Questions-2083 me.jpeg",
+    "Main/Study/3-Third Semester/Principles of Programming Languages/2-Old Questions/PPL-Old Questions.md",
+    "Images/Third_Sem_Images/PPL-Old Questions- 2083 me.jpeg",
+    "Main/Study/3-Third Semester/Fuzzy Systems/3-Old Que/Fuzzy Systems - Old Questions.md",
+    "Main/Study/3-Third Semester/Image Processing and Pattern Recognition/3-Old Que/IPPR Old Questions-md.md",
+    "Images/Third_Sem_Images/IPPR Old Questions-md - 2083 me.jpeg",
+    "Images/Third_Sem_Images/Fuzzy Systems - Old Questions 2083 me.jpeg",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC - Old Questions.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Board.md",
+    "Images/Third_Sem_Images/AC-Board83.jpeg",
+    "Main/Study/3-Third Semester/Advanced Cyptography/Advanced Cyptography.md",
+    "Main/Study/3-Third Semester/Advanced Cyptography/3-Questions/AC-Old Que/AC-Old Que.md",
+    "Main/Study/3-Third Semester/3-Third Semester.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-units.md",
+    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Geographic Fields and Geographic Objects.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Map Elements.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Thermal Remote Sensing-Adv microwave.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-Assignment-4.md",
@@ -202,26 +216,12 @@
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-10.md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 10 Overview .md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Spatial Filtering.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-3.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 3 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Image Interpretation keys.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Polygon in Polygon.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Techniques available for 3D viewing in digital photogrammetry.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/Diff bet Photogrammetry and Lidar- DEM DTM.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/2-assignments/RGIS-assignment-notes/parallax.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS Unit 7 Overview .md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/RGIS-UNIT-7.md",
-    "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll/Contour Map Generation.md",
     "Images/Third_Sem_Images/Pasted image 20260805043340.png",
     "Images/Third_Sem_Images/RGIS-Old Questions82-1.png",
     "Images/Third_Sem_Images/RGIS-Old Questions82.png",
     "Images/Third_Sem_Images/RGIS-Old Questions81-1.png",
     "Images/Third_Sem_Images/RGIS-Old Questions81.png",
     "Images/Third_Sem_Images/RGIS-Old Questions76-1.png",
-    "Images/Third_Sem_Images/RGIS-Old Questions76.png",
-    "Images/Third_Sem_Images/RGIS-Old Questions71.png",
-    "Images/Third_Sem_Images/RGIS-Old Questions.png",
-    "Images/Third_Sem_Images/RGIS-Old Questions78.png",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que/rgis-que-md",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/4-Old Que",
     "Main/Study/3-Third Semester/Remote Sensing and GIS/1-Units/RGIS-md-coll",

@@ -1,5 +1,7 @@
 #old-que #third-semester #PPL 
+
 ### 2083 My
+![](../../../../../Images/Third_Sem_Images/PPL-Old%20Questions-%202083%20me.jpeg)
 
 #### MidTerm
 ![](../../../../../Images/Third_Sem_Images/Old%20Questions-ppl-mid.jpeg)

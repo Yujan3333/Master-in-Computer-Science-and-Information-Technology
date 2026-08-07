@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- [AC-Board](./AC-Board.md)
 - [AC-Midterm](./AC-Midterm.md)
 - [AC-Preboard](./AC-Preboard.md)
 - [ACrypto-2082](./ACrypto-2082.md)
