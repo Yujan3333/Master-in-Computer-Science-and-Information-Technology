@@ -1,4 +1,5 @@
-13hrs
+#first-semester #advanced-operating-system
+
 
 2.1. Paging: Page tables, speeding up page tables, Page tables for large memories, demand Paging, Page replacement algorithms: Brief overview of LRU and LFU, Details of clock, WSclock, LRFU, LIRS(Paper Based Study), Design Issues for paging, Segmentation, Segmentation with paging.
 - [Memory manager](AOS-u2/Memory%20manager.md)

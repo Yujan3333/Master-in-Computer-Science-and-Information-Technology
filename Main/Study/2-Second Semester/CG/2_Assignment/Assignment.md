@@ -1,3 +1,4 @@
+#second-semester #computational-geometry
 ### Lab 1
 1. [WAP to create a point](Assignment_Note/WAP%20to%20create%20a%20point.md)
 2. [WAP to create line segment](Assignment_Note/WAP%20to%20create%20line%20segment.md)

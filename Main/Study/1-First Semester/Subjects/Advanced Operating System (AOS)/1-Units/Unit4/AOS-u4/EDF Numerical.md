@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ## EDF (Earliest Deadline First) Scheduling Solution
 
 ![](../../../../../../../../Images/First_Sem_Images/EDF%20Numerical%20Fig.png)

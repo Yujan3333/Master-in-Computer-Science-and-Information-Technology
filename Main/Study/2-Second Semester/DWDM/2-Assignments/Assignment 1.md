@@ -1,2 +1,4 @@
+#second-semester #DWDM
+
 - [Database Vs Data Warehouse](A-Notes/Database%20Vs%20Data%20Warehouse.md)
 - [OLTP VS OLAP](A-Notes/OLTP%20VS%20OLAP.md)

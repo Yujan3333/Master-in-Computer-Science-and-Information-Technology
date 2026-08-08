@@ -1,22 +1,24 @@
+#second-semester #compiler-optimization
+
 %% Begin Waypoint %%
 - **1_Units**
 	- **U1**
-		- **[CO--u1](./1_Units/U1/CO--u1/CO--u1.md)**
+		- **[CO--u1-md](./1_Units/U1/CO--u1-md/CO--u1-md.md)**
 		- [CO--Unit 1](./1_Units/U1/CO--Unit%201.md)
 	- **U2**
-		- **[CO--u2](./1_Units/U2/CO--u2/CO--u2.md)**
+		- **[CO--u2-md](./1_Units/U2/CO--u2-md/CO--u2-md.md)**
 		- [CO--Unit 2](./1_Units/U2/CO--Unit%202.md)
 	- **U3**
-		- **[CO--u3](./1_Units/U3/CO--u3/CO--u3.md)**
+		- **[CO--u3-md](./1_Units/U3/CO--u3-md/CO--u3-md.md)**
 		- [CO--Unit 3](./1_Units/U3/CO--Unit%203.md)
 	- **U4**
-		- **[CO--u4](./1_Units/U4/CO--u4/CO--u4.md)**
+		- **[CO--u4-md](./1_Units/U4/CO--u4-md/CO--u4-md.md)**
 		- [CO--Unit 4](./1_Units/U4/CO--Unit%204.md)
 	- **U5**
-		- **[CO--u5](./1_Units/U5/CO--u5/CO--u5.md)**
+		- **[CO--u5-md](./1_Units/U5/CO--u5-md/CO--u5-md.md)**
 		- [CO--Unit 5 - Control Dependence](./1_Units/U5/CO--Unit%205%20-%20Control%20Dependence.md)
 	- **U6**
-		- **[CO--u6](./1_Units/U6/CO--u6/CO--u6.md)**
+		- **[CO--u6-md](./1_Units/U6/CO--u6-md/CO--u6-md.md)**
 		- [CO--Unit 6](./1_Units/U6/CO--Unit%206.md)
 - **2_Assignment**
 	- **[Assignment_Notes](./2_Assignment/Assignment_Notes/Assignment_Notes.md)**

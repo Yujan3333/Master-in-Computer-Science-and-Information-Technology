@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 **EDF (Earliest Deadline First)** is a **dynamic priority** scheduling algorithm used in real-time systems.
 
 - **Dynamic** means priorities **change over time**.

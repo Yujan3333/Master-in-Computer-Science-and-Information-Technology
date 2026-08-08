@@ -1,3 +1,5 @@
+#second-semester #advanced-database
+
 %% Begin Waypoint %%
 - [Difference between Encapsulation and Abstraction](./Difference%20between%20Encapsulation%20and%20Abstraction.md)
 - [Operator Overloading](./Operator%20Overloading.md)

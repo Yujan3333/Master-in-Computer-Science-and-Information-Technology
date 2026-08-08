@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ![](../../../../../../../../Images/First_Sem_Images/Numerical%20on%20RMS%20Que1.png)
 
 ## Rate Monotonic Scheduling Basics

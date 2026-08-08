@@ -1,3 +1,5 @@
+#second-semester
+
 %% Begin Waypoint %%
 - **[ADC](./ADC/ADC.md)**
 - **[CG](./CG/CG.md)**

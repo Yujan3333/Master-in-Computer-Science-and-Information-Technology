@@ -1,8 +1,10 @@
+#first-semester #Neural-Network
+
  **5 hrs** 
   
 ### Main Topic
 
-- [Biological neural networks](NN-u1/Biological%20neural%20networks.md)
+- [Biological neural networks](NN-u1-md/Biological%20neural%20networks.md)
 
 - Pattern analysis tasks: Classification, Regression, Clustering
 

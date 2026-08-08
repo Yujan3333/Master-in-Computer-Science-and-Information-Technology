@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 **Belady's Anomaly** is a counter-intuitive phenomenon in page replacement algorithms where **increasing the number of page frames can actually increase the number of page faults**.
 
 ## What You'd Expect:

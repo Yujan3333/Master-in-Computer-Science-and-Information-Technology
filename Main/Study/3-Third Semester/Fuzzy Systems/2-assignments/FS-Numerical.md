@@ -1,4 +1,4 @@
-#assignment #fuzzy-system
+#assignment #fuzzy-system #third-semester 
 
 - [Scaling and Clipping Part Explained](FS-assignments/Scaling%20and%20Clipping%20Part%20Explained.md)
 

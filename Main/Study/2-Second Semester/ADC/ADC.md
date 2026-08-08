@@ -1,3 +1,5 @@
+#second-semester #advanced-database
+
 %% Begin Waypoint %%
 - **1_Units**
 	- **U1**

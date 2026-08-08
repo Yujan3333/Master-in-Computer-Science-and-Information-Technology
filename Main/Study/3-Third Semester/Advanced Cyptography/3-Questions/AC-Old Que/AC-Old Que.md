@@ -1,3 +1,5 @@
+#third-semester #advanced-cryptography #old-que 
+
 %% Begin Waypoint %%
 - [AC-Board](./AC-Board.md)
 - [AC-Midterm](./AC-Midterm.md)

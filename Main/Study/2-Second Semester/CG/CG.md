@@ -1,3 +1,4 @@
+#second-semester #computational-geometry
 %% Begin Waypoint %%
 - **2_Assignment**
 	- **[Assignment_Note](./2_Assignment/Assignment_Note/Assignment_Note.md)**

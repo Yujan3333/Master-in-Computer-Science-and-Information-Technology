@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ## 🔄 **1. Fetch Strategies**
 
 **When should a page or segment be loaded into main memory from disk?**

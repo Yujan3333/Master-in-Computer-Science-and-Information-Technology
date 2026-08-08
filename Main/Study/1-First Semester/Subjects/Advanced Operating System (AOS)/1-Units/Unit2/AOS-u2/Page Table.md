@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ## Page Table Entry Layout (32-bit system)
 
 ![](../../../../../../../../Images/First_Sem_Images/Page%20Table.png)

@@ -1,3 +1,5 @@
+#first-semester #Neural-Network #old-que 
+
 %% Begin Waypoint %%
 - **[_Notes](./_Notes/_Notes.md)**
 - [2077](./2077.md)

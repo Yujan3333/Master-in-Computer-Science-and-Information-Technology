@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ## 🎞️ Video Compression Standards: MPEG
 - **MPEG** stands for **Motion Picture Experts Group** — an international working group that develops **standards** for compressing **audio and video**.
 

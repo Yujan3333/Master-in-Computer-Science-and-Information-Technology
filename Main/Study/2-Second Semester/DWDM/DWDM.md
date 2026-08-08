@@ -1,31 +1,32 @@
+#second-semester #DWDM
 %% Begin Waypoint %%
 - **1-Units**
 	- **U1**
-		- **[DWDM-u1](./1-Units/U1/DWDM-u1/DWDM-u1.md)**
+		- **[DWDM-u1-md](./1-Units/U1/DWDM-u1-md/DWDM-u1-md.md)**
 		- [DWDM-Unit 1](./1-Units/U1/DWDM-Unit%201.md)
 	- **U2**
-		- **[DWDM-u2](./1-Units/U2/DWDM-u2/DWDM-u2.md)**
+		- **[DWDM-u2-md](./1-Units/U2/DWDM-u2-md/DWDM-u2-md.md)**
 		- [DWDM-Unit 2](./1-Units/U2/DWDM-Unit%202.md)
 	- **U3**
-		- **[DWDM-u3](./1-Units/U3/DWDM-u3/DWDM-u3.md)**
+		- **[DWDM-u3-md](./1-Units/U3/DWDM-u3-md/DWDM-u3-md.md)**
 		- [DWDM-Unit 3](./1-Units/U3/DWDM-Unit%203.md)
 	- **U4**
-		- **[dwdm-u4](./1-Units/U4/dwdm-u4/dwdm-u4.md)**
+		- **[dwdm-u4-md](./1-Units/U4/dwdm-u4-md/dwdm-u4-md.md)**
 		- [DWDM-Unit 4](./1-Units/U4/DWDM-Unit%204.md)
 	- **U5**
-		- **[dwdm-u5](./1-Units/U5/dwdm-u5/dwdm-u5.md)**
+		- **[dwdm-u5-md](./1-Units/U5/dwdm-u5-md/dwdm-u5-md.md)**
 		- [DWDM-Unit 5](./1-Units/U5/DWDM-Unit%205.md)
 	- **U6**
-		- **[DWDM-u2](./1-Units/U6/DWDM-u2/DWDM-u2.md)**
+		- **[DWDM-u6-md](./1-Units/U6/DWDM-u6-md/DWDM-u6-md.md)**
 		- [DWDM-Unit 6](./1-Units/U6/DWDM-Unit%206.md)
 	- **U7**
-		- **[dwdm-u7](./1-Units/U7/dwdm-u7/dwdm-u7.md)**
+		- **[dwdm-u7-md](./1-Units/U7/dwdm-u7-md/dwdm-u7-md.md)**
 		- [DWDM-Unit 7](./1-Units/U7/DWDM-Unit%207.md)
 	- **U8**
-		- **[dwdm-u8](./1-Units/U8/dwdm-u8/dwdm-u8.md)**
+		- **[dwdm-u8-md](./1-Units/U8/dwdm-u8-md/dwdm-u8-md.md)**
 		- [DWDM-Unit 8](./1-Units/U8/DWDM-Unit%208.md)
 	- **U9**
-		- **[DWDM-u9](./1-Units/U9/DWDM-u9/DWDM-u9.md)**
+		- **[DWDM-u9-md](./1-Units/U9/DWDM-u9-md/DWDM-u9-md.md)**
 		- [DWDM-Unit 9](./1-Units/U9/DWDM-Unit%209.md)
 - **2-Assignments**
 	- **[A-Notes](./2-Assignments/A-Notes/A-Notes.md)**

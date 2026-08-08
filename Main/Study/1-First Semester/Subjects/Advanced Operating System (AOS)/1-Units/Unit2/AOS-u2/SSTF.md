@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 - Shortest Seek Time First
 - From current head shortest seek time choosen
 - Used in batch system.

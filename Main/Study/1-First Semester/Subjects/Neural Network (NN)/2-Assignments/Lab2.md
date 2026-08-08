@@ -1,3 +1,5 @@
+#first-semester #Neural-Network #assignment 
+
 **Lab Assignment 2**
 - [Online Vs Batch](Lab-Questions/Online%20Vs%20Batch.md)
 ---

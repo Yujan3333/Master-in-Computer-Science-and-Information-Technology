@@ -1,3 +1,5 @@
+#first-semester #advanced-complexity #old-que 
+
 %% Begin Waypoint %%
 - [2070](./2070.md)
 - [2071](./2071.md)

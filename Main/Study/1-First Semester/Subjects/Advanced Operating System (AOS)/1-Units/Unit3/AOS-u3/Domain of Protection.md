@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 A **domain = what a user/process can access + what it can do to it** (like read, write, execute).
 
 ## 🧠 **Protection: Objects, Processes, and Domains**

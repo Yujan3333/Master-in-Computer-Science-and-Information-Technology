@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ![](../../../../../../../../Images/First_Sem_Images/Numerical%20on%20EDF%20-%20Example%202%20again.png)
 > [!question]+ Data
 > p1 = 50 msec; t1 = 25 msec 

@@ -1,3 +1,4 @@
+#second-semester #advanced-database
 %% Begin Waypoint %%
 - [Disk Architecture](./Disk%20Architecture.md)
 - [Hashing](./Hashing.md)

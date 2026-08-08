@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 **Address Translation** using **base and limit registers**, 
 which is a **simple memory protection and relocation mechanism**
 in operating systems.

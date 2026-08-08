@@ -1,3 +1,5 @@
+#first-semester #PDC #old-que 
+
 %% Begin Waypoint %%
 - [2070](./2070.md)
 - [2072](./2072.md)

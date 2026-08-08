@@ -1,6 +1,8 @@
+#first-semester #OOSE
+
 5hrs
 
-- [Object Modeling Technique](OOSE--u5/Object%20Modeling%20Technique.md)
+- [Object Modeling Technique](OOSE--u5-md/Object%20Modeling%20Technique.md)
 - [Hierarchical object-oriented design (HOOD)](../../2-Assignments/OOSE%20A2/Hierarchical%20object-oriented%20design%20(HOOD).md)
 - [Responsibility-driven design (RDD)](../../2-Assignments/OOSE%20A2/Responsibility-driven%20design%20(RDD).md)
 - [Object Modeling Technique (OMT)](../../2-Assignments/OOSE%20A2/Object%20Modeling%20Technique%20(OMT).md)

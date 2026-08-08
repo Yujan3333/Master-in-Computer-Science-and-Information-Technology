@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 [Least Slack Time First(LSTF)](Least%20Slack%20Time%20First.md)
 
 

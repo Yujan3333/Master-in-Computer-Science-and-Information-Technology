@@ -1,4 +1,4 @@
-
+#second-semester #compiler-optimization #old-que 
 # **Q. Define dependence testing. Find the dependence of S1 and S2 upon themselves in the following code.**
 
 

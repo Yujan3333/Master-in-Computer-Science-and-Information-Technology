@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ![](../../../../../../../../Images/First_Sem_Images/Disk%20Structure-fig.png)
 
 > Platter -> Surface -> Track -> Sector -> Data

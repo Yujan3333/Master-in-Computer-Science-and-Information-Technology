@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 - Elevator Algorithm
 	
 - The disk arm **moves in one direction** (like an elevator) servicing all requests **until it reaches the end** AKA *literally touches 0 and goes towards 199 as in fig*.

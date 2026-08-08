@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ### 🕒 1. Counter Implementation
 
 > Uses a **timestamp or clock** to track **when** each page was last used.

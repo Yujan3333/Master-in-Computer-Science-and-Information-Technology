@@ -1,5 +1,6 @@
+#first-semester #advanced-operating-system
+
 - A **RAM disk** is a **virtual disk** created using the system’s **main memory (RAM)**.
-    
 - The OS treats it like a **block device**, similar to a hard disk or SSD.
 
 - [📌 Key Difference Between RAM and RAM Disk:](#📌%20Key%20Difference%20Between%20RAM%20and%20RAM%20Disk)

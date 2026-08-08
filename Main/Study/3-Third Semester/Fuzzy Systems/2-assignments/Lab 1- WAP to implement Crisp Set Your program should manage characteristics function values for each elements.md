@@ -1,4 +1,4 @@
-
+#assignment #fuzzy-system #third-semester 
 
 Recall the characteristic function of a crisp set:
 

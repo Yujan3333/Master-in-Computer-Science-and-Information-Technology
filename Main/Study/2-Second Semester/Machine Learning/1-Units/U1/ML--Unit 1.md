@@ -1,4 +1,5 @@
-#### [AI vs ML vs NN vs DL](ML--u1/AI%20vs%20ML%20vs%20NN%20vs%20DL.md)
+#second-semester #machine-learning
+#### [AI vs ML vs NN vs DL](ML--u1-md/AI%20vs%20ML%20vs%20NN%20vs%20DL.md)
 
 ---
 ### How Machine Learning Works?
@@ -24,7 +25,7 @@
 2. Unsupervised learning
 3. Reinforcement Learning
 
-### [Types of Attributes (Nominal Ordinal Interval Ratio)](ML--u1/Types%20of%20Attributes%20(Nominal%20Ordinal%20Interval%20Ratio).md)
+### [Types of Attributes (Nominal Ordinal Interval Ratio)](ML--u1-md/Types%20of%20Attributes%20(Nominal%20Ordinal%20Interval%20Ratio).md)
 1. Nominal Attributes
 2. Ordinal Attributes
 3. Interval-Scaled Attributes

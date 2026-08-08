@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ### What is a Distributed System?
 
 A **distributed system** is a collection of **loosely coupled processors** (also called **nodes**, **computers**, **machines**, or **hosts**) that are **interconnected by a communication network**. These systems work together to achieve a common goal but appear to users as a **single coherent system**.

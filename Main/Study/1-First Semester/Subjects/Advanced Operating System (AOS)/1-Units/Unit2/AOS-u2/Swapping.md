@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ### 🔁 **Swapping (Concept):**
 
 - A **process** can be **temporarily moved out** of main memory to a **disk (backing store)** to **make space for other processes**.

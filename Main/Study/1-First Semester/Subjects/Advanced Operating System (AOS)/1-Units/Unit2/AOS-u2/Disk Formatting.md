@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ## What is Disk Formatting?
    **Low-level formatting** is the process of **dividing a blank disk into sectors** that the disk controller can read and write.
    

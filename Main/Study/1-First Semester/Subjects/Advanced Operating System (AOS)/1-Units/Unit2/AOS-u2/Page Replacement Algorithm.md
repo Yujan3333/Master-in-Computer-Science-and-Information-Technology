@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ## 📘 What is a Page Replacement Algorithm?
    
    > A **page replacement algorithm** is used by the operating system to **decide which memory page to remove** when a *page fault* occurs and **no free frame is available**.

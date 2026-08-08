@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 
 |**Aspect**|**Paging**|**Segmentation**|
 |---|---|---|

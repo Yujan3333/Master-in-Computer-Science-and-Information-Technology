@@ -1,3 +1,5 @@
+#second-semester #advanced-database
+
 %% Begin Waypoint %%
 - [Covert Channel](./Covert%20Channel.md)
 - [Difference between DAC-Mandatory-Role Based](./Difference%20between%20DAC-Mandatory-Role%20Based.md)

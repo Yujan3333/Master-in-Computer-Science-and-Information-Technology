@@ -1,19 +1,21 @@
+#second-semester #machine-learning
+
 %% Begin Waypoint %%
 - **1-Units**
 	- **U1**
-		- **[ML--u1](./1-Units/U1/ML--u1/ML--u1.md)**
+		- **[ML--u1-md](./1-Units/U1/ML--u1-md/ML--u1-md.md)**
 		- [ML--Unit 1](./1-Units/U1/ML--Unit%201.md)
 	- **U2**
-		- **[ML--u2](./1-Units/U2/ML--u2/ML--u2.md)**
+		- **[ML--u2-md](./1-Units/U2/ML--u2-md/ML--u2-md.md)**
 		- [ML--Unit 2](./1-Units/U2/ML--Unit%202.md)
 	- **U3**
-		- **[ML--u3](./1-Units/U3/ML--u3/ML--u3.md)**
+		- **[ML--u3-md](./1-Units/U3/ML--u3-md/ML--u3-md.md)**
 		- [ML--Unit 3 - Learning Theory and Model Evaluation](./1-Units/U3/ML--Unit%203%20-%20Learning%20Theory%20and%20Model%20Evaluation.md)
 	- **U4**
-		- **[ML--u4](./1-Units/U4/ML--u4/ML--u4.md)**
+		- **[ML--u4-md](./1-Units/U4/ML--u4-md/ML--u4-md.md)**
 		- [ML--Unit 4  Unsupervised Learning](./1-Units/U4/ML--Unit%204%20%20Unsupervised%20Learning.md)
 	- **U5**
-		- **[ML--u5](./1-Units/U5/ML--u5/ML--u5.md)**
+		- **[ML--u5-md](./1-Units/U5/ML--u5-md/ML--u5-md.md)**
 		- [ML--Unit 5 - Reinforcement Learning](./1-Units/U5/ML--Unit%205%20-%20Reinforcement%20Learning.md)
 - **[2-Assignments](./2-Assignments/2-Assignments.md)**
 	- **Assignment_notes**

@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ## 🧭 Disk Access Time Components
 ![](../../../../../../../../Images/First_Sem_Images/Disk%20Operation-disk%20access%20time.png)
 

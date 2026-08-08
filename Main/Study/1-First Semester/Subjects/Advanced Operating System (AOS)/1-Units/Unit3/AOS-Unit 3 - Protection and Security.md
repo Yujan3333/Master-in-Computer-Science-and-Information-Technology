@@ -1,4 +1,4 @@
-8hrs
+#first-semester #advanced-operating-system
 
 1. System Protection: protection principles and domain, access matrix and its implementation, access controls and rights, capability‐based system, language‐based protection.
 	- [Examples of Protection](AOS-u3/Examples%20of%20Protection.md)

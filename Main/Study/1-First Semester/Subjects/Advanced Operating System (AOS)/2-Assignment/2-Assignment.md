@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 %% Begin Waypoint %%
 - **AOS-Assignments**
 

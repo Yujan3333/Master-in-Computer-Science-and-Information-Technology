@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 
 |Feature|Internal Fragmentation|External Fragmentation|
 |---|---|---|

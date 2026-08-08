@@ -1,3 +1,4 @@
+#first-semester #OOSE
 ### Object-Oriented Software Engineering (OOSE)
 
 - Object-Oriented Software Engineering (OOSE) is a software engineering **paradigm** that 

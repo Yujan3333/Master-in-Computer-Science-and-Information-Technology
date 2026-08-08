@@ -1,3 +1,5 @@
+#second-semester #WSA #old-que 
+
 - [2072](WSA%20Que%20Folder/2072.md)
 - [2074](WSA%20Que%20Folder/2074.md)
 - [2075](WSA%20Que%20Folder/2075.md)

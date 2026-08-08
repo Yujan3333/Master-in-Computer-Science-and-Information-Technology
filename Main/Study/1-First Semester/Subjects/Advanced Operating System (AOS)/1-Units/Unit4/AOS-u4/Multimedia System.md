@@ -1,3 +1,6 @@
+#first-semester #advanced-operating-system
+
+
 ### ✅ Definition:
 
 - IS A  COMPUTER SYSTEM  that can **create, store, transmit, and display** multimedia content — i.e., content that combines **text, audio, video, images, graphics, and animations**.

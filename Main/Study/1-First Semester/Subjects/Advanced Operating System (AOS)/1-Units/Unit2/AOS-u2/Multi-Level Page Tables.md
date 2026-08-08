@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 A **multilevel page table** is a memory management technique used to reduce the size of page tables when the virtual address space is large.
 
 In a simple (single-level) page table, every process needs one big table that maps all virtual pages to physical frames. If the address space is large, this page table becomes very big and wastes memory.

@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 **"Guarded Models for Intrusion Detection"** by *Hassen Saïdi*, presented at the 2007 ACM SIGPLAN Workshop on Programming Languages and Analysis for Security (PLAS '07):
 
 ---

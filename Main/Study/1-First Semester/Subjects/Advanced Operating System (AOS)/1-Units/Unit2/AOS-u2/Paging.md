@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 The text explains that paging allows a **logical address space of a process to be non-contiguous** - meaning a program doesn't need to be stored in consecutive memory locations. 
 
 Instead, the process gets physical memory "wherever it's available."

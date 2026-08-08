@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 - **JPEG** stands for **Joint Photographic Experts Group**
     
 - It is a **lossy compression standard** for **still images**

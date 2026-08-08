@@ -1,3 +1,6 @@
+#first-semester #advanced-operating-system
+
+
 | Feature             | **SLED (Single Large Expensive Disk)**            | **RAID (Redundant Array of Inexpensive Disks)**                   |
 | ------------------- | ------------------------------------------------- | ----------------------------------------------------------------- |
 | **Full Form**       | Single Large Expensive Disk                       | Redundant Array of Inexpensive (or Independent) Disks             |

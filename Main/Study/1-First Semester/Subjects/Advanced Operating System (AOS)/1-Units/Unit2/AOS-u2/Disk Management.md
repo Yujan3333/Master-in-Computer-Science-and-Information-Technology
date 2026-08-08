@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 Disk is an I/O devices that is common to every computer.
 
 **Disk Management** refers to how the operating system manages **secondary storage** (typically hard disks or SSDs) to store and retrieve data efficiently.

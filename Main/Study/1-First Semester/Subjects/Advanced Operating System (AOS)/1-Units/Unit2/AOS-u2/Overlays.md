@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 Only **load into memory** the **parts of a program (instructions/data)** that are **needed at the moment**.
 
 ### Figure

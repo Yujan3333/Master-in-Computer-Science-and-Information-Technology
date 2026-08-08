@@ -1,4 +1,4 @@
-
+#first-semester #Neural-Network #old-que 
 ### Board
 
 ![](../../../../../../Images/First_Sem_Images/2082-%20Neural%20Network-1.png)

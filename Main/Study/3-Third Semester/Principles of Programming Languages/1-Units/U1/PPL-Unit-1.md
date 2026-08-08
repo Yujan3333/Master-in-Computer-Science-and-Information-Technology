@@ -41,7 +41,7 @@
 	- Top Down
 	- Bottom Up
 - [Attribute Grammars](PPL-U1-notes/Attribute%20Grammars.md)
-  - [Denotational Semantics](Denotational%20Semantics.md)
+  - [Denotational Semantics](../../../../1-First%20Semester/Subjects/Parallel%20and%20Distributed%20Computing%20(PDC)/1-Units/Unit-1/PDC--u1-md/Denotational%20Semantics.md)
   - [Denotational Semantics - PPL](PPL-U1-notes/Denotational%20Semantics%20-%20PPL.md)
 
 ---

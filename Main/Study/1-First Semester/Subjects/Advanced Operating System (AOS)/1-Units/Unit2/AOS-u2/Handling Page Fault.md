@@ -1,4 +1,5 @@
 
+#first-semester #advanced-operating-system
 ### 📘 **Page Fault Handling – Step-by-Step**
 
 #### 🧩 When a process references a page not in memory:

@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ## 🔸 **Byte-level Striping**
 
 ### ✅ What it is:

@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 - Not used in Practical system because know way of knowing all the page reference of future.
 - But guarantees the lowest possible page fault rate.
 

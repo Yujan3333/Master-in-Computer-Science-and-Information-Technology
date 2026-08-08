@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 It's a **real-time scheduling algorithm** that selects the task with the **least slack time** (i.e., the one we can "least afford to delay").
 
 ### 🧮 **Slack Time Formula**:

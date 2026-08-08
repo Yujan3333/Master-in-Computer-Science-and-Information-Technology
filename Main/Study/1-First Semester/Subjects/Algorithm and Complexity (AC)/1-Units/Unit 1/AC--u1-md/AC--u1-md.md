@@ -1,0 +1,29 @@
+#first-semester #advanced-complexity
+
+%% Begin Waypoint %%
+- [1.1 Amortized Analysis (Aggregate Analysis, Accounting Method, Potential Method)](./1.1%20Amortized%20Analysis%20(Aggregate%20Analysis,%20Accounting%20Method,%20Potential%20Method).md)
+- [1.2 Advance Algorithm Design Techniques](./1.2%20Advance%20Algorithm%20Design%20Techniques.md)
+- [Accounting Method](./Accounting%20Method.md)
+- [Aggregate Method](./Aggregate%20Method.md)
+- [Algorithm Fine Tuning](./Algorithm%20Fine%20Tuning.md)
+- [Amortized Algorithm](./Amortized%20Algorithm.md)
+- [Binary Tree Vs BST](./Binary%20Tree%20Vs%20BST.md)
+- [compare divide and conquer and dynamic programming with examples](./compare%20divide%20and%20conquer%20and%20dynamic%20programming%20with%20examples.md)
+- [Fractional Knapsack - Numerical](./Fractional%20Knapsack%20-%20Numerical.md)
+- [Greedy Algorithms](./Greedy%20Algorithms.md)
+- [Hay Problem](./Hay%20Problem.md)
+- [Huffman Vs Shannon Fano](./Huffman%20Vs%20Shannon%20Fano.md)
+- [Kargers Algorithm](./Kargers%20Algorithm.md)
+- [Knapsack Problem](./Knapsack%20Problem.md)
+- [Min-Max Tree with real life examples](./Min-Max%20Tree%20with%20real%20life%20examples.md)
+- [Numerical](./Numerical.md)
+- [Potential method](./Potential%20method.md)
+- [Primality Testing](./Primality%20Testing.md)
+- [Randomized Algorithm - Monte Carlo and Las Vegas](./Randomized%20Algorithm%20-%20Monte%20Carlo%20and%20Las%20Vegas.md)
+- [Randomized Quicksort- Time Complexity](./Randomized%20Quicksort-%20Time%20Complexity.md)
+- [String Editing](./String%20Editing.md)
+- [Time Complexity](./Time%20Complexity.md)
+- [Unit 1 - Summary](./Unit%201%20-%20Summary.md)
+- [What is an Algorithm](./What%20is%20an%20Algorithm.md)
+
+%% End Waypoint %%

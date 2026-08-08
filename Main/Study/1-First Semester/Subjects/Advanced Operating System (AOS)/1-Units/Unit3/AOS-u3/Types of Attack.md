@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ## 🛡️ **Types of Attacks in a Computer System**
 
 Attacks are categorized based on **intent**, **method**, and **origin**. The major classifications are:

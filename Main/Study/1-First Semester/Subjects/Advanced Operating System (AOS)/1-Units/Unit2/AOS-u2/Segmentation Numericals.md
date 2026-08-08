@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 
 ![](../../../../../../../../Images/First_Sem_Images/Segmentation%20Numericals.png)
 

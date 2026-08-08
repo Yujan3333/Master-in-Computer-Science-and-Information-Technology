@@ -1,3 +1,4 @@
+#fuzzy-system #third-semester #old-que 
 %% Begin Waypoint %%
 - [Approx Reasoning with Composition Operator](./Approx%20Reasoning%20with%20Composition%20Operator.md)
 - [FS-MidTerm](./FS-MidTerm.md)

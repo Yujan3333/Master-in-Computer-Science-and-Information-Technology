@@ -1,17 +1,19 @@
+#first-semester #OOSE
+
 %% Begin Waypoint %%
 - **1-Units**
 	- [OOOSE and Subjectory](./1-Units/OOOSE%20and%20Subjectory.md)
 	- **Unit1**
-		- **[OOSE--u1](./1-Units/Unit1/OOSE--u1/OOSE--u1.md)**
+		- **[OOSE--u1-md](./1-Units/Unit1/OOSE--u1-md/OOSE--u1-md.md)**
 		- [OOSE--Unit-1](./1-Units/Unit1/OOSE--Unit-1.md)
 	- **Unit2**
-		- **[OOSE--u2](./1-Units/Unit2/OOSE--u2/OOSE--u2.md)**
+		- **[OOSE--u2-md](./1-Units/Unit2/OOSE--u2-md/OOSE--u2-md.md)**
 		- [OOSE--Unit 2](./1-Units/Unit2/OOSE--Unit%202.md)
 	- **Unit3**
-		- **[OOSE--u3](./1-Units/Unit3/OOSE--u3/OOSE--u3.md)**
+		- **[OOSE--u3-md](./1-Units/Unit3/OOSE--u3-md/OOSE--u3-md.md)**
 		- [OOSE--Unit 3](./1-Units/Unit3/OOSE--Unit%203.md)
 	- **Unit5**
-		- **[OOSE--u5](./1-Units/Unit5/OOSE--u5/OOSE--u5.md)**
+		- **[OOSE--u5-md](./1-Units/Unit5/OOSE--u5-md/OOSE--u5-md.md)**
 		- [OOSE--Unit 5](./1-Units/Unit5/OOSE--Unit%205.md)
 - **2-Assignments**
 	- **OOSE A1**

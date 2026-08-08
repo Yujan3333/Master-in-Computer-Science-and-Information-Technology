@@ -1,4 +1,4 @@
-
+#first-semester #advanced-operating-system
 ### 🧠 Problem 1: **Huge Page Table Size**
 
 - For a **32-bit system**:

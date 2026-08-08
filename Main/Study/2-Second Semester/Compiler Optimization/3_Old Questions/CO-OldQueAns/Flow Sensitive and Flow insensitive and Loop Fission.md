@@ -1,3 +1,5 @@
+#second-semester #compiler-optimization #old-que 
+
 ## **1. Flow-Sensitive Analysis**
 - **Meaning**: It considers the **order of statements** (control flow) in the program.
 - **Example**: A dependence from `A(I)` to `A(I+1)` is **flow-sensitive** if there is an execution path where `A(I)` is written before `A(I+1)` is read.

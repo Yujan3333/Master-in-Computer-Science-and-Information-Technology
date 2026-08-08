@@ -17,7 +17,7 @@
 #### GPS
 - [GPS](RGIS-md-coll/GPS.md)
 - [Componenets of GPS](RGIS-md-coll/Componenets%20of%20GPS.md)
-- [Longitude vs Latitude](../../../4-General-Note/Longitude%20vs%20Latitude.md)
+- [Longitude vs Latitude](../../../4-General-Note/General-Notes/Longitude%20vs%20Latitude.md)
 - [GPS VS GNSS](RGIS-md-coll/GPS%20VS%20GNSS.md)
 - [Core Functions of GIS + GPS & Remote Sensing + Data Integration](../2-assignments/RGIS-assignment-notes/Core%20Functions%20of%20GIS%20+%20GPS%20&%20Remote%20Sensing%20+%20Data%20Integration.md)
 

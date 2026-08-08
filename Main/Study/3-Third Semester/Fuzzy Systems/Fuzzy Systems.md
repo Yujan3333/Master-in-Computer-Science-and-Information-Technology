@@ -1,6 +1,8 @@
+#fuzzy-system #third-semester 
+
 %% Begin Waypoint %%
 - **1-Units**
-	- **[FS-notes Combo](./1-Units/FS-notes%20Combo/FS-notes%20Combo.md)**
+	- **[FS-notes-md](./1-Units/FS-notes-md/FS-notes-md.md)**
 	- [FS-Units](./1-Units/FS-Units.md)
 - **2-assignments**
 	- **FS-assignments**

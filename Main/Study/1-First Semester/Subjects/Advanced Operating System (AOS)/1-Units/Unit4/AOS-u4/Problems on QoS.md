@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ## ⚙️ **QoS Negotiation and Admission Control**
    
    ---

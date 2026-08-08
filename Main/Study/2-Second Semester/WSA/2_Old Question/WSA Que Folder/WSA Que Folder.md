@@ -1,3 +1,5 @@
+#second-semester #WSA #old-que 
+
 %% Begin Waypoint %%
 - [2072](./2072.md)
 - [2074](./2074.md)

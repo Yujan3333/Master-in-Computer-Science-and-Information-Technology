@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ### ✅ **Pros of Increasing Page Size**
 
 |**Pro**|**Explanation**|

@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ### 🎯 **Objective:**
 
 We want users to **access restricted resources** (like databases or hardware) **safely**, **without giving them direct access**.

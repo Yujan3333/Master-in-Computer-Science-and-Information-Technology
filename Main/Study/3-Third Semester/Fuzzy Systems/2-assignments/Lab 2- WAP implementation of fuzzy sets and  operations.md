@@ -1,3 +1,5 @@
+#assignment #fuzzy-system #third-semester 
+
 - limiting the value of membership to 0-1
 - All set operations in fuzzy logic
 

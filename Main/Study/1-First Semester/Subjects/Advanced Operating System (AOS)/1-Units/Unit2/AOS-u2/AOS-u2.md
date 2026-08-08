@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 %% Begin Waypoint %%
 - [Actual Syllabus](./Actual%20Syllabus.md)
 - [Address Translation](./Address%20Translation.md)

@@ -1,4 +1,4 @@
-
+#second-semester #DWDM #old-que 
 ### 2081 
 ![](../../../../../Images/Second_Sem_Images/2081-%20TO%20SEARCH.png)
 - [DMQL](que-ans/DMQL.md)
@@ -13,7 +13,7 @@
 ![](../../../../../Images/Second_Sem_Images/2080-TO%20SEARCH.png)
 - List correlation techniques. Why is it required? Which correlation technique is better and why? [1+2+2]
 	- [Correlation Technique](que-ans/Correlation%20Technique.md)
-- [Kimbell Approach](../1-Units/U1/DWDM-u1/Kimbell%20Approach.md)
+- [Kimbell Approach](../1-Units/U1/DWDM-u1-md/Kimbell%20Approach.md)
 
 ---
 Data Cleaning Process
@@ -22,16 +22,16 @@ Data Cleaning Process
 
 ---
 Cube Computation
-[Data Cube Computation Method](../1-Units/U1/DWDM-u1/Data%20Cube%20Computation%20Method.md)
-[Computation of Data Cubes](../1-Units/U1/DWDM-u1/Computation%20of%20Data%20Cubes.md)
+[Data Cube Computation Method](../1-Units/U1/DWDM-u1-md/Data%20Cube%20Computation%20Method.md)
+[Computation of Data Cubes](../1-Units/U1/DWDM-u1-md/Computation%20of%20Data%20Cubes.md)
 
 ---
 Attribute Oriented Induction 
-[Attribute Oriented Induction Approach (AOI)](../1-Units/U1/DWDM-u1/Attribute%20Oriented%20Induction%20Approach%20(AOI).md)
+[Attribute Oriented Induction Approach (AOI)](../1-Units/U1/DWDM-u1-md/Attribute%20Oriented%20Induction%20Approach%20(AOI).md)
 
 ---
 Data Discretization
-[Data Discretization](../1-Units/U1/DWDM-u1/Data%20Discretization.md)
+[Data Discretization](../1-Units/U1/DWDM-u1-md/Data%20Discretization.md)
 
 ---
 [Datamining system intrudes the privacy of individuals](que-ans/Datamining%20system%20intrudes%20the%20privacy%20of%20individuals.md)
@@ -39,17 +39,17 @@ Data Discretization
 
 ---
 PAM Method
-[Partitioning Around Medoids (PAM)](../1-Units/U8/dwdm-u8/Partitioning%20Around%20Medoids%20(PAM).md)
+[Partitioning Around Medoids (PAM)](../1-Units/U8/dwdm-u8-md/Partitioning%20Around%20Medoids%20(PAM).md)
 
 ---
 Bottom Up Computation (BUC)
-[Data Cube Computation Method](../1-Units/U1/DWDM-u1/Data%20Cube%20Computation%20Method.md)
+[Data Cube Computation Method](../1-Units/U1/DWDM-u1-md/Data%20Cube%20Computation%20Method.md)
 
 
 ---
 - Q4. Explain the logical architecture of a data warehouse.
 	- TOP BOTTOM MID tier
-	- [Architecture of Data Warehouse](../1-Units/U1/DWDM-u1/Architecture%20of%20Data%20Warehouse.md)
+	- [Architecture of Data Warehouse](../1-Units/U1/DWDM-u1-md/Architecture%20of%20Data%20Warehouse.md)
 
 
 ---

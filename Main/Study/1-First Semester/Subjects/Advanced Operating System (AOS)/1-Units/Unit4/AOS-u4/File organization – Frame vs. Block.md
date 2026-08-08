@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ## 🎞️ **Frame Organization vs. Block Organization**
 
 ---

@@ -1,3 +1,4 @@
+#assignment #fuzzy-system #third-semester 
 
 - [Explanation](FS-assignments/Explanation.md)
 - [Given Example for this Program](FS-assignments/Given%20Example%20for%20this%20Program.md)

@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 **Segmentation** is a memory management technique where **a program is divided into variable-sized segments**, based on its **logical parts** like:
 
 - Code (instructions)

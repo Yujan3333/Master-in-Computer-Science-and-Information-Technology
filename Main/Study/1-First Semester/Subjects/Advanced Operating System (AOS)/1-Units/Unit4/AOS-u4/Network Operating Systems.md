@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 A **Network Operating System (NOS)** is an operating system that **manages network resources** and allows **multiple computers to communicate, share files, printers, and other devices** over a network.
 
 - Concepts of FTP and Remote Desktop(*Telnet, ssh*)

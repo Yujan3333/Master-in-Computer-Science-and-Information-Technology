@@ -1,5 +1,5 @@
- Based on the **PDF content (Unit 2: Dependence Analysis and Testing)**, here’s how you test dependency in loops:
-   
+#second-semester #compiler-optimization #old-que 
+
 ---
    
 ## **Dependence Testing in Loops**

@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 %% Begin Waypoint %%
 - [Comparison Between EDF and LSTF](./Comparison%20Between%20EDF%20and%20LSTF.md)
 - [Distributed  Systems](./Distributed%20%20Systems.md)

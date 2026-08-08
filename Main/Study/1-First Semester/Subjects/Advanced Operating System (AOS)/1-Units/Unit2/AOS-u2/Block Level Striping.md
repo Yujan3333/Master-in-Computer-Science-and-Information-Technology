@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ### 📦 **3. Block-Level Striping**
 
 - **What is it?**  

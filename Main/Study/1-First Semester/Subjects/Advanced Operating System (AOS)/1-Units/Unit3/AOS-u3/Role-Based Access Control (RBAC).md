@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 RBAC is a security model where **permissions (privileges)** are **assigned to roles**, and **users or programs are assigned to those roles**.
 
 > Instead of giving permissions directly to each user or program,  

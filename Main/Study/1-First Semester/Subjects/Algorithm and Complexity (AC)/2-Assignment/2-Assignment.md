@@ -1,3 +1,4 @@
+#first-semester  #assignment #advanced-complexity
 %% Begin Waypoint %%
 - [_index](./_index.md)
 - [Huffman Coding](./Huffman%20Coding.md)

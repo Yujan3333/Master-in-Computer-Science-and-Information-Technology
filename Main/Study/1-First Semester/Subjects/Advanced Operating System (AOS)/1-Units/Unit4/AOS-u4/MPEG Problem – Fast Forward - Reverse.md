@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ## 🚫 **Why You Can’t Simply Skip Frames in MPEG**
 
 ---

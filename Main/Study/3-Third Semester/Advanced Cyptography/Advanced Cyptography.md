@@ -1,3 +1,5 @@
+#third-semester #advanced-cryptography 
+
 %% Begin Waypoint %%
 - **1-Units**
 	- **U-1**
@@ -19,9 +21,7 @@
 		- **[ACrypto-U6-notes](./1-Units/U-6/ACrypto-U6-notes/ACrypto-U6-notes.md)**
 		- [ACrypto-Unit-6](./1-Units/U-6/ACrypto-Unit-6.md)
 - **2-Assignments**
-	- **AC-Assignments**
-		- [Assignment-2](./2-Assignments/AC-Assignments/Assignment-2.md)
-		- [Stream Cipher-LFSR-Autokey Cipher](./2-Assignments/AC-Assignments/Stream%20Cipher-LFSR-Autokey%20Cipher.md)
+	- **[AC-Assignments](./2-Assignments/AC-Assignments/AC-Assignments.md)**
 	- [Assignment-1](./2-Assignments/Assignment-1.md)
 	- [Assignment-2](./2-Assignments/Assignment-2.md)
 - **3-Questions**

@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ### 🧮 **2. Parity**
 
 - **What is it?**  

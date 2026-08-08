@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ### 1. Why are page sizes always a power of 2?
 
 - **Easy address calculation:** When page size is a power of 2, splitting an address into page number and offset becomes simple. The offset is just the lower bits, and the page number is the higher bits of the address.

@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 The part of the operating system that manages  the **memory hierarchy** is called the memory  manager.
 
 ### Job

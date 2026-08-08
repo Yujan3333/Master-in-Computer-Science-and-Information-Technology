@@ -14,8 +14,8 @@
               "items": [
                 {
                   "type": "file",
-                  "ctime": 1753631146323,
-                  "path": "Main/Study/_index.md",
+                  "ctime": 1786161832292,
+                  "path": "Main/Study/Study.md",
                   "subpath": "#^-"
                 },
                 {
@@ -94,11 +94,11 @@
                                 {
                                   "type": "file",
                                   "ctime": 1785234361168,
-                                  "path": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes Combo/FS-notes Combo.md",
+                                  "path": "Main/Study/3-Third Semester/Fuzzy Systems/1-Units/FS-notes-md/FS-notes-md.md",
                                   "subpath": "#^-"
                                 }
                               ],
-                              "title": "\\\\FS-notes Combo"
+                              "title": "\\\\FS-notes-md"
                             }
                           ],
                           "title": "1-Units"

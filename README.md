@@ -16,7 +16,7 @@
 ## Semester
 - 4 Semester 2 year Program
 
-# [Overview](Main/Study/_index.md)
+# [Overview](Main/Study/Study.md)
 ### First Semester
 
 - [Neural Network (NN)](Main/Study/1-First%20Semester/Subjects/Neural%20Network%20(NN)/Neural%20Network%20(NN).md)

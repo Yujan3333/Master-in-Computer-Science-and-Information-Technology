@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 # Question 1
 ![](../../../../../../../../Images/First_Sem_Images/Exercises-1.png)
 

@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 In real-time systems, some tasks (like reading a sensor or controlling a motor) **must run repeatedly at fixed intervals**.
 
 We define a **periodic task** with three main parameters:

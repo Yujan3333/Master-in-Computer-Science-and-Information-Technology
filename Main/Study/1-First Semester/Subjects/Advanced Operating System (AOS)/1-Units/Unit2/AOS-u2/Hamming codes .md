@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ### 🧠 **1. Hamming Code**
 
 - **What is it?**  

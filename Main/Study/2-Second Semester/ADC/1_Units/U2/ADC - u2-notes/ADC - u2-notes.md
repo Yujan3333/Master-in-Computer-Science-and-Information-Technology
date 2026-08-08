@@ -1,3 +1,5 @@
+#second-semester #advanced-database
+
 %% Begin Waypoint %%
 - [Aggregate Operators](./Aggregate%20Operators.md)
 - [Algorithms for Join Operation](./Algorithms%20for%20Join%20Operation.md)

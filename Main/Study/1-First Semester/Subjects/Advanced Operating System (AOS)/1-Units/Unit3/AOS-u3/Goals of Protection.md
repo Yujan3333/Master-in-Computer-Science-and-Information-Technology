@@ -1,3 +1,5 @@
+#first-semester #advanced-operating-system
+
 ### ✅ 1. Prevent Malicious Misuse
 
 - Protect the system from **intentional attacks** by users or programs.

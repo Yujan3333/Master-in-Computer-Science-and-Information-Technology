@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ### 🧠 1. Privileged Instructions
 
 - Certain **critical instructions** (e.g., I/O control, changing memory maps) are marked as **privileged**.

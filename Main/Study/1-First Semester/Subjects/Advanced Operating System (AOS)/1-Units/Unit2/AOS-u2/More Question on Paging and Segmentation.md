@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ### 🔸 1. A smaller page size leads to smaller page tables
 
 **❌ False**

@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 ## RAID (Redundant Array of Independent Disks)
 
 RAID is a technique that combines multiple physical disks into one logical unit to improve:

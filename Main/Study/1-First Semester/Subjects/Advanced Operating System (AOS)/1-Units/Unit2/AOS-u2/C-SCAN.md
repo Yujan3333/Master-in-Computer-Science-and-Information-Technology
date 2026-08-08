@@ -1,3 +1,4 @@
+#first-semester #advanced-operating-system
 - C-SCAN (Circular SCAN) Disk Scheduling Algorithm
 
 ### ✅ How It Works:

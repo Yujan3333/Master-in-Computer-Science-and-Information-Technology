@@ -1,3 +1,4 @@
+#assignment #fuzzy-system #third-semester 
 ![](../../../../../Images/Third_Sem_Images/Lab-FS.png)
 
 ---

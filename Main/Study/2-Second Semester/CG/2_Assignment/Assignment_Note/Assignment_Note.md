@@ -1,3 +1,5 @@
+#second-semester #computational-geometry
+
 %% Begin Waypoint %%
 - [CG - Lab 4](./CG%20-%20Lab%204.md)
 - [Detailed Explanation of CCW ordering by angle around the centroid](./Detailed%20Explanation%20of%20CCW%20ordering%20by%20angle%20around%20the%20centroid.md)
